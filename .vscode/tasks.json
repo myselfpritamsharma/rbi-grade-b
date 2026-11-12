@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Validate Question Exporter",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"tools/test_export_questions.py"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}

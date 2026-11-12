@@ -1,0 +1,301 @@
+﻿subject,year,ordinal,printed_label,physical_pdf_page,source,paraphrased_demand,primary_domain,knowledge_basis,category,actual_item_marks,boundary_or_source_note
+ESI,2021,1,11,73,PYP\2021 (Phase 1-2).pdf,Report identification,E,D,Economics policy/current-linked,,Printed Q11 is source numbering typo; ordinal Q1 retained separately
+ESI,2021,2,2,73,PYP\2021 (Phase 1-2).pdf,Pandemic business-support finding,E,D,Economics policy/current-linked,,
+ESI,2021,3,3,73,PYP\2021 (Phase 1-2).pdf,Report GDP projection,E,D,Economics policy/current-linked,,
+ESI,2021,4,4,74,PYP\2021 (Phase 1-2).pdf,Global interdependence,E,T,Static economics/institutions,,
+ESI,2021,5,5,74,PYP\2021 (Phase 1-2).pdf,Population/environment country; missing context,U,D,Unclear reconstructed demand,,Domain/basis boundary: alternative tagging is reasonable; Insufficient reconstructed context; not forced into economics/social
+ESI,2021,6,6,74,PYP\2021 (Phase 1-2).pdf,AMRUT action-plan terminology,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2021,7,7,74,PYP\2021 (Phase 1-2).pdf,AMRUT objectives,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2021,8,8,75,PYP\2021 (Phase 1-2).pdf,AMRUT funding,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2021,9,9,75,PYP\2021 (Phase 1-2).pdf,Urban-scheme succession,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2021,10,10,75,PYP\2021 (Phase 1-2).pdf,AMRUT extension,S,D,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2021,11,11,76,PYP\2021 (Phase 1-2).pdf,PM-KISAN disbursement,E,D,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2021,12,12,76,PYP\2021 (Phase 1-2).pdf,PM-KISAN annual benefit,E,R,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2021,13,13,76,PYP\2021 (Phase 1-2).pdf,PM-KISAN exclusions,E,R,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2021,14,14,77,PYP\2021 (Phase 1-2).pdf,New liquidity initiative,E,D,Economics policy/current-linked,,
+ESI,2021,15,15,77,PYP\2021 (Phase 1-2).pdf,Liquidity-operation rate linkage,E,R,Economics policy/current-linked,,
+ESI,2021,16,16,77,PYP\2021 (Phase 1-2).pdf,Liquidity deficit/surplus mechanism,E,T,Static economics/institutions,,
+ESI,2021,17,17,78,PYP\2021 (Phase 1-2).pdf,Liquidity-operation maintenance cycle,E,R,Economics policy/current-linked,,
+ESI,2021,18,18,78,PYP\2021 (Phase 1-2).pdf,SDG adoption institution,X,R,Environment/general policy-current,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2021,19,19,78,PYP\2021 (Phase 1-2).pdf,Economic Survey growth outlook,E,D,Economics policy/current-linked,,
+ESI,2021,20,20,79,PYP\2021 (Phase 1-2).pdf,Benefits of trade/investment,E,T,Static economics/institutions,,
+ESI,2021,21,21,79,PYP\2021 (Phase 1-2).pdf,STARS project funding,S,D,Social policy/current-linked,,
+ESI,2021,22,22,79,PYP\2021 (Phase 1-2).pdf,ONORC functioning and portability,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2021,23,23,80,PYP\2021 (Phase 1-2).pdf,TRIPS pandemic waiver,E,D,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2021,24,24,80,PYP\2021 (Phase 1-2).pdf,SGB features,E,R,Economics policy/current-linked,,
+ESI,2021,25,25,80,PYP\2021 (Phase 1-2).pdf,Farmer information application,E,R,Economics policy/current-linked,,
+ESI,2021,26,26,80,PYP\2021 (Phase 1-2).pdf,Public-health applications,S,R,Social policy/current-linked,,
+ESI,2021,27,27,81,PYP\2021 (Phase 1-2).pdf,Budget startup measures,E,D,Economics policy/current-linked,,
+ESI,2021,28,28,81,PYP\2021 (Phase 1-2).pdf,Enterprise/property/social-security scheme matching,E,R,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2021,29,29,82,PYP\2021 (Phase 1-2).pdf,Operation Greens objectives,E,R,Economics policy/current-linked,,
+ESI,2021,30,30,82,PYP\2021 (Phase 1-2).pdf,New Labour Codes,S,D,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+FM,2021,1,1,83,PYP\2021 (Phase 1-2).pdf,Distributive justice,M,T,Static management/ethics/governance,,Domain/basis boundary: alternative tagging is reasonable
+FM,2021,2,2,83,PYP\2021 (Phase 1-2).pdf,Psychology and organisational behaviour,M,T,Static management/ethics/governance,,
+FM,2021,3,3,83,PYP\2021 (Phase 1-2).pdf,Team behaviour discipline,M,T,Static management/ethics/governance,,
+FM,2021,4,4,84,PYP\2021 (Phase 1-2).pdf,NETC/FASTag identification,F,T,Static finance/concepts/institutions,,
+FM,2021,5,5,84,PYP\2021 (Phase 1-2).pdf,NETC institution,F,T,Static finance/concepts/institutions,,
+FM,2021,6,6,84,PYP\2021 (Phase 1-2).pdf,Market regulators,F,T,Static finance/concepts/institutions,,
+FM,2021,7,7,85,PYP\2021 (Phase 1-2).pdf,IPO UPI route under older circular,F,R,Standing finance rules/schemes,,
+FM,2021,8,8,85,PYP\2021 (Phase 1-2).pdf,ASBA application institutions,F,R,Standing finance rules/schemes,,
+FM,2021,9,9,85,PYP\2021 (Phase 1-2).pdf,Hybrid annuity model,F,T,Static finance/concepts/institutions,,
+FM,2021,10,10,85,PYP\2021 (Phase 1-2).pdf,Hybrid annuity funding ratio,F,R,Standing finance rules/schemes,,
+FM,2021,11,11,86,PYP\2021 (Phase 1-2).pdf,PPP infrastructure use,F,T,Static finance/concepts/institutions,,
+FM,2021,12,12,86,PYP\2021 (Phase 1-2).pdf,Organisational change,M,T,Static management/ethics/governance,,
+FM,2021,13,13,86,PYP\2021 (Phase 1-2).pdf,Lewin stages,M,T,Static management/ethics/governance,,
+FM,2021,14,14,86,PYP\2021 (Phase 1-2).pdf,Capital-market regulator,F,T,Static finance/concepts/institutions,,
+FM,2021,15,15,87,PYP\2021 (Phase 1-2).pdf,Depositories,F,T,Static finance/concepts/institutions,,
+FM,2021,16,16,87,PYP\2021 (Phase 1-2).pdf,Payment institution identification,F,T,Static finance/concepts/institutions,,
+FM,2021,17,17,87,PYP\2021 (Phase 1-2).pdf,Linguistic communication barrier,M,T,Static management/ethics/governance,,Domain/basis boundary: alternative tagging is reasonable
+FM,2021,18,18,88,PYP\2021 (Phase 1-2).pdf,Government translation software,O,R,Other standing policy,,Domain/basis boundary: alternative tagging is reasonable
+FM,2021,19,19,88,PYP\2021 (Phase 1-2).pdf,Budget language mission,O,D,Other current policy,,Domain/basis boundary: alternative tagging is reasonable
+FM,2021,20,20,88,PYP\2021 (Phase 1-2).pdf,Regulatory sandbox cohort,F,D,Dated finance/current changes,,
+FM,2021,21,21,88,PYP\2021 (Phase 1-2).pdf,Revenue expenditure,F,T,Static finance/concepts/institutions,,
+FM,2021,22,22,88,PYP\2021 (Phase 1-2).pdf,Stereotyping,M,T,Static management/ethics/governance,,
+FM,2021,23,23,89,PYP\2021 (Phase 1-2).pdf,Process motivation theory,M,T,Static management/ethics/governance,,
+FM,2021,24,24,89,PYP\2021 (Phase 1-2).pdf,Johari Window,M,T,Static management/ethics/governance,,
+FM,2021,25,25,89,PYP\2021 (Phase 1-2).pdf,Bank FDI/shareholding limits,F,R,Standing finance rules/schemes,,Domain/basis boundary: alternative tagging is reasonable
+FM,2021,26,26,89,PYP\2021 (Phase 1-2).pdf,P/E comparison,F,T,Static finance/concepts/institutions,,
+FM,2021,27,27,89,PYP\2021 (Phase 1-2).pdf,Translation communication barrier,M,T,Static management/ethics/governance,,
+FM,2021,28,28,90,PYP\2021 (Phase 1-2).pdf,Bureaucratic management theory,M,T,Static management/ethics/governance,,
+FM,2021,29,29,90,PYP\2021 (Phase 1-2).pdf,Change management in mergers,M,T,Static management/ethics/governance,,
+FM,2021,30,30,90,PYP\2021 (Phase 1-2).pdf,Employee turnover,M,T,Static management/ethics/governance,,
+ESI,2022,1,1,70,PYP\2022 (Phase 1-2).pdf,ONORC award occasion,S,D,Social policy/current-linked,,
+ESI,2022,2,2,70,PYP\2022 (Phase 1-2).pdf,Food-security enabling law,S,R,Social policy/current-linked,,
+ESI,2022,3,3,70,PYP\2022 (Phase 1-2).pdf,Food-security allowance rules,S,R,Social policy/current-linked,,
+ESI,2022,4,4,71,PYP\2022 (Phase 1-2).pdf,ONORC state coverage,S,D,Social policy/current-linked,,
+ESI,2022,5,5,71,PYP\2022 (Phase 1-2).pdf,SMILE shelter component,S,R,Social policy/current-linked,,
+ESI,2022,6,6,71,PYP\2022 (Phase 1-2).pdf,SMILE components,S,R,Social policy/current-linked,,
+ESI,2022,7,7,72,PYP\2022 (Phase 1-2).pdf,SMILE allocation,S,D,Social policy/current-linked,,
+ESI,2022,8,8,72,PYP\2022 (Phase 1-2).pdf,Raisina event identification,X,D,Environment/general policy-current,,
+ESI,2022,9,9,72,PYP\2022 (Phase 1-2).pdf,Raisina side-event locations,X,D,Environment/general policy-current,,
+ESI,2022,10,10,73,PYP\2022 (Phase 1-2).pdf,Raisina participants/themes,X,D,Environment/general policy-current,,
+ESI,2022,11,11,73,PYP\2022 (Phase 1-2).pdf,Trade agreement identification,E,D,Economics policy/current-linked,,
+ESI,2022,12,12,73,PYP\2022 (Phase 1-2).pdf,Number of Indian FTAs,E,D,Economics policy/current-linked,,
+ESI,2022,13,13,74,PYP\2022 (Phase 1-2).pdf,ECTA features/partners,E,D,Economics policy/current-linked,,
+ESI,2022,14,14,74,PYP\2022 (Phase 1-2).pdf,ECTA tariff legislation,E,R,Economics policy/current-linked,,
+ESI,2022,15,15,75,PYP\2022 (Phase 1-2).pdf,Human Capital Index rank/score,S,D,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2022,16,16,75,PYP\2022 (Phase 1-2).pdf,Human Capital Index dimensions,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2022,17,17,75,PYP\2022 (Phase 1-2).pdf,Human Capital Project membership,S,D,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2022,18,18,76,PYP\2022 (Phase 1-2).pdf,PMAGY pilot geography,S,R,Social policy/current-linked,,
+ESI,2022,19,19,76,PYP\2022 (Phase 1-2).pdf,PMAGY monitoring indicators,S,R,Social policy/current-linked,,
+ESI,2022,20,20,76,PYP\2022 (Phase 1-2).pdf,PMAGY district award,S,D,Social policy/current-linked,,
+ESI,2022,21,21,76,PYP\2022 (Phase 1-2).pdf,SGB redemption case,E,R,Economics policy/current-linked,,
+ESI,2022,22,22,77,PYP\2022 (Phase 1-2).pdf,Farmer pension eligibility,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2022,23,23,77,PYP\2022 (Phase 1-2).pdf,Agriculture/enterprise/welfare scheme matching,E,R,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2022,24,24,77,PYP\2022 (Phase 1-2).pdf,Bhoomi Rashi portal,E,R,Economics policy/current-linked,,
+ESI,2022,25,25,78,PYP\2022 (Phase 1-2).pdf,Cooperative internship scheme,E,R,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2022,26,26,78,PYP\2022 (Phase 1-2).pdf,Fisheries scheme objectives,E,R,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2022,27,27,78,PYP\2022 (Phase 1-2).pdf,Senior-citizen pension scheme,S,R,Social policy/current-linked,,
+ESI,2022,28,28,79,PYP\2022 (Phase 1-2).pdf,Digital education scheme,S,R,Social policy/current-linked,,
+ESI,2022,29,29,79,PYP\2022 (Phase 1-2).pdf,Stand-Up India rules,E,R,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2022,30,30,79,PYP\2022 (Phase 1-2).pdf,PM CARES children benefits,S,D,Social policy/current-linked,,
+FM,2022,1,1,81,PYP\2022 (Phase 1-2).pdf,Organisational behaviour levels,M,T,Static management/ethics/governance,,
+FM,2022,2,2,81,PYP\2022 (Phase 1-2).pdf,Individual behaviour,M,T,Static management/ethics/governance,,
+FM,2022,3,3,81,PYP\2022 (Phase 1-2).pdf,Workplace diversity,M,T,Static management/ethics/governance,,
+FM,2022,4,4,82,PYP\2022 (Phase 1-2).pdf,CSR net-worth threshold,M,R,Standing management/governance rules,,Domain/basis boundary: alternative tagging is reasonable
+FM,2022,5,5,82,PYP\2022 (Phase 1-2).pdf,CSR profit threshold,M,R,Standing management/governance rules,,Domain/basis boundary: alternative tagging is reasonable
+FM,2022,6,6,82,PYP\2022 (Phase 1-2).pdf,CSR committee size,M,R,Standing management/governance rules,,Domain/basis boundary: alternative tagging is reasonable
+FM,2022,7,7,83,PYP\2022 (Phase 1-2).pdf,CSR independent-director requirement,M,R,Standing management/governance rules,,Domain/basis boundary: alternative tagging is reasonable
+FM,2022,8,8,83,PYP\2022 (Phase 1-2).pdf,Commercial paper minimum maturity,F,R,Standing finance rules/schemes,,
+FM,2022,9,9,83,PYP\2022 (Phase 1-2).pdf,Commercial paper maximum maturity,F,R,Standing finance rules/schemes,,
+FM,2022,10,10,83,PYP\2022 (Phase 1-2).pdf,Commercial paper denomination,F,R,Standing finance rules/schemes,,
+FM,2022,11,11,84,PYP\2022 (Phase 1-2).pdf,Commercial paper instrument form,F,T,Static finance/concepts/institutions,,
+FM,2022,12,12,84,PYP\2022 (Phase 1-2).pdf,Outsourceable banking activities,F,R,Standing finance rules/schemes,,Domain/basis boundary: alternative tagging is reasonable
+FM,2022,13,13,84,PYP\2022 (Phase 1-2).pdf,Non-outsourceable core functions,F,R,Standing finance rules/schemes,,Domain/basis boundary: alternative tagging is reasonable
+FM,2022,14,14,84,PYP\2022 (Phase 1-2).pdf,Non-outsourceable KYC responsibility,F,R,Standing finance rules/schemes,,Domain/basis boundary: alternative tagging is reasonable
+FM,2022,15,15,85,PYP\2022 (Phase 1-2).pdf,Herzberg hygiene needs,M,T,Static management/ethics/governance,,
+FM,2022,16,16,85,PYP\2022 (Phase 1-2).pdf,ERG growth needs,M,T,Static management/ethics/governance,,
+FM,2022,17,17,85,PYP\2022 (Phase 1-2).pdf,Retaining motivated employees,M,T,Static management/ethics/governance,,
+FM,2022,18,18,86,PYP\2022 (Phase 1-2).pdf,Communication process,M,T,Static management/ethics/governance,,
+FM,2022,19,19,86,PYP\2022 (Phase 1-2).pdf,Message formation,M,T,Static management/ethics/governance,,
+FM,2022,20,20,86,PYP\2022 (Phase 1-2).pdf,Feedback,M,T,Static management/ethics/governance,,
+FM,2022,21,21,87,PYP\2022 (Phase 1-2).pdf,PIDF annual deployment target,F,D,Dated finance/current changes,,
+FM,2022,22,22,87,PYP\2022 (Phase 1-2).pdf,Legal Entity Identifier,F,T,Static finance/concepts/institutions,,
+FM,2022,23,23,87,PYP\2022 (Phase 1-2).pdf,Scalar chain,M,T,Static management/ethics/governance,,
+FM,2022,24,24,87,PYP\2022 (Phase 1-2).pdf,MSME classification thresholds,F,R,Standing finance rules/schemes,,
+FM,2022,25,25,87,PYP\2022 (Phase 1-2).pdf,Lewin refreezing,M,T,Static management/ethics/governance,,
+FM,2022,26,26,88,PYP\2022 (Phase 1-2).pdf,Big Five trait,M,T,Static management/ethics/governance,,
+FM,2022,27,27,88,PYP\2022 (Phase 1-2).pdf,Recent FPI corporate-bond limit,F,D,Dated finance/current changes,,
+FM,2022,28,28,88,PYP\2022 (Phase 1-2).pdf,Ethical responsibility displacement,M,T,Static management/ethics/governance,,
+FM,2022,29,29,88,PYP\2022 (Phase 1-2).pdf,Cross-hierarchy communication,M,T,Static management/ethics/governance,,
+FM,2022,30,30,88,PYP\2022 (Phase 1-2).pdf,IEC applicability,F,R,Standing finance rules/schemes,,
+ESI,2023,1,1,74,PYP\2023 (Phase 1-2).pdf,Mission LiFE identification,X,D,Environment/general policy-current,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2023,2,2,74,PYP\2023 (Phase 1-2).pdf,Mission LiFE categories,X,R,Environment/general policy-current,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2023,3,3,74,PYP\2023 (Phase 1-2).pdf,Mission LiFE phases,X,R,Environment/general policy-current,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2023,4,4,75,PYP\2023 (Phase 1-2).pdf,Mission LiFE announcement event,X,D,Environment/general policy-current,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2023,5,5,75,PYP\2023 (Phase 1-2).pdf,WTO founding negotiation round,E,T,Static economics/institutions,,
+ESI,2023,6,6,75,PYP\2023 (Phase 1-2).pdf,WTO establishment,E,T,Static economics/institutions,,
+ESI,2023,7,7,75,PYP\2023 (Phase 1-2).pdf,WTO incumbent head,E,D,Economics policy/current-linked,,
+ESI,2023,8,8,76,PYP\2023 (Phase 1-2).pdf,WTO decision-making body,E,T,Static economics/institutions,,
+ESI,2023,9,9,76,PYP\2023 (Phase 1-2).pdf,WEO report identification,E,D,Economics policy/current-linked,,
+ESI,2023,10,10,76,PYP\2023 (Phase 1-2).pdf,WEO growth forecast,E,D,Economics policy/current-linked,,
+ESI,2023,11,11,77,PYP\2023 (Phase 1-2).pdf,WEO production timetable,E,R,Economics policy/current-linked,,
+ESI,2023,12,12,77,PYP\2023 (Phase 1-2).pdf,IMF core missions,E,T,Static economics/institutions,,
+ESI,2023,13,13,77,PYP\2023 (Phase 1-2).pdf,PVTG development mission,S,D,Social policy/current-linked,,
+ESI,2023,14,14,78,PYP\2023 (Phase 1-2).pdf,Budget priority for PVTGs,S,D,Social policy/current-linked,,
+ESI,2023,15,15,78,PYP\2023 (Phase 1-2).pdf,PVTG state distribution,S,T,Static social issues,,
+ESI,2023,16,16,78,PYP\2023 (Phase 1-2).pdf,PVTG identification criteria,S,T,Static social issues,,
+ESI,2023,17,17,79,PYP\2023 (Phase 1-2).pdf,e-Shram registration count,S,D,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2023,18,18,79,PYP\2023 (Phase 1-2).pdf,Recent portal integration partner,S,D,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2023,19,19,79,PYP\2023 (Phase 1-2).pdf,UMANG services,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2023,20,20,79,PYP\2023 (Phase 1-2).pdf,State registration targets,S,D,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2023,21,21,80,PYP\2023 (Phase 1-2).pdf,PM-JAY eligibility case,S,R,Social policy/current-linked,,
+ESI,2023,22,22,80,PYP\2023 (Phase 1-2).pdf,Stand-Up India eligibility,E,R,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2023,23,23,80,PYP\2023 (Phase 1-2).pdf,Girl-child savings scheme rules,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2023,24,24,81,PYP\2023 (Phase 1-2).pdf,SGB rules,E,R,Economics policy/current-linked,,
+ESI,2023,25,25,81,PYP\2023 (Phase 1-2).pdf,Scholarship eligibility,S,R,Social policy/current-linked,,
+ESI,2023,26,26,81,PYP\2023 (Phase 1-2).pdf,Swadhar Greh conditions,S,R,Social policy/current-linked,,
+ESI,2023,27,27,82,PYP\2023 (Phase 1-2).pdf,Janaushadhi store incentives,S,R,Social policy/current-linked,,
+ESI,2023,28,28,82,PYP\2023 (Phase 1-2).pdf,New PM-KISAN app functions,E,D,Economics policy/current-linked,,
+ESI,2023,29,29,82,PYP\2023 (Phase 1-2).pdf,MUDRA loan conditions,E,R,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2023,30,30,83,PYP\2023 (Phase 1-2).pdf,Newly announced women's savings scheme,S,D,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+FM,2023,1,1,85,PYP\2023 (Phase 1-2).pdf,Jan Dhan identification,F,R,Standing finance rules/schemes,,Domain/basis boundary: alternative tagging is reasonable
+FM,2023,2,2,85,PYP\2023 (Phase 1-2).pdf,Life insurance benefit,F,R,Standing finance rules/schemes,,Domain/basis boundary: alternative tagging is reasonable
+FM,2023,3,3,85,PYP\2023 (Phase 1-2).pdf,Life insurance joining age,F,R,Standing finance rules/schemes,,Domain/basis boundary: alternative tagging is reasonable
+FM,2023,4,4,86,PYP\2023 (Phase 1-2).pdf,Atal Pension benefit,F,R,Standing finance rules/schemes,,Domain/basis boundary: alternative tagging is reasonable
+FM,2023,5,5,86,PYP\2023 (Phase 1-2).pdf,Accident insurance premium,F,R,Standing finance rules/schemes,,Domain/basis boundary: alternative tagging is reasonable
+FM,2023,6,6,86,PYP\2023 (Phase 1-2).pdf,McClelland needs,M,T,Static management/ethics/governance,,
+FM,2023,7,7,86,PYP\2023 (Phase 1-2).pdf,Maslow hierarchy,M,T,Static management/ethics/governance,,
+FM,2023,8,8,87,PYP\2023 (Phase 1-2).pdf,Theory X/Y,M,T,Static management/ethics/governance,,
+FM,2023,9,9,87,PYP\2023 (Phase 1-2).pdf,Lewin leadership,M,T,Static management/ethics/governance,,
+FM,2023,10,10,87,PYP\2023 (Phase 1-2).pdf,Contingency leadership,M,T,Static management/ethics/governance,,
+FM,2023,11,11,88,PYP\2023 (Phase 1-2).pdf,Governance concept in bank case,M,T,Static management/ethics/governance,,Domain/basis boundary: alternative tagging is reasonable
+FM,2023,12,12,88,PYP\2023 (Phase 1-2).pdf,Bank audit committee composition,M,R,Standing management/governance rules,,Domain/basis boundary: alternative tagging is reasonable
+FM,2023,13,13,88,PYP\2023 (Phase 1-2).pdf,Bank risk committee chair,M,R,Standing management/governance rules,,Domain/basis boundary: alternative tagging is reasonable
+FM,2023,14,14,89,PYP\2023 (Phase 1-2).pdf,Bank board quorum,M,R,Standing management/governance rules,,Domain/basis boundary: alternative tagging is reasonable
+FM,2023,15,15,89,PYP\2023 (Phase 1-2).pdf,Bank committee expertise,M,R,Standing management/governance rules,,Domain/basis boundary: alternative tagging is reasonable
+FM,2023,16,16,89,PYP\2023 (Phase 1-2).pdf,Personal communication barriers,M,T,Static management/ethics/governance,,
+FM,2023,17,17,90,PYP\2023 (Phase 1-2).pdf,Semantic barriers,M,T,Static management/ethics/governance,,
+FM,2023,18,18,90,PYP\2023 (Phase 1-2).pdf,Nonverbal communication,M,T,Static management/ethics/governance,,
+FM,2023,19,19,90,PYP\2023 (Phase 1-2).pdf,Power bases,M,T,Static management/ethics/governance,,
+FM,2023,20,20,90,PYP\2023 (Phase 1-2).pdf,Stakeholder governance theory,M,T,Static management/ethics/governance,,Domain/basis boundary: alternative tagging is reasonable
+FM,2023,21,21,91,PYP\2023 (Phase 1-2).pdf,NaBFID purpose,F,T,Static finance/concepts/institutions,,
+FM,2023,22,22,91,PYP\2023 (Phase 1-2).pdf,Return on assets calculation,F,T,Static finance/concepts/institutions,,
+FM,2023,23,23,91,PYP\2023 (Phase 1-2).pdf,Big Five personality,M,T,Static management/ethics/governance,,
+FM,2023,24,24,91,PYP\2023 (Phase 1-2).pdf,Emotional dissonance,M,T,Static management/ethics/governance,,
+FM,2023,25,25,92,PYP\2023 (Phase 1-2).pdf,Consequentialist ethics,M,T,Static management/ethics/governance,,
+FM,2023,26,26,92,PYP\2023 (Phase 1-2).pdf,Ethical principle,M,T,Static management/ethics/governance,,
+FM,2023,27,27,92,PYP\2023 (Phase 1-2).pdf,LRS annual limit,F,R,Standing finance rules/schemes,,
+FM,2023,28,28,92,PYP\2023 (Phase 1-2).pdf,Alternative finance,F,T,Static finance/concepts/institutions,,
+FM,2023,29,29,92,PYP\2023 (Phase 1-2).pdf,Non-tax revenue,F,T,Static finance/concepts/institutions,,
+FM,2023,30,30,93,PYP\2023 (Phase 1-2).pdf,Negotiable instrument case,F,T,Static finance/concepts/institutions,,
+ESI,2024,1,1,72,PYP\2024 (Phase 1-2).pdf,Gender alliance launch venue,S,D,Social policy/current-linked,,
+ESI,2024,2,2,72,PYP\2024 (Phase 1-2).pdf,Gender alliance partners,S,D,Social policy/current-linked,,
+ESI,2024,3,3,73,PYP\2024 (Phase 1-2).pdf,Gender-gap ranking explanation,S,D,Social policy/current-linked,,
+ESI,2024,4,4,73,PYP\2024 (Phase 1-2).pdf,Gender report publisher,S,R,Social policy/current-linked,,
+ESI,2024,5,5,73,PYP\2024 (Phase 1-2).pdf,WDR director,E,D,Economics policy/current-linked,,
+ESI,2024,6,6,74,PYP\2024 (Phase 1-2).pdf,WDR development strategy,E,D,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2024,7,7,74,PYP\2024 (Phase 1-2).pdf,Economies transitioning to high income,E,D,Economics policy/current-linked,,
+ESI,2024,8,8,74,PYP\2024 (Phase 1-2).pdf,WDR India findings,E,D,Economics policy/current-linked,,
+ESI,2024,9,9,75,PYP\2024 (Phase 1-2).pdf,Economic Survey identification,E,D,Economics policy/current-linked,,
+ESI,2024,10,10,75,PYP\2024 (Phase 1-2).pdf,Agricultural production positions,E,D,Economics policy/current-linked,,
+ESI,2024,11,11,75,PYP\2024 (Phase 1-2).pdf,Agriculture growth statistic,E,D,Economics policy/current-linked,,
+ESI,2024,12,12,76,PYP\2024 (Phase 1-2).pdf,Non-farm employment requirement,E,D,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2024,13,13,76,PYP\2024 (Phase 1-2).pdf,WEO growth projection,E,D,Economics policy/current-linked,,
+ESI,2024,14,14,76,PYP\2024 (Phase 1-2).pdf,Polycrisis concept,X,T,Cross-cutting static,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2024,15,15,77,PYP\2024 (Phase 1-2).pdf,Interconnected crisis examples,X,T,Cross-cutting static,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2024,16,16,77,PYP\2024 (Phase 1-2).pdf,Global Risks long-term findings,X,D,Environment/general policy-current,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2024,17,17,77,PYP\2024 (Phase 1-2).pdf,SDG progress indicators,X,D,Environment/general policy-current,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2024,18,18,78,PYP\2024 (Phase 1-2).pdf,SDG assessment publication,X,D,Environment/general policy-current,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2024,19,19,78,PYP\2024 (Phase 1-2).pdf,Agriculture portal partner,E,D,Economics policy/current-linked,,
+ESI,2024,20,20,78,PYP\2024 (Phase 1-2).pdf,PM-PRANAM measures,X,D,Environment/general policy-current,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2024,21,21,78,PYP\2024 (Phase 1-2).pdf,National Career Service beneficiaries,E,R,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2024,22,22,79,PYP\2024 (Phase 1-2).pdf,Child-protection scheme,S,R,Social policy/current-linked,,
+ESI,2024,23,23,79,PYP\2024 (Phase 1-2).pdf,Farmer pension eligibility,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2024,24,24,79,PYP\2024 (Phase 1-2).pdf,Startup recognition criteria,E,R,Economics policy/current-linked,,
+ESI,2024,25,25,80,PYP\2024 (Phase 1-2).pdf,National relief fund eligibility,S,R,Social policy/current-linked,,
+ESI,2024,26,26,80,PYP\2024 (Phase 1-2).pdf,Agriculture infrastructure eligibility,E,R,Economics policy/current-linked,,
+ESI,2024,27,27,80,PYP\2024 (Phase 1-2).pdf,Deemed exports rules,E,R,Economics policy/current-linked,,
+ESI,2024,28,28,81,PYP\2024 (Phase 1-2).pdf,NPS eligibility,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2024,29,29,81,PYP\2024 (Phase 1-2).pdf,PM-KISAN eligibility,E,R,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2024,30,30,81,PYP\2024 (Phase 1-2).pdf,SGB investor case,E,R,Economics policy/current-linked,,
+FM,2024,1,1,84,PYP\2024 (Phase 1-2).pdf,Cultural learning theory,M,T,Static management/ethics/governance,,
+FM,2024,2,2,84,PYP\2024 (Phase 1-2).pdf,Organisational culture influences,M,T,Static management/ethics/governance,,
+FM,2024,3,3,84,PYP\2024 (Phase 1-2).pdf,Culture assessment tool in passage,M,T,Static management/ethics/governance,,Domain/basis boundary: alternative tagging is reasonable
+FM,2024,4,4,84,PYP\2024 (Phase 1-2).pdf,Culture assessment communication outcome,M,T,Static management/ethics/governance,,Domain/basis boundary: alternative tagging is reasonable
+FM,2024,5,5,85,PYP\2024 (Phase 1-2).pdf,New debt-subscription threshold,F,D,Dated finance/current changes,,
+FM,2024,6,6,85,PYP\2024 (Phase 1-2).pdf,New debt-subscription payment method,F,D,Dated finance/current changes,,
+FM,2024,7,7,85,PYP\2024 (Phase 1-2).pdf,Debt-market regulator,F,T,Static finance/concepts/institutions,,
+FM,2024,8,8,85,PYP\2024 (Phase 1-2).pdf,New guideline commencement date,F,D,Dated finance/current changes,,
+FM,2024,9,9,86,PYP\2024 (Phase 1-2).pdf,Small finance bank identification,F,T,Static finance/concepts/institutions,,
+FM,2024,10,10,86,PYP\2024 (Phase 1-2).pdf,Small finance bank aim,F,T,Static finance/concepts/institutions,,
+FM,2024,11,11,86,PYP\2024 (Phase 1-2).pdf,Small finance bank customers,F,T,Static finance/concepts/institutions,,
+FM,2024,12,12,87,PYP\2024 (Phase 1-2).pdf,Small finance bank literacy role,F,T,Static finance/concepts/institutions,,
+FM,2024,13,13,87,PYP\2024 (Phase 1-2).pdf,Management practices in survey passage,M,T,Static management/ethics/governance,,Domain/basis boundary: alternative tagging is reasonable
+FM,2024,14,14,87,PYP\2024 (Phase 1-2).pdf,Training resistance,M,T,Static management/ethics/governance,,Domain/basis boundary: alternative tagging is reasonable
+FM,2024,15,15,88,PYP\2024 (Phase 1-2).pdf,Management assessment framework,M,T,Static management/ethics/governance,,Domain/basis boundary: alternative tagging is reasonable
+FM,2024,16,16,88,PYP\2024 (Phase 1-2).pdf,Management implementation challenges,M,T,Static management/ethics/governance,,Domain/basis boundary: alternative tagging is reasonable
+FM,2024,17,17,89,PYP\2024 (Phase 1-2).pdf,Planetary-boundaries report finding,X,D,Environment report/current,,Domain/basis boundary: alternative tagging is reasonable
+FM,2024,18,18,89,PYP\2024 (Phase 1-2).pdf,Circular economy,X,T,Cross-cutting static,,Domain/basis boundary: alternative tagging is reasonable
+FM,2024,19,19,89,PYP\2024 (Phase 1-2).pdf,Predecessor of SDGs,X,T,Cross-cutting static,,Domain/basis boundary: alternative tagging is reasonable
+FM,2024,20,20,89,PYP\2024 (Phase 1-2).pdf,MDG objectives,X,T,Cross-cutting static,,Domain/basis boundary: alternative tagging is reasonable
+FM,2024,21,21,89,PYP\2024 (Phase 1-2).pdf,Expectancy motivation,M,T,Static management/ethics/governance,,
+FM,2024,22,22,90,PYP\2024 (Phase 1-2).pdf,SM REIT framework threshold,F,D,Dated finance/current changes,,
+FM,2024,23,23,90,PYP\2024 (Phase 1-2).pdf,Dated WMA ceiling,F,D,Dated finance/current changes,,
+FM,2024,24,24,90,PYP\2024 (Phase 1-2).pdf,Johari Window,M,T,Static management/ethics/governance,,
+FM,2024,25,25,90,PYP\2024 (Phase 1-2).pdf,Managerial Grid authors,M,T,Static management/ethics/governance,,
+FM,2024,26,26,90,PYP\2024 (Phase 1-2).pdf,Circle communication,M,T,Static management/ethics/governance,,
+FM,2024,27,27,91,PYP\2024 (Phase 1-2).pdf,Transition/change management,M,T,Static management/ethics/governance,,
+FM,2024,28,28,91,PYP\2024 (Phase 1-2).pdf,UPI Circle access limit,F,D,Dated finance/current changes,,
+FM,2024,29,29,91,PYP\2024 (Phase 1-2).pdf,Reduced debt-issue timeline,F,D,Dated finance/current changes,,
+FM,2024,30,30,91,PYP\2024 (Phase 1-2).pdf,NBFC capital-risk coverage,F,R,Standing finance rules/schemes,,
+ESI,2025,1,1,69,PYP\2025 (Phase 1-2).pdf,Accident insurance cases,S,R,Social policy/current-linked,,
+ESI,2025,2,2,69,PYP\2025 (Phase 1-2).pdf,PPF operational rules,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2025,3,3,70,PYP\2025 (Phase 1-2).pdf,Skill-centre provider eligibility,E,R,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2025,4,4,70,PYP\2025 (Phase 1-2).pdf,Rooftop solar subsidy scheme,X,D,Environment/general policy-current,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2025,5,5,70,PYP\2025 (Phase 1-2).pdf,NPS withdrawal/contribution cases,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2025,6,6,71,PYP\2025 (Phase 1-2).pdf,Adoption rules 2025,S,D,Social policy/current-linked,,
+ESI,2025,7,7,71,PYP\2025 (Phase 1-2).pdf,SC residential education scheme,S,R,Social policy/current-linked,,
+ESI,2025,8,8,71,PYP\2025 (Phase 1-2).pdf,Senior-citizen welfare programme,S,R,Social policy/current-linked,,
+ESI,2025,9,9,72,PYP\2025 (Phase 1-2).pdf,Unorganised-worker pension,S,R,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2025,10,10,72,PYP\2025 (Phase 1-2).pdf,New SIF investment framework,E,D,Economics policy/current-linked,,
+ESI,2025,11,11,73,PYP\2025 (Phase 1-2).pdf,Fintech MSME agreement,E,D,Economics policy/current-linked,,"Recreated preceding passage concerns agriculture, unlike MSME questions"
+ESI,2025,12,12,73,PYP\2025 (Phase 1-2).pdf,MSME registration platform,E,R,Economics policy/current-linked,,"Recreated preceding passage concerns agriculture, unlike MSME questions"
+ESI,2025,13,13,73,PYP\2025 (Phase 1-2).pdf,MSME platform authority,E,R,Economics policy/current-linked,,"Recreated preceding passage concerns agriculture, unlike MSME questions"
+ESI,2025,14,14,73,PYP\2025 (Phase 1-2).pdf,Economic Survey MSME findings,E,D,Economics policy/current-linked,,"Recreated preceding passage concerns agriculture, unlike MSME questions"
+ESI,2025,15,15,74,PYP\2025 (Phase 1-2).pdf,New agriculture scheme allocation,E,D,Economics policy/current-linked,,
+ESI,2025,16,16,74,PYP\2025 (Phase 1-2).pdf,New agriculture scheme inspiration,E,D,Economics policy/current-linked,,
+ESI,2025,17,17,74,PYP\2025 (Phase 1-2).pdf,Agriculture district-plan review,E,R,Economics policy/current-linked,,
+ESI,2025,18,18,74,PYP\2025 (Phase 1-2).pdf,Aspirational District indicators,E,R,Economics policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2025,19,19,75,PYP\2025 (Phase 1-2).pdf,FRA 2025 report features,X,D,Environment/general policy-current,,
+ESI,2025,20,20,75,PYP\2025 (Phase 1-2).pdf,Green Credit Programme goals,X,R,Environment/general policy-current,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2025,21,21,76,PYP\2025 (Phase 1-2).pdf,Environment Audit Rules 2025,X,D,Environment/general policy-current,,
+ESI,2025,22,22,76,PYP\2025 (Phase 1-2).pdf,FRA 2025 forest data,X,D,Environment/general policy-current,,
+ESI,2025,23,23,77,PYP\2025 (Phase 1-2).pdf,Housing outreach campaign,S,D,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2025,24,24,77,PYP\2025 (Phase 1-2).pdf,Housing campaign theme,S,D,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2025,25,25,77,PYP\2025 (Phase 1-2).pdf,PMAY Urban 2.0 verticals,S,D,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2025,26,26,77,PYP\2025 (Phase 1-2).pdf,PMAY Urban 2.0 focus groups,S,D,Social policy/current-linked,,Domain/basis boundary: alternative tagging is reasonable
+ESI,2025,27,27,78,PYP\2025 (Phase 1-2).pdf,Revised derivatives framework objectives,E,D,Economics policy/current-linked,,
+ESI,2025,28,28,78,PYP\2025 (Phase 1-2).pdf,Revised position limits,E,D,Economics policy/current-linked,,
+ESI,2025,29,29,78,PYP\2025 (Phase 1-2).pdf,MWPL calculation/ban rules,E,D,Economics policy/current-linked,,
+ESI,2025,30,30,79,PYP\2025 (Phase 1-2).pdf,Revised derivatives trading measures,E,D,Economics policy/current-linked,,
+FM,2025,1,1,81,PYP\2025 (Phase 1-2).pdf,NaBFID identification,F,T,Static finance/concepts/institutions,,
+FM,2025,2,2,81,PYP\2025 (Phase 1-2).pdf,NaBFID regulator,F,T,Static finance/concepts/institutions,,
+FM,2025,3,3,82,PYP\2025 (Phase 1-2).pdf,NDS-OM identification,F,T,Static finance/concepts/institutions,,
+FM,2025,4,4,82,PYP\2025 (Phase 1-2).pdf,NDS-OM transaction institution,F,T,Static finance/concepts/institutions,,
+FM,2025,5,5,82,PYP\2025 (Phase 1-2).pdf,InvIT allocation ratios,F,R,Standing finance rules/schemes,,
+FM,2025,6,6,82,PYP\2025 (Phase 1-2).pdf,InvIT anchor allocation,F,R,Standing finance rules/schemes,,
+FM,2025,7,7,83,PYP\2025 (Phase 1-2).pdf,Gross profit calculation,F,T,Static finance/concepts/institutions,,
+FM,2025,8,8,83,PYP\2025 (Phase 1-2).pdf,Debt calculation,F,T,Static finance/concepts/institutions,,
+FM,2025,9,9,83,PYP\2025 (Phase 1-2).pdf,Liabilities calculation,F,T,Static finance/concepts/institutions,,
+FM,2025,10,10,84,PYP\2025 (Phase 1-2).pdf,Ethical relativism,M,T,Static management/ethics/governance,,Domain/basis boundary: alternative tagging is reasonable
+FM,2025,11,11,84,PYP\2025 (Phase 1-2).pdf,Code of ethics effect,M,T,Static management/ethics/governance,,Domain/basis boundary: alternative tagging is reasonable
+FM,2025,12,12,84,PYP\2025 (Phase 1-2).pdf,Scientific management,M,T,Static management/ethics/governance,,
+FM,2025,13,13,85,PYP\2025 (Phase 1-2).pdf,Hierarchy-based management,M,T,Static management/ethics/governance,,
+FM,2025,14,14,85,PYP\2025 (Phase 1-2).pdf,Open systems theory,M,T,Static management/ethics/governance,,
+FM,2025,15,15,85,PYP\2025 (Phase 1-2).pdf,Historical banking reform committee,F,T,Static finance/concepts/institutions,,
+FM,2025,16,16,86,PYP\2025 (Phase 1-2).pdf,Liquidity facility reform history,F,T,Static finance/concepts/institutions,,
+FM,2025,17,17,86,PYP\2025 (Phase 1-2).pdf,Phillips curve,F,T,Static finance/concepts/institutions,,Domain/basis boundary: alternative tagging is reasonable
+FM,2025,18,18,86,PYP\2025 (Phase 1-2).pdf,TReDS regulator,F,T,Static finance/concepts/institutions,,
+FM,2025,19,19,87,PYP\2025 (Phase 1-2).pdf,TReDS invoice-discounting mechanism,F,T,Static finance/concepts/institutions,,Domain/basis boundary: alternative tagging is reasonable
+FM,2025,20,20,87,PYP\2025 (Phase 1-2).pdf,TReDS settlement rules,F,R,Standing finance rules/schemes,,Domain/basis boundary: alternative tagging is reasonable
+FM,2025,21,21,87,PYP\2025 (Phase 1-2).pdf,Upward communication,M,T,Static management/ethics/governance,,
+FM,2025,22,22,87,PYP\2025 (Phase 1-2).pdf,JAM identification,F,T,Static finance/concepts/institutions,,Domain/basis boundary: alternative tagging is reasonable
+FM,2025,23,23,88,PYP\2025 (Phase 1-2).pdf,Contingency Fund standing corpus,F,R,Standing finance rules/schemes,,
+FM,2025,24,24,88,PYP\2025 (Phase 1-2).pdf,CPI/WPI interpretation,F,T,Static finance/concepts/institutions,,Domain/basis boundary: alternative tagging is reasonable
+FM,2025,25,25,88,PYP\2025 (Phase 1-2).pdf,Accelerated corporate-action settlement,F,D,Dated finance/current changes,,
+FM,2025,26,26,88,PYP\2025 (Phase 1-2).pdf,Ethical absolutism,M,T,Static management/ethics/governance,,
+FM,2025,27,27,88,PYP\2025 (Phase 1-2).pdf,Attitudes and motivation,M,T,Static management/ethics/governance,,
+FM,2025,28,28,89,PYP\2025 (Phase 1-2).pdf,Cost-push inflation; reconstruction explicitly uncertain,F,T,Static finance/concepts/institutions,,Domain/basis boundary: alternative tagging is reasonable; Source explicitly says question/theme may not match actual exam
+FM,2025,29,29,89,PYP\2025 (Phase 1-2).pdf,Zero-coupon bonds; reconstruction explicitly uncertain,F,T,Static finance/concepts/institutions,,Source explicitly says question/theme may not match actual exam
+FM,2025,30,30,89,PYP\2025 (Phase 1-2).pdf,Index futures; reconstruction explicitly uncertain,F,T,Static finance/concepts/institutions,,Source explicitly says question/theme may not match actual exam

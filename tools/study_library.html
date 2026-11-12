@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RBI Study Studio</title>
+<style>
+:root{font:16px/1.55 system-ui,sans-serif;color:#172d40;background:#f2f5f8;--accent:#075b64}
+*{box-sizing:border-box}body{margin:0}header{background:#102e43;color:white;padding:28px max(24px,5vw)}
+h1,h2,h3,p{margin:0 0 12px}h1{font-size:30px}a{color:#075b64}header a{color:#b9f4ed}
+main{max-width:1450px;margin:auto;padding:24px}button,input,select{font:inherit}
+button,select,input{border:1px solid #aebfc9;border-radius:7px;padding:8px 12px;background:white;color:#172d40}
+button{cursor:pointer}button:hover,button[aria-pressed=true]{background:#e2f5f2;border-color:var(--accent)}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #e8ab00;outline-offset:3px}
+.controls{display:flex;gap:12px;flex-wrap:wrap;align-items:end;margin:18px 0}.controls label{display:grid;gap:4px;font-size:14px}
+#search{min-width:260px}.layout{display:grid;grid-template-columns:265px minmax(0,1fr);gap:22px}
+aside,article,.help{background:white;border:1px solid #d5e0e6;border-radius:12px;padding:20px}
+aside{align-self:start;max-height:80vh;overflow:auto}#topics{display:grid;gap:8px}#topics button{text-align:left}
+small,.muted{color:#546978}small{display:block}.tag{display:inline-block;background:#e8f3f5;border-radius:5px;padding:2px 7px;font-size:13px;margin:0 5px 5px 0}
+.notice{border-left:4px solid #bf8100;background:#fff6dd;padding:12px;margin:14px 0}.refs{font-size:12px;margin:8px 0;color:#526777}
+.refs a{margin-right:12px}.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:20px 0}
+section{margin-bottom:26px}[hidden]{display:none!important}.scroll{overflow:auto}
+table{width:100%;border-collapse:collapse;font-size:14px;margin:10px 0 20px}th,td{border:1px solid #c6d5de;text-align:left;vertical-align:top;padding:10px}th{background:#edf4f7}
+td .refs{min-width:120px}.hide-values tbody td:not(:first-child):not(:last-child){color:transparent;user-select:none;background:#dce7eb}
+.hide-values tbody td:focus,.hide-values tbody td:hover{color:#172d40;background:white}
+.map{min-width:780px;width:100%;display:block}.map .node-box{background:#e8f5f3;border:2px solid #40878b;border-radius:12px;padding:8px;text-align:center;height:100%;display:flex;align-items:center;justify-content:center;font-size:14px;line-height:1.3}
+.map .root{background:#123e55;color:white;border-color:#123e55}.map text{font:11px system-ui;fill:#183c50;paint-order:stroke;stroke:white;stroke-width:4px;stroke-linejoin:round}
+details{border:1px solid #d5e0e6;border-radius:8px;margin:10px 0;padding:12px}summary{cursor:pointer;font-weight:600}
+.answer{border-left:3px solid #40878b;padding-left:14px;margin-top:12px}.answer[hidden]+.refs{display:none}
+.fact{border-bottom:1px solid #d5e0e6;padding:12px 0}.update{border-left:3px solid #40878b;padding:12px;margin:14px 0;background:#f5f9fa}
+.help{margin-top:24px}.path{background:#edf6f5;border:1px solid #b5d7d4;padding:16px;border-radius:10px;margin:16px 0}.path a{font-weight:600}.coverage{max-height:500px;overflow:auto}code{background:#e8edf2;padding:2px 5px;overflow-wrap:anywhere}#empty{padding:20px}
+.study-note{border-bottom:1px solid #d5e0e6;padding:14px 0;margin:0}.study-note h4{font-size:16px;margin:0 0 8px}.study-note p:last-child{margin-bottom:0}.source-details{border:0;padding:0;font-size:12px}.source-details summary{font-weight:400;color:#546978}#ga-notes{max-width:1000px}#panel-notes{max-width:1000px}
+.study-plan td:nth-child(2){min-width:180px}.study-plan button{display:block;margin-top:8px}.study-plan th:first-child{width:65px}
+@media(max-width:800px){.layout{grid-template-columns:1fr}aside{max-height:230px}main{padding:12px}.controls>*{max-width:100%}#search{min-width:180px}}
+@media print{body{background:white;font-size:11pt}header{background:white;color:black;padding:0}header a,.controls,aside,.tabs,.help,.no-print{display:none!important}main,article{padding:0;border:0}.layout{display:block}.panel[hidden]{display:block!important}.answer[hidden]{display:block!important}.answer[hidden]+.refs{display:block!important}.scroll{overflow:visible}.map{min-width:0}tr,details,.update{break-inside:avoid}a{color:black}th,td{font-size:9pt}.hide-values tbody td{color:black!important;background:white!important}}
+@media print{#panel-evidence,#panel-sources{display:none!important}}
+@media print{button{display:none!important}.coverage{max-height:none;overflow:visible}#ga-library th:nth-child(2){width:52%}}
+@media print{#detail[data-view="notes"] .panel:not(#panel-notes),#detail:not([data-view="notes"]) #panel-notes{display:none!important}.source-details{display:none!important}.study-note h4{break-after:avoid}}
+</style>
+</head>
+<body>
+<header>
+<h1>RBI Study Studio</h1>
+<p>Small maps. Clear comparisons. Active recall. A growing, source-linked study library.</p>
+<a href="../pyp_analysis/rbi_grade_b_report.html">Previous-year analysis</a> &nbsp; | &nbsp;
+<a href="#how">How to add PDFs</a>
+</header>
+<main>
+<p id="stats" role="status"></p>
+<div class="notice">AI-curated study aids, not an official answer key. PDF citations show provenance, not factual verification.
+Monthly claims are unverified until checked against the relevant official release. Different values are never silently treated as replacements.</div>
+<nav class="tabs no-print" aria-label="Study libraries">
+<button id="show-topics" aria-pressed="true" type="button">Topic study library</button>
+<button id="show-ga" aria-pressed="false" type="button">GA facts &amp; data</button>
+</nav>
+<div id="topic-study">
+<div class="path">
+<strong>ESI study order:</strong> P1 = core depth first; P2 = mandatory syllabus breadth; P3 = selective historical/reference detail.
+<p>Start with national-income measurement, growth/development and poverty/jobs; then sustainability and social issues;
+connect monetary/fiscal policy and sector mechanisms. Keep reports, scheme eligibility and dated evidence alongside each topic.
+Priorities follow the ESI question-pattern analysis, not a prediction of chapter marks.
+P2/P3 are not permission to skip syllabus headings.</p>
+<p>Start with <strong>Read notes</strong>: teaching explanations, mechanisms, worked examples and exam traps are written here, followed by revision tables and current evidence. There are no PDF links in the reading notes. References remain in the separate Sources tab. These chapters do not reproduce or exhaust every supplied PDF.</p>
+<p><strong>ESI evidence layer:</strong> connect topic notes to monthly developments, report frameworks, scheme rules and StaticGK background.
+Use <em>Evidence collection</em> to find linked topics; Read notes keeps the full packet together. Evidence links is an optional collection-only view.
+Static background is not recent news; a supplied report or scheme compilation is not automatically current or officially verified.</p>
+</div>
+<div class="controls">
+<label>Search all study content<input id="search" type="search" placeholder="Topic, theory, scheme, issuer..."></label>
+<label>Subject<select id="subject"><option value="">All subjects</option><option>ESI</option><option>Finance</option><option>Management</option><option>GA</option></select></label>
+<label>Study priority<select id="priority"><option value="">All priorities</option><option value="1">P1 — Core depth</option><option value="2">P2 — Syllabus breadth</option><option value="3">P3 — Selective / reference</option></select></label>
+<label>Evidence collection<select id="collection"><option value="">All collections</option><option value="CurrentAffairs-Monthly">Monthly current affairs</option><option value="Reports_NationalAndInternational">Reports</option><option value="SchemesAndGovernmentPortals">Schemes and portals</option><option value="StaticGK">StaticGK background</option></select></label>
+<label>Current-affairs stream<select id="stream"><option value="">All / static topics</option><option>General</option><option>Finance</option><option>Economy</option></select></label>
+<label>Edition month<select id="month"><option value="">All months</option></select></label>
+<label><span>Review queue</span><select id="review"><option value="">All topics</option><option value="yes">Differing facts only</option></select></label>
+<button id="print" type="button">Print selected topic / save PDF</button>
+</div>
+<div class="layout"><aside aria-label="Topic library"><h2>Topics</h2><div id="topics"></div></aside><article id="detail" aria-live="polite"></article></div>
+</div>
+<section id="ga-library" hidden>
+<h2>General awareness: facts &amp; data library</h2>
+<p>Read the notes directly below, or switch to the compact table. Monthly current affairs, reports, schemes and StaticGK are brought together here.
+P1: banking/finance, schemes and economy/data. P2: international, technology/infrastructure, environment and selective miscellaneous breadth.
+These are study priorities from the GA question-pattern analysis, not guaranteed marks or permission to skip breadth.</p>
+<p>New editions append observations; older values stay visible. Edition is not event/effective date.
+Entries are paraphrased study material, not officially verified facts. Concepts/application notes are labelled separately from dated claims.</p>
+<div class="controls">
+<label>Reading format<select id="ga-format"><option value="notes">Direct notes</option><option value="table">Compact table</option></select></label>
+<label>Search GA facts<input id="ga-search" type="search" placeholder="Fact, scheme, issuer, number..."></label>
+<label>Content<select id="ga-scope"><option value="GA">GA-curated entries</option><option value="">All four-collection evidence, including ESI</option></select></label>
+<label>Priority<select id="ga-priority"><option value="">All priorities</option><option value="1">P1 - B / P / E core</option><option value="2">P2 - Other breadth</option></select></label>
+<label>GA family<select id="ga-family"><option value="">All families</option></select></label>
+<label>Collection<select id="ga-collection"><option value="">All four collections</option></select></label>
+<label>Edition month<select id="ga-month"><option value="">All editions / background</option><option value="undated">No verified edition month</option></select></label>
+<label>Entry type<select id="ga-type"><option value="">All types</option><option value="tables">Table / distinction</option><option value="facts">Fact observation</option><option value="updates">Dated development</option></select></label>
+<button type="button" id="ga-print">Print GA notes / save PDF</button>
+</div>
+<p id="ga-stats" role="status"></p>
+<div id="ga-notes"></div>
+<div id="ga-table-wrap" class="scroll" hidden><table id="ga-table"><thead><tr><th>Priority / family</th><th>Fact, data and scope</th><th>Edition / reference period</th><th>Sources / topic</th></tr></thead><tbody id="ga-rows"></tbody></table></div>
+<details class="no-print"><summary>Full-folder scan and missing-coverage audit</summary>
+<p id="ga-scan-summary"></p>
+<p>Every update reads every page in all four folders, not only new filenames. The scan records text and content fingerprints, including image streams.
+Machine scanning is not AI comprehension. “GA-cited” only means at least one GA entry cites that page; it does not mean every fact was captured.
+Uncited and low-text pages remain explicit review work. OCR/visual review is still required for low-text content; diagrams/tables may also need inspection.</p>
+<div class="coverage"><table><thead><tr><th>Collection / PDF</th><th>Pages</th><th>New / changed pages in last scan</th><th>Not GA-cited</th><th>Low-text / OCR check</th><th>Source registration</th></tr></thead><tbody id="ga-scan-rows"></tbody></table></div>
+</details>
+</section>
+<section class="help">
+<details><summary>PDF catalogue and synthesis coverage</summary>
+<p id="coverage-stats"></p>
+<ul id="collection-coverage"></ul>
+<p>“Cited” means selected physical PDF pages support a packet—not that every page or fact in that PDF was synthesised.
+“Reference only” means indexed and linked, not substantively processed. Practice sheets and answer-writing material remain available
+without copying their questions or model solutions into the library. Image-only pages need OCR or visual review before they can support new content.</p>
+<label>Find a source<input id="source-search" type="search" placeholder="Folder, filename or resource type"></label>
+<div class="coverage"><table><thead><tr><th>Folder / PDF</th><th>Resource type</th><th>Coverage</th><th>Open source</th></tr></thead><tbody id="source-list"></tbody></table></div>
+</details>
+</section>
+<section class="help" id="how">
+<h2>Adding next month's PDFs</h2>
+<ol>
+<li>Put your PDFs anywhere inside this workspace. Keep previous editions.</li>
+<li>In Copilot, use <code>/update-study-library</code> (or ask "Update my study library from these PDFs") and provide their paths and edition month.</li>
+<li>Copilot first runs the full four-folder page scan, checks new/changed and uncited content, then produces short, paraphrased maps, tables, cards and dated updates. Low-text pages require OCR or visual review; extraction alone is not understanding.</li>
+<li>The local tool validates citations, appends the curated bundle and rebuilds this page. Refresh this page afterwards.</li>
+</ol>
+<p><strong>No API key or hosting required.</strong> This HTML works offline, including search and maps. It does not upload PDFs, run AI by itself, or watch folders. Updates happen through Copilot in this workspace; the browser does not write back to the database.</p>
+<p>Source of truth: <code>study_library\library.json</code>. Previous database versions are saved in <code>study_library\history</code> on changed imports. Reimporting an identical bundle adds nothing. Different source observations remain visible, dated and flagged; a newer publication is not automatically more correct.</p>
+<p>Study loop: understand &rarr; organise &rarr; rebuild closed-book &rarr; apply &rarr; correct. Hide comparison columns; answer cards before revealing; redraw the map without looking. Review next day, next week, two weeks and one month, adjusting to recall.</p>
+<p>Changing facts need edition/reference period, scope and effective date. Even a single observation may be stale or wrong. A review flag can indicate a genuine update, a different measurement period or a source error—not necessarily a contradiction. Keep alternatives and verify official sources before memorising.</p>
+<p>Coverage is explicit in the PDF catalogue: topic packets synthesise selected cited pages. Monthly updates are selective and remain unverified; no edition is automatically complete.</p>
+<p>Each merge/build rescans all four evidence folders and refreshes the GA table. A scan can also be requested with <code>study_library.py scan</code>.
+Extracted page text and fingerprints stay local. Copilot must curate missing facts; the scanner does not generate facts or silently mark a month complete.
+Save-PDF printing opens all answers, recall columns and collapsed topic details; on-screen recall settings are restored afterwards.</p>
+<p>Teaching chapters are stored as source-backed <code>teaching_notes</code> sections in the database, not generated from headings when you open this page.
+Each section contains authored explanatory paragraphs, including hypothetical examples and exam distinctions.
+Updates append sections with new IDs and retain previous content. Read notes has no PDF links; the separate Sources tab keeps the audit trail.
+New source files still require curation before a chapter can be described as updated or complete.</p>
+</section>
+</main>
+<script id="library-data" type="application/json">STUDY_DATA_PLACEHOLDER</script>
+<script>
+"use strict";
+const data=JSON.parse(document.getElementById("library-data").textContent);
+const sources=new Map(data.sources.map(s=>[s.id,s]));
+const $=id=>document.getElementById(id);
+function el(tag,content,cls){const node=document.createElement(tag);if(content!==undefined)node.textContent=content;if(cls)node.className=cls;return node;}
+function flagFacts(t){return t.facts.filter(f=>new Set(f.observations.map(o=>o.value.trim().toLowerCase())).size>1);}
+function sourceCollection(s){return s.path.split(/[\\/]/)[1]||"Other";}
+const evidenceCollections=["CurrentAffairs-Monthly","Reports_NationalAndInternational","SchemesAndGovernmentPortals","StaticGK"];
+function sourceDescription(s){const collection=sourceCollection(s);if(s.kind==="monthly")return `Monthly compilation · Edition ${s.period}`;if(collection==="Reports_NationalAndInternational")return `Report material · ${s.period?"Edition "+s.period:"See cited page for edition/reference period"}`;if(collection==="SchemesAndGovernmentPortals")return "Scheme/portal reference · Verify current guidelines";if(collection==="StaticGK")return "Static background · Not evidence of a recent event";return "Supplied notes · Edition unspecified";}
+function refs(list){const box=el("details",undefined,"refs source-details");box.append(el("summary","Source pages (optional verification)"));for(const ref of list){const s=sources.get(ref.source);for(const n of ref.pages){const link=el("a",`${s.title} · PDF p${n}`);link.href=encodeURI(s.href).replace(/#/g,"%23").replace(/\?/g,"%3F")+`#page=${n}`;link.target="_blank";link.rel="noopener";box.append(link);}box.append(el("small",`${sourceDescription(s)} · Not independently verified`));}return box;}
+function hasCollection(value,collection){if(Array.isArray(value))return value.some(item=>hasCollection(item,collection));if(!value||typeof value!=="object")return false;if(typeof value.source==="string"&&Array.isArray(value.pages))return sourceCollection(sources.get(value.source))===collection;return Object.values(value).some(item=>hasCollection(item,collection));}
+function paragraph(parent,content){parent.append(el("p",content));}
+function button(label,action){const b=el("button",label);b.type="button";b.addEventListener("click",action);return b;}
+let selected="",activeTab="notes";
+const streams=["General","Finance","Economy"];
+function priority(t){for(const tag of t.tags){const match=/^P([123])(?:\s|$)/.exec(tag);if(match)return Number(match[1]);}return 4;}
+const learningOrder=["National income:","Growth and development:","Human development:","Poverty:","Employment:","Sustainability:","Demography:","Gender:","Urbanisation and migration:","Inflation:","Banks and RBI:","Fiscal policy:","Public expenditure and receipts:","Indian taxation:","Rural credit and microfinance:"];
+function studyOrder(t){const index=learningOrder.findIndex(prefix=>t.subject==="ESI"&&t.title.startsWith(prefix));return index<0?learningOrder.length:index;}
+for(const m of [...new Set(data.topics.flatMap(t=>t.updates.map(u=>u.date.slice(0,7))))].sort().reverse()){const option=el("option",m);option.value=m;$("month").append(option);}
+function matchingUpdates(t){return t.updates.filter(u=>(!$("stream").value||u.category===$("stream").value)&&(!$("month").value||u.date.startsWith($("month").value)));}
+function filterTopics(){const q=$("search").value.trim().toLowerCase();return data.topics.filter(t=>(!$("subject").value||t.subject===$("subject").value)&&(!$("priority").value||priority(t)===Number($("priority").value))&&(!$("collection").value||hasCollection(t,$("collection").value))&&(!q||JSON.stringify(t).toLowerCase().includes(q))&&(!($("stream").value||$("month").value)||matchingUpdates(t).length)&&(!$("review").value||flagFacts(t).length)).sort((a,b)=>priority(a)-priority(b)||studyOrder(a)-studyOrder(b)||a.title.localeCompare(b.title));}
+function renderList(){const topics=filterTopics();$("topics").replaceChildren();$("stats").textContent=`${topics.length} / ${data.topics.length} topics · ${data.sources.length} PDFs · ${data.topics.reduce((n,t)=>n+flagFacts(t).length,0)} differing facts to review · ${data.imports.length} imports`;if(!topics.some(t=>t.id===selected))selected=topics[0]?.id||"";for(const t of topics){const b=button(t.title,()=>{selected=t.id;renderList();});b.setAttribute("aria-pressed",String(t.id===selected));b.append(el("small",t.subject+(priority(t)<4?` · P${priority(t)}`:"")+(flagFacts(t).length?" · Review facts":"")));$("topics").append(b);}renderDetail();}
+function svgNode(tag,attributes){const n=document.createElementNS("http://www.w3.org/2000/svg",tag);for(const[k,v]of Object.entries(attributes))n.setAttribute(k,v);return n;}
+function drawMap(topic,panel){
+ const nodes=topic.map.nodes,height=Math.max(400,Math.ceil((nodes.length-1)/2)*135+70),positions=new Map();
+ const svg=svgNode("svg",{viewBox:`0 0 1000 ${height}`,class:"map",role:"img","aria-label":`${topic.title}: labelled topic connections`});
+ nodes.forEach((n,i)=>positions.set(n.id,i?{x:i%2?145:855,y:70+Math.floor((i-1)/2)*135}:{x:500,y:height/2}));
+ const defs=svgNode("defs",{}),marker=svgNode("marker",{id:"arrow",viewBox:"0 0 10 10",refX:"9",refY:"5",markerWidth:"6",markerHeight:"6",orient:"auto-start-reverse"});
+ marker.append(svgNode("path",{d:"M 0 0 L 10 5 L 0 10 z",fill:"#40878b"}));defs.append(marker);svg.append(defs);
+ for(const edge of topic.map.edges){const a=positions.get(edge.from),b=positions.get(edge.to),direction=b.x>=a.x?1:-1;const x1=a.x+direction*120,x2=b.x-direction*120;
+ svg.append(svgNode("path",{d:`M${x1} ${a.y} C${(x1+x2)/2} ${a.y},${(x1+x2)/2} ${b.y},${x2} ${b.y}`,fill:"none",stroke:"#40878b","stroke-width":"2","marker-end":"url(#arrow)"}));
+ const lines=[];let line="";for(const word of edge.label.split(/\s+/)){const next=(line+" "+word).trim();if(line&&next.length>18){lines.push(line);line=word;}else line=next;}if(line)lines.push(line);
+ const label=svgNode("text",{x:(x1+x2)/2,y:(a.y+b.y)/2-8-(lines.length-1)*7,"text-anchor":"middle"});lines.forEach((value,i)=>{const span=svgNode("tspan",{x:(x1+x2)/2,dy:i?14:0});span.textContent=value;label.append(span);});svg.append(label);}
+ nodes.forEach((n,i)=>{const p=positions.get(n.id),foreign=svgNode("foreignObject",{x:p.x-120,y:p.y-42,width:240,height:84});foreign.append(el("div",n.label,"node-box"+(i===0?" root":"")));svg.append(foreign);});
+ const scroll=el("div",undefined,"scroll");scroll.append(svg);panel.append(scroll);
+ const detail=el("details"),summary=el("summary","Connections and page references (text version)");detail.append(summary);
+ const byId=new Map(nodes.map(n=>[n.id,n]));
+ for(const n of nodes){detail.append(el("strong",n.label),refs(n.refs));}
+ for(const edge of topic.map.edges){paragraph(detail,`${byId.get(edge.from).label} → ${edge.label} → ${byId.get(edge.to).label}`);detail.append(refs(edge.refs));}panel.append(detail);
+}
+function renderTables(topic,panel){if(!topic.tables.length)paragraph(panel,"No comparison table yet.");for(const t of topic.tables){const section=el("section");section.append(el("h3",t.title));const table=el("table"),head=el("thead"),tr=el("tr");for(const c of [...t.columns,"Sources"])tr.append(el("th",c));head.append(tr);const body=el("tbody");for(const row of t.rows){const r=el("tr");for(const c of row.cells){const td=el("td",c);td.tabIndex=0;r.append(td);}const td=el("td");td.append(refs(row.refs));r.append(td);body.append(r);}table.append(head,body);const hide=button("Hide recall columns",()=>{const hidden=table.classList.toggle("hide-values");hide.textContent=hidden?"Show all columns":"Hide recall columns";hide.setAttribute("aria-pressed",String(hidden));});hide.className="no-print";const wrap=el("div",undefined,"scroll");wrap.append(table);section.append(hide,wrap);panel.append(section);}}
+function renderCards(topic,panel){paragraph(panel,"Answer before revealing. Cases are learning illustrations, not reproduced PYQ answers.");for(const c of topic.cards){const box=el("section");box.append(el("h3",c.question));const answer=el("div",c.answer,"answer");answer.hidden=true;const b=button("Reveal answer",()=>{answer.hidden=!answer.hidden;b.textContent=answer.hidden?"Reveal answer":"Hide answer";b.setAttribute("aria-expanded",String(!answer.hidden));});b.setAttribute("aria-expanded","false");box.append(b,answer,refs(c.refs));panel.append(box);}}
+function renderFacts(topic,panel,showSources=true){paragraph(panel,"All observations are retained. Verify scope, reference period and official status before choosing any value.");if(!topic.facts.length)paragraph(panel,"No changing fact recorded for this topic.");for(const fact of topic.facts){const box=el("div",undefined,"fact");box.append(el("h3",fact.label));if(flagFacts(topic).includes(fact))box.append(el("p","REVIEW: values differ. Could be a revision, different scope/period, or source error.","notice"));for(const o of fact.observations){paragraph(box,`${o.as_of}: ${o.value}`);if(showSources)box.append(refs(o.refs));}panel.append(box);}}
+function renderUpdates(topic,panel,showSources=true){const updates=matchingUpdates(topic).slice().sort((a,b)=>b.date.localeCompare(a.date));if(!updates.length)paragraph(panel,"No matching current-affairs updates yet.");for(const u of updates){const box=el("div",undefined,"update");box.append(el("small",`${u.date} · ${u.category} · Source claim, not independently verified`),el("h3",u.title));paragraph(box,u.body);if(showSources)box.append(refs(u.refs));panel.append(box);}}
+function renderEvidence(topic,panel){paragraph(panel,"These links enrich the existing topic. The collection filter limits this view, not the original map/tables/cards. Monthly stream/month filters apply to dated updates only; report editions and static references are shown separately.");let count=0;for(const collection of evidenceCollections){if($("collection").value&&$("collection").value!==collection)continue;const tables=topic.tables.map(t=>({...t,rows:t.rows.filter(r=>hasCollection(r,collection))})).filter(t=>t.rows.length);const cards=topic.cards.filter(c=>hasCollection(c,collection));const facts=topic.facts.map(f=>({...f,observations:f.observations.filter(o=>hasCollection(o,collection))})).filter(f=>f.observations.length);const updates=matchingUpdates(topic).filter(u=>hasCollection(u,collection));if(!tables.length&&!cards.length&&!facts.length&&!updates.length)continue;count++;const group=el("details");group.open=!!$("collection").value;group.append(el("summary",`${collection} · ${tables.length} tables · ${cards.length} cards · ${updates.length} dated updates`));const subset={...topic,tables,cards,facts,updates};if(tables.length)renderTables(subset,group);if(cards.length)renderCards(subset,group);if(facts.length)renderFacts(subset,group);if(updates.length)renderUpdates(subset,group);panel.append(group);}if(!count)paragraph(panel,"No matching additions from this collection yet. This does not imply the topic is fully covered or irrelevant.");}
+function noteFields(parent,columns,cells){for(let index=0;index<cells.length;index++){const p=el("p");p.append(el("strong",`${columns[index]}: `),document.createTextNode(cells[index]));parent.append(p);}}
+function renderTeaching(topic,panel){for(const section of topic.teaching_notes||[]){const box=el("section",undefined,"teaching-section");box.dataset.sectionId=section.id;box.append(el("h3",section.title));for(const value of section.paragraphs)paragraph(box,value);panel.append(box);}}
+function openStudyTopic(id){for(const key of ["search","subject","priority","collection","stream","month","review"])$(key).value="";selected=id;activeTab="notes";showLibrary("topics");renderList();$("detail").scrollIntoView({block:"start"});}
+function renderStudyPlan(topic,panel){
+ if(!topic.study_plan?.length)return;
+ const section=el("section",undefined,"study-plan");section.append(el("h3","Study this chapter: topics and priorities"));
+ paragraph(section,"P1: learn the mechanism, distinctions and application deeply. P2: cover the stated breadth after P1. These priorities guide study order; they do not guarantee exam marks. Every listed target has a corresponding explanation.");
+ const table=el("table"),head=el("thead"),header=el("tr");for(const value of ["Priority","Topic","Exactly what to study"])header.append(el("th",value));head.append(header);const body=el("tbody");
+ for(const entry of topic.study_plan){const row=el("tr"),target=el("td",entry.title);const navigate=button(entry.topic?"Read chapter":"Read explanation",()=>{
+  if(entry.topic)openStudyTopic(entry.topic);
+  else{const explanation=[...panel.querySelectorAll(".teaching-section")].find(node=>node.dataset.sectionId===entry.section);explanation.scrollIntoView({block:"start"});}
+ });target.append(navigate);row.append(el("td",entry.priority),target,el("td",entry.focus));body.append(row);}table.append(head,body);const wrap=el("div",undefined,"scroll");wrap.append(table);section.append(wrap);panel.append(section);
+}
+function renderNoteTables(topic,panel){for(const table of topic.tables){const section=el("section");section.append(el("h3",table.title));const grid=el("table"),head=el("thead"),header=el("tr");for(const value of table.columns)header.append(el("th",value));head.append(header);const body=el("tbody");for(const row of table.rows){const tr=el("tr");for(const value of row.cells)tr.append(el("td",value));body.append(tr);}grid.append(head,body);const wrap=el("div",undefined,"scroll");wrap.append(grid);section.append(wrap);panel.append(section);}}
+function renderNoteSources(topic,panel){paragraph(panel,"Optional audit trail for the explanations and revision material. The reading notes do not require opening these files. Citations show provenance, not independent factual verification.");for(const section of topic.teaching_notes||[]){const box=el("section");box.append(el("h3",section.title),refs(section.refs));panel.append(box);}const pages=new Map();function collect(value){if(Array.isArray(value)){for(const item of value)collect(item);}else if(value&&typeof value==="object"){if(typeof value.source==="string"&&Array.isArray(value.pages)){if(!pages.has(value.source))pages.set(value.source,new Set());for(const page of value.pages)pages.get(value.source).add(page);}else for(const item of Object.values(value))collect(item);}}collect(topic);panel.append(refs([...pages].map(([source,values])=>({source,pages:[...values].sort((a,b)=>a-b)}))));}
+function renderNotes(topic,panel){
+ renderStudyPlan(topic,panel);
+ paragraph(panel,"Read the explanations here; no source links are needed. Worked numerical examples are invented for learning, not observed statistics. Source-era rules and current-affairs claims remain unverified.");
+ if($("collection").value)paragraph(panel,"The collection filter selects linked topics. These notes retain the whole topic, including its static foundation and other evidence.");
+ if(topic.teaching_notes?.length){renderTeaching(topic,panel);panel.append(el("h3","Revision tables and source-era evidence"));}else{
+  paragraph(panel,"A full teaching chapter has not yet been authored for this topic. Existing explanations and applications are included below.");
+  for(const node of topic.map.nodes)paragraph(panel,node.label);
+  for(const card of topic.cards){const item=el("section");item.append(el("h3",card.question));paragraph(item,card.answer);panel.append(item);}
+ }
+ renderNoteTables(topic,panel);
+ if(topic.facts.length){const section=el("section");section.append(el("h3","Facts, data and differing observations"));renderFacts(topic,section,false);panel.append(section);}
+ if(topic.updates.length){const section=el("section");section.append(el("h3","Current-affairs connections"));paragraph(section,"Edition month is not necessarily the event or effective date. Current stream/month filters apply here.");renderUpdates(topic,section,false);panel.append(section);}
+}
+function renderDetail(){const detail=$("detail");detail.replaceChildren();detail.dataset.view=activeTab;const topic=data.topics.find(t=>t.id===selected);if(!topic){detail.append(el("p","No topics match these filters. Clear a filter or search.","notice"));return;}detail.append(el("h2",topic.title));const tags=el("div");for(const tag of [topic.subject,...topic.tags])tags.append(el("span",tag,"tag"));detail.append(tags);paragraph(detail,topic.summary);if(flagFacts(topic).length)detail.append(el("p","This topic has differing observations, retained in Read notes and Facts & review; no latest value has been selected.","notice"));
+ for(const course of data.topics.filter(t=>t.study_plan?.some(entry=>entry.topic===topic.id))){const back=button(`Back to study plan: ${course.title}`,()=>openStudyTopic(course.id));back.className="no-print";detail.append(back);}
+ const nav=el("nav",undefined,"tabs");nav.setAttribute("aria-label","Topic views");const views=[["notes","Read notes",renderNotes],["map","Mind map",drawMap],["tables","Tables",renderTables],["cards","Recall cards",renderCards],["facts","Facts & review",renderFacts],["updates","Current affairs",renderUpdates],["evidence","Evidence links",renderEvidence],["sources","Sources",renderNoteSources]];
+ for(const[id,label]of views){const b=button(label,()=>{activeTab=id;renderDetail();});b.setAttribute("aria-pressed",String(activeTab===id));nav.append(b);}detail.append(nav);
+ for(const[id,label,render]of views){const panel=el("section",undefined,"panel");panel.id=`panel-${id}`;panel.hidden=id!==activeTab;panel.append(el("h3",label));render(topic,panel);detail.append(panel);}
+ if(topic.related.length){const related=el("section");related.append(el("h3","Related static / current topics"));for(const id of topic.related){const t=data.topics.find(t=>t.id===id);related.append(button(t.title,()=>{for(const key of ["search","subject","priority","collection","stream","month","review"])$(key).value="";selected=id;renderList();}));}detail.append(related);}
+ const routine=el("details");routine.append(el("summary","Closed-book practice"));paragraph(routine,"Rebuild the map, explain its arrows, cover table columns, answer the cards, then apply one idea in a fresh question. Correct gaps from the cited pages. For a descriptive answer, select only branches demanded by the question.");detail.append(routine);
+}
+function resourceType(s){const name=s.path.split(/[\\/]/).pop().toLowerCase(),collection=sourceCollection(s);if(name.includes("practice"))return "Practice questions";if(name.includes("answer"))return "Answer writing";if(collection==="Reports_NationalAndInternational")return "Report / Budget / Survey";if(collection==="SchemesAndGovernmentPortals")return "Scheme / government portal";if(collection==="StaticGK")return "StaticGK background";if(collection==="CurrentAffairs-Monthly")return s.kind==="monthly"?"Monthly current affairs":"Current-affairs reference (date unspecified)";if(name.includes("short"))return "Short notes";if(name.includes("infograph"))return "Infographics";if(name.includes("dictionary"))return "Dictionary";return "Full notes";}
+const citationPages=new Map();
+function gather(value){if(Array.isArray(value)){for(const item of value)gather(item);}else if(value&&typeof value==="object"){if(typeof value.source==="string"&&Array.isArray(value.pages)){if(!citationPages.has(value.source))citationPages.set(value.source,new Set());for(const n of value.pages)citationPages.get(value.source).add(n);}else for(const item of Object.values(value))gather(item);}}
+gather(data.topics);
+function renderSources(){const query=$("source-search").value.toLowerCase();$("source-list").replaceChildren();const all=data.sources.slice().sort((a,b)=>a.path.localeCompare(b.path));const esi=all.filter(s=>/[\\/]ESI[\\/]/.test(s.path));$("coverage-stats").textContent=`${esi.length} ESI PDFs indexed; ${esi.filter(s=>citationPages.has(s.id)).length} cited in topic packets. ${data.sources.length} total registered PDFs including other subjects/current affairs.`;$("collection-coverage").replaceChildren();for(const collection of evidenceCollections){const members=all.filter(s=>sourceCollection(s)===collection);const count=data.topics.filter(t=>t.subject==="ESI"&&hasCollection(t,collection)).length;$("collection-coverage").append(el("li",`${collection}: ${members.length} PDFs indexed, ${members.filter(s=>citationPages.has(s.id)).length} cited; linked to ${count} ESI topics.`));}for(const s of all){const type=resourceType(s);if(query&&!`${s.path} ${s.title} ${type}`.toLowerCase().includes(query))continue;const row=el("tr"),title=el("td",s.title);title.append(el("small",s.path));const pages=citationPages.get(s.id);const status=pages?`Cited: PDF pages ${[...pages].sort((a,b)=>a-b).join(", ")} of ${s.pages}`:`Reference only · ${s.pages} pages`;const link=el("a","Open PDF");link.href=encodeURI(s.href).replace(/#/g,"%23").replace(/\?/g,"%3F");link.target="_blank";link.rel="noopener";const cell=el("td"),coverage=el("td",status);if(s.coverage_note)coverage.append(el("small",s.coverage_note));cell.append(link);row.append(title,el("td",type),coverage,cell);$("source-list").append(row);}}
+for(const id of ["search","subject","priority","stream","month","review"])$(id).addEventListener(id==="search"?"input":"change",renderList);
+$("collection").addEventListener("change",()=>{activeTab="notes";renderList();});
+$("source-search").addEventListener("input",renderSources);
+const gaFamilies={B:"Banking, RBI, payments and finance",P:"Schemes and development programmes",E:"Economy, fiscal, trade and socioeconomic data",I:"International bodies and agreements",T:"Technology, infrastructure and defence",N:"Environment, energy and geography",A:"People, sports, awards, days, polity and culture"};
+function gaFamily(topic,label){const tag=topic.tags.find(value=>/^GA family: [BPEITNA]$/.test(value));if(tag)return tag.slice(-1);const value=(topic.title+" "+label).toLowerCase();if(/bank|rbi|monetary|payment|credit|financial|inflation/.test(value))return "B";if(/scheme|portal|beneficiar|programme/.test(value))return "P";if(/sustainab|environment|climate|forest|biodiversity|resource/.test(value))return "N";if(/international|institution|treaty|agreement|global/.test(value))return "I";if(/technolog|industry|infrastructure|digital/.test(value))return "T";return "E";}
+function gaEntry(topic,id,label,detail,list,type,period){const relevant=list.filter(ref=>evidenceCollections.includes(sourceCollection(sources.get(ref.source))));if(!relevant.length)return null;const months=[...new Set(relevant.map(ref=>sources.get(ref.source).period).filter(Boolean))];const match=/^\d{4}-(0[1-9]|1[0-2])(?:-|$)/.exec(period||"");if(match&&!months.includes(match[0].slice(0,7)))months.push(match[0].slice(0,7));const family=gaFamily(topic,label);return {id,topic,label,detail,refs:relevant,type,family,priority:"BPE".includes(family)?1:2,months,period:period||months.join(", ")||"No verified edition month; see cited page"};}
+const gaEntries=[];
+for(const topic of data.topics){
+ for(const table of topic.tables)for(const row of table.rows){const periodIndex=table.columns.findIndex(column=>/edition|reference period|as of/i.test(column));const entry=gaEntry(topic,`${topic.id}/tables/${table.id}/${row.id}`,`${table.title}: ${row.cells[0]}`,row.cells.slice(1).map((value,index)=>`${table.columns[index+1]}: ${value}`).join(" | "),row.refs,"tables",periodIndex>=0?row.cells[periodIndex]:"");if(entry){entry.noteTitle=row.cells[0];entry.fields=table.columns.slice(1).map((column,index)=>({label:column,value:row.cells[index+1]}));gaEntries.push(entry);}}
+ for(const fact of topic.facts)for(const observation of fact.observations){const entry=gaEntry(topic,`${topic.id}/facts/${fact.id}/${observation.id}`,fact.label,observation.value+(flagFacts(topic).includes(fact)?" | REVIEW: differing observations retained":""),observation.refs,"facts",observation.as_of);if(entry)gaEntries.push(entry);}
+ for(const update of topic.updates){const entry=gaEntry(topic,`${topic.id}/updates/${update.id}`,update.title,update.body,update.refs,"updates",update.date);if(entry)gaEntries.push(entry);}
+}
+for(const[family,label]of Object.entries(gaFamilies)){const option=el("option",`${family} - ${label}`);option.value=family;$("ga-family").append(option);}
+for(const collection of evidenceCollections){const option=el("option",collection);option.value=collection;$("ga-collection").append(option);}
+for(const month of [...new Set(gaEntries.flatMap(entry=>entry.months))].sort().reverse()){const option=el("option",month);option.value=month;$("ga-month").append(option);}
+function showLibrary(view){const ga=view==="ga";$("topic-study").hidden=ga;$("ga-library").hidden=!ga;$("show-ga").setAttribute("aria-pressed",String(ga));$("show-topics").setAttribute("aria-pressed",String(!ga));if(ga)renderGA();}
+function renderGA(){
+ const query=$("ga-search").value.trim().toLowerCase(),month=$("ga-month").value;
+ const entries=gaEntries.filter(entry=>(!$("ga-scope").value||entry.topic.subject===$("ga-scope").value)&&(!$("ga-priority").value||entry.priority===Number($("ga-priority").value))&&(!$("ga-family").value||entry.family===$("ga-family").value)&&(!$("ga-collection").value||hasCollection(entry.refs,$("ga-collection").value))&&(!month||(month==="undated"?!entry.months.length:entry.months.includes(month)))&&(!$("ga-type").value||entry.type===$("ga-type").value)&&(!query||[entry.label,entry.detail,entry.period,entry.topic.title,...entry.refs.map(ref=>sources.get(ref.source).title)].join(" ").toLowerCase().includes(query))).sort((a,b)=>a.priority-b.priority||a.family.localeCompare(b.family)||(b.months.at(-1)||"").localeCompare(a.months.at(-1)||"")||a.label.localeCompare(b.label));
+ $("ga-stats").textContent=`${entries.length} matching entries / ${gaEntries.length} four-collection entries · ${gaEntries.filter(entry=>entry.topic.subject==="GA").length} GA-curated · history retained; citations do not establish completeness.`;
+ const notes=$("ga-format").value==="notes";
+ $("ga-notes").hidden=!notes;$("ga-table-wrap").hidden=notes;
+ $("ga-print").textContent=notes?"Print GA notes / save PDF":"Print GA table / save PDF";
+ $("ga-rows").replaceChildren();$("ga-notes").replaceChildren();
+ let family="",group;
+ for(const entry of entries){
+  const kind=entry.type==="facts"?"Fact observation / unverified":entry.type==="updates"?"Dated development / unverified":entry.topic.subject==="GA"?"GA fact / distinction / unverified":"Concept / application evidence (not necessarily a memorisation fact)";
+  const openTopic=()=>{for(const key of ["search","subject","priority","collection","stream","month","review"])$(key).value="";selected=entry.topic.id;activeTab="notes";showLibrary("topics");renderList();};
+  if(notes){
+   if(family!==entry.family){family=entry.family;group=el("section");group.append(el("h3",`P${entry.priority} - ${family}: ${gaFamilies[family]}`));const teaching=data.topics.find(topic=>topic.id===`ga-family-${family.toLowerCase()}`);if(teaching)renderTeaching(teaching,group);group.append(el("h3","Facts and distinctions to learn"));$("ga-notes").append(group);}
+   const note=el("div",undefined,"study-note");note.dataset.entryId=entry.id;note.append(el("h4",entry.noteTitle||entry.label),el("small",kind));
+   if(entry.fields)noteFields(note,entry.fields.map(field=>field.label),entry.fields.map(field=>field.value));else{paragraph(note,entry.detail);paragraph(note,`Edition / reference period: ${entry.period}`);}
+   group.append(note);
+  }else{
+   const row=el("tr"),rank=el("td",`P${entry.priority} - ${entry.family}`);rank.append(el("small",gaFamilies[entry.family]));const content=el("td");content.append(el("strong",entry.label),el("small",kind));paragraph(content,entry.detail);const provenance=el("td");provenance.append(refs(entry.refs),button(entry.topic.title,openTopic));row.append(rank,content,el("td",entry.period),provenance);$("ga-rows").append(row);
+  }
+ }
+ if(!entries.length){const message="No matching curated entries. This does not mean these PDFs contain no relevant facts; check the scan audit and clear filters.";if(notes)paragraph($("ga-notes"),message);else{const row=el("tr"),cell=el("td",message);cell.colSpan=4;row.append(cell);$("ga-rows").append(row);}}
+}
+function renderScan(){
+ const scan=data.evidence_scan;if(!scan){$("ga-scan-summary").textContent="No full-folder scan recorded. Run study_library.py scan before treating coverage as current.";return;}
+ const pages=scan.files.flatMap(file=>file.pages);
+ $("ga-scan-summary").textContent=`Full scan: ${scan.scanned_at} · ${scan.files.length} PDFs / ${pages.length} pages · ${pages.filter(page=>!page.ga_cited).length} pages not GA-cited · ${pages.filter(page=>page.needs_ocr).length} low-text pages. Missing folders: ${scan.missing_collections.join(", ")||"none"}. Removed paths: ${scan.removed_paths.join(", ")||"none"}.`;
+ for(const file of scan.files){const row=el("tr");for(const value of [`${file.collection} / ${file.path.split(/[\\/]/).pop()}`,String(file.pages.length),`${file.pages.filter(page=>page.change==="new").length} / ${file.pages.filter(page=>page.change==="changed").length}`,String(file.pages.filter(page=>!page.ga_cited).length),String(file.pages.filter(page=>page.needs_ocr).length),file.registration])row.append(el("td",value));$("ga-scan-rows").append(row);}
+}
+let printState=[];
+window.addEventListener("beforeprint",()=>{const scope=$("ga-library").hidden?$("detail"):$("ga-library");printState=[...scope.querySelectorAll("details:not(.source-details),.answer")].map(node=>({node,open:node.open,hidden:node.hidden}));for(const{node}of printState){if(node.tagName==="DETAILS")node.open=true;else node.hidden=false;}});
+window.addEventListener("afterprint",()=>{for(const{node,open,hidden}of printState){if(node.tagName==="DETAILS")node.open=open;node.hidden=hidden;}printState=[];});
+$("show-topics").addEventListener("click",()=>showLibrary("topics"));
+$("show-ga").addEventListener("click",()=>showLibrary("ga"));
+for(const id of ["ga-format","ga-search","ga-scope","ga-priority","ga-family","ga-collection","ga-month","ga-type"])$(id).addEventListener(id==="ga-search"?"input":"change",renderGA);
+$("print").addEventListener("click",()=>window.print());
+$("ga-print").addEventListener("click",()=>window.print());
+renderScan();
+renderSources();
+renderList();
+function openLinkedStudyView(){
+ if(location.hash==="#ga-library"){showLibrary("ga");return;}
+ if(!location.hash.startsWith("#topic="))return;
+ const id=new URLSearchParams(location.hash.slice(1)).get("topic");
+ if(data.topics.some(topic=>topic.id===id)){openStudyTopic(id);return;}
+ showLibrary("topics");
+ selected="";
+ const message=el("p",`The linked study topic was not found: ${id}. Choose a topic from the list.`,"notice");
+ message.setAttribute("role","alert");
+ $("detail").replaceChildren(message);
+ $("detail").scrollIntoView({block:"start"});
+}
+window.addEventListener("hashchange",openLinkedStudyView);
+openLinkedStudyView();
+</script>
+</body>
+</html>

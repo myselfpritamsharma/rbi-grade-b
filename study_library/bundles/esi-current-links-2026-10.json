@@ -1,0 +1,494 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "pib247-2026-10",
+      "title": "PIB247 October 2026 compilation",
+      "path": "SubjectNotesForPhase2\\CurrentAffairs-Monthly\\PIB247_October_2026_Monthly_lyst1794155636383.pdf",
+      "sha256": "ebbcd3e4434d16e659a5eef70369746f9fb20bf9608d5a511d5f6e3832b2614a",
+      "pages": 157,
+      "kind": "monthly",
+      "period": "2026-10"
+    }
+  ],
+  "topics": [
+    {
+      "id": "esi-health",
+      "title": "Health: prevention, access and financial protection",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: explain health as well-being and a development input, distinguish prevention from treatment and financial protection from service availability, and prepare one coherent delivery-reform answer.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "static foundation",
+        "health",
+        "social services",
+        "financial protection"
+      ],
+      "related": [
+        "esi-human-development",
+        "esi-poverty",
+        "esi-demography",
+        "esi-gender-issues"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [],
+      "cards": [
+        {
+          "id": "josh-tb-oct2026-application",
+          "question": "Illustrative ESI prompt: why might awareness alone fail to improve TB outcomes?",
+          "answer": "Trace awareness -> testing/diagnosis -> accessible treatment -> continuity/adherence. Explain service-capacity and stigma constraints at each stage. This is an analytical practice prompt, not proof of the programme's measured impact.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                13,
+                14
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": [
+        {
+          "id": "josh-tb-oct2026",
+          "date": "2026-10",
+          "category": "General",
+          "title": "Public health: community participation and TB",
+          "body": "The supplied compilation reports JOSH (Joint Squad for Health) Teams under TB Mukt Bharat Abhiyaan, describing youth outreach, early diagnosis, treatment support and stigma reduction. Link this to health-service access and adherence; an awareness initiative is not itself evidence that disease prevalence has fallen. The date denotes the compilation edition, not a verified event/effective date. Verify the official release before memorising details.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                13,
+                14
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esi-gender-issues",
+      "title": "Gender: agency, resources, care and participation",
+      "subject": "ESI",
+      "summary": "Core depth: use health, education, work and representation as distinct lenses; explain how norms, unpaid care and asset control shape agency, then evaluate an equity-oriented policy mix without relying on one headline ratio.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "gender",
+        "agency",
+        "unpaid care"
+      ],
+      "related": [
+        "employment-measurement",
+        "esi-human-development",
+        "esi-demography",
+        "esi-positive-discrimination",
+        "esi-education"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [],
+      "cards": [
+        {
+          "id": "women-farmers-oct2026-application",
+          "question": "Can a large agricultural work share alone prove women's economic empowerment?",
+          "answer": "No. Separate participation from control over resources, remuneration, decision-making and work quality. Verify whether a statistic measures the female share of farm workers or the share of female workers employed in farming. This is an analytical practice prompt, not proof of the programme's measured impact.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                22,
+                23
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": [
+        {
+          "id": "women-farmers-oct2026",
+          "date": "2026-10",
+          "category": "General",
+          "title": "Gender: recognise work, then analyse access and control",
+          "body": "The compilation discusses Mahila Kisan Diwas and the role of women farmers. Connect recognition to land/resource access, institutional support and the quality of employment. The page's reported labour statistic has a denominator that needs checking against the original PLFS tables; it is deliberately not adopted as a verified data anchor. The date denotes the compilation edition, not a verified event/effective date. Verify the official release before memorising details.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                22,
+                23
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "employment-measurement",
+      "title": "Employment: people, participation and measurement",
+      "subject": "ESI",
+      "summary": "Separate the labour force, workers and unemployed before interpreting a rate. This pilot covers selected concepts, not the entire unemployment chapter.",
+      "tags": [
+        "employment",
+        "labour force",
+        "measurement",
+        "static foundation",
+        "P1 - Core depth",
+        "unemployment types",
+        "policy transmission"
+      ],
+      "related": [
+        "growth-forecasts",
+        "esi-growth-development",
+        "esi-poverty",
+        "esi-demography",
+        "esi-gender-issues"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [],
+      "cards": [],
+      "facts": [],
+      "updates": [
+        {
+          "id": "farm-work-quality-oct2026",
+          "date": "2026-10",
+          "category": "Economy",
+          "title": "Employment: keep the denominator and job quality visible",
+          "body": "The women-in-agriculture item is a useful labour-measurement case, not a new confirmed employment rate. Distinguish female workers in agriculture as a share of all female workers from women as a share of the entire agricultural workforce. Do not copy the compilation's numeric claim until the denominator, period and original table are confirmed. The date denotes the compilation edition, not a verified event/effective date. Verify the official release before memorising details.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                23
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esi-agriculture",
+      "title": "Agriculture: food security, markets and resource trade-offs",
+      "subject": "ESI",
+      "summary": "Mandatory sector breadth: connect nutrition, price discovery and farm incentives. Deepen scheme eligibility from official current sources; avoid memorising every old subsidy rate.",
+      "tags": [
+        "P2 - Syllabus breadth"
+      ],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [],
+      "cards": [
+        {
+          "id": "khet-resource-use-15-oct2026-application",
+          "question": "Outline an evaluation of a sustainable-input campaign.",
+          "answer": "State the resource problem; explain behaviour/incentive channels; assess extension reach and farmer constraints; identify outcome measures for soil, water and yields; discuss trade-offs rather than merely naming the campaign. This is an analytical practice prompt, not proof of the programme's measured impact.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                32,
+                33
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": [
+        {
+          "id": "khet-resource-use-15-oct2026",
+          "date": "2026-10",
+          "category": "Economy",
+          "title": "Agriculture and sustainability: soil, water and input use",
+          "body": "The compilation describes a planned Khet Bachao Abhiyan - Rabi 2026 campaign, with soil health, balanced input use, natural/regenerative practices and water conservation. Use it as a static-policy connection: input choice -> soil/water effects -> farm resilience. A programme announcement does not establish implementation or effectiveness. The date denotes the compilation edition, not a verified event/effective date. Verify the official release before memorising details.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                32,
+                33
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esi-sustainable-development",
+      "title": "Sustainability: resource limits, policy and intergenerational equity",
+      "subject": "ESI",
+      "summary": "Core depth: connect present needs with future resource availability, explain growth\u2013environment mechanisms, evaluate policy instruments and SDG implementation without treating an income threshold as automatic environmental repair.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "sustainability",
+        "SDGs",
+        "environment"
+      ],
+      "related": [
+        "esi-growth-development",
+        "esi-poverty",
+        "esi-urbanisation-migration"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [],
+      "cards": [
+        {
+          "id": "khet-resource-use-5-oct2026-application",
+          "question": "Outline an evaluation of a sustainable-input campaign.",
+          "answer": "State the resource problem; explain behaviour/incentive channels; assess extension reach and farmer constraints; identify outcome measures for soil, water and yields; discuss trade-offs rather than merely naming the campaign. This is an analytical practice prompt, not proof of the programme's measured impact.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                32,
+                33
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": [
+        {
+          "id": "khet-resource-use-5-oct2026",
+          "date": "2026-10",
+          "category": "Economy",
+          "title": "Agriculture and sustainability: soil, water and input use",
+          "body": "The compilation describes a planned Khet Bachao Abhiyan - Rabi 2026 campaign, with soil health, balanced input use, natural/regenerative practices and water conservation. Use it as a static-policy connection: input choice -> soil/water effects -> farm resilience. A programme announcement does not establish implementation or effectiveness. The date denotes the compilation edition, not a verified event/effective date. Verify the official release before memorising details.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                32,
+                33
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esi-positive-discrimination",
+      "title": "Positive discrimination: substantive equality and representation",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: explain why identical treatment can preserve historical disadvantage, distinguish reservation from wider inclusion and evaluate representation, targeting and complementary capability support without asserting unverified legal details.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "static foundation",
+        "affirmative action",
+        "equality",
+        "representation"
+      ],
+      "related": [
+        "esi-gender-issues",
+        "esi-education",
+        "esi-poverty",
+        "esi-multiculturalism"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [],
+      "cards": [
+        {
+          "id": "artisan-access-oct2026-application",
+          "question": "How would you distinguish policy inputs from inclusion outcomes in an artisan programme?",
+          "answer": "Inputs include platforms, outreach and support; intermediate outcomes include buyer reach and sales; final outcomes include sustained earnings and reduced exclusion. Explain which group and barrier the intervention addresses. This is an analytical practice prompt, not proof of the programme's measured impact.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                23,
+                32
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": [
+        {
+          "id": "artisan-access-oct2026",
+          "date": "2026-10",
+          "category": "General",
+          "title": "Social justice: market access as a livelihood mechanism",
+          "body": "The compilation links BHARAT-TULIP and marketing support to artisans from specified disadvantaged communities. Connect the item to substantive inclusion: recognition and credit are not the same as access to buyers, digital markets and sustained earnings. Check the programme's exact beneficiary rules before applying an eligibility claim. The date denotes the compilation edition, not a verified event/effective date. Verify the official release before memorising details.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                23,
+                32
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esi-education",
+      "title": "Education: access, learning and equitable opportunity",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: distinguish forms of learning, enrolment and meaningful educational opportunity; explain access\u2013quality\u2013equity and prepare a reform answer that separates policy aspirations from achieved results.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "static foundation",
+        "education",
+        "learning",
+        "equity"
+      ],
+      "related": [
+        "esi-human-development",
+        "esi-poverty",
+        "esi-gender-issues",
+        "employment-measurement"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [],
+      "cards": [
+        {
+          "id": "education-innovation-oct2026-application",
+          "question": "What would a balanced answer on educational innovation evaluate?",
+          "answer": "Access and participation, teacher capacity, actual learning/problem-solving outcomes, inclusion across schools and the ability to sustain adoption. Distinguish the event year from the compilation month. This is an analytical practice prompt, not proof of the programme's measured impact.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                46
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": [
+        {
+          "id": "education-innovation-oct2026",
+          "date": "2026-10",
+          "category": "General",
+          "title": "Education: innovation activity versus learning outcomes",
+          "body": "The compilation reports recognition of teams in Viksit Bharat Buildathon 2025 and mentions teacher-education guidelines under ULLAS. Use this to discuss problem-solving and institutional support. Participation, prizes and certifications are outputs, not proof of improved learning for all students. The date denotes the compilation edition, not a verified event/effective date. Verify the official release before memorising details.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                46
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esi-industry",
+      "title": "Industry: reforms, approvals and productive capacity",
+      "subject": "ESI",
+      "summary": "Study the reform-to-investment channel, not an inventory of launch dates. Distinguish fewer barriers, easier approvals and actual productive investment.",
+      "tags": [
+        "P2 - Syllabus breadth"
+      ],
+      "related": [
+        "esi-agriculture"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [],
+      "cards": [
+        {
+          "id": "single-window-oct2026-application",
+          "question": "Which indicators would test whether a single-window reform works?",
+          "answer": "Approval time and predictability are intermediate measures; investment implementation and productive outcomes are separate checks. Establish the baseline, metric definition and period before comparing numbers. This is an analytical practice prompt, not proof of the programme's measured impact.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                44,
+                45
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": [
+        {
+          "id": "single-window-oct2026",
+          "date": "2026-10",
+          "category": "Economy",
+          "title": "Industry: approval activity versus investment outcomes",
+          "body": "The compilation reports an expanded National Single Window System and lists application/approval/service counts. The static industry notes explain the platform's guidance and application role. Do not compare unlike counts (services, approvals, ministries and states) as one measure. Administrative throughput is not automatically productive investment or employment. The date denotes the compilation edition, not a verified event/effective date. Verify the official release before memorising details.",
+          "refs": [
+            {
+              "source": "pib247-2026-10",
+              "pages": [
+                44,
+                45
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esi-international-institutions",
+      "title": "International institutions: mandate, finance and reports",
+      "subject": "ESI",
+      "summary": "Mandatory globalisation breadth plus objective report knowledge. Match institutions to functions and reports; do not memorise mutable membership counts from undated notes.",
+      "tags": [
+        "P2 - Syllabus breadth"
+      ],
+      "related": [
+        "esi-external-sector",
+        "growth-forecasts"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [],
+      "cards": [],
+      "facts": [],
+      "updates": [
+        {
+          "id": "forecast-institution-link-oct2026",
+          "date": "2026-10",
+          "category": "Economy",
+          "title": "IMF / World Bank: connect mandates to dated report reading",
+          "body": "The October Spotlight compilation reports IMF and World Bank growth projections. Use the existing Growth forecasts topic to compare publisher, report, forecast horizon and revision date. Different publishers' projections are not two competing observations of one actual GDP outcome. Neither reported forecast has been independently verified here.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                88
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

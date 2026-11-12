@@ -1,0 +1,1465 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "esi-schemes-part1",
+      "title": "Government schemes Part 1",
+      "path": "SubjectNotesForPhase2\\SchemesAndGovernmentPortals\\Government_Schemes__Part_1__lyst1747990379452.pdf",
+      "sha256": "e3eebb022a667e26b28cfaec8c2b76954daca05570d9470f90d5ea92c79717f6",
+      "pages": 188,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-schemes-part2",
+      "title": "Government schemes Part 2",
+      "path": "SubjectNotesForPhase2\\SchemesAndGovernmentPortals\\Government_Schemes__Part_2__lyst1751006895341.pdf",
+      "sha256": "2bca8092b1b2b38cb99ffec9c575635209f43b6482b67f7c13153bed83d51b56",
+      "pages": 162,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-schemes-part3",
+      "title": "Government schemes Part 3",
+      "path": "SubjectNotesForPhase2\\SchemesAndGovernmentPortals\\Government_Schemes__Part_3__lyst1747990464638.pdf",
+      "sha256": "f44691cfd1900032064bcde41b2eff3d01cc3eca84330bcf3e23b7fac6e087ba",
+      "pages": 150,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-schemes-part4",
+      "title": "Government schemes Part 4",
+      "path": "SubjectNotesForPhase2\\SchemesAndGovernmentPortals\\Government_Schemes__Part_4_lyst1758629178875.pdf",
+      "sha256": "690d1b77f35fc3dabae34a7c3ff64a02b3032131faa7078c5322d9dc180bf123",
+      "pages": 25,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-government-portals",
+      "title": "Government portals",
+      "path": "SubjectNotesForPhase2\\SchemesAndGovernmentPortals\\Government_Portals_lyst4584.pdf",
+      "sha256": "c65b8b9da8e95c3cf915e5ba2ac03a4ea80c6a4429c0b4b6489d86137e91416a",
+      "pages": 41,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-schemes-mindmaps",
+      "title": "Schemes mind maps (visually reviewed)",
+      "path": "SubjectNotesForPhase2\\SchemesAndGovernmentPortals\\SchemesMindMaps.pdf",
+      "sha256": "10249c39699cc8fe053ef5627399b454879c48074a088e1e8a2c469fefb76dce",
+      "pages": 10,
+      "kind": "notes",
+      "period": null
+    }
+  ],
+  "topics": [
+    {
+      "id": "esi-agriculture",
+      "title": "Agriculture: food security, markets and resource trade-offs",
+      "subject": "ESI",
+      "summary": "Mandatory sector breadth: connect nutrition, price discovery and farm incentives. Deepen scheme eligibility from official current sources; avoid memorising every old subsidy rate.",
+      "tags": [
+        "schemes-source-evidence"
+      ],
+      "related": [
+        "esi-rural-credit",
+        "esi-poverty"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "scheme-esi-agriculture-policy-design-2026-11",
+          "title": "Scheme design: beneficiaries, delivery and source-era limits",
+          "columns": [
+            "Scheme / version",
+            "Ministry and objective",
+            "Beneficiary / exclusion",
+            "Benefit and delivery",
+            "Funding / finance",
+            "Mechanism, constraint and source era"
+          ],
+          "rows": [
+            {
+              "id": "scheme-pmkisan-row",
+              "cells": [
+                "PM-KISAN",
+                "Agriculture and Farmers Welfare; supplemental income for landholding farmer families.",
+                "Family = husband, wife and minor children with cultivable land in State/UT records. Institutional holders and specified higher-status family members excluded; landholding size alone is not the exclusion.",
+                "DBT to Aadhaar-seeded accounts; States/UTs identify beneficiaries from land records. Portal, app and remote e-KYC support delivery.",
+                "Government income transfer; the cited scheme passage does not specify a Centre-State financing split.",
+                "Income smoothing is distinct from a credit subsidy. Land-record targeting can leave cultivators without recorded ownership outside this described route. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    151,
+                    152
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "scheme-aif-row",
+              "cells": [
+                "Agriculture Infrastructure Fund (AIF)",
+                "Agriculture and Farmers Welfare; medium/long-term debt for post-harvest infrastructure and community farming assets.",
+                "PACS, FPOs, SHGs, farmers, cooperatives, JLGs, agri-entrepreneurs/start-ups and specified sponsored PPP projects appear in the source list; project eligibility still matters.",
+                "Participating financial institutions lend; interest subvention and a credit-guarantee route reduce financing frictions.",
+                "Government supports interest and guarantee fees; the borrower still has a loan to repay. Loan-facility corpus is not an equal-sized cash grant.",
+                "Storage/processing can reduce post-harvest loss, but finance alone does not establish project viability or market access. Source distinguishes financing window from overall scheme duration. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    3,
+                    138,
+                    139
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "scheme-pmmsy-row",
+              "cells": [
+                "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
+                "Fisheries, Animal Husbandry and Dairying; value-chain gaps, productivity, fisher welfare and employment.",
+                "Fishers, fish farmers and workers are the stated welfare focus; pages list infrastructure components, not a complete individual eligibility/exclusion test.",
+                "Harbours, cold chain, processing, markets, seed infrastructure, welfare and safety/quality systems; digital registration/benefit-delivery platform is mentioned.",
+                "Outlay includes Centre, State and beneficiary contributions. Source lists differentiated Centre-State sharing for centrally sponsored components, not one universal grant rate.",
+                "Post-harvest assets connect production to saleable output. Source describes implementation through 2025-26; do not infer continuation beyond that period. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part4",
+                  "pages": [
+                    1,
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "scheme-pmkisan-tax-case",
+          "question": "Original illustrative mini-case: a landholding family includes a member who paid income tax in the last assessment year. Does a small farm guarantee PM-KISAN eligibility?",
+          "answer": "No under the described source-era rule: family-level income-tax exclusion can override landholding eligibility. Do not test only farm size. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-pmkisan-groupd-case",
+          "question": "Original illustrative mini-case: the only proposed exclusion is that a farmer is a Group D government employee. Automatically reject the family?",
+          "answer": "No: the cited employee exclusion expressly excepts MTS/Class IV/Group D. Check all other family-level conditions; the exception alone is not a guarantee of eligibility. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-pmkisan-family-case",
+          "question": "Original illustrative mini-case: husband and wife both own cultivable plots and have minor children. Two PM-KISAN family entitlements?",
+          "answer": "Not under the cited family definition: husband, wife and minor children form one family; multiple land titles do not automatically create multiple family entitlements. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-aif-not-waiver",
+          "question": "Original illustrative mini-case: an FPO plans a viable warehouse and asks whether AIF pays off the entire project loan.",
+          "answer": "No: AIF is debt financing with specified interest/guarantee support, not a universal principal waiver. The FPO remains a borrower and the project must fit eligible infrastructure. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                138,
+                139
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "scheme-pmkisan-transfer-design",
+          "label": "PM-KISAN transfer schedule in the undated scheme notes",
+          "observations": [
+            {
+              "id": "scheme-pmkisan-transfer-design-source-era",
+              "value": "INR 6,000 per eligible family per year in three INR 2,000 DBT instalments; this is a family amount, not per adult. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+              "as_of": "Undated Part 1 p151 scheme design; adjacent p152 separately reports progress as of February 2025, not a current-policy verification date.",
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    151,
+                    152
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-aif-support-terms",
+          "label": "AIF interest-support limits in the supplied notes",
+          "observations": [
+            {
+              "id": "scheme-aif-support-terms-source-era",
+              "value": "3% annual interest subvention on eligible loan principal up to INR 2 crore for at most 7 years; for a larger loan only the capped portion receives the stated subvention. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+              "as_of": "Undated Part 1 pp138-139: financing window described as 2020-21 to 2025-26; overall duration 2020-21 to 2032-33. No claim of present sanction availability.",
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    138,
+                    139
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-pmmsy-source-period",
+          "label": "PMMSY period and outlay described in Part 4",
+          "observations": [
+            {
+              "id": "scheme-pmmsy-source-period-source-era",
+              "value": "INR 20,050 crore total outlay including Centre, States and beneficiaries; source describes 2020-21 to 2024-25 implementation extended to 2025-26. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+              "as_of": "Undated Part 4 p1, explicitly scoped through 2025-26; no inferred extension to 2026-27 or beyond.",
+              "refs": [
+                {
+                  "source": "esi-schemes-part4",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": []
+    },
+    {
+      "id": "esi-rural-credit",
+      "title": "Rural credit and microfinance: access with borrower resilience",
+      "subject": "ESI",
+      "summary": "Match financing to rural cash flows and compare formal institutions, group finance and borrower-protection risks.",
+      "tags": [
+        "schemes-source-evidence"
+      ],
+      "related": [
+        "esi-agriculture",
+        "esi-banks-rbi",
+        "esi-gender-issues"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "scheme-esi-rural-credit-policy-design-2026-11",
+          "title": "Scheme design: beneficiaries, delivery and source-era limits",
+          "columns": [
+            "Scheme / version",
+            "Ministry and objective",
+            "Beneficiary / exclusion",
+            "Benefit and delivery",
+            "Funding / finance",
+            "Mechanism, constraint and source era"
+          ],
+          "rows": [
+            {
+              "id": "scheme-pmkmy-row",
+              "cells": [
+                "PM Kisan Maan Dhan Yojana (PM-KMY)",
+                "Agriculture and Farmers Welfare; old-age security for small and marginal farmers; LIC manages the fund.",
+                "Source-era entry: age 18-40, cultivable land up to 2 ha in State/UT records as on 1 August 2019. Other pension participation and income-tax/professional exclusions matter.",
+                "Voluntary contributory pension; enrolment through CSCs/States, pension after the stipulated retirement age and spouse family-pension provision.",
+                "Age-linked farmer contribution matched 1:1 by the Centre; not a non-contributory DBT entitlement.",
+                "Small landholding does not override entry-age or pension exclusions. The note's broad government-employee exclusion needs the actual current guideline before adjudication. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    154,
+                    155
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "scheme-pmkmy-boundary-case",
+          "question": "Original illustrative mini-case: compare an otherwise eligible entrant aged 40 with exactly 2 ha in the specified historical records, and a new entrant aged 41 with 1 ha.",
+          "answer": "The first is within the source's inclusive age and land ceilings; the second is outside its entry-age band despite the smaller holding. Neither conclusion bypasses other exclusions or the historical land-record date. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                155
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-pmkmy-nps-case",
+          "question": "Original illustrative mini-case: a 30-year-old small farmer is already covered by NPS. Is farm size enough for PM-KMY admission?",
+          "answer": "No in the source-era description: participation in NPS is listed among exclusions. Separate the pension-insurance test from income-transfer eligibility. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                154,
+                155
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "scheme-pmkmy-boundaries",
+          "label": "PM-KMY source-era entry and pension parameters",
+          "observations": [
+            {
+              "id": "scheme-pmkmy-boundaries-source-era",
+              "value": "Entry age 18-40 and landholding up to 2 ha in records as on 1 August 2019; age-linked contribution INR 55-200 monthly, equal Central match, INR 3,000 monthly pension from age 60 and 50% spouse family pension. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+              "as_of": "Undated Part 1 pp154-155; land-record reference date explicitly 2019-08-01. Current eligibility and legal exceptions unverified.",
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    154,
+                    155
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": []
+    },
+    {
+      "id": "esi-banks-rbi",
+      "title": "Banks and RBI: development, inclusion and policy transmission",
+      "subject": "ESI",
+      "summary": "Separate financial intermediation from central-bank policy and evaluate whether formal access becomes usable, resilient finance.",
+      "tags": [
+        "schemes-source-evidence"
+      ],
+      "related": [
+        "esi-poverty",
+        "esi-rural-credit"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "scheme-esi-banks-rbi-policy-design-2026-11",
+          "title": "Scheme design: beneficiaries, delivery and source-era limits",
+          "columns": [
+            "Scheme / version",
+            "Ministry and objective",
+            "Beneficiary / exclusion",
+            "Benefit and delivery",
+            "Funding / finance",
+            "Mechanism, constraint and source era"
+          ],
+          "rows": [
+            {
+              "id": "scheme-pmsby-row",
+              "cells": [
+                "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+                "Finance; affordable accidental-death/disability insurance and deeper insurance access.",
+                "Source-era entry ages 18-70, savings bank/post-office account and auto-debit consent; having an account without consent is not sufficient.",
+                "Annual renewable accident cover; distinguish permanent total and partial disability from death by any cause.",
+                "Subscriber pays an annually auto-debited premium; the cited passage does not establish a fiscal cost-sharing formula.",
+                "Risk pooling protects against a specified shock; it is not medical-treatment reimbursement or general life cover. Renewal and account delivery are essential. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    3,
+                    114
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "scheme-pmjdy-row",
+              "cells": [
+                "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+                "Finance / DFS context; access to basic accounts, remittances, credit, insurance and pensions.",
+                "Unbanked persons can open a basic savings account through a branch or Bank Mitra; separate eligibility applies to the overdraft.",
+                "No minimum balance; account provides a DBT and financial-services delivery rail. RuPay and eligible overdraft facilities are listed.",
+                "Deposit-account infrastructure plus conditional credit/insurance facilities; an overdraft is repayable credit, not a universal cash grant. No fiscal split supplied here.",
+                "Account opening is an access input, not proof of active usage or automatic receipt of every linked scheme. The note distinguishes account access from adult OD eligibility. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    3,
+                    117,
+                    118
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "scheme-pmsby-natural-death-case",
+          "question": "Original illustrative mini-case: an enrolled adult dies of an illness. Is PMSBY the obvious death-by-any-cause cover?",
+          "answer": "No: PMSBY covers accidental death/disability; the adjacent PMJJBY description is life cover for death due to any reason. Product names and a bank account do not make coverage interchangeable. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                114
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-pmsby-no-consent-case",
+          "question": "Original illustrative mini-case: a person has an eligible savings account but never consents to PMSBY auto-debit. Does account ownership alone establish the stated eligibility?",
+          "answer": "No: the source lists auto-debit consent as a separate condition. Do not confuse delivery infrastructure with actual enrolment and renewal. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                114
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-pmjdy-minor-case",
+          "question": "Original illustrative mini-case: a 15-year-old asks for both a PMJDY account and its overdraft. Are these the same eligibility decision?",
+          "answer": "No: the note permits account access above age ten with guardian support but excludes under-18 customers from OD. Account inclusion and access to repayable credit must be tested separately. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                117,
+                118
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "scheme-pmsby-source-terms",
+          "label": "PMSBY premium and accident-cover parameters in supplied notes",
+          "observations": [
+            {
+              "id": "scheme-pmsby-source-terms-source-era",
+              "value": "INR 20 annual premium; INR 2 lakh accidental death/permanent total disability and INR 1 lakh permanent partial disability; source lists entry ages 18-70 and annual renewal. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+              "as_of": "Undated Part 1 p114 design; the same page separately dates enrolment statistics to 2025-01-15, not the effective date of these policy terms.",
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    114
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": []
+    },
+    {
+      "id": "esi-health",
+      "title": "Health: prevention, access and financial protection",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: explain health as well-being and a development input, distinguish prevention from treatment and financial protection from service availability, and prepare one coherent delivery-reform answer.",
+      "tags": [
+        "schemes-source-evidence"
+      ],
+      "related": [
+        "esi-poverty",
+        "esi-human-development"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "scheme-esi-health-policy-design-2026-11",
+          "title": "Scheme design: beneficiaries, delivery and source-era limits",
+          "columns": [
+            "Scheme / version",
+            "Ministry and objective",
+            "Beneficiary / exclusion",
+            "Benefit and delivery",
+            "Funding / finance",
+            "Mechanism, constraint and source era"
+          ],
+          "rows": [
+            {
+              "id": "scheme-pmjay-row",
+              "cells": [
+                "Ayushman Bharat PM-JAY",
+                "Health and Family Welfare; NHA nationally and SHAs in States; financial protection for secondary/tertiary hospitalisation.",
+                "Pages describe the SECC-2011/RSBY-linked cohort. For an eligible family there is no family-size or member-age cap in that description; this is not proof of universal eligibility.",
+                "Family-floater hospital cover, empanelled providers and day-one cover for pre-existing conditions in the described scheme. Distinct from primary-care HWCs.",
+                "Government funded with Centre-State sharing; States can use trust, insurance or mixed implementation models.",
+                "Pooling a family limit reduces catastrophic hospital expenditure, but does not make the limit an individual entitlement or establish all later eligibility expansions. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    34,
+                    40,
+                    41,
+                    42
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "scheme-pmjay-family-floater-case",
+          "question": "Original illustrative mini-case: two members of an eligible family need hospital care. Does each get a separate full PM-JAY annual limit?",
+          "answer": "No: the cited limit is family-floater, shared across eligible members; use by one reduces the remaining family pool. The source does not multiply the limit by family size. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                40,
+                41
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-pmjay-family-size-case",
+          "question": "Original illustrative mini-case: an otherwise eligible SECC-linked family has seven members and a pre-existing illness. Reject it solely for these two reasons?",
+          "answer": "No in the described cohort: no cap on family size/member age and pre-existing conditions covered from enrolment. First establish household eligibility; this is not a blanket statement about all current pathways. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                41
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-pmjay-payer-model",
+          "question": "How can the same PM-JAY benefit operate through a trust or insurer, and why does the distinction matter?",
+          "answer": "In the trust model the SHA manages payments/claims; in the insurance model government pays a premium and the insurer settles provider claims. Benefit design and purchasing/risk-bearing arrangement are separate policy dimensions. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                42
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "scheme-pmjay-family-limit",
+          "label": "PM-JAY family-floater limit in the SECC-linked source description",
+          "observations": [
+            {
+              "id": "scheme-pmjay-family-limit-source-era",
+              "value": "INR 5 lakh per eligible family per year for the described secondary/tertiary hospital cover; no family-size/member-age cap and day-one pre-existing-condition coverage in that description. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+              "as_of": "Undated Part 1 pp40-41; historical SECC-2011/RSBY-linked cohort described. Later expansions and current entitlement routes not comprehensively established.",
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    40,
+                    41
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": []
+    },
+    {
+      "id": "employment-measurement",
+      "title": "Employment: people, participation and measurement",
+      "subject": "ESI",
+      "summary": "Separate the labour force, workers and unemployed before interpreting a rate. This pilot covers selected concepts, not the entire unemployment chapter.",
+      "tags": [
+        "schemes-source-evidence"
+      ],
+      "related": [
+        "esi-poverty",
+        "esi-urbanisation-migration"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "scheme-employment-measurement-policy-design-2026-11",
+          "title": "Scheme design: beneficiaries, delivery and source-era limits",
+          "columns": [
+            "Scheme / version",
+            "Ministry and objective",
+            "Beneficiary / exclusion",
+            "Benefit and delivery",
+            "Funding / finance",
+            "Mechanism, constraint and source era"
+          ],
+          "rows": [
+            {
+              "id": "scheme-mgnrega-row",
+              "cells": [
+                "MGNREGS / MGNREGA",
+                "Rural Development; demand-based rural livelihood security through unskilled manual work.",
+                "Rural households whose adult members volunteer for unskilled manual work; the guarantee unit is the household, not each adult separately.",
+                "Job-card and work-demand route through local government; the source describes time-bound work provision, unemployment allowance and Gram Sabha social audit.",
+                "Source separates Central financing of unskilled wages from shared material/skilled costs; this is public wage employment, not an insurance premium.",
+                "Work demand → employment/income support → potential community assets. Delayed provision/payment or weak social audit can weaken protection. Do not use the note's wage-law sentence as a current legal rule. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part2",
+                  "pages": [
+                    43,
+                    44
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "scheme-eshram-row",
+              "cells": [
+                "e-Shram portal",
+                "Labour and Employment; national database of unorganised workers and support for welfare-scheme delivery.",
+                "Source explicitly includes migrant, construction, gig and platform workers; it does not supply a complete enrolment eligibility/exclusion rule.",
+                "Records identity, occupation, address, education, skills and family details to support employability and welfare delivery.",
+                "Administrative database/delivery infrastructure; no automatic cash benefit or funding split is specified on this page.",
+                "Identification can reduce fragmentation, but registration is not itself proof that a worker qualifies for every linked social-security scheme. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-government-portals",
+                  "pages": [
+                    22
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "scheme-mgnrega-household-case",
+          "question": "Original illustrative mini-case: two adult members of one rural household volunteer for work. Does the source promise a separate annual guarantee to each?",
+          "answer": "No: the described guarantee is 100 days per rural household per financial year, not 100 per adult. Household-level protection differs from counting individual workers employed. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part2",
+              "pages": [
+                43
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-mgnrega-demand-accountability",
+          "question": "Trace the employment-guarantee mechanism and identify an implementation bottleneck.",
+          "answer": "Documented demand should trigger time-bound employment; failure is linked in the note to unemployment allowance. Gram Sabha social audit provides accountability. Demand not recorded or delayed provision can break the protection chain. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part2",
+              "pages": [
+                43,
+                44
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-eshram-gig-case",
+          "question": "Original illustrative mini-case: a migrant platform worker registers on e-Shram and assumes every welfare payment is now assured. What is the error?",
+          "answer": "The database explicitly includes such worker categories, but registration supports identification/delivery; it does not prove eligibility for every underlying benefit. The cited page supplies no universal payment promise. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-government-portals",
+              "pages": [
+                22
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "scheme-mgnrega-source-guarantee",
+          "label": "MGNREGA household guarantee and response period in supplied notes",
+          "observations": [
+            {
+              "id": "scheme-mgnrega-source-guarantee-source-era",
+              "value": "100 days per financial year per rural household volunteering adult labour; employment within 15 days of demand, failing which the note describes unemployment allowance. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+              "as_of": "Undated Part 2 p43 source-era statutory description; applicability, wage notification and operational/legal exceptions need current verification.",
+              "refs": [
+                {
+                  "source": "esi-schemes-part2",
+                  "pages": [
+                    43
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": []
+    },
+    {
+      "id": "esi-poverty",
+      "title": "Poverty: incidence, depth, capabilities and vulnerability",
+      "subject": "ESI",
+      "summary": "Core depth: distinguish absolute, relative and multidimensional poverty; interpret incidence versus shortfall, trace poverty traps and match persistent deprivation or temporary shocks to suitable policy responses.",
+      "tags": [
+        "schemes-source-evidence"
+      ],
+      "related": [
+        "employment-measurement",
+        "esi-gender-issues",
+        "esi-rural-credit"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "scheme-esi-poverty-policy-design-2026-11",
+          "title": "Scheme design: beneficiaries, delivery and source-era limits",
+          "columns": [
+            "Scheme / version",
+            "Ministry and objective",
+            "Beneficiary / exclusion",
+            "Benefit and delivery",
+            "Funding / finance",
+            "Mechanism, constraint and source era"
+          ],
+          "rows": [
+            {
+              "id": "scheme-daynrlm-row",
+              "cells": [
+                "DAY-NRLM",
+                "Rural Development, implemented with SRLMs; rural poverty reduction through women-led institutions and sustainable livelihoods.",
+                "Rural poor households, especially women organised into SHGs and federations; revolving-fund access depends on group maturity and disciplined practices.",
+                "Savings, internal lending, bank linkage, community investment and livelihood support; Panchasutra includes meetings, savings, lending, repayment and bookkeeping.",
+                "Source lists differentiated Centre-State shares, partial World Bank support, revolving funds and federation on-lending; not all support is an individual grant.",
+                "Collective organisation → financial access/capability → livelihood investment. Credit can help, but poor enterprise returns or repayment stress can constrain poverty reduction. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part2",
+                  "pages": [
+                    47,
+                    48
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "scheme-nrlm-vs-wage-guarantee",
+          "question": "Why are DAY-NRLM and MGNREGA complements rather than interchangeable poverty programmes?",
+          "answer": "NRLM builds women-led groups, savings, credit and livelihoods; MGNREGA offers demand-based unskilled wage employment. Institutional/enterprise capability and short-run wage-income protection address different constraints. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part2",
+              "pages": [
+                43,
+                44,
+                47,
+                48
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-shg-revolving-fund-case",
+          "question": "Original illustrative mini-case: a newly named SHG with no meetings or books claims immediate NRLM revolving-fund eligibility. Does the label suffice?",
+          "answer": "No: the source ties revolving-fund support to group maturity and Panchasutra discipline. Meetings, savings, internal lending, repayments and bookkeeping are mechanisms for credible collective finance, not decorative conditions. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part2",
+              "pages": [
+                48
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-education",
+      "title": "Education: access, learning and equitable opportunity",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: distinguish forms of learning, enrolment and meaningful educational opportunity; explain access–quality–equity and prepare a reform answer that separates policy aspirations from achieved results.",
+      "tags": [
+        "schemes-source-evidence"
+      ],
+      "related": [
+        "esi-health",
+        "esi-human-development"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "scheme-esi-education-policy-design-2026-11",
+          "title": "Scheme design: beneficiaries, delivery and source-era limits",
+          "columns": [
+            "Scheme / version",
+            "Ministry and objective",
+            "Beneficiary / exclusion",
+            "Benefit and delivery",
+            "Funding / finance",
+            "Mechanism, constraint and source era"
+          ],
+          "rows": [
+            {
+              "id": "scheme-samagra-row",
+              "cells": [
+                "Samagra Shiksha 2.0",
+                "Education; integrated pre-primary to Class XII support, RTE implementation, equity, teacher training and foundational learning.",
+                "Government/aided-school system across stages; cited pages emphasise social/gender gaps, disability inclusion and disadvantaged communities rather than an individual cash-eligibility test.",
+                "School infrastructure, educational materials, teacher/vocational support and targeted hostel provision alongside FLN goals.",
+                "Source states total and Central outlay for the 2021-22 to 2025-26 phase; it is programme finance, not a uniform per-child grant.",
+                "Access inputs and attendance must translate into learning; assess teacher capability and foundational outcomes, not enrolment alone. Scope is the stated programme phase. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    2,
+                    103,
+                    104
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "scheme-pmposhan-row",
+              "cells": [
+                "PM POSHAN",
+                "Education; school nutrition with attendance, retention and community-participation objectives.",
+                "Balvatika and Classes I-VIII in the covered government/government-aided and other school categories described; not every child in every school automatically qualifies.",
+                "One hot cooked school-day meal; pages connect nutrition with schooling rather than an unconditional household income transfer.",
+                "Centrally sponsored; source gives material-cost norms scoped to 2024-25 and permits additional State/UT spending, not a total-meal-cost figure.",
+                "Nutrition can support attendance and learning readiness. Page 104's claim that PM POSHAN merges ICDS is doubtful and is deliberately NOT adopted. Stated phase ends 2025-26. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    104,
+                    105
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "scheme-samagra-outcome",
+          "question": "A school system expands buildings and enrolment. Why is that insufficient to establish Samagra Shiksha's development objective?",
+          "answer": "The scheme also targets foundational learning, teacher capability, inclusion and social/gender gaps. Inputs/access must translate into competencies; enrolment alone does not establish learning or equitable quality. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                103,
+                104
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-pmposhan-school-case",
+          "question": "Original illustrative mini-case: a child in a covered government primary school and a child in an ordinary private unaided school both claim automatic PM POSHAN coverage. What can this passage establish?",
+          "answer": "The first fits the stated school/class route subject to actual programme conditions. The second is not established by the listed covered categories. School type and education stage matter; do not infer universal child coverage. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                104,
+                105
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "scheme-pmposhan-material-cost",
+          "label": "PM POSHAN material-cost norms labelled 2024-25 in supplied notes",
+          "observations": [
+            {
+              "id": "scheme-pmposhan-material-cost-source-era",
+              "value": "Per child per school day material-cost figures: INR 6.78 Balvatika/primary and INR 10.17 upper primary; these are source-labelled material norms, not total meal costs or certified present rates. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+              "as_of": "2024-25 norms as labelled in undated Part 1 p105; later revisions not verified.",
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    105
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": []
+    },
+    {
+      "id": "esi-gender-issues",
+      "title": "Gender: agency, resources, care and participation",
+      "subject": "ESI",
+      "summary": "Core depth: use health, education, work and representation as distinct lenses; explain how norms, unpaid care and asset control shape agency, then evaluate an equity-oriented policy mix without relying on one headline ratio.",
+      "tags": [
+        "schemes-source-evidence"
+      ],
+      "related": [
+        "esi-education",
+        "esi-rural-credit"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "scheme-esi-gender-issues-policy-design-2026-11",
+          "title": "Scheme design: beneficiaries, delivery and source-era limits",
+          "columns": [
+            "Scheme / version",
+            "Ministry and objective",
+            "Beneficiary / exclusion",
+            "Benefit and delivery",
+            "Funding / finance",
+            "Mechanism, constraint and source era"
+          ],
+          "rows": [
+            {
+              "id": "scheme-bbbp-row",
+              "cells": [
+                "Beti Bachao Beti Padhao (BBBP)",
+                "Women and Child Development nodal, with Health and Education; girl-child survival, protection, education and participation.",
+                "Parents/couples, adolescents, health providers, frontline workers and community institutions are intervention audiences; the passage does not promise a per-girl payment.",
+                "Advocacy, multi-sector district convergence and enforcement against sex selection; coordinated task forces oversee implementation.",
+                "No benefit amount or funding split established by the BBBP passage on these pages; do not borrow the preceding scheme's funding sentence.",
+                "Changing social norms requires service access and enforcement, not publicity alone. Historical district expansion counts in the note are not certified current coverage. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part3",
+                  "pages": [
+                    51,
+                    52
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "scheme-bbbp-no-cash-inference",
+          "question": "Original illustrative mini-case: a family hears the BBBP name and expects a fixed cash payment for each daughter. Can these pages establish that claim?",
+          "answer": "No. They describe awareness, departmental convergence, sex-selection prevention and education/participation goals, not a fixed per-girl payment. Do not infer a cash entitlement from an empowerment objective. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part3",
+              "pages": [
+                51,
+                52
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-nrlm-agency",
+          "question": "How could women-led SHGs improve agency as well as financial access?",
+          "answer": "Regular collective meetings, own savings, internal lending and federation support can strengthen participation and livelihood capability. This is a reasoned policy mechanism, not proof that membership automatically improves every woman's bargaining power. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part2",
+              "pages": [
+                47,
+                48
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-urbanisation-migration",
+      "title": "Urbanisation and migration: drivers, agglomeration and inclusion",
+      "subject": "ESI",
+      "summary": "Core depth: distinguish urban population growth from migration alone, explain push–pull drivers and agglomeration, assess origin/destination effects and match urban-service and inclusion policies to real constraints.",
+      "tags": [
+        "schemes-source-evidence"
+      ],
+      "related": [
+        "esi-sustainable-development",
+        "employment-measurement"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "scheme-esi-urbanisation-migration-policy-design-2026-11",
+          "title": "Scheme design: beneficiaries, delivery and source-era limits",
+          "columns": [
+            "Scheme / version",
+            "Ministry and objective",
+            "Beneficiary / exclusion",
+            "Benefit and delivery",
+            "Funding / finance",
+            "Mechanism, constraint and source era"
+          ],
+          "rows": [
+            {
+              "id": "scheme-pmayu-old-row",
+              "cells": [
+                "PMAY-U: older scheme description (not PMAY-U 2.0 rules)",
+                "Housing and Urban Affairs; pucca housing for eligible urban households including slum dwellers.",
+                "Source defines the beneficiary family and a no-pucca-house-anywhere condition; an adult earning member may be separate in this older description.",
+                "Older ISSR, CLSS, AHP and BLC routes; ARHCs are mentioned for urban migrants/poor.",
+                "The note lists component-specific central assistance and a generic sharing paragraph; their interaction is not resolved here, so no universal funding ratio is taught.",
+                "Housing ownership, rental access and loan subsidy tackle different constraints. Do NOT transfer old CLSS/MIG slabs, family rules or subsidy amounts to PMAY-U 2.0. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part2",
+                  "pages": [
+                    64,
+                    65
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "scheme-pmayu2-limited-row",
+              "cells": [
+                "PMAY-U 2.0: version identification only",
+                "Housing and Urban Affairs; the visually read ministry mindmap links PMAY-U (2015) to PMAY-U 2.0 (2024).",
+                "Eligibility, income bands and exclusions are not supplied by the cited mindmap.",
+                "No benefit amounts, verticals or implementation conditions can be established from this version label.",
+                "Funding design not established by this page; older PMAY-U funding cannot be silently reused.",
+                "Evidence gap is substantive: this source establishes a version label/year, not the current operational guideline. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-mindmaps",
+                  "pages": [
+                    9
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "scheme-pmayu-version-trap",
+          "question": "Original illustrative mini-case: a borrower applies an older PMAY-U CLSS subsidy slab to PMAY-U 2.0 because the names are similar. Is the inference supported?",
+          "answer": "No. Part 2 describes older ISSR/CLSS/AHP/BLC; the visually read mindmap separately labels PMAY-U 2.0 as 2024. That label does not establish 2.0 income bands, benefits, verticals or eligibility. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part2",
+              "pages": [
+                64,
+                65
+              ]
+            },
+            {
+              "source": "esi-schemes-mindmaps",
+              "pages": [
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-urban-rental-constraint",
+          "question": "Why might housing ownership assistance alone miss an urban migrant's immediate housing constraint?",
+          "answer": "A mobile worker may need affordable rental access rather than a purchase loan or an owned house. The source explicitly mentions ARHCs for urban migrants and poor; this does not establish any individual's current rental eligibility. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part2",
+              "pages": [
+                65
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-sustainable-development",
+      "title": "Sustainability: resource limits, policy and intergenerational equity",
+      "subject": "ESI",
+      "summary": "Core depth: connect present needs with future resource availability, explain growth–environment mechanisms, evaluate policy instruments and SDG implementation without treating an income threshold as automatic environmental repair.",
+      "tags": [
+        "schemes-source-evidence"
+      ],
+      "related": [
+        "esi-urbanisation-migration"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "scheme-esi-sustainable-development-policy-design-2026-11",
+          "title": "Scheme design: beneficiaries, delivery and source-era limits",
+          "columns": [
+            "Scheme / version",
+            "Ministry and objective",
+            "Beneficiary / exclusion",
+            "Benefit and delivery",
+            "Funding / finance",
+            "Mechanism, constraint and source era"
+          ],
+          "rows": [
+            {
+              "id": "scheme-amrut2-row",
+              "cells": [
+                "AMRUT 2.0",
+                "Housing and Urban Affairs; urban water security, water supply, sewerage/septage and circular water management.",
+                "Water-supply objective covers urban local bodies broadly; sewerage/septage objective is separately scoped to the 500 AMRUT cities in the note.",
+                "City Water Balance/Action Plans feed State plans; reuse, aquifer/water-body restoration and service monitoring complement physical connections.",
+                "Centre, States and ULBs finance projects; source links releases/outcome-based funding to approved plans and outcomes.",
+                "Connections alone do not secure water: reduce non-revenue water, maintain assets, reuse treated water and build financially capable ULBs. Stated mission phase: 2021-22 to 2025-26. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part2",
+                  "pages": [
+                    2,
+                    67,
+                    68,
+                    69
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "scheme-amrut-service-scope-case",
+          "question": "Original illustrative mini-case: a small ULB outside the 500 AMRUT-city sewerage group expects identical water and sewerage coverage commitments. Is the scope identical in the source?",
+          "answer": "No. The water-supply objective is broadly across ULBs, while universal sewerage/septage is separately scoped to 500 AMRUT cities. Read the service-specific denominator before comparing coverage. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part2",
+              "pages": [
+                67
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-amrut-circular-water",
+          "question": "Trace a water-security mechanism beyond installing more taps.",
+          "answer": "City water balances identify demand/supply gaps; reuse of treated wastewater, water-body/aquifer restoration and lower non-revenue water reduce pressure on freshwater. ULB finances and maintenance constrain the durability of service gains. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part2",
+              "pages": [
+                67,
+                68,
+                69
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-positive-discrimination",
+      "title": "Positive discrimination: substantive equality and representation",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: explain why identical treatment can preserve historical disadvantage, distinguish reservation from wider inclusion and evaluate representation, targeting and complementary capability support without asserting unverified legal details.",
+      "tags": [
+        "schemes-source-evidence"
+      ],
+      "related": [
+        "esi-human-development"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "scheme-esi-positive-discrimination-policy-design-2026-11",
+          "title": "Scheme design: beneficiaries, delivery and source-era limits",
+          "columns": [
+            "Scheme / version",
+            "Ministry and objective",
+            "Beneficiary / exclusion",
+            "Benefit and delivery",
+            "Funding / finance",
+            "Mechanism, constraint and source era"
+          ],
+          "rows": [
+            {
+              "id": "scheme-sugamya-row",
+              "cells": [
+                "Sugamya Bharat Abhiyan / accessibility framework",
+                "Social Justice and Empowerment / DEPwD; barrier-free built environment, transport and ICT for persons with disabilities.",
+                "Accessibility removes environmental barriers to participation; the cited campaign description is not an individual cash-transfer eligibility test.",
+                "Audits, retrofitting, accessible transport/websites and crowdsourced issue reporting through the Sugamya Bharat App.",
+                "Retrofitting allocations are mentioned; the cited passage does not establish a complete current funding formula.",
+                "Formal entitlement without physical/digital accessibility may not create real opportunity. Page 5 describes absorption into SIPDA's barrier-free-environment component; current institutional status remains unverified. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part3",
+                  "pages": [
+                    4,
+                    5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "scheme-sugamya-formal-real",
+          "question": "Original illustrative mini-case: a public service is legally available but its office has stairs and its website cannot be used with assistive technology. Is formal equality enough?",
+          "answer": "No: Sugamya's built-environment, transport and ICT pillars target barriers between formal access and real participation. The case illustrates substantive opportunity, not a newly created cash benefit. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part3",
+              "pages": [
+                4,
+                5
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-growth-development",
+      "title": "Growth and development: output, distribution and transformation",
+      "subject": "ESI",
+      "summary": "Core depth: distinguish real output expansion from inclusive development; explain productivity and structural change, then test jobs, capabilities and environmental costs rather than dumping GDP figures.",
+      "tags": [
+        "schemes-source-evidence"
+      ],
+      "related": [
+        "esi-agriculture",
+        "esi-human-development"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "scheme-esi-growth-development-policy-design-2026-11",
+          "title": "Scheme design: beneficiaries, delivery and source-era limits",
+          "columns": [
+            "Scheme / version",
+            "Ministry and objective",
+            "Beneficiary / exclusion",
+            "Benefit and delivery",
+            "Funding / finance",
+            "Mechanism, constraint and source era"
+          ],
+          "rows": [
+            {
+              "id": "scheme-umang-row",
+              "cells": [
+                "UMANG",
+                "Electronics and IT / NeGD; unified access to Central/State government services.",
+                "Citizen service users; access to the application does not remove each underlying scheme's eligibility conditions.",
+                "Multi-platform service aggregation; the cited July 2021 map integration describes locating facilities, including Mera Ration fair-price-shop navigation.",
+                "Platform/service delivery, not a separate universal transfer; funding split not established by the cited pages.",
+                "Lower search/transaction costs can improve access. Finding a ration shop is NOT evidence that ONORC portability eligibility or authentication rules are met. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part2",
+                  "pages": [
+                    85,
+                    86
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "scheme-umang-ration-gap",
+          "question": "Can the cited UMANG/Mera Ration facility-locator description establish ONORC food-portability rules?",
+          "answer": "No. Locating a fair-price shop is a service-discovery function. These pages do not establish ONORC eligibility, ration entitlements, authentication, portability coverage or the migrant split-with-family mechanism; those remain an evidence gap. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part2",
+              "pages": [
+                85,
+                86
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-pmmsy-chain",
+          "question": "Why can fisheries cold chains and markets matter for development even if production already rises?",
+          "answer": "The PMMSY components address post-harvest quality, transport, market access and worker welfare, connecting output to usable income and jobs. More production without downstream capacity can leave value-chain constraints unresolved. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part4",
+              "pages": [
+                1,
+                2
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-human-development",
+      "title": "Human development: capabilities, human capital and feedback",
+      "subject": "ESI",
+      "summary": "Core depth: explain real freedoms as the end of development, human capital as a productive means, the growth–capability feedback loop and why average index gains can hide exclusion.",
+      "tags": [
+        "schemes-source-evidence"
+      ],
+      "related": [
+        "esi-health",
+        "esi-education",
+        "esi-positive-discrimination"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [],
+      "cards": [
+        {
+          "id": "scheme-capability-complements",
+          "question": "Build a short descriptive answer linking health protection, school meals and accessibility to human development.",
+          "answer": "Hospital financial protection can reduce impoverishing medical shocks; school nutrition supports attendance/readiness; accessible buildings/transport/ICT enable participation. These are complementary capability channels, not a claim that spending automatically produces outcomes. Source-era only; verify current guideline. Operational status uncertain; undated notes are not current certification.",
+          "refs": [
+            {
+              "source": "esi-schemes-part1",
+              "pages": [
+                40,
+                41,
+                104,
+                105
+              ]
+            },
+            {
+              "source": "esi-schemes-part3",
+              "pages": [
+                4
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    }
+  ]
+}

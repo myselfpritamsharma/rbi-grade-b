@@ -1,0 +1,4419 @@
+{
+  "ESI_FM": [
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "OECD Economic Outlook, March 2021 interim update",
+      "references": "2021:O1-3",
+      "asked": "Identify report/publisher; pandemic support finding; India's growth projection.",
+      "study": "Record edition/date, publisher, forecast year, revision direction and policy rationale. Separate projected growth from realised growth and identify the denominator/reference period.",
+      "task": "Make a report card with one projection, one finding and its economic explanation; update the edition rather than memorising the old forecast.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 1,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 2,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 3,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "Economic Survey 2020-21, 2023-24 and 2024-25",
+      "references": "2021:O19;2024:O9-12;2025:O14",
+      "asked": "Recovery explanation; Survey identification; agricultural production/growth; non-farm job requirement; MSME contribution and formalisation.",
+      "study": "Study sectoral trends, growth drivers, employment estimates, agriculture, MSMEs and risks. Preserve financial year, averaging period, units, estimate/forecast status and source table.",
+      "task": "Explain how a strong GDP number can coexist with employment problems; build a year-labelled sector indicator table.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 19,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 9,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 10,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 11,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 12,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 14,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "World Bank Human Capital Index / Human Capital Project",
+      "references": "2022:O15-17",
+      "asked": "India rank/score; index dimensions; project membership count.",
+      "study": "Know publisher, index versus project, survival/health/education dimensions, interpretation of score, country coverage and edition-specific rank. Rank, score and project membership are different facts.",
+      "task": "Explain why improved income alone does not guarantee better human-capital outcomes.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 15,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 16,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 17,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "IMF World Economic Outlook (WEO)",
+      "references": "2023:O9-11;2024:O13",
+      "asked": "Report identification, advanced-economy/global growth forecasts and publication/database cycle.",
+      "study": "Know IMF versus World Bank/OECD publications; release/update dates; country/group forecast; year and revision; inflation/growth risks. Distinguish forecast vintage from forecast horizon.",
+      "task": "Compare two vintages without mixing years or presenting a forecast as an actual outcome.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 9,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 10,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 11,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 13,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "RBI Financial Stability Report, December 2021",
+      "references": "2022:D3",
+      "asked": "Discuss financial resilience, pandemic challenges and reforms with a specific FSR reference.",
+      "study": "Study bank/NBFC asset quality, profitability, capital/liquidity buffers, stress tests, macro-financial risks and interconnectedness. Separate baseline projections from stress scenarios and system aggregates from individual institutions.",
+      "task": "Explain shock -> exposure -> transmission -> buffer -> policy response; use current FSR evidence in a separate dated column.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "D",
+          "question": 3,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "70-80 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "UNDP Gender Equality Strategy 2022-25 and Gender Social Norms Index",
+      "references": "2023:D1",
+      "asked": "Use a strategy/index to discuss gender sensitisation and social norms.",
+      "study": "Separate the strategy's actions from an index's measurement. Study norms, discriminatory attitudes, agency, institutions, education, work and political participation; connect each to a feasible intervention.",
+      "task": "Write a 15-mark outline: diagnosis, mechanisms, sensitisation measures, implementation limits and evidence.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "D",
+          "question": 1,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "74-84 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "World Development Report 2023: migration",
+      "references": "2023:D2",
+      "asked": "Explain migration policy and report recommendations.",
+      "study": "Know publisher, edition/theme, migrants versus refugees, origin/destination effects, skills matching, rights, remittances and policy coordination. Read the report's actual framework before quoting it.",
+      "task": "Construct an origin-country versus destination-country effects table and a balanced policy answer.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "D",
+          "question": 2,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "74-84 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "RBI Report on Currency and Finance: climate-focused report",
+      "references": "2023:D3",
+      "asked": "Climate's macroeconomic effects and global cooperation.",
+      "study": "Study physical/transition risks, output/productivity, food inflation, fiscal pressures, financial stability and adaptation/mitigation finance. The demand names the report; verify exact edition/title from the report before citing data.",
+      "task": "Draw climate shock -> output/prices/public finances/bank risk; add three accurately explained cooperation mechanisms.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "D",
+          "question": 3,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "74-84 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "WEF Global Gender Gap Report and Alliance for Global Good: Gender Equity and Equality",
+      "references": "2024:O1-4",
+      "asked": "Alliance venue/partners; reason for ranking change; report publisher.",
+      "study": "Separate report indicators from alliance membership. Study four gender-gap dimensions, rank versus score, edition changes and initiative partners. A launch venue is not an index component.",
+      "task": "Make two cards: measurement/report and action/alliance; do not merge their facts.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 1,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "72"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 2,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "72"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 3,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 4,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "World Development Report 2024: middle-income transition",
+      "references": "2024:O5-8",
+      "asked": "Director, development strategy, transitions to high income and India-specific findings.",
+      "study": "Study middle-income trap, investment/infusion/innovation, firm dynamism, women's participation, income classification and comparative productivity. Separate useful policy mechanisms from incidental edition metadata.",
+      "task": "Explain why investment alone may cease to be sufficient; make a strategy-stage comparison.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 5,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 6,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 7,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 8,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "WEF Global Risks Report",
+      "references": "2024:O16",
+      "asked": "Identify long-term global risks.",
+      "study": "Record publisher, survey basis, short versus long horizon, risk categories and changing rankings. Do not mix perceived risk rankings with measured probability or realised damage.",
+      "task": "Compare economic, environmental, technological and geopolitical risks over the stated horizons.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 16,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "SDG midline assessment published in a journal",
+      "references": "2024:O17-18",
+      "asked": "Number of lagging indicators and publication carrying the assessment.",
+      "study": "The supplied demand concerns a journal study, not automatically a UN SDG report. Verify title/authors/publication, indicator set, district coverage, deadline and assessment method before quoting figures.",
+      "task": "Create a study-specific card; distinguish this assessment from the Sustainable Development Report and national SDG indices.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 17,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 18,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "World Development Report: welfare-quality reference",
+      "references": "2025:D1",
+      "asked": "Discuss quality of welfare with a WDR reference.",
+      "study": "The reconstructed wording does not reliably establish an edition or precise chapter. Study service quality, delivery capacity, targeting, adequacy, accountability and outcome measurement; authenticate the cited report before attributing recommendations.",
+      "task": "Outline welfare access -> quality -> outcomes, and mark the report-edition field unresolved rather than inventing it.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "D",
+          "question": 1,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "69-80 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "UN Women/UNDESA Gender Snapshot 2025 and Beijing+30 Action Agenda",
+      "references": "2025:D2",
+      "asked": "Discuss six priority pillars in the context of gender equality and the 2030 deadline.",
+      "study": "Keep the monitoring report, Beijing Declaration anniversary and action agenda distinct. Verify the six official pillars; attach barriers, implementation steps and measurable outcomes to each.",
+      "task": "Build six pillar/action/indicator rows from the actual publication, then practise an integrated 15-mark answer.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "D",
+          "question": 2,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "69-80 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "Sustainable Development Report: environment-poverty-growth linkage",
+      "references": "2025:D3",
+      "asked": "Use the report/ranking context to discuss sustainable development.",
+      "study": "Study SDG progress, rank versus score, environmental constraints, poverty traps, distributional costs and policy complementarities. Treat the recalled rank as a historical question cue, not a current verified statistic.",
+      "task": "Explain both a conflict and a synergy among growth, poverty reduction and environmental protection.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "D",
+          "question": 3,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "69-80 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Reports",
+      "name": "FAO Global Forest Resources Assessment 2025",
+      "references": "2025:O19,O22",
+      "asked": "Report features, forest categories, extent and geographic concentration.",
+      "study": "Know publisher, national-data basis, definitions of forest/planted/naturally regenerating categories, area versus percentage, biome/domain and assessment year. Avoid equating tree cover with forest under every definition.",
+      "task": "Make a definition/data/method card and explain why forest area and forest quality can move differently.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 19,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 22,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: urban/basic welfare",
+      "name": "AMRUT, JNNURM and related urban-renewal distinctions",
+      "references": "2021:O6-10",
+      "asked": "SAAP, objectives, cost sharing, scheme succession and extension.",
+      "study": "Know ministry, service focus, city coverage, state action plans, funding pattern, reform incentives and phase/version. Distinguish drinking water/sewerage/green spaces from heritage conservation, housing and smart-city objectives.",
+      "task": "Compare AMRUT with housing and Smart Cities; solve objective-matching and funding cases.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 6,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 7,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 8,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 9,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 10,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: agriculture",
+      "name": "PM-KISAN and its mobile application",
+      "references": "2021:O11-13;2023:O28;2024:O29",
+      "asked": "Disbursement, annual benefit, exclusions, face-authentication app functions and beneficiary cases.",
+      "study": "Study farmer-family/landholder definition, exclusions, benefit/installments, DBT, land/Aadhaar/bank/e-KYC checks and grievance process. Keep historical small/marginal wording separate from applicable revised eligibility.",
+      "task": "Decide eligibility for a government employee, private worker and taxpaying professional; explain each exclusion.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 11,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 12,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 13,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 28,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "82"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 29,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: education",
+      "name": "STARS: Strengthening Teaching-Learning and Results for States",
+      "references": "2021:O21",
+      "asked": "Financing institution and funding amount.",
+      "study": "Know project purpose, school-education outcomes, implementing ministry/states, external lender, financing instrument and results-based features. Date funding figures and distinguish commitment from utilisation.",
+      "task": "Write an inputs -> teaching/assessment -> learning outcomes chain, with a dated financing card.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 21,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: education",
+      "name": "PM eVIDYA",
+      "references": "2022:O28",
+      "asked": "Digital, broadcast and accessible-learning components.",
+      "study": "Study multi-mode delivery, television/radio/digital channels, disability access, connectivity constraints and school-education outcomes.",
+      "task": "Explain why a multi-channel education programme is not the same as a single online portal.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 28,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: food security",
+      "name": "One Nation One Ration Card, NFSA and Food Security Allowance Rules",
+      "references": "2021:O22;2022:O1-4",
+      "asked": "Portability, technology, legal framework, allowance rules, state coverage and award.",
+      "study": "Study entitlement versus portability, beneficiary identification, Aadhaar/e-PoS, inter/intra-state use, grievance/allowance provisions and migrant access. Separate underlying Act from implementing rules.",
+      "task": "Explain how portability helps migrants and why authentication failure still creates exclusion risk.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 22,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 1,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "70"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 2,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "70"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 3,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "70"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 4,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "71"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: financial savings",
+      "name": "Sovereign Gold Bonds (SGB)",
+      "references": "2021:O24;2022:O21;2023:O24;2024:O30",
+      "asked": "Investor eligibility, discount, collateral, interest, tenure, limits and premature redemption cases.",
+      "study": "Study issuing authority, eligible persons/entities, annual purchase limits, issue versus secondary purchase, coupon, market-price risk and redemption windows. Do not assume fresh issuance continues merely because old bonds exist.",
+      "task": "Make SGB versus physical gold versus gold fund comparison; apply the correct historical rule to an investment case.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 24,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "80"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 21,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 24,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 30,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: agriculture portals",
+      "name": "Kisan Suvidha",
+      "references": "2021:O25",
+      "asked": "Identify a farmer-information application from services.",
+      "study": "Know owner, weather/market/advisory services, intended user and distinction from PM-KISAN's benefit-management app.",
+      "task": "Match a farmer's information need to the correct portal, not simply the word Kisan.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 25,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "80"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: health portals",
+      "name": "e-Sanjeevani, NIKSHAY, Kilkari and ANMOL",
+      "references": "2021:O26",
+      "asked": "Recognise public-health applications and their purpose.",
+      "study": "Map each application to service, target user, administering health system and delivery channel: teleconsultation, disease management, maternal messaging or frontline-worker support. Verify current scope before adding details.",
+      "task": "Make application -> user -> service -> ministry cards; distinguish citizen-facing and health-worker-facing tools.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 26,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "80"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: enterprise/property",
+      "name": "PM SVANidhi, SVAMITVA and EPF-support matching",
+      "references": "2021:O28",
+      "asked": "Match working capital, property mapping and employment-contribution support to schemes.",
+      "study": "Study beneficiary, instrument and delivery mechanism separately. Vendor credit is not land-title mapping; pandemic employment support is not a permanent entitlement by default.",
+      "task": "Use a three-column beneficiary/problem/instrument table; verify which named historical EPF-support provision the recalled item intends.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 28,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: food processing",
+      "name": "Operation Greens and PM Kisan SAMPADA distinctions",
+      "references": "2021:O29",
+      "asked": "Objectives, coverage and relation to food-processing support.",
+      "study": "Know value-chain stabilisation, perishables, processing/storage/logistics, implementing ministry and changes in commodity coverage. Do not infer the correct nesting of programmes from answer options.",
+      "task": "Explain price volatility -> supply-chain intervention -> farmer/consumer effects.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 29,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "82"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: social justice",
+      "name": "SMILE and Garima Greh, including PM-DAKSH linkage",
+      "references": "2022:O5-7",
+      "asked": "Shelter name, components, education/livelihood provision and allocation.",
+      "study": "Know distinct target groups, umbrella/sub-scheme relationship, shelter and rehabilitation, skilling, scholarships, implementing ministry and dated funding horizon.",
+      "task": "Build beneficiary -> service -> delivery agency matrix; distinguish umbrella scheme from a component.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 5,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "71"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 6,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "71"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 7,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "72"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: caste inclusion",
+      "name": "PM Adarsh Gram Yojana / PM-AJAY",
+      "references": "2022:O18-20",
+      "asked": "Pilot states, monitorable indicators and implementation award.",
+      "study": "Study SC-majority village eligibility, convergence/gap filling, indicator domains, merger/renaming, implementing ministry and dated pilot/award metadata.",
+      "task": "Explain why infrastructure saturation and social inclusion require different outcome indicators.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 18,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 19,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 20,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: pensions",
+      "name": "PM Kisan Maandhan Yojana",
+      "references": "2022:O22;2024:O23",
+      "asked": "Age, landholding and other-pension exclusions in eligibility cases.",
+      "study": "Study contributory pension, joining/exit age, small/marginal farmer criteria, contribution matching, exclusions and distinction from PM-KISAN income support.",
+      "task": "Apply age, landholding and existing-pension tests separately; show why PM-KISAN and PM-KMY are not interchangeable.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 22,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 23,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: pensions",
+      "name": "PM Vaya Vandana Yojana",
+      "references": "2022:O27",
+      "asked": "Tenure, investment limit and pension frequency.",
+      "study": "Study insurer/administrator, purchase versus pension amount, term, payment options, joining/closure dates and applicable historical limits. A past scheme's rules do not prove it remains open.",
+      "task": "Compare pension purchase product, contributory pension and savings account; label the rule date.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 27,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: pensions",
+      "name": "National Pension System (NPS)",
+      "references": "2024:O28;2025:O5",
+      "asked": "Citizenship/status eligibility, contributions, withdrawals and fund-manager changes.",
+      "study": "Study regulator, subscriber models, age bands, Tier I/II, partial/early/normal exit, annuity/lump sum and permissible changes. Date the rules; separate resident, NRI, OCI and PIO categories.",
+      "task": "Build subscriber-status and exit-event decision trees; calculate payout only under the applicable dated rules.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 28,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 5,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "70"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: mixed beneficiary matching",
+      "name": "Rashtriya Gokul Mission, Stand-Up India and One Stop Centre",
+      "references": "2022:O23",
+      "asked": "Match livestock improvement, entrepreneurship and support for women.",
+      "study": "Know each scheme's beneficiary/problem/instrument. Do not treat every woman or every entrepreneur as eligible for all women-focused programmes.",
+      "task": "Create three sharply different case cards, including one ineligible or wrongly matched case per programme.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 23,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: land acquisition portal",
+      "name": "Bhoomi Rashi",
+      "references": "2022:O24",
+      "asked": "Compensation transfer, PFMS integration and implementing-agency use.",
+      "study": "Study land-acquisition workflow, responsible ministry/agency, compensation delivery, transparency and digital integration.",
+      "task": "Contrast acquisition compensation with property-survey/title mapping under SVAMITVA.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 24,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: cooperatives",
+      "name": "Sahakar Mitra",
+      "references": "2022:O25",
+      "asked": "Identify a cooperative-sector internship programme.",
+      "study": "Know sponsoring institution, target trainees, internship versus enterprise-finance support, learning objectives and current eligibility.",
+      "task": "Compare Sahakar Mitra with cooperative credit/startup programmes without assuming similar names mean similar benefits.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 25,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: fisheries",
+      "name": "PM Matsya Sampada Yojana",
+      "references": "2022:O26",
+      "asked": "Production, income, infrastructure and beneficiary objectives.",
+      "study": "Study fisheries value chain, production/productivity, post-harvest losses, formalisation, beneficiary categories, central/centrally sponsored components and applicable funding pattern.",
+      "task": "Map hatchery -> production -> cold chain -> market; identify which intervention solves which bottleneck.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 26,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: enterprise inclusion",
+      "name": "Stand-Up India",
+      "references": "2022:O29;2023:O22",
+      "asked": "Borrower eligibility, greenfield project, loan terms and default exclusions.",
+      "study": "Study SC/ST/women ownership conditions, eligible activity, new enterprise, bank branch delivery, loan range, repayment/moratorium and updated validity. Keep it separate from MUDRA.",
+      "task": "Decide eligibility for a woman starting a first venture, a repeat project and a wilful defaulter.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 29,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 22,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "80"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: child protection",
+      "name": "PM CARES for Children",
+      "references": "2022:O30",
+      "asked": "Pandemic-related beneficiary conditions, registration and assistance.",
+      "study": "Know qualifying parental loss/date window, education/health/financial components, administrator and application process; verify historical scheme limits rather than accepting the options.",
+      "task": "Create beneficiary timeline and distinguish immediate support from benefits at later ages.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 30,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: child protection",
+      "name": "Mission Vatsalya",
+      "references": "2024:O22",
+      "asked": "Beneficiaries, sponsorship/support and adoption-related cases.",
+      "study": "Study child protection continuum, family-based versus institutional care, sponsorship/foster care, implementing bodies and relationship with adoption law/CARA.",
+      "task": "Distinguish support to a vulnerable child from an adoption incentive to any married couple.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 22,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: environment",
+      "name": "Mission LiFE",
+      "references": "2023:O1-4",
+      "asked": "Initiative name, categories, phases and announcement event.",
+      "study": "Study demand/supply/policy change, lifestyle action categories, launch/announcement distinction and behaviour-to-system pathway.",
+      "task": "Connect a household behaviour to firm response and policy support; distinguish individual action from economy-wide decarbonisation.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 1,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 2,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 3,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 4,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: tribal inclusion",
+      "name": "PVTG development mission, PVTG criteria and geography",
+      "references": "2023:O13-16",
+      "asked": "Budget mission, Saptarishi priority, state distribution and identification criteria.",
+      "study": "Study PVTG versus Scheduled Tribe, vulnerability criteria, basic-service saturation, relevant Budget priority, funding period and later programme naming/version. Do not retroactively replace the name asked with a later name.",
+      "task": "Make criteria -> needs -> service intervention table and distinguish static identification from current mission details.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 13,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 14,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 15,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 16,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: labour portals",
+      "name": "e-Shram/NDUW and UMANG integration",
+      "references": "2023:O17-20",
+      "asked": "Registrations, integration partner, accessible services and state targets.",
+      "study": "Know unorganised-worker database purpose, registration versus actual social-security receipt, age/eligibility, portability, platform integration and snapshot dates.",
+      "task": "Explain why registration totals do not establish insurance or pension coverage; keep platform and service-provider roles separate.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 17,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 18,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 19,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 20,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: health insurance",
+      "name": "Ayushman Bharat PM-JAY",
+      "references": "2023:O21",
+      "asked": "Household/occupation eligibility and family coverage case.",
+      "study": "Study beneficiary basis, family coverage, cashless treatment, covered care, portability, exclusions and distinction from primary-care components of Ayushman Bharat.",
+      "task": "Test whether family size alone excludes an eligible household; justify using scheme rules rather than intuition.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 21,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "80"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: girl-child savings",
+      "name": "Sukanya Samriddhi Yojana",
+      "references": "2023:O23",
+      "asked": "Opening age, deposits and transfer conditions.",
+      "study": "Study guardian/account holder, age window, number of accounts, annual deposit bounds, maturity/withdrawal and rate revision. Never infer rule correctness from an incorrect case statement.",
+      "task": "Compare account-opening deadline, deposit period and maturity date on a timeline.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 23,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "80"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: scholarships",
+      "name": "Prime Minister's Scholarship Scheme (PMSS)",
+      "references": "2023:O25",
+      "asked": "Widow/child eligibility and qualifying educational marks.",
+      "study": "Verify which PMSS and administering department the source means; similarly named scholarship programmes differ. Study beneficiary relationship, course eligibility, marks and selection conditions.",
+      "task": "Resolve programme identity first, then apply education/marks conditions; do not invent a universal PMSS eligibility rule.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 25,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: women protection",
+      "name": "Swadhar Greh",
+      "references": "2023:O26",
+      "asked": "Woman's age/stay and accompanying-child conditions.",
+      "study": "Study target women, shelter/services, age/child provisions and subsequent convergence/renaming. Answer a historical case with the historical rules; prepare current successor separately.",
+      "task": "Draw mother/child eligibility and duration decision tree with date-labelled rules.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 26,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: medicines",
+      "name": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana",
+      "references": "2023:O27",
+      "asked": "Store operator margin, incentives and special assistance.",
+      "study": "Study implementing body, generic-drug access, Kendra operator eligibility, margin versus incentive, ceilings and quality/procurement safeguards.",
+      "task": "Separate medicine affordability for patients from financial support for store operators.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 27,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "82"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: microcredit",
+      "name": "Pradhan Mantri MUDRA Yojana",
+      "references": "2023:O29",
+      "asked": "New/existing enterprises, charges, insurance and commercial-vehicle use.",
+      "study": "Study loan categories and current ceilings, eligible non-farm activities, lender/guarantee roles, collateral conditions and business use. Historical limits are not automatically current limits.",
+      "task": "Classify a working-capital, vehicle and enterprise-expansion case; compare with Stand-Up India.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 29,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "82"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: women's savings",
+      "name": "Mahila Samman Savings Certificate",
+      "references": "2023:O30",
+      "asked": "Closure, interest penalty and partial withdrawal rules.",
+      "study": "Study opening window, eligible depositor/guardian, investment ceiling, tenor, interest treatment, withdrawal and early closure. Verify whether new accounts remain available.",
+      "task": "Build opening -> withdrawal -> maturity timeline and distinguish early closure from partial withdrawal.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 30,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "83"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: agriculture sustainability",
+      "name": "PM-PRANAM and Agriculture Infrastructure Fund portal",
+      "references": "2024:O19-20",
+      "asked": "Portal development partner; fertiliser-subsidy savings and grant design.",
+      "study": "Keep the AIF interest-subvention workflow separate from PM-PRANAM incentives. Study chemical-fertiliser baseline, savings calculation, grant utilisation, agency roles and verification.",
+      "task": "Explain fiscal incentive -> state behaviour -> farm practice -> environmental outcome, including perverse incentives.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 19,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 20,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: employment services",
+      "name": "National Career Service",
+      "references": "2024:O21",
+      "asked": "Jobseekers, overseas jobs, apprenticeships and ex-servicemen services.",
+      "study": "Study employment matching, counselling, service beneficiaries, portal services and distinction from a job guarantee or a cash-transfer scheme.",
+      "task": "Match three user needs to actual NCS services; do not promise employment merely from registration.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 21,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: disaster/medical relief",
+      "name": "Prime Minister's National Relief Fund",
+      "references": "2024:O25",
+      "asked": "Disaster, accident and medical-assistance eligibility.",
+      "study": "Study purpose, eligible distress categories, assistance process and distinction from PM CARES and statutory disaster funds.",
+      "task": "Create event/person/assistance cases without assuming every medical expense qualifies automatically.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 25,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "80"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: farm infrastructure",
+      "name": "Agriculture Infrastructure Fund (AIF)",
+      "references": "2024:O26",
+      "asked": "Eligible post-harvest/community-farming projects and applicants.",
+      "study": "Study debt financing, eligible assets/entities, interest subvention, credit guarantee, project limits and operational period. Distinguish primary processing/infrastructure from every food-processing activity.",
+      "task": "Apply rules to a mill, pickle business, farmer and mushroom project; identify the asset and activity before deciding.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 26,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "80"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: accident insurance",
+      "name": "Pradhan Mantri Suraksha Bima Yojana",
+      "references": "2025:O1",
+      "asked": "Accident benefit, disability category and joining/coverage age cases.",
+      "study": "Study insurer/bank enrolment, premium, annual renewal, death versus partial/total disability and exclusions; compare with life insurance.",
+      "task": "Decide three cases by covered event, age and benefit category, not by poverty status alone.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 1,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "69"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: savings",
+      "name": "Public Provident Fund",
+      "references": "2025:O2",
+      "asked": "Loans, withdrawal, minimum deposit and discontinued-account consequences.",
+      "study": "Study eligible account holder, deposits, lock-in/extension, loan calculation base, partial withdrawals, reactivation and interest revision. Separate account discontinuation from forfeiture.",
+      "task": "Draw the permitted loan/withdrawal/maturity timeline and explain why PPF is not NPS.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 2,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "69"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: skill infrastructure",
+      "name": "Pradhan Mantri Kaushal Kendra",
+      "references": "2025:O3",
+      "asked": "Training provider's eligibility, infrastructure, history and financial conditions.",
+      "study": "Study provider versus trainee eligibility, centre norms, NSQF alignment, financing/implementation agency and quality assurance.",
+      "task": "Evaluate a proposed training centre using provider requirements; do not apply student rules to an organisation.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 3,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "70"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: energy",
+      "name": "PM Surya Ghar: Muft Bijli Yojana",
+      "references": "2025:O4",
+      "asked": "Rooftop capacity/subsidy, upgrade and ownership cases.",
+      "study": "Study eligible household/roof, capacity-linked assistance, approved installation/net metering, application workflow and current subsidy schedule. Distinguish subsidy from guaranteed zero electricity bill.",
+      "task": "Calculate assistance from an authenticated schedule and assess an upgrade/tenant case.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 4,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "70"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: adoption",
+      "name": "CARA adoption rules referenced as 2025",
+      "references": "2025:O6",
+      "asked": "Single-parent sex, parental age and child's age eligibility.",
+      "study": "Study adoption authority, single/couple eligibility, composite age, child-age bands and restrictions; authenticate the legal instrument/year rather than assuming the recalled label is exact.",
+      "task": "Create parent-sex/age/child-age case matrix and distinguish adoption from sponsorship/foster care.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 6,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "71"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: education inclusion",
+      "name": "SHRESHTA",
+      "references": "2025:O7",
+      "asked": "Eligible social group, income, entry class and education support.",
+      "study": "Study intended SC students, residential schooling, selection/entry stages, income threshold and support components. Verify limits from the dated guidelines.",
+      "task": "Apply social group, income and entry-class filters in sequence.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 7,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "71"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: ageing",
+      "name": "Atal Vayo Abhyuday Yojana",
+      "references": "2025:O8",
+      "asked": "Senior support, startup assistance, old-age-home standards and grants.",
+      "study": "Study umbrella components, senior-citizen services, implementing ministry, institutional standards and distinction between grants and equity support.",
+      "task": "Map each recalled statement to the relevant component before testing amount/eligibility.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 8,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "71"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: workers' pensions",
+      "name": "PM Shram Yogi Maandhan",
+      "references": "2025:O9",
+      "asked": "Income, entry age and membership of other pension arrangements.",
+      "study": "Study unorganised-worker criteria, contributory structure, matching, pension age, exclusions and exit conditions.",
+      "task": "Compare PM-SYM, PM-KMY, APY and NPS using beneficiary/entry/contribution/benefit columns.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 9,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "72"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: farm development",
+      "name": "PM Dhan-Dhaanya Krishi Yojana and Aspirational Districts Programme",
+      "references": "2025:O15-18",
+      "asked": "Allocation, model programme, district-plan review and indicator count.",
+      "study": "Study district selection, convergence, productivity/diversification/irrigation/credit, governance and monitoring. Keep a Budget announcement, Cabinet approval and implementation dates distinct.",
+      "task": "Create district problem -> converged intervention -> measurable outcome table; verify programme indicator counts by edition.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 15,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 16,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 17,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 18,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: environment regulation",
+      "name": "Green Credit Programme and Environment Audit Rules 2025",
+      "references": "2025:O20-21",
+      "asked": "Programme objectives and auditor certification/assignment.",
+      "study": "Separate voluntary incentives, carbon credits, mandatory environmental clearance and audit compliance. Study responsible authority, eligible activities, measurement, independence and random allocation if confirmed in rules.",
+      "task": "Explain why a green credit is not a substitute for statutory clearance; build an auditor independence case.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 20,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 21,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Schemes: urban housing",
+      "name": "PMAY-U 2.0 and Angikaar 2025 outreach",
+      "references": "2025:O23-26",
+      "asked": "Campaign name/theme, four housing verticals and special-focus groups.",
+      "study": "Study beneficiary/income/ownership conditions, construction/partnership/rental/interest support, central assistance, campaign versus core scheme and convergence with rooftop solar.",
+      "task": "Compare the four verticals by beneficiary, tenure, delivery and subsidy; distinguish campaign awareness from entitlement.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 23,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 24,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 25,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 26,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Policies/institutions",
+      "name": "RBI liquidity framework, LTRO and monetary transmission",
+      "references": "2021:O14-17;2022:D5;2023:D5;2025:D5",
+      "asked": "Identify operations, rate linkage, liquidity signals, reserve cycle, instruments and a dated policy assessment.",
+      "study": "Study policy rate/corridor, operating target, CRR/SLR, repo/reverse repo, variable-rate operations, OMO, standing facilities and transmission. Separate liquidity quantity, policy stance and rate action; update changes after the historical paper.",
+      "task": "Draw surplus/deficit balance-sheet flows; explain eight distinct instruments and analyse growth/inflation/credit trade-offs.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 14,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 15,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 16,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 17,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        },
+        {
+          "year": 2022,
+          "kind": "D",
+          "question": 5,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "70-80 (section)"
+        },
+        {
+          "year": 2023,
+          "kind": "D",
+          "question": 5,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "74-84 (section)"
+        },
+        {
+          "year": 2025,
+          "kind": "D",
+          "question": 5,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "69-80 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Policies/institutions",
+      "name": "WTO, IMF, globalisation and trade/investment",
+      "references": "2021:O4,O20,O23,D3;2022:O11-14;2023:O5-8,O12;2024:O27",
+      "asked": "Trade benefits, WTO origins/body/head, IMF missions, TRIPS waiver, ECTA, deemed exports and post-crisis globalisation.",
+      "study": "Study GATT/WTO, institutions versus reports, tariffs/rules of origin, goods/services, deemed-export rules, trade diversion, technology transfer and global value chains. Incumbents/agreement counts are dated; founding history is not.",
+      "task": "Compare liberalisation benefits/costs and evaluate an FTA or vaccine-IP waiver through multiple stakeholders.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "D",
+          "question": 3,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "73-82 (section)"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 4,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 20,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 23,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "80"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 11,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 12,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 13,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 14,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 5,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 6,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 7,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "75"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 8,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 12,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 27,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "80"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Policies/institutions",
+      "name": "Raisina Dialogue",
+      "references": "2022:O8-10",
+      "asked": "Event identity, side-event locations, guests and themes.",
+      "study": "Study organiser, purpose, annual theme and participants; identify this as geopolitics/general current affairs rather than static economics theory.",
+      "task": "Make a compact dated event card; do not let incidental event trivia displace core syllabus preparation.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 8,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "72"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 9,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "72"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 10,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Policies/institutions",
+      "name": "Union Budget, 15th Finance Commission and disinvestment",
+      "references": "2021:O27,D1,D4;2023:O14;2024:D2",
+      "asked": "Startup changes, horizontal/vertical transfers, disinvestment rationale and digital initiatives.",
+      "study": "Study fiscal federalism, devolution versus grants, tax/non-tax receipts, capital/revenue, strategic sale versus minority sale and policy channels. Identify the specific Budget/Commission period before citing recommendations.",
+      "task": "Build measure -> mechanism -> beneficiaries -> fiscal cost -> implementation risk; compare vertical and horizontal distribution.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "D",
+          "question": 1,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "73-82 (section)"
+        },
+        {
+          "year": 2021,
+          "kind": "D",
+          "question": 4,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "73-82 (section)"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 27,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 14,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        },
+        {
+          "year": 2024,
+          "kind": "D",
+          "question": 2,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "72-82 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Policies/institutions",
+      "name": "Industrial/labour reform, startups and MSME formalisation",
+      "references": "2021:O30;2022:D2;2023:D6;2024:O24,D5;2025:O11-14",
+      "asked": "Labour-code objectives, post-1991 reforms, startup recognition, corridors, startup constraints and Udyam-related formalisation.",
+      "study": "Study registration versus regulatory authority, enterprise thresholds, formalisation incentives, logistics/cluster effects, labour protections and implementation status. Reconstructed 2025 MSME questions have an unrelated preceding passage.",
+      "task": "Explain how credit, compliance, skills and infrastructure interact; distinguish Udyam, Udyam Assist and TReDS.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 30,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "82"
+        },
+        {
+          "year": 2022,
+          "kind": "D",
+          "question": 2,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "70-80 (section)"
+        },
+        {
+          "year": 2023,
+          "kind": "D",
+          "question": 6,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "74-84 (section)"
+        },
+        {
+          "year": 2024,
+          "kind": "D",
+          "question": 5,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "72-82 (section)"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 24,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 11,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 12,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 13,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 14,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "73"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Policies/institutions",
+      "name": "SEBI SIF framework and revised equity-derivatives/MWPL rules",
+      "references": "2025:O10,O27-30",
+      "asked": "SIF entry/short exposure/redemption/accreditation; position limits, ban trigger, surveillance and pre-open measures.",
+      "study": "Study regulator, product purpose, eligible investor, minimum ticket, exposure limits, free-float versus total market cap, position-limit categories and effective dates. Do not transfer a threshold from one instrument to another.",
+      "task": "Use a dated old-rule/new-rule/rationale table and calculate a position-limit case from authenticated inputs.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 10,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "72"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 27,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 28,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 29,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 30,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "79"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Concepts/descriptive",
+      "name": "Poverty, welfare, jobs and rural enterprise",
+      "references": "2021:D2;2022:D4;2023:D4,D6;2024:D1",
+      "asked": "Measurement merits/limits, safety nets, enterprise constraints, programme design and youth jobs.",
+      "study": "Study monetary/multidimensional poverty, incidence/intensity, LFPR/WPR/unemployment, informality, skills mismatch, credit/markets and policy evaluation. For the generic three-scheme prompt, candidate-selected examples are not historically named schemes.",
+      "task": "Write a measure -> limitation -> intervention -> outcome answer; compare three verified current programmes without claiming they were named in the paper.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "D",
+          "question": 2,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "73-82 (section)"
+        },
+        {
+          "year": 2022,
+          "kind": "D",
+          "question": 4,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "70-80 (section)"
+        },
+        {
+          "year": 2023,
+          "kind": "D",
+          "question": 4,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "74-84 (section)"
+        },
+        {
+          "year": 2023,
+          "kind": "D",
+          "question": 6,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "74-84 (section)"
+        },
+        {
+          "year": 2024,
+          "kind": "D",
+          "question": 1,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "72-82 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Concepts/descriptive",
+      "name": "Social structure, demography, gender and multiculturalism",
+      "references": "2021:D5;2022:D1;2023:O15-16;2024:D4;2025:D6",
+      "asked": "Demographic transition, protective discrimination, PVTG identification, women-led development and multiculturalism.",
+      "study": "Study caste/gender disadvantage, equality versus equity, affirmative action, demographic dividend/ageing, agency, unpaid care, pluralism and social cohesion. Link institutions and norms to outcomes rather than listing schemes.",
+      "task": "Prepare mechanism-based answers with one counterargument and practical safeguards; compare diversity with inclusion.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "D",
+          "question": 5,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "73-82 (section)"
+        },
+        {
+          "year": 2022,
+          "kind": "D",
+          "question": 1,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "70-80 (section)"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 15,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 16,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        },
+        {
+          "year": 2024,
+          "kind": "D",
+          "question": 4,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "72-82 (section)"
+        },
+        {
+          "year": 2025,
+          "kind": "D",
+          "question": 6,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "69-80 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Concepts/descriptive",
+      "name": "Climate, SDGs, polycrisis and sustainable growth",
+      "references": "2021:O18,D6;2024:O14-15,D3;2025:D3",
+      "asked": "SDG institution, interconnected crises, climate commitments and growth-environment tensions.",
+      "study": "Study mitigation/adaptation, absolute emissions versus intensity, physical/transition risk, externalities, distributional effects, resource efficiency and just transition. Keep report-specific facts separate from stable causal concepts.",
+      "task": "Draw climate-poverty-growth feedback loops and explain both policy trade-offs and co-benefits.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "D",
+          "question": 6,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "73-82 (section)"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 18,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "78"
+        },
+        {
+          "year": 2024,
+          "kind": "D",
+          "question": 3,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "72-82 (section)"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 14,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "76"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 15,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "77"
+        },
+        {
+          "year": 2025,
+          "kind": "D",
+          "question": 3,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "69-80 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Concepts/descriptive",
+      "name": "Financial resilience, NBFCs and AI banking",
+      "references": "2022:D3,D6;2024:D6",
+      "asked": "FSR-linked resilience/pandemic reform, NBFC-bank differences and AI benefits/risks.",
+      "study": "Study credit/liquidity/market/operational risk, capital buffers, interconnections, depositor protection distinctions, AI use cases, bias, privacy, model risk and human accountability.",
+      "task": "Compare banks/NBFCs, then write a shock -> transmission -> buffer -> regulatory response chain.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "D",
+          "question": 3,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "70-80 (section)"
+        },
+        {
+          "year": 2022,
+          "kind": "D",
+          "question": 6,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "70-80 (section)"
+        },
+        {
+          "year": 2024,
+          "kind": "D",
+          "question": 6,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "72-82 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Concepts/descriptive",
+      "name": "Urbanisation, Smart Cities and inclusive development",
+      "references": "2025:D4",
+      "asked": "Urban-growth trends and Smart Cities with a Visakhapatnam reference.",
+      "study": "Study municipal capacity, housing, water/sanitation, transport, livelihoods, digital access, resilience and project outcomes. Authenticate the city example; do not invent local projects or statistics.",
+      "task": "Build a city case with one verified intervention, beneficiary/outcome evidence and an inclusion limitation.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "D",
+          "question": 4,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "69-80 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "ESI",
+      "group": "Uncertain source",
+      "name": "Population/environment country item",
+      "references": "2021:O5",
+      "asked": "A country-level claim whose recreated context is insufficient.",
+      "study": "Preserve as an unresolved evidence item; do not invent a report finding or use it to create a strong preparation priority.",
+      "task": "Identify the missing context and practise evaluating the general population-resource-environment relationship only.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 5,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "74"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance institutions",
+      "name": "RBI, SEBI, NPCI, NSDL/CDSL, CCIL and market responsibilities",
+      "references": "2021:O4-6,O14-16;2024:O7;2025:O2-4",
+      "asked": "NETC/FASTag, regulators, depositories, payment institutions, NDS-OM and transaction infrastructure.",
+      "study": "Study regulator versus operator versus clearing corporation versus depository; payment versus securities markets; order matching versus clearing/settlement. Some recollections use imprecise institutional labels, so do not adopt their wording as fact.",
+      "task": "Draw trade/payment lifecycles and assign each institution one correct role.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 4,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 5,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 6,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 14,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 15,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 16,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 7,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 2,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 3,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "82"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 4,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "82"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance institutions",
+      "name": "DFIs: SIDBI, NHB, NABARD, RRBs, EXIM and NaBFID",
+      "references": "2021:D4;2023:O21;2025:O1-2",
+      "asked": "Mandates, infrastructure financing and regulator.",
+      "study": "Study target sector, refinance/direct lending/development roles, ownership versus regulation and sources/tenor of funds. Separate historical formation facts from current mandates.",
+      "task": "Compare each institution by borrower, instrument and market failure; explain why long-term infrastructure needs a DFI.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "D",
+          "question": 4,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "83-90 (section)"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 21,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "91"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 1,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 2,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance inclusion",
+      "name": "Small Finance Banks",
+      "references": "2024:O9-12",
+      "asked": "Identify the institution, underserved customer groups, financial access and literacy role.",
+      "study": "Study SFB versus payments bank versus RRB, deposit/lending permission, target segment, inclusion purpose and prudential obligations. Passage-based service descriptions are not necessarily new policy.",
+      "task": "Compare bank types by permissible activity, customer and business-model risk.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 9,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 10,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 11,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 12,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance investment vehicles",
+      "name": "Infrastructure Investment Trusts (InvITs)",
+      "references": "2025:O5-6",
+      "asked": "Public issue allocation and anchor-investor allocation proportions.",
+      "study": "Study trust/sponsor/manager/trustee, infrastructure assets, cash distributions, listing, eligible investors and allocation denominators. Verify current SEBI provisions; a percentage of the institutional portion is not a percentage of the entire issue.",
+      "task": "Draw investor -> trust -> infrastructure -> cash-distribution flow and calculate allocation from the correct base.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 5,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "82"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 6,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "82"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance markets/rules",
+      "name": "ASBA, UPI applications and debt public issues",
+      "references": "2021:O7-8;2024:O5-8",
+      "asked": "IPO route, eligible banks, application threshold, method, regulator and commencement date.",
+      "study": "Study blocked versus debited funds, SCSBs/intermediaries, IPO versus debt issue, retail thresholds and circular effective date. Do not mix public issue, exchange trading and settlement timelines.",
+      "task": "Draw application -> blocking -> allotment -> debit/unblock, then attach the correct dated circular.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 7,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 8,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 5,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 6,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 7,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 8,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance markets/rules",
+      "name": "Hybrid Annuity Model and PPP",
+      "references": "2021:O9-11",
+      "asked": "Model identification, construction/annuity sharing and infrastructure use.",
+      "study": "Study EPC/BOT/HAM, asset ownership, financing, construction risk, traffic risk, government contribution and lifecycle maintenance.",
+      "task": "Compare who finances, builds, operates, bears demand risk and pays under each model.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 9,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 10,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 11,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance markets/rules",
+      "name": "Revenue expenditure, non-tax revenue, Budget and Contingency Fund",
+      "references": "2021:O21,D1;2023:O29;2025:O23,D4",
+      "asked": "Revenue/capital distinctions, non-tax receipts, Budget announcements, fund corpus and policy balance.",
+      "study": "Study receipts/expenditure, deficits, debt versus non-debt capital receipts, voted spending versus contingency provision and monetary-fiscal coordination. Date fund corpus and distinguish a current Budget demand from a conceptual Budget demand.",
+      "task": "Classify interest, subsidy, lending and asset creation; explain growth/inflation effects without equating every outlay with productive capital.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "D",
+          "question": 1,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "83-90 (section)"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 21,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 29,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "92"
+        },
+        {
+          "year": 2025,
+          "kind": "D",
+          "question": 4,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "81-90 (section)"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 23,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance markets/rules",
+      "name": "FDI in banking, FPI bond limits and LRS",
+      "references": "2021:O25;2022:O27;2023:O27",
+      "asked": "Sector/individual limits, recent corporate-bond limit and outward remittance ceiling.",
+      "study": "Study automatic/approval routes, ownership versus voting/shareholding limits, FDI/FPI, resident outward remittance and eligible transactions; date every limit.",
+      "task": "Maintain separate sectoral cap, investor cap and transaction cap columns; apply a resident-remittance case.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 25,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 27,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 27,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "92"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance markets/rules",
+      "name": "Commercial paper and negotiable instruments",
+      "references": "2022:O8-11;2023:O30",
+      "asked": "CP tenor/denomination/form and bill-of-exchange case.",
+      "study": "Study secured/unsecured, issuer/investor, discount versus coupon, maturity, denomination, promissory note versus bill, parties and acceptance. Verify applicable CP directions rather than treating historical thresholds as permanent.",
+      "task": "Compare CP, certificate of deposit, Treasury bill and bill of exchange; identify drawer/drawee/payee in a case.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 8,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "83"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 9,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "83"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 10,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "83"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 11,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 30,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "93"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance numericals",
+      "name": "Valuation ratios, ROA and accounting relationships",
+      "references": "2021:O26;2023:O22;2025:O7-9",
+      "asked": "P/E comparison, ROA and debt/net-worth/turnover/gross-profit calculations.",
+      "study": "Study numerator/denominator, net worth, assets/liabilities, book versus market value, EPS, P/E, sales, gross profit and units. State any accounting assumption; reserve terms and balance-sheet identities must be interpreted consistently.",
+      "task": "Derive the requested value stepwise, show formula and units, and check whether an omitted assumption makes the case ambiguous.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 26,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 22,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "91"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 7,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "83"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 8,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "83"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 9,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "83"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance regulation",
+      "name": "Bank outsourcing",
+      "references": "2022:O12-14",
+      "asked": "Outsourceable activities and retained core/KYC responsibilities.",
+      "study": "Study service-provider risk, non-delegable management/accountability, due diligence, confidentiality, business continuity, monitoring and exit. Outsourcing work does not outsource regulatory responsibility.",
+      "task": "Classify a proposed outsourced activity and specify the responsibility the bank must retain.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 12,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 13,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 14,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance current/policy",
+      "name": "RBI regulatory sandbox: cross-border payments cohort",
+      "references": "2021:O20",
+      "asked": "Cohort/theme and controlled testing mechanism.",
+      "study": "Study sandbox entry, live testing boundaries, safeguards, regulatory relief versus licence, cohort themes and exit; distinguish sandbox from a permanent product approval.",
+      "task": "Explain innovation -> limited test -> evidence -> decision and why participation is not blanket regulatory endorsement.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 20,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance current/policy",
+      "name": "Payments Infrastructure Development Fund (PIDF)",
+      "references": "2022:O21",
+      "asked": "Annual touchpoint deployment target.",
+      "study": "Study fund objective, geography, physical/digital acceptance infrastructure, subsidy design, administrator and dated targets/extension.",
+      "task": "Distinguish number of touchpoints from transaction value or unique users; explain last-mile economics.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 21,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance current/policy",
+      "name": "SM REIT framework",
+      "references": "2024:O22",
+      "asked": "Regulatory investment/asset threshold demand.",
+      "study": "Study trust structure, asset value versus investor ticket versus offer size, eligibility, ownership, distributions, leverage and disclosure. The recalled phrase investment limit is ambiguous; verify the exact rule being tested.",
+      "task": "Write unit and object beside every threshold; never substitute an asset threshold for an individual's minimum investment.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 22,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "90"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance current/policy",
+      "name": "Ways and Means Advances: second half FY2024-25",
+      "references": "2024:O23",
+      "asked": "Dated government WMA limit.",
+      "study": "Study temporary cash-flow mismatch, government borrower, RBI facility, tenure/rate, overdraft distinction and ceiling-setting period.",
+      "task": "Contrast WMA with fiscal deficit financing and explain why a temporary liquidity need need not equal insolvency.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 23,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "90"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance current/policy",
+      "name": "UPI Circle",
+      "references": "2024:O28",
+      "asked": "Number of delegated secondary users.",
+      "study": "Study primary/secondary user roles, full/partial delegation, consent/control, transaction/period limits and liability safeguards; date all limits.",
+      "task": "Draw an authorised delegated-payment case and distinguish it from sharing credentials.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 28,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "91"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance current/policy",
+      "name": "Debt issue timeline and bonus/corporate-action settlement",
+      "references": "2024:O29;2025:O25",
+      "asked": "Reduced issue timeline and T+2 applicability.",
+      "study": "Study issue closure, allotment, listing, record date and trading availability as distinct clocks. Confirm whether the circular is mandatory, optional or phased.",
+      "task": "Make event -> T -> next milestone timeline; do not apply equity trade settlement to every corporate action.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 29,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "91"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 25,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance identifiers",
+      "name": "Legal Entity Identifier (LEI)",
+      "references": "2022:O22",
+      "asked": "Recognise the identifier and format.",
+      "study": "Study legal-entity identification, reporting/risk aggregation purpose and distinction from BIC/SWIFT/IFSC. Verify threshold-based implementation separately.",
+      "task": "Match entity, bank, branch and individual identifiers to the right transaction need.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 22,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance enterprise rules",
+      "name": "MSME classification and Importer Exporter Code",
+      "references": "2022:O24,O30",
+      "asked": "Investment/turnover thresholds and IEC applicability.",
+      "study": "Study combined classification criteria, manufacturing/services treatment, revision dates, enterprise versus proprietor identity and trade authorisation requirements/exemptions.",
+      "task": "Classify firms from investment and turnover jointly; separate IEC from GST and Udyam registration.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 24,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 30,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance inclusion/schemes",
+      "name": "PMJDY, PMJJBY, PMSBY and Atal Pension Yojana",
+      "references": "2023:O1-5",
+      "asked": "Identify scheme; insurance amount, entry age, pension and premium.",
+      "study": "Study basic banking versus life versus accident insurance versus contributory pension; beneficiary/age, renewal, premium, event/benefit, exclusions and administrators. Date changed premiums and joining restrictions.",
+      "task": "Build a four-scheme comparison and test a death, accident and retirement case.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 1,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 2,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 3,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 4,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 5,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance inclusion/schemes",
+      "name": "RBI Retail Direct",
+      "references": "2023:D3",
+      "asked": "Explain retail access to government securities.",
+      "study": "Study eligible investor, RDG account, primary/secondary access, securities, settlement, interest-rate risk, liquidity and tax treatment from current rules.",
+      "task": "Explain sovereign credit risk versus mark-to-market risk; compare a G-sec held to maturity and sold early.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "D",
+          "question": 3,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "85-93 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance governance regulation",
+      "name": "RBI bank-board governance directions",
+      "references": "2023:O11-15",
+      "asked": "Governance concept, audit/risk committee composition/chair, quorum and expertise.",
+      "study": "Study independent/non-executive/executive directors, board versus committee roles, fit-and-proper, conflicts, audit/risk oversight and applicability. Verify circular title/date because reconstructed preambles may be imprecise.",
+      "task": "Create board/ACB/RMCB composition-quorum-chair matrix; keep current amendments in a separate column.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 11,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 12,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 13,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 14,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 15,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance alternatives",
+      "name": "Forfaiting and alternative finance",
+      "references": "2023:O28",
+      "asked": "Identify an alternative financing instrument.",
+      "study": "Study receivables financing, recourse/non-recourse, maturity, discounting, export risk transfer and distinction from factoring and ordinary loans.",
+      "task": "Trace seller, financier and debtor cash/risk flows; compare factoring with forfaiting.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 28,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "92"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance digital policy",
+      "name": "ONDC",
+      "references": "2023:D4",
+      "asked": "Explain open commerce and competition with platforms.",
+      "study": "Study open network versus single marketplace, buyer/seller/logistics participants, interoperability, discoverability, onboarding, fees and grievance accountability.",
+      "task": "Explain how network design could reduce entry barriers while recognising trust, fulfilment and network-effect challenges.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "D",
+          "question": 4,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "85-93 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance digital policy",
+      "name": "Pre-sanctioned credit lines on UPI",
+      "references": "2023:D6",
+      "asked": "Explain inclusion benefits and policy change.",
+      "study": "Study funding source versus payment interface, eligible institutions/users, consent, interest/fees, underwriting and over-indebtedness. Date permitted categories and limits.",
+      "task": "Compare bank-account UPI, credit-card UPI and credit-line UPI without confusing transfer channel with the lender.",
+      "evidence": [
+        {
+          "year": 2023,
+          "kind": "D",
+          "question": 6,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "85-93 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance prudential rules",
+      "name": "Basel III, capital/risk and NBFC CRAR",
+      "references": "2021:D5;2024:O30",
+      "asked": "Basel pillars and risks covered in capital calculation.",
+      "study": "Study capital quality, risk-weighted assets, minimum/buffer concepts, supervision, market discipline and applicability to banks versus NBFC categories. Do not import bank risk-weight rules wholesale into NBFC cases.",
+      "task": "Explain capital versus liquidity buffers and a loss -> capital -> lending transmission chain.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "D",
+          "question": 5,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "83-90 (section)"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 30,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "91"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance instruments",
+      "name": "Derivatives, zero-coupon bonds, index futures and AT1 bonds",
+      "references": "2024:D1,D5;2025:O29-30",
+      "asked": "Types, users/risks, AT1 loss absorption, zero-coupon return and index-futures mechanics.",
+      "study": "Study forward/futures/options/swaps, hedger/speculator/arbitrageur, margin, settlement, basis/counterparty risk, discount yield and AT1 write-down/conversion/perpetuity. 2025 O29-30 are explicitly uncertain reconstructions.",
+      "task": "Compare payoff/risk; explain why a bank AT1 instrument is not an ordinary deposit or a conventional fixed-maturity bond.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "D",
+          "question": 1,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "83-92 (section)"
+        },
+        {
+          "year": 2024,
+          "kind": "D",
+          "question": 5,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "83-92 (section)"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 29,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 30,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance investment",
+      "name": "Value versus growth investing",
+      "references": "2024:D6",
+      "asked": "Compare investment approaches.",
+      "study": "Study price versus intrinsic value, earnings expectations, multiples, cash flows, discount-rate sensitivity, valuation risk and overlap. Cheap price alone is not value; fast growth alone is not a good investment.",
+      "task": "Compare two hypothetical companies and identify assumptions supporting each valuation.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "D",
+          "question": 6,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "83-92 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance history/concepts",
+      "name": "Narasimham reforms, LAF, Phillips curve, inflation and JAM",
+      "references": "2025:O15-17,O22,O24,O28",
+      "asked": "Historical committee/reform, liquidity tool, inflation-unemployment curve, CPI/WPI, cost-push and inclusion identifiers.",
+      "study": "Study reform objectives, prudential/competition changes, direct versus indirect instruments, demand/cost shocks, short-run trade-offs/expectations, indices and JAM delivery. 2025 O28 is expressly uncertain.",
+      "task": "Explain CPI rising while WPI falls without assuming the entire economy has one price level; contrast liquidity tool with fiscal tool.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 15,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 16,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 17,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 22,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 24,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 28,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance digital infrastructure",
+      "name": "TReDS",
+      "references": "2025:O18-20",
+      "asked": "Regulator, invoice discounting and settlement mechanism.",
+      "study": "Study seller/buyer/financier, accepted invoice, bidding, without-recourse structure as applicable, settlement and default responsibility. Authenticate any recalled market-infrastructure label.",
+      "task": "Draw invoice -> acceptance -> bidding -> early seller payment -> buyer repayment; compare with a collateral loan.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 18,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 19,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 20,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance descriptive policy",
+      "name": "Capital-market development and RBI supervision",
+      "references": "2025:D1,D5",
+      "asked": "Capital markets as growth engine, SEBI measures and RBI's regulatory/supervisory role.",
+      "study": "Study savings mobilisation, price discovery, liquidity, investor protection, primary/secondary markets, intermediary conduct, prudential versus conduct oversight and risk-based supervision. Avoid attributing SEBI's entire remit to RBI.",
+      "task": "Use objective -> regulatory tool -> transmission -> limitation; connect current measures only when verified.",
+      "evidence": [
+        {
+          "year": 2025,
+          "kind": "D",
+          "question": 1,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "81-90 (section)"
+        },
+        {
+          "year": 2025,
+          "kind": "D",
+          "question": 5,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "81-90 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance technology",
+      "name": "Blockchain, AI and financial-sector ethics",
+      "references": "2022:D3;2025:D6",
+      "asked": "Banking disruption and AI risks/new ethical dimensions.",
+      "study": "Study distributed ledger/consensus versus ordinary database, settlement/trade finance, privacy/scalability/interoperability; AI bias, explainability, model/cyber/vendor risk, human accountability and governance.",
+      "task": "Compare one useful application with a case where simpler technology is preferable; make benefit/risk/control rows.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "D",
+          "question": 3,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "81-89 (section)"
+        },
+        {
+          "year": 2025,
+          "kind": "D",
+          "question": 6,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "81-90 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Finance macro application",
+      "name": "LTRO and India's response to the 2008 crisis",
+      "references": "2022:D4-5",
+      "asked": "Liquidity-operation explanation and historical crisis response.",
+      "study": "Study collateral, tenor, rate, bank lending channel, liquidity/solvency distinction and coordinated monetary/fiscal measures. Historical crisis response is not a request for today's policy-rate trivia.",
+      "task": "Trace policy -> bank funding -> credit -> demand and identify a transmission constraint.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "D",
+          "question": 4,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "81-89 (section)"
+        },
+        {
+          "year": 2022,
+          "kind": "D",
+          "question": 5,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "81-89 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Management foundations",
+      "name": "Organisational behaviour, psychology/sociology, diversity and teams",
+      "references": "2021:O2-3,O30;2022:O1-3",
+      "asked": "Discipline/levels, heterogeneous workforce and employee retention.",
+      "study": "Study individual/group/organisation levels, attitudes, commitment, turnover, team roles, diversity versus inclusion and contributions of behavioural disciplines.",
+      "task": "Diagnose a team/individual/system problem at the correct level before selecting a remedy.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 2,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "83"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 3,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "83"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 30,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "90"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 1,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 2,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 3,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "81"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Management justice/perception",
+      "name": "Distributive justice, stereotyping and Johari Window",
+      "references": "2021:O1,O22,O24;2024:O24",
+      "asked": "Input-output fairness, group-based perceptual error and hidden quadrant.",
+      "study": "Study distributive/procedural/interactional justice, stereotype versus halo, open/blind/hidden/unknown self-awareness and feedback/disclosure.",
+      "task": "Classify three fairness cases and draw how feedback/disclosure changes Johari quadrants.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 1,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "83"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 22,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 24,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 24,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "90"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Management motivation",
+      "name": "Maslow, McClelland, Herzberg, ERG, X/Y, Vroom and attitudes",
+      "references": "2021:O23,D6;2022:O15-17;2023:O6-8;2024:O21;2025:O27",
+      "asked": "Process/content theories, needs, hygiene, growth, managerial assumptions, outcome value and reinforcement.",
+      "study": "Study each theory's mechanism, assumptions and workplace application; expectancy/instrumentality/valence; positive/negative reinforcement versus punishment; attitude-performance link. A recalled theorist label can be wrong: verify before learning it.",
+      "task": "Use theory -> diagnostic clue -> intervention -> limitation; explain why removing dissatisfaction need not create motivation.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "D",
+          "question": 6,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "83-90 (section)"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 23,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 15,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 16,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 17,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 6,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 7,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 8,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 21,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 27,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Management change",
+      "name": "Lewin, resistance, merger transition and systematic change",
+      "references": "2021:O12-13,O29;2022:O25,D2;2024:O27;2025:D2",
+      "asked": "Change/stages, refreezing, transition and resistance remedies.",
+      "study": "Study individual/structural resistance, uncertainty, interests, communication, participation, training, sequencing, reinforcement and feedback. Keep model steps linked to actual managerial actions.",
+      "task": "Write a bank-merger case through diagnosis -> implementation -> institutionalisation with measurable checks.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 12,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 13,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 29,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "90"
+        },
+        {
+          "year": 2022,
+          "kind": "D",
+          "question": 2,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "81-89 (section)"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 25,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 27,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "91"
+        },
+        {
+          "year": 2025,
+          "kind": "D",
+          "question": 2,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "81-90 (section)"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Management communication",
+      "name": "Process, semantic/personal barriers, channels, networks and nonverbal signals",
+      "references": "2021:O17,O27;2022:O18-20,O23,O29,D1;2023:O16-18;2024:O26,D2;2025:O21,D3",
+      "asked": "Barriers, message/feedback, scalar chain, cross-hierarchy flow, network, upward feedback and nonverbal leadership.",
+      "study": "Study sender/encoding/channel/receiver/decoding/noise/feedback; direction versus network; formal/informal; semantic/psychological/organisational/personal barriers; listening, culture and nonverbal consistency.",
+      "task": "Diagnose the exact barrier then match a remedy; draw chain/circle/wheel/all-channel and compare speed/accuracy/participation.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 17,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 27,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2022,
+          "kind": "D",
+          "question": 1,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "81-89 (section)"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 18,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 19,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 20,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "86"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 23,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 29,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 16,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 17,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "90"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 18,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "90"
+        },
+        {
+          "year": 2024,
+          "kind": "D",
+          "question": 2,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "83-92 (section)"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 26,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "90"
+        },
+        {
+          "year": 2025,
+          "kind": "D",
+          "question": 3,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "81-90 (section)"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 21,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Management leadership/power",
+      "name": "Transactional/transformational, trait/behavioural, Lewin, contingency, Grid and power bases",
+      "references": "2021:D2;2023:O9-10,O19;2024:O25,D3",
+      "asked": "Compare leadership theories/styles, identify contingency models and positional/personal power.",
+      "study": "Study leadership versus management; rewards/vision; traits versus behaviours; task/people; fit with situation; legitimate/reward/coercive/expert/referent bases and ethical use.",
+      "task": "Compare two leaders in the same banking case and justify when a style should change rather than naming a universally best leader.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "D",
+          "question": 2,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "83-90 (section)"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 9,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 10,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 19,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "90"
+        },
+        {
+          "year": 2024,
+          "kind": "D",
+          "question": 3,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "83-92 (section)"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 25,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "90"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Management thinkers",
+      "name": "Weber, Fayol, scientific management and open systems",
+      "references": "2021:O28;2023:D1;2025:O12-14",
+      "asked": "Bureaucracy, fourteen principles, time/motion study, hierarchy and environmental interaction.",
+      "study": "Study Taylor/standardisation, Fayol/administration, Weber/bureaucracy, human relations and systems/contingency approaches; contribution, limitation and current relevance. The 2025 hierarchy item is ambiguous because its most natural theorist is absent from options.",
+      "task": "Make thinker -> core idea -> tool -> limitation -> bank example; flag ambiguous recollections instead of learning an incorrect attribution.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 28,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "90"
+        },
+        {
+          "year": 2023,
+          "kind": "D",
+          "question": 1,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "85-93 (section)"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 12,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 13,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 14,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "85"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Management personality/emotions",
+      "name": "Big Five and emotional dissonance",
+      "references": "2022:O26;2023:O23-24,D2",
+      "asked": "Conscientiousness, personality dimensions and felt/displayed emotion difference.",
+      "study": "Study OCEAN dimensions, behaviour examples, personality versus mood/attitude, emotional labour/dissonance and organisational applications; avoid treating traits as fixed performance guarantees.",
+      "task": "Identify the trait from behaviour, explain one job implication and distinguish emotional dissonance from cognitive dissonance.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 26,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2023,
+          "kind": "D",
+          "question": 2,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "85-93 (section)"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 23,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "91"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 24,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "91"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Management ethics/governance",
+      "name": "CSR, stakeholder theory, governance principles and bank-board oversight",
+      "references": "2021:D3;2022:O4-7;2023:O11-15,O20",
+      "asked": "Governance need/principles, CSR thresholds/committee and stakeholder relationships.",
+      "study": "Study accountability/transparency/fairness/responsibility, agency/stakeholder/stewardship, independent oversight, conflicts and CSR legal triggers. Separate Companies Act requirements from RBI bank-specific directions; source attribution to SEBI is not automatically correct.",
+      "task": "Compare governance, management, ethics and CSR; build law/authority/applicability/threshold matrix.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "D",
+          "question": 3,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "83-90 (section)"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 4,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "82"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 5,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "82"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 6,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "82"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 7,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "83"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 11,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 12,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 13,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 14,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 15,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 20,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "90"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Management ethics/governance",
+      "name": "Ethical theories, responsibility, codes and ethical culture",
+      "references": "2022:O28,D6;2023:O25-26,D5;2024:D4;2025:O10-11,O26",
+      "asked": "Consequences, responsibility displacement, values, relativism/absolutism, code implementation and managerial ethics.",
+      "study": "Study utilitarian/teleological, duty, virtue, justice, rights/care, moral disengagement, conflicts, leadership example, incentives, whistleblowing and enforcement. Distinguish a written code from effective ethical culture.",
+      "task": "Analyse stakeholder harm/options/principle/action/safeguard; explain how a code can fail despite formal adoption.",
+      "evidence": [
+        {
+          "year": 2022,
+          "kind": "D",
+          "question": 6,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "81-89 (section)"
+        },
+        {
+          "year": 2022,
+          "kind": "O",
+          "question": 28,
+          "source": "PYP\\2022 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2023,
+          "kind": "D",
+          "question": 5,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "85-93 (section)"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 25,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "92"
+        },
+        {
+          "year": 2023,
+          "kind": "O",
+          "question": 26,
+          "source": "PYP\\2023 (Phase 1-2).pdf",
+          "page_or_section": "92"
+        },
+        {
+          "year": 2024,
+          "kind": "D",
+          "question": 4,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "83-92 (section)"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 10,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 11,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        },
+        {
+          "year": 2025,
+          "kind": "O",
+          "question": 26,
+          "source": "PYP\\2025 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Management passage application",
+      "name": "Culture assessment and World Management Survey-style passage",
+      "references": "2024:O1-4,O13-16",
+      "asked": "Learning/culture, survey tool, communication outcome, training resistance and assessment.",
+      "study": "Study culture versus climate, learning, performance monitoring, targets, incentives and change; separate passage retrieval from external report knowledge. These items do not establish a need to memorise every survey statistic.",
+      "task": "Answer from evidence in the passage; explain one management mechanism rather than treating every survey mention as current trivia.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 1,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 2,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 3,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 4,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "84"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 13,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 14,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "87"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 15,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 16,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Cross-cutting environment",
+      "name": "Planetary boundaries, circular economy, MDGs and SDGs",
+      "references": "2024:O17-20",
+      "asked": "Report finding, response model, predecessor goals and objectives.",
+      "study": "Study ecological limits, material loops, resource efficiency, historical MDG/SDG relationship and environmental-social trade-offs; distinguish dated boundary findings from stable concepts.",
+      "task": "Draw linear versus circular resource flows and connect a firm's action to a measurable environmental outcome.",
+      "evidence": [
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 17,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 18,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 19,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        },
+        {
+          "year": 2024,
+          "kind": "O",
+          "question": 20,
+          "source": "PYP\\2024 (Phase 1-2).pdf",
+          "page_or_section": "89"
+        }
+      ]
+    },
+    {
+      "subject": "FM",
+      "group": "Other policy overlap",
+      "name": "E-aksharayan and National Language Translation Mission",
+      "references": "2021:O18-19",
+      "asked": "Software identification and Budget-announced translation initiative.",
+      "study": "Study tool versus mission, purpose, administering body and accessibility; keep current-policy identification separate from static semantic-barrier theory.",
+      "task": "Explain how a language tool can reduce but not eliminate organisational or cultural communication barriers.",
+      "evidence": [
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 18,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        },
+        {
+          "year": 2021,
+          "kind": "O",
+          "question": 19,
+          "source": "PYP\\2021 (Phase 1-2).pdf",
+          "page_or_section": "88"
+        }
+      ]
+    }
+  ],
+  "English": [
+    {
+      "year": 2021,
+      "type": "Essay",
+      "option": 1,
+      "family": "Education/learning",
+      "name": "Coding in schools",
+      "study": "Computational thinking, problem solving, creativity, teacher capacity, access, screen exposure and age-appropriate pedagogy.",
+      "demand": "Weigh benefits and costs; distinguish coding literacy from compulsory early specialisation.",
+      "task": "Outline thesis, two benefits, two implementation risks, balanced curriculum and conclusion.",
+      "source": "PYP\\2021 (Phase 1-2).pdf",
+      "section_pages": [
+        70,
+        72
+      ]
+    },
+    {
+      "year": 2021,
+      "type": "Essay",
+      "option": 2,
+      "family": "Business/digital",
+      "name": "Future of Indian BPO",
+      "study": "Automation/AI, cost and skill advantages, higher-value services, data protection, global demand and reskilling.",
+      "demand": "Analyse a future trajectory rather than narrating the industry's history.",
+      "task": "Build opportunity/threat/adaptation paragraphs with conditions for competitiveness.",
+      "source": "PYP\\2021 (Phase 1-2).pdf",
+      "section_pages": [
+        70,
+        72
+      ]
+    },
+    {
+      "year": 2021,
+      "type": "Essay",
+      "option": 3,
+      "family": "Business/digital",
+      "name": "Creative thinking in business",
+      "study": "Innovation, customer problems, experimentation, organisational culture, incentives, diversity and execution.",
+      "demand": "Explain how creativity improves outcomes and why creativity alone is insufficient.",
+      "task": "Use idea -> test -> implementation -> feedback; contrast innovation with novelty.",
+      "source": "PYP\\2021 (Phase 1-2).pdf",
+      "section_pages": [
+        70,
+        72
+      ]
+    },
+    {
+      "year": 2021,
+      "type": "Essay",
+      "option": 4,
+      "family": "Social/philosophical",
+      "name": "Prevention rather than cure",
+      "study": "Public health, disaster preparedness, financial risk, maintenance, education and the limits of preventive expenditure.",
+      "demand": "Interpret the proposition, apply it across domains and avoid an absolute claim.",
+      "task": "Develop three domains and a counterargument about uncertainty/resource constraints.",
+      "source": "PYP\\2021 (Phase 1-2).pdf",
+      "section_pages": [
+        70,
+        72
+      ]
+    },
+    {
+      "year": 2022,
+      "type": "Essay",
+      "option": 1,
+      "family": "Climate/energy",
+      "name": "Renewables and interconnected green grids",
+      "study": "Intermittency, storage, geographic/time-zone diversity, transmission, grid stability, financing and sovereignty.",
+      "demand": "Cover advantages AND disadvantages, then explain how grid integration helps and what it cannot solve.",
+      "task": "Use problem -> grid mechanism -> residual limitation; distinguish energy generation from transmission.",
+      "source": "PYP\\2022 (Phase 1-2).pdf",
+      "section_pages": [
+        65,
+        69
+      ]
+    },
+    {
+      "year": 2022,
+      "type": "Essay",
+      "option": 2,
+      "family": "Business/digital",
+      "name": "Women entrepreneurs and growth",
+      "study": "Credit/collateral, property rights, care work, networks, digital markets, jobs and agency.",
+      "demand": "Link entrepreneurship to growth through mechanisms, not only empowerment slogans.",
+      "task": "Explain barriers, targeted responses, measurable outcomes and diversity among women entrepreneurs.",
+      "source": "PYP\\2022 (Phase 1-2).pdf",
+      "section_pages": [
+        65,
+        69
+      ]
+    },
+    {
+      "year": 2022,
+      "type": "Essay",
+      "option": 3,
+      "family": "Social/philosophical",
+      "name": "Peace through understanding",
+      "study": "Dialogue, trust, institutions, cultural literacy, conflict drivers, deterrence and justice.",
+      "demand": "Interpret and evaluate a proposition without reproducing a quotation-led generic essay.",
+      "task": "Develop interpersonal, domestic and international examples plus limits of dialogue alone.",
+      "source": "PYP\\2022 (Phase 1-2).pdf",
+      "section_pages": [
+        65,
+        69
+      ]
+    },
+    {
+      "year": 2022,
+      "type": "Essay",
+      "option": 4,
+      "family": "Social/philosophical",
+      "name": "Medical tourism in India",
+      "study": "Cost/quality, specialist care, accreditation, visas, language, patient safety and domestic equity.",
+      "demand": "Assess opportunity alongside regulatory and distributional challenges.",
+      "task": "Balance competitiveness with capacity, ethical care and access for domestic patients.",
+      "source": "PYP\\2022 (Phase 1-2).pdf",
+      "section_pages": [
+        65,
+        69
+      ]
+    },
+    {
+      "year": 2023,
+      "type": "Essay",
+      "option": 1,
+      "family": "Climate/energy",
+      "name": "Climate impacts on developing economies",
+      "study": "Agriculture, heat/productivity, health, infrastructure, inflation, fiscal space, debt and adaptation finance.",
+      "demand": "Keep developing-country vulnerability and economic transmission central.",
+      "task": "Trace shock -> sector -> household/fiscal impact; discuss adaptation, finance and just transition.",
+      "source": "PYP\\2023 (Phase 1-2).pdf",
+      "section_pages": [
+        71,
+        73
+      ]
+    },
+    {
+      "year": 2023,
+      "type": "Essay",
+      "option": 2,
+      "family": "Business/digital",
+      "name": "E-rupee",
+      "study": "CBDC versus cash/deposits/UPI/crypto, retail/wholesale uses, privacy, inclusion, resilience and bank funding.",
+      "demand": "Explain what CBDC changes rather than assuming all digital payments are currency.",
+      "task": "Compare benefits, design trade-offs and adoption conditions; avoid unsupported pilot statistics.",
+      "source": "PYP\\2023 (Phase 1-2).pdf",
+      "section_pages": [
+        71,
+        73
+      ]
+    },
+    {
+      "year": 2023,
+      "type": "Essay",
+      "option": 3,
+      "family": "Workplace/people",
+      "name": "Innovative employee motivation",
+      "study": "Autonomy, mastery, purpose, fair pay, recognition, growth, flexibility, feedback and goal alignment.",
+      "demand": "Connect employee needs with organisational performance and safeguards against manipulation.",
+      "task": "Use intervention -> mechanism -> outcome -> risk and distinguish intrinsic/extrinsic incentives.",
+      "source": "PYP\\2023 (Phase 1-2).pdf",
+      "section_pages": [
+        71,
+        73
+      ]
+    },
+    {
+      "year": 2023,
+      "type": "Essay",
+      "option": 4,
+      "family": "Business/digital",
+      "name": "Multilingual social media for business",
+      "study": "Market reach, trust, localisation, translation quality, moderation, brand consistency and cost.",
+      "demand": "Evaluate need and execution, not just list languages or platforms.",
+      "task": "Compare central brand control with local adaptation and accessibility.",
+      "source": "PYP\\2023 (Phase 1-2).pdf",
+      "section_pages": [
+        71,
+        73
+      ]
+    },
+    {
+      "year": 2024,
+      "type": "Essay",
+      "option": 1,
+      "family": "Social/philosophical",
+      "name": "Hosting Olympics: three dimensions",
+      "study": "Tourism/infrastructure/jobs, displacement/equity, public spending, carbon/material use, legacy and governance.",
+      "demand": "Explicitly cover SOCIAL, ECONOMIC and ENVIRONMENTAL effects.",
+      "task": "Make a three-axis cost-benefit outline with opportunity cost and post-event asset use.",
+      "source": "PYP\\2024 (Phase 1-2).pdf",
+      "section_pages": [
+        68,
+        71
+      ]
+    },
+    {
+      "year": 2024,
+      "type": "Essay",
+      "option": 2,
+      "family": "Climate/energy",
+      "name": "Climate migration",
+      "study": "Sudden/slow-onset hazards, internal/cross-border movement, livelihoods, remittances, urban services and rights.",
+      "demand": "Discuss both origin and destination countries; avoid treating all migration as solely climate-caused.",
+      "task": "Use origin/destination benefits/costs matrix and coordinated adaptation/protection policies.",
+      "source": "PYP\\2024 (Phase 1-2).pdf",
+      "section_pages": [
+        68,
+        71
+      ]
+    },
+    {
+      "year": 2024,
+      "type": "Essay",
+      "option": 3,
+      "family": "Workplace/people",
+      "name": "Employee mental health",
+      "study": "Workload, control, bullying, insecurity, stigma, managerial training, confidential support and reasonable accommodation.",
+      "demand": "Explain importance and concrete organisational actions without diagnosing individuals.",
+      "task": "Separate prevention, early support and referral; include privacy and evaluation safeguards.",
+      "source": "PYP\\2024 (Phase 1-2).pdf",
+      "section_pages": [
+        68,
+        71
+      ]
+    },
+    {
+      "year": 2024,
+      "type": "Essay",
+      "option": 4,
+      "family": "Education/learning",
+      "name": "Lifelong learning",
+      "study": "Adaptability, curiosity, adult learning, digital inclusion, workplace learning and barriers of time/cost.",
+      "demand": "Interpret the age/learning proposition rather than write only about formal schooling.",
+      "task": "Use personal, organisational and social levels plus realistic access conditions.",
+      "source": "PYP\\2024 (Phase 1-2).pdf",
+      "section_pages": [
+        68,
+        71
+      ]
+    },
+    {
+      "year": 2025,
+      "type": "Essay",
+      "option": 1,
+      "family": "Climate/energy",
+      "name": "India's emissions-intensity pathway",
+      "study": "Intensity versus absolute emissions, energy efficiency, renewables, industry/transport, finance, measurement and just transition.",
+      "demand": "Respond to the specified target and way forward; do not confuse percentage reduction in intensity with absolute emissions.",
+      "task": "Build sector -> action -> constraint -> implementation metric; authenticate the target before using it as current evidence.",
+      "source": "PYP\\2025 (Phase 1-2).pdf",
+      "section_pages": [
+        65,
+        68
+      ]
+    },
+    {
+      "year": 2025,
+      "type": "Essay",
+      "option": 2,
+      "family": "Business/digital",
+      "name": "Advertising: paper to digital billboards",
+      "study": "Digital targeting/display, real-time content, costs, measurement, energy/e-waste, distraction, privacy and regulation.",
+      "demand": "Focus on the specified media shift and technological change, not only internet advertising.",
+      "task": "Compare formats, business value and public-space safeguards; distinguish correlation from measured advertising impact.",
+      "source": "PYP\\2025 (Phase 1-2).pdf",
+      "section_pages": [
+        65,
+        68
+      ]
+    },
+    {
+      "year": 2025,
+      "type": "Essay",
+      "option": 3,
+      "family": "Education/learning",
+      "name": "Young people supporting older learners",
+      "study": "Digital literacy, mentoring, accessibility, respect, reverse mentoring, intergenerational exchange and online safety.",
+      "demand": "Keep education and older people's agency central; avoid patronising stereotypes.",
+      "task": "Propose accessible peer-learning models with mutual benefit and measurable skills.",
+      "source": "PYP\\2025 (Phase 1-2).pdf",
+      "section_pages": [
+        65,
+        68
+      ]
+    },
+    {
+      "year": 2025,
+      "type": "Essay",
+      "option": 4,
+      "family": "Business/digital",
+      "name": "Adapting Western startup models to India",
+      "study": "Purchasing power, infrastructure, language, trust, regulation, unit economics and local problem discovery.",
+      "demand": "Evaluate contextual relevance rather than assert that all copying is either good or bad.",
+      "task": "Use transferable principle -> local constraint -> adaptation -> viable business outcome.",
+      "source": "PYP\\2025 (Phase 1-2).pdf",
+      "section_pages": [
+        65,
+        68
+      ]
+    },
+    {
+      "year": 2021,
+      "type": "Precis",
+      "name": "Sand scarcity and extraction",
+      "study": "Distinguish abundant sand from construction-suitable sand; retain demand, extraction, environmental damage and regulatory response.",
+      "task": "Preserve the causal chain; remove illustrative detail before dropping a main claim.",
+      "constraint": "Approximately 170 words in supplied paper.",
+      "source": "PYP\\2021 (Phase 1-2).pdf",
+      "section_pages": [
+        70,
+        72
+      ],
+      "answer_operations": []
+    },
+    {
+      "year": 2022,
+      "type": "Precis",
+      "name": "Space exploration and space race",
+      "study": "Map the passage's central claim, motivations, rivalry/cooperation and benefits/costs as actually expressed.",
+      "task": "Do not replace the author's argument with a general space-policy essay.",
+      "constraint": "Approximately 170 words in supplied paper.",
+      "source": "PYP\\2022 (Phase 1-2).pdf",
+      "section_pages": [
+        65,
+        69
+      ],
+      "answer_operations": []
+    },
+    {
+      "year": 2023,
+      "type": "Precis",
+      "name": "AI and women's economic empowerment",
+      "study": "Retain opportunity, access/skills constraints, bias/exclusion risks and the author's policy conditions.",
+      "task": "Keep a balanced passage balanced; do not reduce it to AI optimism or fear.",
+      "constraint": "180-200 words in supplied paper.",
+      "source": "PYP\\2023 (Phase 1-2).pdf",
+      "section_pages": [
+        71,
+        73
+      ],
+      "answer_operations": []
+    },
+    {
+      "year": 2024,
+      "type": "Precis",
+      "name": "AI as CEO",
+      "study": "Retain decision capability, efficiency, human judgement, responsibility and limits in the passage's order of reasoning.",
+      "task": "Distinguish automation of tasks from full substitution of leadership.",
+      "constraint": "180-200 words in supplied paper.",
+      "source": "PYP\\2024 (Phase 1-2).pdf",
+      "section_pages": [
+        68,
+        71
+      ],
+      "answer_operations": []
+    },
+    {
+      "year": 2025,
+      "type": "Precis",
+      "name": "Amazon climate regime and forest risk",
+      "study": "Preserve warming/drought, forest vulnerability, feedbacks and the distinction between scientific projection and certainty.",
+      "task": "Do not turn may/could into will or add outside climate statistics.",
+      "constraint": "180-200 words in supplied paper.",
+      "source": "PYP\\2025 (Phase 1-2).pdf",
+      "section_pages": [
+        65,
+        68
+      ],
+      "answer_operations": []
+    },
+    {
+      "year": 2021,
+      "type": "RC",
+      "name": "Agorism passage / insurance questions mismatch",
+      "study": "The printed passage and subquestions do not match; use only for source-error recognition, not scored passage-based inference.",
+      "task": "Do not fabricate an insurance passage or answer with unrelated outside knowledge.",
+      "constraint": "30 marks shown; content pair unusable for faithful RC marking.",
+      "source": "PYP\\2021 (Phase 1-2).pdf",
+      "section_pages": [
+        70,
+        72
+      ],
+      "answer_operations": []
+    },
+    {
+      "year": 2022,
+      "type": "RC",
+      "name": "FMC-SEBI merger",
+      "study": "Retrieve reasons for integration, regulatory benefits, market-development implications and constraints from the passage.",
+      "task": "Distinguish what the author states from external knowledge of today's regulation.",
+      "constraint": "30 marks; use own words and the actual question limits.",
+      "source": "PYP\\2022 (Phase 1-2).pdf",
+      "section_pages": [
+        65,
+        69
+      ],
+      "answer_operations": [
+        "Explain the original reason for commodity-market oversight.",
+        "Explain expected effects of bringing FMC and SEBI together.",
+        "Retrieve the historical rationale for separating commodities and securities.",
+        "Trace the consequences of that institutional separation.",
+        "Explain implications for exchanges and market participants."
+      ]
+    },
+    {
+      "year": 2023,
+      "type": "RC",
+      "name": "Inflation, business profits and distribution",
+      "study": "Track claims, supporting evidence, price/wage/profit relationships, competing explanations and qualifications.",
+      "task": "An economist's argument is not automatically the author's unconditional conclusion.",
+      "constraint": "30 marks; answer the specific causal/comparative demand.",
+      "source": "PYP\\2023 (Phase 1-2).pdf",
+      "section_pages": [
+        71,
+        73
+      ],
+      "answer_operations": [
+        "Explain the proposed link between the cost-of-living crisis and business markups.",
+        "Identify the conventional price-change measure used in the passage.",
+        "Explain why CPI alone cannot allocate gains between workers and employers.",
+        "Compare tax and profit contributions using the passage's stated period/evidence.",
+        "Identify industries used as markup examples without generalising to every industry."
+      ]
+    },
+    {
+      "year": 2024,
+      "type": "RC",
+      "name": "Customer Relationship Management",
+      "study": "Explain functions, cross-team information flow, deployment choices, integration and implementation problems from the text.",
+      "task": "Separate a definition, a benefit, an implementation condition and an inference.",
+      "constraint": "30 marks; unfamiliar business technology must remain passage-grounded.",
+      "source": "PYP\\2024 (Phase 1-2).pdf",
+      "section_pages": [
+        68,
+        71
+      ],
+      "answer_operations": [
+        "Explain CRM's principal function and business value.",
+        "Trace how shared customer information supports cross-department collaboration.",
+        "Compare cloud and on-premises deployment and the conditions favouring each.",
+        "Diagnose data, integration, adoption and other implementation constraints in the text.",
+        "Explain the described AI contribution without adding unsupported capabilities."
+      ]
+    },
+    {
+      "year": 2025,
+      "type": "RC",
+      "name": "Desalination, osmosis and power",
+      "study": "Track freshwater/saltwater flows, membrane/pressure mechanism, water-energy relationship and technical limitations.",
+      "task": "Draw a process diagram first; do not reverse the direction of flow or substitute general water-policy facts.",
+      "constraint": "30 marks; preserve scientific relationships in plain language.",
+      "source": "PYP\\2025 (Phase 1-2).pdf",
+      "section_pages": [
+        65,
+        68
+      ],
+      "answer_operations": [
+        "Explain the local water problem and the desalination plant's role.",
+        "Connect concentrated brine's environmental problem to the power-generation proposal.",
+        "Explain membrane flow, pressure and electricity generation in the right causal order.",
+        "Compare the stated advantages with other renewable sources.",
+        "Identify expansion potential and the technological bottleneck specified in the text."
+      ]
+    }
+  ]
+}

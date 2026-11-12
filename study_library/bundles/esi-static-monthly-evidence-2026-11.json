@@ -1,0 +1,1889 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "esi-static-institutions",
+      "title": "StaticGK: international institutions",
+      "path": "SubjectNotesForPhase2\\StaticGK\\International_Organization_lyst1780574384147.pdf",
+      "sha256": "36c7c5a6fe59e2cd3941b31bbc15b89361b4b4e6e3734fb72a7f6f6385bb5c9d",
+      "pages": 33,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-static-regional",
+      "title": "StaticGK: regional cooperation",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Regional_Organization_lyst1780574432843.pdf",
+      "sha256": "ea8626723d618cf80d123bb2ca2a477678876d6c0c58911ed014ed728585c6f4",
+      "pages": 16,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-static-treaties",
+      "title": "StaticGK: environmental agreements and frameworks",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Treaties_and_Conventions_lyst1780574453793.pdf",
+      "sha256": "2db9c064f9fad0253e5f1db40dc52ced6c28ccd869aadadde991d29be00e4fc8",
+      "pages": 9,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-static-polity",
+      "title": "StaticGK: constitutional background",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Indian_Polity_Static_Facts_lyst1779098062370.pdf",
+      "sha256": "ac01ddeda42f5c8d7318ab35793b28cc5e145ef928ef41342f3efd6994ddb9d4",
+      "pages": 4,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-static-banks",
+      "title": "StaticGK: banking reforms and bank types",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Banks_in_INdia_lyst1777977965370.pdf",
+      "sha256": "e58a724ab24455657fd16779d75876940e1809a2a522ec9a1cf658da74466420",
+      "pages": 5,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-monthly-ibc-background",
+      "title": "IBC: ten-year retrospective (edition month unspecified)",
+      "path": "SubjectNotesForPhase2\\CurrentAffairs-Monthly\\10_years_of_IBC__lyst1781004488093.pdf",
+      "sha256": "0443b7c2bc25e4037e0953d97735c9ecad7819f0be536f17f007d6024b22cdd1",
+      "pages": 6,
+      "kind": "notes",
+      "period": null
+    }
+  ],
+  "topics": [
+    {
+      "id": "employment-measurement",
+      "title": "Employment: people, participation and measurement",
+      "subject": "ESI",
+      "summary": "Separate the labour force, workers and unemployed before interpreting a rate. This pilot covers selected concepts, not the entire unemployment chapter.",
+      "tags": [
+        "employment",
+        "labour force",
+        "measurement",
+        "static foundation",
+        "P1 - Core depth",
+        "unemployment types",
+        "policy transmission"
+      ],
+      "related": [
+        "growth-forecasts",
+        "esi-growth-development",
+        "esi-poverty",
+        "esi-demography",
+        "esi-gender-issues"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-ilo-work",
+          "title": "ILO: employment quality beyond headcounts (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-ilo-work-1",
+              "cells": [
+                "ILO's work-related mandate",
+                "Employment opportunities, rights, social protection and dialogue offer separate dimensions for a jobs answer.",
+                "An employment-rate observation does not measure every aspect of decent work."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    21
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-ilo-work-2",
+              "cells": [
+                "Standards versus outcomes",
+                "Distinguish international standards, domestic implementation and actual worker conditions.",
+                "The notes do not prove that every standard applies as enforceable Indian law."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    21
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-ilo-work-application",
+          "question": "Illustrative prompt: employment rises, but protection and working conditions remain weak. How would you deepen the answer?",
+          "answer": "Keep the employment measure, then evaluate rights, security and social dialogue separately. Name a mechanism and implementation constraint instead of treating a higher headcount as sufficient. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-institutions",
+              "pages": [
+                21
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-gender-issues",
+      "title": "Gender: agency, resources, care and participation",
+      "subject": "ESI",
+      "summary": "Core depth: use health, education, work and representation as distinct lenses; explain how norms, unpaid care and asset control shape agency, then evaluate an equity-oriented policy mix without relying on one headline ratio.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "gender",
+        "agency",
+        "unpaid care"
+      ],
+      "related": [
+        "employment-measurement",
+        "esi-human-development",
+        "esi-demography",
+        "esi-positive-discrimination",
+        "esi-education"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-ilo-protection",
+          "title": "Gender and work: connect participation to protection (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-ilo-protection-1",
+              "cells": [
+                "Decent employment",
+                "Use rights, social protection and dialogue to assess the quality of women's paid work.",
+                "The ILO mandate is a framework for evaluation, not a current female-participation statistic."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    21
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-ilo-protection-2",
+              "cells": [
+                "Implementation",
+                "Ask how institutions and worker voice translate principles into practice.",
+                "Do not import a specific convention or ratification status without a source."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    21
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-ilo-protection-application",
+          "question": "Why is higher female participation only one part of a gender-at-work answer?",
+          "answer": "Evaluate work quality, rights, social protection and representation alongside participation. Keep these questions separate from the measurement denominator. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-institutions",
+              "pages": [
+                21
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-education",
+      "title": "Education: access, learning and equitable opportunity",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: distinguish forms of learning, enrolment and meaningful educational opportunity; explain access\u2013quality\u2013equity and prepare a reform answer that separates policy aspirations from achieved results.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "static foundation",
+        "education",
+        "learning",
+        "equity"
+      ],
+      "related": [
+        "esi-human-development",
+        "esi-poverty",
+        "esi-gender-issues",
+        "employment-measurement"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-unesco-learning",
+          "title": "UNESCO: education, learning and inclusion (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-unesco-learning-1",
+              "cells": [
+                "Quality education and lifelong learning",
+                "Move beyond enrolment to continuity and learning outcomes.",
+                "These are stable institutional objectives, not a new education-policy announcement."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    21,
+                    22
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-unesco-learning-2",
+              "cells": [
+                "Global Education Monitoring Report",
+                "Use publisher/report recognition as the entry point to an evidence table.",
+                "Find the relevant edition and measure before quoting a finding; no report statistic is supplied by this background link."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    21,
+                    22
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "static-education-right",
+          "title": "Education: a right-based anchor and delivery constraints (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-education-right-1",
+              "cells": [
+                "Article 21A overview",
+                "The source identifies free and compulsory education for children aged six to fourteen.",
+                "Use the exact constitutional/statutory text for a detailed legal or eligibility claim."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-polity",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-education-right-2",
+              "cells": [
+                "Right versus delivery",
+                "Enrolment, attendance, learning and inclusion remain separate implementation questions.",
+                "A legal guarantee does not by itself prove universal quality or retention."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-polity",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-unesco-learning-application",
+          "question": "How would you connect an education current-affairs item to UNESCO without name-dropping?",
+          "answer": "Identify which access, quality or lifelong-learning mechanism the intervention serves; then test outcomes and equity. Use a dated report only if its actual edition and findings have been read. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-institutions",
+              "pages": [
+                21,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "id": "static-education-right-application",
+          "question": "How can a right-based opening strengthen, rather than replace, education analysis?",
+          "answer": "Use the right as context, then explain access and learning barriers, actors, evidence and implementation. Do not stop after naming the article. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-polity",
+              "pages": [
+                1
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-human-development",
+      "title": "Human development: capabilities, human capital and feedback",
+      "subject": "ESI",
+      "summary": "Core depth: explain real freedoms as the end of development, human capital as a productive means, the growth\u2013capability feedback loop and why average index gains can hide exclusion.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "capabilities",
+        "human capital",
+        "HDI"
+      ],
+      "related": [
+        "esi-growth-development",
+        "esi-education",
+        "esi-health",
+        "esi-gender-issues",
+        "esi-demography"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-unesco-capabilities",
+          "title": "Human capabilities: learning, science and knowledge access (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-unesco-capabilities-1",
+              "cells": [
+                "UNESCO's learning/science objectives",
+                "Education, knowledge access and sustainable-development capacity can support capabilities.",
+                "An institutional mandate is not evidence that capabilities improved in a particular country."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    22
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-unesco-capabilities-2",
+              "cells": [
+                "Inclusive knowledge societies",
+                "Explain why access and the ability to use knowledge differ.",
+                "Do not equate the existence of technology with equitable use."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    22
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-unesco-capabilities-application",
+          "question": "Build a short mechanism connecting education to human capabilities.",
+          "answer": "Learning and usable knowledge can expand choices and productive participation. Discuss access barriers and institutional quality before claiming a universal welfare gain. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-institutions",
+              "pages": [
+                22
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-multiculturalism",
+      "title": "Multiculturalism: recognition, inclusion and common citizenship",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: distinguish the fact of cultural diversity from policies of accommodation, compare recognition with redistribution and balance group protection with individual rights and shared civic participation.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "static foundation",
+        "multiculturalism",
+        "recognition",
+        "social justice"
+      ],
+      "related": [
+        "esi-positive-discrimination",
+        "esi-urbanisation-migration",
+        "esi-gender-issues"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-unesco-dialogue",
+          "title": "Cultural diversity and intercultural dialogue (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-unesco-dialogue-1",
+              "cells": [
+                "UNESCO's cultural-diversity objective",
+                "Use dialogue, recognition and inclusion to structure a multiculturalism answer.",
+                "Recognition is not a blanket justification for practices that deny individual rights."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    22
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-unesco-dialogue-2",
+              "cells": [
+                "Education and shared knowledge",
+                "Explain how education can support communication across groups.",
+                "A mandate does not establish a measured reduction in social exclusion."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    22
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-unesco-dialogue-application",
+          "question": "How can an answer balance cultural recognition and shared citizenship?",
+          "answer": "Recognise diversity, explain dialogue and access mechanisms, and assess inclusion and individual safeguards. Avoid presenting cultural groups as uniform or inherently in conflict. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-institutions",
+              "pages": [
+                22
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-health",
+      "title": "Health: prevention, access and financial protection",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: explain health as well-being and a development input, distinguish prevention from treatment and financial protection from service availability, and prepare one coherent delivery-reform answer.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "static foundation",
+        "health",
+        "social services",
+        "financial protection"
+      ],
+      "related": [
+        "esi-human-development",
+        "esi-poverty",
+        "esi-demography",
+        "esi-gender-issues"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-who-governance",
+          "title": "WHO: public-health mandate and collective governance (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-who-governance-1",
+              "cells": [
+                "WHO",
+                "The notes describe an international public-health mandate.",
+                "An international recommendation is not automatically an implemented Indian programme."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    22,
+                    23
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-who-governance-2",
+              "cells": [
+                "World Health Assembly",
+                "Distinguish policy/governance decisions from country delivery and measured outcomes.",
+                "Read the specific dated instrument before claiming it created a new binding domestic rule."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    22,
+                    23
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-who-governance-application",
+          "question": "How would you use WHO in an answer on health-system strengthening?",
+          "answer": "Connect the actual public-health function to prevention, access or system capacity, then assess domestic delivery. Do not substitute headquarters, foundation dates or a mandate for outcome evidence. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-institutions",
+              "pages": [
+                22,
+                23
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-agriculture",
+      "title": "Agriculture: food security, markets and resource trade-offs",
+      "subject": "ESI",
+      "summary": "Mandatory sector breadth: connect nutrition, price discovery and farm incentives. Deepen scheme eligibility from official current sources; avoid memorising every old subsidy rate.",
+      "tags": [
+        "P2 - Syllabus breadth"
+      ],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-fao-food",
+          "title": "FAO and food security: quantity, quality and production systems (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-fao-food-1",
+              "cells": [
+                "FAO's food-security objective",
+                "Regular access to sufficient high-quality food connects farming to nutrition.",
+                "Crop output alone is not household food access or dietary quality."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    23,
+                    24
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-fao-food-2",
+              "cells": [
+                "Codex-related consumer protection",
+                "Food standards link producer markets, consumer health and fair trade.",
+                "A food-standard institution does not set every Indian scheme's beneficiary rules."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    23,
+                    24
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-fao-food-application",
+          "question": "Connect agricultural productivity to food security without assuming the two are identical.",
+          "answer": "Trace production and supply, purchasing/access conditions, diet quality and food safety. Use household and nutritional evidence separately from agricultural output. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-institutions",
+              "pages": [
+                23,
+                24
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-poverty",
+      "title": "Poverty: incidence, depth, capabilities and vulnerability",
+      "subject": "ESI",
+      "summary": "Core depth: distinguish absolute, relative and multidimensional poverty; interpret incidence versus shortfall, trace poverty traps and match persistent deprivation or temporary shocks to suitable policy responses.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "poverty",
+        "measurement",
+        "vulnerability"
+      ],
+      "related": [
+        "esi-growth-development",
+        "employment-measurement",
+        "esi-health",
+        "esi-education",
+        "esi-gender-issues"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-ifad-livelihoods",
+          "title": "IFAD: rural livelihoods rather than income labels alone (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-ifad-livelihoods-1",
+              "cells": [
+                "IFAD's rural-poverty focus",
+                "Rural development finance and partnerships can connect poor producers to markets and capabilities.",
+                "The mandate is not a current project allocation or a measured poverty reduction."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    24
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-ifad-livelihoods-2",
+              "cells": [
+                "Producer linkages",
+                "Explain how institutional access might improve livelihoods and resilience.",
+                "Credit access alone does not establish profitable demand or sustainable income."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    24
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-ifad-livelihoods-application",
+          "question": "Explain why a rural-poverty answer needs more than a credit scheme list.",
+          "answer": "Identify the producer constraint and trace finance, skills, market access and risk protection into livelihood outcomes. Assess exclusion and implementation instead of assuming disbursement equals income. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-institutions",
+              "pages": [
+                24
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-rural-credit",
+      "title": "Rural credit and microfinance: access with borrower resilience",
+      "subject": "ESI",
+      "summary": "Match financing to rural cash flows and compare formal institutions, group finance and borrower-protection risks.",
+      "tags": [
+        "P1 - Core depth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-banks-rbi",
+        "esi-economy-nature",
+        "esi-public-finance"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-ifad-finance",
+          "title": "Rural credit: link finance to productive livelihoods (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-ifad-finance-1",
+              "cells": [
+                "IFAD",
+                "A development institution focused on rural poverty and agricultural projects.",
+                "Distinguish its mandate from commercial bank deposit-taking or a household entitlement."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    24
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-ifad-finance-2",
+              "cells": [
+                "Partnerships",
+                "Finance can operate alongside producer organisations, markets and institutional support.",
+                "A source's mission statement is not proof of repayment capacity or project success."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    24
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-ifad-finance-application",
+          "question": "What complementary conditions would you test before recommending more rural credit?",
+          "answer": "Check productive opportunities, market access, support services and risks to income and repayment. Discuss borrower resilience rather than treating higher lending as an end in itself. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-institutions",
+              "pages": [
+                24
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-industry",
+      "title": "Industry: reforms, approvals and productive capacity",
+      "subject": "ESI",
+      "summary": "Study the reform-to-investment channel, not an inventory of launch dates. Distinguish fewer barriers, easier approvals and actual productive investment.",
+      "tags": [
+        "P2 - Syllabus breadth"
+      ],
+      "related": [
+        "esi-agriculture"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-unido-sdg9",
+          "title": "UNIDO and SDG 9: inclusive and sustainable industrialisation (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-unido-sdg9-1",
+              "cells": [
+                "UNIDO's ISID mandate",
+                "Competitiveness, shared prosperity and environmental safeguards can be evaluated together.",
+                "Higher factory output alone does not prove inclusion or sustainability."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    27
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-unido-sdg9-2",
+              "cells": [
+                "SDG 9 connection",
+                "Infrastructure, industrialisation and innovation identify linked policy channels.",
+                "The mandate is background; a specific indicator requires a dated report."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    27
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "monthly-ibc-industry",
+          "title": "IBC: reallocation and creditor coordination (retrospective; date unspecified)",
+          "columns": [
+            "Concept",
+            "ESI connection",
+            "Status boundary"
+          ],
+          "rows": [
+            {
+              "id": "monthly-ibc-industry-purpose",
+              "cells": [
+                "Insolvency resolution",
+                "A framework can support asset-value preservation, creditor coordination and the exit/restructuring of distressed businesses.",
+                "The supplied summary is not a substitute for current legislation or case-specific legal rules."
+              ],
+              "refs": [
+                {
+                  "source": "esi-monthly-ibc-background",
+                  "pages": [
+                    1,
+                    2,
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "monthly-ibc-industry-status",
+              "cells": [
+                "Amendment discussion",
+                "The source describes a 2026 bill and proposed changes.",
+                "Bill passage, enactment and commencement are distinct. Its status and precise thresholds are not independently verified; no effective date is invented."
+              ],
+              "refs": [
+                {
+                  "source": "esi-monthly-ibc-background",
+                  "pages": [
+                    3,
+                    4
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-unido-sdg9-application",
+          "question": "Outline an industrial-growth answer using inclusive and sustainable criteria.",
+          "answer": "Explain productive capacity and competitiveness; test who gains jobs/income; examine resource and pollution effects; propose implementation safeguards. Do not use the acronym as a substitute for causal reasoning. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-institutions",
+              "pages": [
+                27
+              ]
+            }
+          ]
+        },
+        {
+          "id": "monthly-ibc-industry-case",
+          "question": "Illustrative ESI prompt: why can an insolvency framework matter beyond bank recovery?",
+          "answer": "Explain coordination, the preservation/reallocation of productive assets and orderly exit. Then discuss delay and implementation capacity. Do not assume the source's amendment proposals are in force; exact legal rules need verification.",
+          "refs": [
+            {
+              "source": "esi-monthly-ibc-background",
+              "pages": [
+                1,
+                2,
+                3,
+                4
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-sustainable-development",
+      "title": "Sustainability: resource limits, policy and intergenerational equity",
+      "subject": "ESI",
+      "summary": "Core depth: connect present needs with future resource availability, explain growth\u2013environment mechanisms, evaluate policy instruments and SDG implementation without treating an income threshold as automatic environmental repair.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "sustainability",
+        "SDGs",
+        "environment"
+      ],
+      "related": [
+        "esi-growth-development",
+        "esi-poverty",
+        "esi-urbanisation-migration"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-climate-frameworks",
+          "title": "Climate and disaster frameworks: know which problem each addresses (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-climate-frameworks-1",
+              "cells": [
+                "UNFCCC / Paris",
+                "Climate cooperation, emissions action and adaptation provide a policy frame.",
+                "Distinguish national targets from achieved outcomes; do not treat source-era NDC wording as verified current."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-treaties",
+                  "pages": [
+                    2,
+                    3,
+                    6,
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-climate-frameworks-2",
+              "cells": [
+                "Vienna / Montreal",
+                "An ozone-protection framework and controls on ozone-depleting substances are distinct from the Paris architecture.",
+                "Avoid mixing ozone depletion with climate change as one identical problem."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-treaties",
+                  "pages": [
+                    2,
+                    3,
+                    6,
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-climate-frameworks-3",
+              "cells": [
+                "Sendai",
+                "Disaster-risk reduction connects hazards to lives, livelihoods and asset losses.",
+                "A disaster-risk framework is not a greenhouse-gas reduction commitment."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-treaties",
+                  "pages": [
+                    2,
+                    3,
+                    6,
+                    8
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-climate-frameworks-application",
+          "question": "Illustrative case: a flood disrupts crops, health and local budgets. Which links belong in a sustainability answer?",
+          "answer": "Trace physical risk into livelihoods, health, prices and fiscal costs. Distinguish resilience/adaptation from emissions mitigation, and use the disaster-risk framework for prevention and loss reduction. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-treaties",
+              "pages": [
+                2,
+                3,
+                6,
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-urbanisation-migration",
+      "title": "Urbanisation and migration: drivers, agglomeration and inclusion",
+      "subject": "ESI",
+      "summary": "Core depth: distinguish urban population growth from migration alone, explain push\u2013pull drivers and agglomeration, assess origin/destination effects and match urban-service and inclusion policies to real constraints.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "urbanisation",
+        "migration",
+        "agglomeration"
+      ],
+      "related": [
+        "esi-demography",
+        "employment-measurement",
+        "esi-poverty",
+        "esi-sustainable-development",
+        "esi-multiculturalism"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-sendai-urban",
+          "title": "Urban services and disaster resilience (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-sendai-urban-1",
+              "cells": [
+                "Sendai's risk-reduction focus",
+                "Connect exposure and vulnerable services to health, livelihoods and economic losses.",
+                "The framework does not demonstrate that migrants cause urban hazards."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-treaties",
+                  "pages": [
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-sendai-urban-2",
+              "cells": [
+                "Resilient infrastructure",
+                "Evaluate how housing and service planning reduce losses for vulnerable residents.",
+                "Outcomes require local evidence; an international framework is not an implemented city plan."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-treaties",
+                  "pages": [
+                    8
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-sendai-urban-application",
+          "question": "How would an urban-risk answer include migrants without blaming them for service failures?",
+          "answer": "Assess housing access, exposure, portability and service capacity. Explain institutional and planning constraints and protect vulnerable residents rather than attributing policy failures to migration itself. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-treaties",
+              "pages": [
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-federal-finance",
+      "title": "Federal finance: powers, sharing and intergovernmental support",
+      "subject": "ESI",
+      "summary": "Distinguish tax assignment, tax sharing, grants and borrowing constraints within India's fiscal federation.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-taxation",
+        "esi-fiscal-policy",
+        "esi-public-debt",
+        "esi-public-finance"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-constitutional-division",
+          "title": "Federal coordination: powers are not the same as funding (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-constitutional-division-1",
+              "cells": [
+                "Article 246 / Seventh Schedule",
+                "The source introduces Union, State and Concurrent legislative fields.",
+                "A simplified list is not the complete constitutional allocation, fiscal transfer rule or consent requirement."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-polity",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-constitutional-division-2",
+              "cells": [
+                "Shared delivery",
+                "Health, agriculture, education and forests illustrate why implementation may involve multiple levels.",
+                "Do not infer a grant formula or current devolution share from the legislative list."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-polity",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-constitutional-division-application",
+          "question": "Why does a Centre-state policy answer need both responsibility and resources?",
+          "answer": "Identify the function and delivery actors, then examine financing, capacity and coordination. Keep legislative competence distinct from taxes, grants and actual expenditure. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-polity",
+              "pages": [
+                2
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-positive-discrimination",
+      "title": "Positive discrimination: substantive equality and representation",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: explain why identical treatment can preserve historical disadvantage, distinguish reservation from wider inclusion and evaluate representation, targeting and complementary capability support without asserting unverified legal details.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "static foundation",
+        "affirmative action",
+        "equality",
+        "representation"
+      ],
+      "related": [
+        "esi-gender-issues",
+        "esi-education",
+        "esi-poverty",
+        "esi-multiculturalism"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-equality-protection",
+          "title": "Equality: legal protection and substantive access (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-equality-protection-1",
+              "cells": [
+                "Equality and non-discrimination",
+                "The source sketches equality before law, non-discrimination and public-employment opportunity.",
+                "The simplified table omits provisos/exceptions: it is not sufficient authority for a reservation eligibility decision."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-polity",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-equality-protection-2",
+              "cells": [
+                "Substantive inclusion",
+                "Ask which structural barrier a targeted measure seeks to address.",
+                "Do not infer a quota percentage, creamy-layer rule or commencement date from this summary."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-polity",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-equality-protection-application",
+          "question": "Compare equal treatment with a policy designed to remove a structural barrier.",
+          "answer": "Explain the barrier and the intended mechanism, assess reach and exclusion, and consider safeguards. Cite an exact current legal provision before asserting who qualifies. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-polity",
+              "pages": [
+                1
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-international-institutions",
+      "title": "International institutions: mandate, finance and reports",
+      "subject": "ESI",
+      "summary": "Mandatory globalisation breadth plus objective report knowledge. Match institutions to functions and reports; do not memorise mutable membership counts from undated notes.",
+      "tags": [
+        "P2 - Syllabus breadth"
+      ],
+      "related": [
+        "esi-external-sector",
+        "growth-forecasts"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-ndb-cra-aiib",
+          "title": "Development finance versus liquidity support (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-ndb-cra-aiib-1",
+              "cells": [
+                "NDB / AIIB",
+                "Development and infrastructure financing differs from immediate external-liquidity support.",
+                "Source-era membership and shareholding are mutable; not imported as current facts."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-regional",
+                  "pages": [
+                    11,
+                    14,
+                    16
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-ndb-cra-aiib-2",
+              "cells": [
+                "BRICS CRA",
+                "The source describes a liquidity-support mechanism for external pressure.",
+                "Do not treat every infrastructure bank and reserve arrangement as the same instrument."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-regional",
+                  "pages": [
+                    11,
+                    14,
+                    16
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-ndb-cra-aiib-3",
+              "cells": [
+                "G77",
+                "A negotiating/cooperation grouping is not itself a multilateral development bank.",
+                "Institutional purpose matters more than a memorised member count."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-regional",
+                  "pages": [
+                    11,
+                    14,
+                    16
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-ndb-cra-aiib-application",
+          "question": "A question asks which institution fits infrastructure finance versus external liquidity pressure. What distinction should you make?",
+          "answer": "Match the financing need and instrument to the mandate. NDB/AIIB development finance, the CRA support mechanism and a negotiating group have different functions; current access conditions need separate verification. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-regional",
+              "pages": [
+                11,
+                14,
+                16
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-external-sector",
+      "title": "External sector: trade, capital flows and convertibility",
+      "subject": "ESI",
+      "summary": "Explain how trade, financial flows and policy interact. Keep BoP accounting separate from claims about development; the source itself gives inconsistent convertibility dates, preserved for review.",
+      "tags": [
+        "P2 - Syllabus breadth"
+      ],
+      "related": [
+        "esi-services"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-regional-channels",
+          "title": "Regional cooperation: trade, finance and collective negotiation (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-regional-channels-1",
+              "cells": [
+                "Regional trade cooperation",
+                "Trade arrangements address cross-border access and rules.",
+                "The source overstates a common-currency objective for SAFTA; that claim is not adopted."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-regional",
+                  "pages": [
+                    9,
+                    11,
+                    14
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-regional-channels-2",
+              "cells": [
+                "Liquidity support",
+                "A reserve-support arrangement serves a different purpose from a trade agreement.",
+                "Do not infer unconditional access or current limits from a mandate summary."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-regional",
+                  "pages": [
+                    9,
+                    11,
+                    14
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-regional-channels-3",
+              "cells": [
+                "Collective negotiation",
+                "Developing-country cooperation can strengthen negotiating capacity.",
+                "A grouping is not necessarily a customs union, common market or common currency."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-regional",
+                  "pages": [
+                    9,
+                    11,
+                    14
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-regional-channels-application",
+          "question": "How would you avoid confusing an FTA, a financial safety net and a negotiating bloc?",
+          "answer": "Compare objective, instrument and obligations on common dimensions. Do not assume deeper integration, a common currency or a loan entitlement merely from membership. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-regional",
+              "pages": [
+                9,
+                11,
+                14
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-banks-rbi",
+      "title": "Banks and RBI: development, inclusion and policy transmission",
+      "subject": "ESI",
+      "summary": "Separate financial intermediation from central-bank policy and evaluate whether formal access becomes usable, resilient finance.",
+      "tags": [
+        "P1 - Core depth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-rural-credit",
+        "esi-inflation",
+        "esi-fiscal-policy",
+        "esi-economy-nature"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-bank-reform-history",
+          "title": "Banking reforms: historical proposals versus current rules (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-bank-reform-history-1",
+              "cells": [
+                "Narasimham Committee I discussion",
+                "The source describes regulatory-control and competition-related reform proposals.",
+                "Historical proposals such as SLR reduction are not the prevailing statutory rate."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-banks",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-bank-reform-history-2",
+              "cells": [
+                "Committee II discussion",
+                "The notes describe consolidation and ownership proposals.",
+                "A committee recommendation is not automatically an enacted or completed ownership change."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-banks",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "monthly-ibc-banks-rbi",
+          "title": "IBC: reallocation and creditor coordination (retrospective; date unspecified)",
+          "columns": [
+            "Concept",
+            "ESI connection",
+            "Status boundary"
+          ],
+          "rows": [
+            {
+              "id": "monthly-ibc-banks-rbi-purpose",
+              "cells": [
+                "Insolvency resolution",
+                "A framework can support asset-value preservation, creditor coordination and the exit/restructuring of distressed businesses.",
+                "The supplied summary is not a substitute for current legislation or case-specific legal rules."
+              ],
+              "refs": [
+                {
+                  "source": "esi-monthly-ibc-background",
+                  "pages": [
+                    1,
+                    2,
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "monthly-ibc-banks-rbi-status",
+              "cells": [
+                "Amendment discussion",
+                "The source describes a 2026 bill and proposed changes.",
+                "Bill passage, enactment and commencement are distinct. Its status and precise thresholds are not independently verified; no effective date is invented."
+              ],
+              "refs": [
+                {
+                  "source": "esi-monthly-ibc-background",
+                  "pages": [
+                    3,
+                    4
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-bank-reform-history-application",
+          "question": "A source gives a committee's proposed liquidity ratio. Can it be used as today's bank requirement?",
+          "answer": "No. Identify recommendation, acceptance, implementation and current operative rule separately. Use the historical proposal to explain reform incentives, not to answer a current-rate question. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-banks",
+              "pages": [
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "id": "monthly-ibc-banks-rbi-case",
+          "question": "Illustrative ESI prompt: why can an insolvency framework matter beyond bank recovery?",
+          "answer": "Explain coordination, the preservation/reallocation of productive assets and orderly exit. Then discuss delay and implementation capacity. Do not assume the source's amendment proposals are in force; exact legal rules need verification.",
+          "refs": [
+            {
+              "source": "esi-monthly-ibc-background",
+              "pages": [
+                1,
+                2,
+                3,
+                4
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-reforms",
+      "title": "Economic reforms: stabilisation, incentives and inclusion",
+      "subject": "ESI",
+      "summary": "Explain the crisis-to-reform mechanism and assess efficiency gains alongside distributional and employment concerns.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-post1991-macro",
+        "esi-economy-nature",
+        "esi-fiscal-policy",
+        "esi-banks-rbi"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "static-bank-competition",
+          "title": "Reform mechanism: recommendations, implementation and outcomes (static background, not a new event)",
+          "columns": [
+            "Static anchor",
+            "Connection to this ESI topic",
+            "Boundary / verification"
+          ],
+          "rows": [
+            {
+              "id": "static-bank-competition-1",
+              "cells": [
+                "Competition and control",
+                "Banking-reform discussions illustrate how market structure and regulatory design can change incentives.",
+                "A proposed change is not evidence that it was implemented."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-banks",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "static-bank-competition-2",
+              "cells": [
+                "Consolidation",
+                "Institutional scale and ownership are separate from performance outcomes.",
+                "Evaluate efficiency, access and safeguards instead of assuming larger banks are always better."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-banks",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "monthly-ibc-reforms",
+          "title": "IBC: reallocation and creditor coordination (retrospective; date unspecified)",
+          "columns": [
+            "Concept",
+            "ESI connection",
+            "Status boundary"
+          ],
+          "rows": [
+            {
+              "id": "monthly-ibc-reforms-purpose",
+              "cells": [
+                "Insolvency resolution",
+                "A framework can support asset-value preservation, creditor coordination and the exit/restructuring of distressed businesses.",
+                "The supplied summary is not a substitute for current legislation or case-specific legal rules."
+              ],
+              "refs": [
+                {
+                  "source": "esi-monthly-ibc-background",
+                  "pages": [
+                    1,
+                    2,
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "monthly-ibc-reforms-status",
+              "cells": [
+                "Amendment discussion",
+                "The source describes a 2026 bill and proposed changes.",
+                "Bill passage, enactment and commencement are distinct. Its status and precise thresholds are not independently verified; no effective date is invented."
+              ],
+              "refs": [
+                {
+                  "source": "esi-monthly-ibc-background",
+                  "pages": [
+                    3,
+                    4
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "static-bank-competition-application",
+          "question": "Structure a critical answer using a historical committee recommendation.",
+          "answer": "Name the problem and proposed mechanism; distinguish enacted measures from proposals; evaluate outcomes and limitations with appropriate evidence; conclude without treating the recommendation as a current rule. This is an original learning application of static material, not a reported current event or an official legal interpretation.",
+          "refs": [
+            {
+              "source": "esi-static-banks",
+              "pages": [
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "id": "monthly-ibc-reforms-case",
+          "question": "Illustrative ESI prompt: why can an insolvency framework matter beyond bank recovery?",
+          "answer": "Explain coordination, the preservation/reallocation of productive assets and orderly exit. Then discuss delay and implementation capacity. Do not assume the source's amendment proposals are in force; exact legal rules need verification.",
+          "refs": [
+            {
+              "source": "esi-monthly-ibc-background",
+              "pages": [
+                1,
+                2,
+                3,
+                4
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    }
+  ]
+}

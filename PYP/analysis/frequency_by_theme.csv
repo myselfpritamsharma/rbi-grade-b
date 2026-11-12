@@ -1,0 +1,245 @@
+﻿year,phase,subject,primary_theme,question_count,subject_question_count,share_percent
+2019,Phase 1,English,Vocabulary and usage,8,21,38.1
+2019,Phase 1,English,English: other/uncategorized,6,21,28.6
+2019,Phase 1,English,Reading comprehension,5,21,23.8
+2019,Phase 1,English,Sentence arrangement,2,21,9.5
+2019,Phase 1,General Awareness,General Awareness: other/uncategorized,19,67,28.4
+2019,Phase 1,General Awareness,International affairs and institutions,15,67,22.4
+2019,Phase 1,General Awareness,"Sports, culture and general knowledge",9,67,13.4
+2019,Phase 1,General Awareness,Banking and financial system,8,67,11.9
+2019,Phase 1,General Awareness,Government schemes and policies,6,67,9.0
+2019,Phase 1,General Awareness,RBI and monetary system,5,67,7.5
+2019,Phase 1,General Awareness,Science and technology,3,67,4.5
+2019,Phase 1,General Awareness,Environment and sustainable development,2,67,3.0
+2019,Phase 1,Quantitative Aptitude,Arithmetic,13,21,61.9
+2019,Phase 1,Quantitative Aptitude,Quantitative Aptitude: other/uncategorized,6,21,28.6
+2019,Phase 1,Quantitative Aptitude,Data interpretation,1,21,4.8
+2019,Phase 1,Quantitative Aptitude,Number systems and sequences,1,21,4.8
+2019,Phase 1,Reasoning,Reasoning: other/uncategorized,27,54,50.0
+2019,Phase 1,Reasoning,Syllogisms and deductions,17,54,31.5
+2019,Phase 1,Reasoning,Puzzles and seating arrangements,10,54,18.5
+2019,Phase 2,Economic and Social Issues,Growth and Development,26,61,42.6
+2019,Phase 2,Economic and Social Issues,Indian Economy,12,61,19.7
+2019,Phase 2,Economic and Social Issues,Economic and Social Issues: other/uncategorized,11,61,18.0
+2019,Phase 2,Economic and Social Issues,Social Structure in India,6,61,9.8
+2019,Phase 2,Economic and Social Issues,Globalization and International Economic Issues,5,61,8.2
+2019,Phase 2,Economic and Social Issues,Sustainable Development and Environment,1,61,1.6
+2021,Phase 1,English,English: other/uncategorized,13,30,43.3
+2021,Phase 1,English,Reading comprehension,9,30,30.0
+2021,Phase 1,English,Cloze and fillers,4,30,13.3
+2021,Phase 1,English,Vocabulary and usage,3,30,10.0
+2021,Phase 1,English,Grammar and sentence correction,1,30,3.3
+2021,Phase 1,General Awareness,General Awareness: other/uncategorized,19,80,23.8
+2021,Phase 1,General Awareness,Banking and financial system,15,80,18.8
+2021,Phase 1,General Awareness,Government schemes and policies,14,80,17.5
+2021,Phase 1,General Awareness,RBI and monetary system,10,80,12.5
+2021,Phase 1,General Awareness,"Sports, culture and general knowledge",7,80,8.8
+2021,Phase 1,General Awareness,International affairs and institutions,5,80,6.2
+2021,Phase 1,General Awareness,"Reports, indices and surveys",5,80,6.2
+2021,Phase 1,General Awareness,Indian economy and public finance,3,80,3.8
+2021,Phase 1,General Awareness,Environment and sustainable development,1,80,1.2
+2021,Phase 1,General Awareness,Science and technology,1,80,1.2
+2021,Phase 1,Quantitative Aptitude,Arithmetic,12,30,40.0
+2021,Phase 1,Quantitative Aptitude,Quantitative Aptitude: other/uncategorized,8,30,26.7
+2021,Phase 1,Quantitative Aptitude,Number systems and sequences,7,30,23.3
+2021,Phase 1,Quantitative Aptitude,Data interpretation,2,30,6.7
+2021,Phase 1,Quantitative Aptitude,Geometry and mensuration,1,30,3.3
+2021,Phase 1,Reasoning,Reasoning: other/uncategorized,26,60,43.3
+2021,Phase 1,Reasoning,Syllogisms and deductions,17,60,28.3
+2021,Phase 1,Reasoning,Puzzles and seating arrangements,16,60,26.7
+2021,Phase 1,Reasoning,Coding and input-output,1,60,1.7
+2021,Phase 2,Descriptive English,Essay writing,1,3,33.3
+2021,Phase 2,Descriptive English,Precis writing,1,3,33.3
+2021,Phase 2,Descriptive English,Reading comprehension,1,3,33.3
+2021,Phase 2,Economic and Social Issues,Economic and Social Issues: other/uncategorized,17,36,47.2
+2021,Phase 2,Economic and Social Issues,Growth and Development,7,36,19.4
+2021,Phase 2,Economic and Social Issues,Globalization and International Economic Issues,5,36,13.9
+2021,Phase 2,Economic and Social Issues,Indian Economy,3,36,8.3
+2021,Phase 2,Economic and Social Issues,Social Structure in India,3,36,8.3
+2021,Phase 2,Economic and Social Issues,Sustainable Development and Environment,1,36,2.8
+2021,Phase 2,Finance and Management,Finance and Management: other/uncategorized,10,36,27.8
+2021,Phase 2,Finance and Management,Financial System and Banking,8,36,22.2
+2021,Phase 2,Finance and Management,Management and Organizational Behaviour,8,36,22.2
+2021,Phase 2,Finance and Management,Communication and Interpersonal Relations,4,36,11.1
+2021,Phase 2,Finance and Management,Financial Markets and Instruments,2,36,5.6
+2021,Phase 2,Finance and Management,"Inflation, Budget and Public Finance",2,36,5.6
+2021,Phase 2,Finance and Management,Ethics and Corporate Governance,1,36,2.8
+2021,Phase 2,Finance and Management,"Risk, Accounting and Financial Analysis",1,36,2.8
+2022,Phase 1,English,Grammar and sentence correction,13,28,46.4
+2022,Phase 1,English,English: other/uncategorized,9,28,32.1
+2022,Phase 1,English,Reading comprehension,3,28,10.7
+2022,Phase 1,English,Vocabulary and usage,3,28,10.7
+2022,Phase 1,General Awareness,Government schemes and policies,22,80,27.5
+2022,Phase 1,General Awareness,General Awareness: other/uncategorized,15,80,18.8
+2022,Phase 1,General Awareness,Banking and financial system,11,80,13.8
+2022,Phase 1,General Awareness,Indian economy and public finance,7,80,8.8
+2022,Phase 1,General Awareness,International affairs and institutions,7,80,8.8
+2022,Phase 1,General Awareness,RBI and monetary system,5,80,6.2
+2022,Phase 1,General Awareness,"Sports, culture and general knowledge",5,80,6.2
+2022,Phase 1,General Awareness,"Reports, indices and surveys",3,80,3.8
+2022,Phase 1,General Awareness,Science and technology,3,80,3.8
+2022,Phase 1,General Awareness,Environment and sustainable development,2,80,2.5
+2022,Phase 1,Quantitative Aptitude,Arithmetic,14,30,46.7
+2022,Phase 1,Quantitative Aptitude,Number systems and sequences,7,30,23.3
+2022,Phase 1,Quantitative Aptitude,Quantitative Aptitude: other/uncategorized,5,30,16.7
+2022,Phase 1,Quantitative Aptitude,Algebra and equations,3,30,10.0
+2022,Phase 1,Quantitative Aptitude,Geometry and mensuration,1,30,3.3
+2022,Phase 1,Reasoning,Reasoning: other/uncategorized,33,60,55.0
+2022,Phase 1,Reasoning,Puzzles and seating arrangements,13,60,21.7
+2022,Phase 1,Reasoning,Syllogisms and deductions,10,60,16.7
+2022,Phase 1,Reasoning,Logical and critical reasoning,4,60,6.7
+2022,Phase 2,Descriptive English,Essay writing,1,3,33.3
+2022,Phase 2,Descriptive English,Precis writing,1,3,33.3
+2022,Phase 2,Descriptive English,Reading comprehension,1,3,33.3
+2022,Phase 2,Economic and Social Issues,Economic and Social Issues: other/uncategorized,20,36,55.6
+2022,Phase 2,Economic and Social Issues,Growth and Development,6,36,16.7
+2022,Phase 2,Economic and Social Issues,Globalization and International Economic Issues,4,36,11.1
+2022,Phase 2,Economic and Social Issues,Indian Economy,4,36,11.1
+2022,Phase 2,Economic and Social Issues,Social Structure in India,2,36,5.6
+2022,Phase 2,Finance and Management,Finance and Management: other/uncategorized,10,36,27.8
+2022,Phase 2,Finance and Management,Management and Organizational Behaviour,10,36,27.8
+2022,Phase 2,Finance and Management,Financial System and Banking,6,36,16.7
+2022,Phase 2,Finance and Management,Communication and Interpersonal Relations,5,36,13.9
+2022,Phase 2,Finance and Management,Financial Markets and Instruments,2,36,5.6
+2022,Phase 2,Finance and Management,"Risk, Accounting and Financial Analysis",2,36,5.6
+2022,Phase 2,Finance and Management,Ethics and Corporate Governance,1,36,2.8
+2023,Phase 1,English,English: other/uncategorized,16,30,53.3
+2023,Phase 1,English,Reading comprehension,6,30,20.0
+2023,Phase 1,English,Sentence arrangement,4,30,13.3
+2023,Phase 1,English,Grammar and sentence correction,2,30,6.7
+2023,Phase 1,English,Vocabulary and usage,2,30,6.7
+2023,Phase 1,General Awareness,Government schemes and policies,18,80,22.5
+2023,Phase 1,General Awareness,General Awareness: other/uncategorized,14,80,17.5
+2023,Phase 1,General Awareness,Banking and financial system,13,80,16.2
+2023,Phase 1,General Awareness,RBI and monetary system,11,80,13.8
+2023,Phase 1,General Awareness,International affairs and institutions,6,80,7.5
+2023,Phase 1,General Awareness,"Reports, indices and surveys",5,80,6.2
+2023,Phase 1,General Awareness,"Sports, culture and general knowledge",5,80,6.2
+2023,Phase 1,General Awareness,Indian economy and public finance,4,80,5.0
+2023,Phase 1,General Awareness,Environment and sustainable development,2,80,2.5
+2023,Phase 1,General Awareness,Science and technology,2,80,2.5
+2023,Phase 1,Quantitative Aptitude,Arithmetic,17,30,56.7
+2023,Phase 1,Quantitative Aptitude,Number systems and sequences,9,30,30.0
+2023,Phase 1,Quantitative Aptitude,Algebra and equations,3,30,10.0
+2023,Phase 1,Quantitative Aptitude,Data interpretation,1,30,3.3
+2023,Phase 1,Reasoning,Reasoning: other/uncategorized,31,60,51.7
+2023,Phase 1,Reasoning,Puzzles and seating arrangements,14,60,23.3
+2023,Phase 1,Reasoning,Syllogisms and deductions,13,60,21.7
+2023,Phase 1,Reasoning,Coding and input-output,2,60,3.3
+2023,Phase 2,Descriptive English,Descriptive English: other/uncategorized,1,3,33.3
+2023,Phase 2,Descriptive English,Essay writing,1,3,33.3
+2023,Phase 2,Descriptive English,Precis writing,1,3,33.3
+2023,Phase 2,Economic and Social Issues,Economic and Social Issues: other/uncategorized,18,36,50.0
+2023,Phase 2,Economic and Social Issues,Growth and Development,11,36,30.6
+2023,Phase 2,Economic and Social Issues,Indian Economy,4,36,11.1
+2023,Phase 2,Economic and Social Issues,Globalization and International Economic Issues,1,36,2.8
+2023,Phase 2,Economic and Social Issues,Social Structure in India,1,36,2.8
+2023,Phase 2,Economic and Social Issues,Sustainable Development and Environment,1,36,2.8
+2023,Phase 2,Finance and Management,Finance and Management: other/uncategorized,12,36,33.3
+2023,Phase 2,Finance and Management,Management and Organizational Behaviour,8,36,22.2
+2023,Phase 2,Finance and Management,Financial System and Banking,6,36,16.7
+2023,Phase 2,Finance and Management,"Risk, Accounting and Financial Analysis",5,36,13.9
+2023,Phase 2,Finance and Management,Communication and Interpersonal Relations,2,36,5.6
+2023,Phase 2,Finance and Management,Financial Markets and Instruments,2,36,5.6
+2023,Phase 2,Finance and Management,Ethics and Corporate Governance,1,36,2.8
+2024,Phase 1,English,English: other/uncategorized,13,28,46.4
+2024,Phase 1,English,Reading comprehension,8,28,28.6
+2024,Phase 1,English,Vocabulary and usage,6,28,21.4
+2024,Phase 1,English,Grammar and sentence correction,1,28,3.6
+2024,Phase 1,General Awareness,RBI and monetary system,18,80,22.5
+2024,Phase 1,General Awareness,Government schemes and policies,17,80,21.2
+2024,Phase 1,General Awareness,Banking and financial system,15,80,18.8
+2024,Phase 1,General Awareness,"Reports, indices and surveys",8,80,10.0
+2024,Phase 1,General Awareness,General Awareness: other/uncategorized,7,80,8.8
+2024,Phase 1,General Awareness,International affairs and institutions,5,80,6.2
+2024,Phase 1,General Awareness,Indian economy and public finance,4,80,5.0
+2024,Phase 1,General Awareness,"Sports, culture and general knowledge",4,80,5.0
+2024,Phase 1,General Awareness,Environment and sustainable development,1,80,1.2
+2024,Phase 1,General Awareness,Science and technology,1,80,1.2
+2024,Phase 1,Quantitative Aptitude,Arithmetic,18,29,62.1
+2024,Phase 1,Quantitative Aptitude,Number systems and sequences,5,29,17.2
+2024,Phase 1,Quantitative Aptitude,Quantitative Aptitude: other/uncategorized,4,29,13.8
+2024,Phase 1,Quantitative Aptitude,Data interpretation,2,29,6.9
+2024,Phase 1,Reasoning,Puzzles and seating arrangements,29,60,48.3
+2024,Phase 1,Reasoning,Reasoning: other/uncategorized,16,60,26.7
+2024,Phase 1,Reasoning,Syllogisms and deductions,13,60,21.7
+2024,Phase 1,Reasoning,Logical and critical reasoning,2,60,3.3
+2024,Phase 2,Descriptive English,Descriptive English: other/uncategorized,1,3,33.3
+2024,Phase 2,Descriptive English,Essay writing,1,3,33.3
+2024,Phase 2,Descriptive English,Precis writing,1,3,33.3
+2024,Phase 2,Economic and Social Issues,Growth and Development,17,36,47.2
+2024,Phase 2,Economic and Social Issues,Economic and Social Issues: other/uncategorized,8,36,22.2
+2024,Phase 2,Economic and Social Issues,Indian Economy,5,36,13.9
+2024,Phase 2,Economic and Social Issues,Sustainable Development and Environment,3,36,8.3
+2024,Phase 2,Economic and Social Issues,Globalization and International Economic Issues,2,36,5.6
+2024,Phase 2,Economic and Social Issues,Social Structure in India,1,36,2.8
+2024,Phase 2,Finance and Management,Finance and Management: other/uncategorized,9,36,25.0
+2024,Phase 2,Finance and Management,Financial System and Banking,8,36,22.2
+2024,Phase 2,Finance and Management,Management and Organizational Behaviour,7,36,19.4
+2024,Phase 2,Finance and Management,Financial Markets and Instruments,6,36,16.7
+2024,Phase 2,Finance and Management,Communication and Interpersonal Relations,2,36,5.6
+2024,Phase 2,Finance and Management,"Risk, Accounting and Financial Analysis",2,36,5.6
+2024,Phase 2,Finance and Management,Ethics and Corporate Governance,1,36,2.8
+2024,Phase 2,Finance and Management,"Inflation, Budget and Public Finance",1,36,2.8
+2025,Phase 1,English,English: other/uncategorized,14,28,50.0
+2025,Phase 1,English,Vocabulary and usage,8,28,28.6
+2025,Phase 1,English,Reading comprehension,5,28,17.9
+2025,Phase 1,English,Grammar and sentence correction,1,28,3.6
+2025,Phase 1,General Awareness,Banking and financial system,12,46,26.1
+2025,Phase 1,General Awareness,RBI and monetary system,10,46,21.7
+2025,Phase 1,General Awareness,General Awareness: other/uncategorized,6,46,13.0
+2025,Phase 1,General Awareness,Government schemes and policies,4,46,8.7
+2025,Phase 1,General Awareness,"Sports, culture and general knowledge",4,46,8.7
+2025,Phase 1,General Awareness,International affairs and institutions,3,46,6.5
+2025,Phase 1,General Awareness,Environment and sustainable development,2,46,4.3
+2025,Phase 1,General Awareness,"Reports, indices and surveys",2,46,4.3
+2025,Phase 1,General Awareness,Science and technology,2,46,4.3
+2025,Phase 1,General Awareness,Indian economy and public finance,1,46,2.2
+2025,Phase 1,Quantitative Aptitude,Arithmetic,18,30,60.0
+2025,Phase 1,Quantitative Aptitude,Quantitative Aptitude: other/uncategorized,7,30,23.3
+2025,Phase 1,Quantitative Aptitude,Data interpretation,2,30,6.7
+2025,Phase 1,Quantitative Aptitude,Number systems and sequences,2,30,6.7
+2025,Phase 1,Quantitative Aptitude,Algebra and equations,1,30,3.3
+2025,Phase 1,Reasoning,Syllogisms and deductions,21,52,40.4
+2025,Phase 1,Reasoning,Reasoning: other/uncategorized,19,52,36.5
+2025,Phase 1,Reasoning,Puzzles and seating arrangements,12,52,23.1
+2025,Phase 2,Descriptive English,Essay writing,1,3,33.3
+2025,Phase 2,Descriptive English,Precis writing,1,3,33.3
+2025,Phase 2,Descriptive English,Reading comprehension,1,3,33.3
+2025,Phase 2,Economic and Social Issues,Economic and Social Issues: other/uncategorized,16,36,44.4
+2025,Phase 2,Economic and Social Issues,Growth and Development,5,36,13.9
+2025,Phase 2,Economic and Social Issues,Social Structure in India,5,36,13.9
+2025,Phase 2,Economic and Social Issues,Sustainable Development and Environment,4,36,11.1
+2025,Phase 2,Economic and Social Issues,Globalization and International Economic Issues,3,36,8.3
+2025,Phase 2,Economic and Social Issues,Indian Economy,3,36,8.3
+2025,Phase 2,Finance and Management,Financial System and Banking,14,36,38.9
+2025,Phase 2,Finance and Management,Finance and Management: other/uncategorized,8,36,22.2
+2025,Phase 2,Finance and Management,Management and Organizational Behaviour,4,36,11.1
+2025,Phase 2,Finance and Management,Financial Markets and Instruments,3,36,8.3
+2025,Phase 2,Finance and Management,"Risk, Accounting and Financial Analysis",3,36,8.3
+2025,Phase 2,Finance and Management,Ethics and Corporate Governance,2,36,5.6
+2025,Phase 2,Finance and Management,"Inflation, Budget and Public Finance",2,36,5.6
+2026,Phase 1,English,English: other/uncategorized,12,30,40.0
+2026,Phase 1,English,Grammar and sentence correction,8,30,26.7
+2026,Phase 1,English,Reading comprehension,6,30,20.0
+2026,Phase 1,English,Sentence arrangement,3,30,10.0
+2026,Phase 1,English,Vocabulary and usage,1,30,3.3
+2026,Phase 1,General Awareness,Banking and financial system,15,80,18.8
+2026,Phase 1,General Awareness,General Awareness: other/uncategorized,15,80,18.8
+2026,Phase 1,General Awareness,International affairs and institutions,15,80,18.8
+2026,Phase 1,General Awareness,"Sports, culture and general knowledge",9,80,11.2
+2026,Phase 1,General Awareness,Government schemes and policies,8,80,10.0
+2026,Phase 1,General Awareness,RBI and monetary system,8,80,10.0
+2026,Phase 1,General Awareness,"Reports, indices and surveys",4,80,5.0
+2026,Phase 1,General Awareness,Science and technology,3,80,3.8
+2026,Phase 1,General Awareness,Indian economy and public finance,2,80,2.5
+2026,Phase 1,General Awareness,Environment and sustainable development,1,80,1.2
+2026,Phase 1,Quantitative Aptitude,Arithmetic,13,30,43.3
+2026,Phase 1,Quantitative Aptitude,Quantitative Aptitude: other/uncategorized,10,30,33.3
+2026,Phase 1,Quantitative Aptitude,Number systems and sequences,3,30,10.0
+2026,Phase 1,Quantitative Aptitude,Data interpretation,2,30,6.7
+2026,Phase 1,Quantitative Aptitude,Geometry and mensuration,2,30,6.7
+2026,Phase 1,Reasoning,Puzzles and seating arrangements,26,60,43.3
+2026,Phase 1,Reasoning,Reasoning: other/uncategorized,19,60,31.7
+2026,Phase 1,Reasoning,Syllogisms and deductions,14,60,23.3
+2026,Phase 1,Reasoning,Logical and critical reasoning,1,60,1.7

@@ -1,0 +1,587 @@
+{
+  "researched_on": "2026-11-12",
+  "playlist_entries": 357,
+  "metadata_retrieved": 176,
+  "full_transcripts_retrieved": 1,
+  "transcript_review_scope": "Selected preparation passages",
+  "publisher_profiles_reviewed": 11,
+  "sources": {
+    "divyanshu": {
+      "name": "Divyanshu (name as transcribed)",
+      "year": "2026-labelled",
+      "kind": "Public auto-caption transcript; selected preparation passages reviewed",
+      "url": "https://www.youtube.com/watch?v=XMH3WGeNnME",
+      "video": "XMH3WGeNnME"
+    },
+    "raghav": {
+      "name": "Raghav Manglik",
+      "year": "2025",
+      "kind": "Publisher-written interview summary",
+      "url": "https://edutap.in/rbi-grade-b/toppers/raghavs-rbi-grade-b-success-story/",
+      "video": "w0VaFowFUEk"
+    },
+    "tanay": {
+      "name": "S. B. Tanay Gaurav",
+      "year": "2024",
+      "kind": "Publisher-written interview summary",
+      "url": "https://edutap.in/rbi-grade-b/toppers/s-b-tanay-gaurav-rbi-grade-b-success-story/",
+      "video": "0864X-cBm5I"
+    },
+    "satender": {
+      "name": "Satender Singh",
+      "year": "2024",
+      "kind": "Publisher-written interview summary",
+      "url": "https://edutap.in/rbi-grade-b/toppers/satender-singh-rbi-grade-b-success-story/",
+      "video": "ctgjlfLGZWo"
+    },
+    "ankit": {
+      "name": "Ankit Pandey",
+      "year": "2024",
+      "kind": "Publisher-written interview summary",
+      "url": "https://edutap.in/rbi-grade-b/toppers/ankit-pandey-rbi-grade-b-success-story/",
+      "video": "JwZKFJ6VVJo"
+    },
+    "gireesh": {
+      "name": "Charugundla Sai Gireesh",
+      "year": "2023",
+      "kind": "Publisher-written interview summary",
+      "url": "https://edutap.in/rbi-grade-b/toppers/charugundla-sai-gireeshs-rbi-grade-b-success-story/",
+      "video": "MMCE28BGCkA"
+    },
+    "prashant": {
+      "name": "Prashant Meena",
+      "year": "2023",
+      "kind": "Publisher-written interview summary",
+      "url": "https://edutap.in/rbi-grade-b/toppers/prashant-meena-rbi-grade-b-success-story/",
+      "video": "--29rCIDOCs"
+    },
+    "tejdeepthi": {
+      "name": "Tejdeepthi Nimmakayala",
+      "year": "2023",
+      "kind": "Publisher-written interview summary",
+      "url": "https://edutap.in/rbi-grade-b/toppers/tejdeepthi-nimmakayalas-rbi-grade-b-success-story/",
+      "video": "wOHkftC9WuI"
+    },
+    "utkarsh": {
+      "name": "Utkarsh Agrawal",
+      "year": "2022",
+      "kind": "Publisher-written interview summary",
+      "url": "https://edutap.in/rbi-grade-b/toppers/utkarsh-agrawal-rbi-grade-b-success-story/",
+      "video": "juLiXFqXgos"
+    },
+    "prasanth": {
+      "name": "Prasanth Akkiraju",
+      "year": "2022",
+      "kind": "Publisher-written interview summary",
+      "url": "https://edutap.in/rbi-grade-b/toppers/prasanth-akkirajus-rbi-grade-b-success-story/",
+      "video": "VqyXWEWa4-c"
+    },
+    "shobhita": {
+      "name": "Shobhita Bhola",
+      "year": "2022",
+      "kind": "Publisher-written interview summary",
+      "url": "https://edutap.in/rbi-grade-b/toppers/ms-shobhita-bholas-rbi-grade-b-success-story-learning-from-every-mistake/",
+      "video": "2Zl8wtW7_Ic"
+    },
+    "bhavana": {
+      "name": "Bhavana P J",
+      "year": "Cohort not independently established",
+      "kind": "Publisher-written interview summary",
+      "url": "https://edutap.in/rbi-grade-b/toppers/bhavana-p-j-rbi-grade-b-success-story/",
+      "video": null
+    }
+  },
+  "findings": [
+    {
+      "id": "sectional",
+      "title": "Protect every sectional gate; do not abandon your strengths",
+      "area": "Phase I",
+      "evidence": [
+        [
+          "divyanshu",
+          830,
+          "He describes earlier sectional failures, overconfidence after a previous clearance, and the cost of shifting all attention to a weak subject while neglecting stronger ones."
+        ],
+        [
+          "shobhita",
+          null,
+          "Her written profile describes clearing the overall threshold but failing Quant in an earlier attempt, followed by better question selection."
+        ],
+        [
+          "satender",
+          null,
+          "His profile attributes a later Phase I failure to overconfidence and stopping mocks despite earlier interview-stage progress."
+        ]
+      ],
+      "action": "Track the score, accuracy, time loss and recurring error types for each section separately. Maintain a practice slot for stronger sections while repairing the weakest gate. Set your own practice buffer from current official requirements and varied mocks; past cutoffs are not safe targets.",
+      "trap": "A good aggregate, an earlier Phase II clearance, or being an engineer does not guarantee this year's sectional clearance."
+    },
+    {
+      "id": "mock-loop",
+      "title": "A mock is useful only when the next attempt changes",
+      "area": "Phase I / execution",
+      "evidence": [
+        [
+          "divyanshu",
+          1840,
+          "He describes alternating mocks with analysis of speed, accidental correct answers, learnable weaknesses and topics not worth rescuing under his remaining time."
+        ],
+        [
+          "tanay",
+          null,
+          "His profile describes a dedicated error notebook and attempting to avoid those same mistakes in subsequent mocks."
+        ],
+        [
+          "ankit",
+          null,
+          "His profile describes returning to concepts when mock analysis exposed a weak topic."
+        ]
+      ],
+      "action": "For wrong, guessed-right and slow questions, record the cause: concept, recall, calculation, interpretation, question selection or time. Write a corrective task, then use a fresh timed question to test the repair. Re-solving a familiar item can train a procedure but does not prove transfer to unseen questions.",
+      "trap": "Accumulating test counts or percentile screenshots without correcting the errors is activity, not evidence of improvement."
+    },
+    {
+      "id": "selection",
+      "title": "Learn what to leave, but do not hard-code an entire topic as untouchable",
+      "area": "Phase I / objective",
+      "evidence": [
+        [
+          "prashant",
+          null,
+          "His profile describes leaving difficult seating arrangements until later and learning attempt selection through mocks."
+        ],
+        [
+          "divyanshu",
+          1840,
+          "He describes choosing puzzle types he handled reliably and avoiding particular variants that consumed his time."
+        ],
+        [
+          "gireesh",
+          null,
+          "His profile emphasises accurate selection rather than attempting every question."
+        ]
+      ],
+      "action": "Practise a first scan, solve the accessible questions first, and revisit longer sets only when the likely return justifies the time. Build skip decisions from your own timed performance and the actual question, not another candidate's dislike of a chapter.",
+      "trap": "Copying 'never do puzzles/input-output/critical reasoning' can discard an easy set. Conversely, an attractive set can become a time sink."
+    },
+    {
+      "id": "recall",
+      "title": "Turn scheme and report notes into questions with hidden answers",
+      "area": "GA / ESI / FM",
+      "evidence": [
+        [
+          "divyanshu",
+          2220,
+          "He describes a two-sided scheme-note layout: prompts such as ministry, outlay, objectives and progress on one side, with answers covered during revision."
+        ],
+        [
+          "tanay",
+          null,
+          "His profile separates descriptive evidence sheets from MCQ facts and explicitly uses closed-note active recall."
+        ],
+        [
+          "prasanth",
+          null,
+          "His profile describes short summary sheets and returning to recently studied material within a few days."
+        ]
+      ],
+      "action": "After a topic, close the notes and reconstruct its definition, distinctions, mechanism and current linkage. For a scheme, recall ministry, target group, eligibility, benefit, implementation and dated update. For a report, recall publisher, edition, reference period, method, major finding and policy meaning. Check the original after retrieval.",
+      "trap": "Recognising a highlighted paragraph is not the same as producing the answer. Approximate recollection can help orientation, but exact-number MCQs still require exact verified figures."
+    },
+    {
+      "id": "resource-selection",
+      "title": "Keep a stable core source; add a second source only to fill a named gap",
+      "area": "Resources",
+      "evidence": [
+        [
+          "shobhita",
+          null,
+          "Her profile recommends limiting sources and repeatedly revising them."
+        ],
+        [
+          "ankit",
+          null,
+          "His profile describes the need to filter a very large body of current-affairs notes using question relevance."
+        ],
+        [
+          "divyanshu",
+          2110,
+          "He explains why he personally used multiple question sources after failures, and says resources provide tools rather than a selection guarantee."
+        ]
+      ],
+      "action": "Use a core chapter explanation plus your four existing collections. Merge new evidence into the same topic table. Add another source for a specific missing concept, disputed rule or shortage of suitable practice, not to restart the syllabus. Check high-stakes factual claims against primary documents.",
+      "trap": "Both extremes are risky: collecting ten overlapping magazines, or treating one coaching compilation as infallible. A provider-hosted interview is not independent proof that its paid product is necessary."
+    },
+    {
+      "id": "current-breadth",
+      "title": "Cover both news breadth and scheme/report depth",
+      "area": "GA / ESI / Finance current affairs",
+      "evidence": [
+        [
+          "divyanshu",
+          830,
+          "He says his deep, Phase-II-oriented GA preparation did not fit a later paper that he experienced as more headline/one-liner oriented."
+        ],
+        [
+          "divyanshu",
+          2830,
+          "He describes preparing scheme details, relevant ministries and RBI notifications, with different lookback periods for different material."
+        ],
+        [
+          "gireesh",
+          null,
+          "His profile describes underestimating detailed objective questions and changing to daily objective practice with schemes and reports."
+        ]
+      ],
+      "action": "Keep two layers: a broad factual scan for Phase I and a deep topic record for ESI/FM. Link one news event to its enduring concept, but also test names, dates, eligibility, targets, exceptions and institutional roles where relevant. Keep historical values distinct from operative updates.",
+      "trap": "Only analytical newspaper reading misses granular MCQs; only one-liners cannot support a descriptive mechanism or a multi-statement eligibility question."
+    },
+    {
+      "id": "months",
+      "title": "There is no verified universal 'exact number of months' rule",
+      "area": "Current-affairs planning",
+      "evidence": [
+        [
+          "prashant",
+          null,
+          "His profile reports a three-month current-affairs choice under severe time pressure."
+        ],
+        [
+          "tejdeepthi",
+          null,
+          "Her profile reports a four-month focus."
+        ],
+        [
+          "tanay",
+          null,
+          "His profile reports a five-month focus."
+        ],
+        [
+          "divyanshu",
+          2830,
+          "He describes a short recent-news window for schemes alongside a longer window for RBI notifications."
+        ]
+      ],
+      "action": "Prioritise recent, relevant news while retaining older flagship schemes, recurring reports, foundational reforms and still-operative rules. Set depth and lookback by item type, syllabus and observed question demand. With a 2027 target, maintain a rolling update table now rather than gambling on a final crash window.",
+      "trap": "A successful candidate's time-constrained three/four/five-month choice is not an official boundary. Upload year is also not the selection year."
+    },
+    {
+      "id": "integrated",
+      "title": "Build Phase II before Phase I, then change emphasis rather than starting again",
+      "area": "Whole preparation",
+      "evidence": [
+        [
+          "shobhita",
+          null,
+          "Her profile recommends integrated preparation because the interval between stages is short."
+        ],
+        [
+          "utkarsh",
+          null,
+          "His profile says he covered Phase II topics such as government schemes before Phase I."
+        ],
+        [
+          "bhavana",
+          null,
+          "Her profile describes losing a week after Phase I because she expected not to qualify."
+        ]
+      ],
+      "action": "Before Phase I, build the FM/static ESI base, topic-linked current affairs and a minimum answer-writing habit. As Phase I approaches, increase timed gate-clearing practice. After the exam, take a planned recovery break if needed and resume Phase II rather than waiting for result speculation.",
+      "trap": "Waiting for Phase I results to begin FM or typing from zero leaves little recovery time. The opposite trap is preparing only Phase II and failing the Phase I gate."
+    },
+    {
+      "id": "concepts",
+      "title": "Read first; use videos or AI to repair a specific conceptual gap",
+      "area": "Static ESI / Finance",
+      "evidence": [
+        [
+          "divyanshu",
+          2450,
+          "He describes reading PDFs first, using other explanations for unclear concepts, making compact notes, and using PYQs to calibrate depth."
+        ],
+        [
+          "tejdeepthi",
+          null,
+          "Her profile distinguishes easy topics read from notes from unfamiliar topics, such as balance sheets, studied through videos."
+        ]
+      ],
+      "action": "For one chapter task, first try to explain it without help. Use your copyable AI prompt or a video for the exact point you cannot explain. Then solve an application or numerical question and revise the corrected explanation. Verify current facts and generated answers before adding them to your master notes.",
+      "trap": "Finishing all videos is not mastery. Equally, a polished AI answer can contain a wrong formula, fabricated rule or unsupported current figure."
+    },
+    {
+      "id": "finance",
+      "title": "Keep Finance numericals and static foundations; do not copy a successful gamble",
+      "area": "Finance",
+      "evidence": [
+        [
+          "divyanshu",
+          2450,
+          "He explicitly says numericals could not be ignored and describes prior numerical practice and avoiding uncertain calculations in the exam."
+        ],
+        [
+          "prashant",
+          null,
+          "His profile openly describes largely skipping hard-core Finance under time pressure and benefiting from the paper he encountered."
+        ],
+        [
+          "tanay",
+          null,
+          "His profile describes leaning on Management while learning Finance basics because Finance was unfamiliar."
+        ]
+      ],
+      "action": "Cover the numerical and accounting tasks already in your roadmap: state the formula, variables, units, assumptions, workings and interpretation. Practise fresh problems and distinguish a genuine content gap from a deliberate last-minute trade-off.",
+      "trap": "A favourable past paper does not make skipping Finance safe for 2027. Do not rely on the same Finance/Management choice mix recurring."
+    },
+    {
+      "id": "management",
+      "title": "Study Management as a case-diagnosis subject, not a name-theorist list",
+      "area": "Management",
+      "evidence": [
+        [
+          "tanay",
+          null,
+          "His profile describes being surprised by case-based Management questions and recovering by starting with familiar questions."
+        ],
+        [
+          "ankit",
+          null,
+          "His profile says he connected theories to college and workplace experience."
+        ],
+        [
+          "raghav",
+          null,
+          "His profile describes using workplace leadership and motivation examples rather than only generic textbook illustrations."
+        ]
+      ],
+      "action": "For each theory, learn its distinguishing conditions, closest competing model and a limitation. Diagnose a new case, identify the evidence supporting your choice, recommend a managerial action, and explain why the alternative theory fits less well.",
+      "trap": "Recognising Maslow/Herzberg on a chart does not prove you can distinguish them in an ambiguous case. A personal story without the theory's mechanism is also incomplete."
+    },
+    {
+      "id": "writing",
+      "title": "Practise complete typed papers: knowledge must fit the clock",
+      "area": "ESI / FM / English descriptive",
+      "evidence": [
+        [
+          "utkarsh",
+          null,
+          "His profile describes leaving substantial descriptive questions unanswered because of time management despite knowing the content."
+        ],
+        [
+          "shobhita",
+          null,
+          "Her profile describes a separate exam's typing problem and deliberately practising on a keyboard afterwards."
+        ],
+        [
+          "tejdeepthi",
+          null,
+          "Her profile describes typing pressure and difficulty reaching her intended answer length in the exam hall."
+        ]
+      ],
+      "action": "Type original answers under timed conditions, including planning, editing and moving between questions. Budget the session across all required answers using the applicable instructions. Assess demand coverage, accuracy, relevance and completion; measure usable output, not merely raw typing speed.",
+      "trap": "Reading model answers or drafting mentally does not test keyboard execution. Nor should a generic words-per-minute target override the actual paper instructions."
+    },
+    {
+      "id": "demand",
+      "title": "Answer the question's parts, not everything you know",
+      "area": "Descriptive writing",
+      "evidence": [
+        [
+          "satender",
+          null,
+          "His profile says feedback taught him to answer the asked question point by point instead of reproducing all his knowledge."
+        ],
+        [
+          "tanay",
+          null,
+          "His profile describes concise theme notes combining an introduction, data, challenges, schemes and conclusion."
+        ],
+        [
+          "raghav",
+          null,
+          "His profile describes theme-based evidence banks and a fixed answer framework."
+        ]
+      ],
+      "action": "Before typing, identify the command word, subparts, scope and required comparisons. Give each subpart visible space. Use only evidence that helps answer it. A compare/evaluate/diagnose question should not be forced into the same benefits-challenges-schemes template.",
+      "trap": "A rigid opening/body word split, exactly three advantages, or unrelated scheme names can crowd out the real demand. Interview accounts are not an official marking rubric."
+    },
+    {
+      "id": "english",
+      "title": "Test precis, essay and RC separately before deciding English needs little work",
+      "area": "English",
+      "evidence": [
+        [
+          "divyanshu",
+          2712,
+          "He singles out precis as requiring genuine comprehension and compression, and describes practice with feedback."
+        ],
+        [
+          "tanay",
+          null,
+          "His profile says he spent less time on English because writing was already a strength, while still using a few mocks."
+        ]
+      ],
+      "action": "Do one timed diagnostic of each task. For precis, preserve the central proposition and qualifications without importing outside facts. For an essay, address every dimension and sustain a coherent argument. For RC, answer from the passage when required. Re-practise the weakest operation.",
+      "trap": "Copying an already-fluent writer's low-practice routine is unsafe. Do not insert current-affairs facts into a passage-only answer just because they are relevant to its broad topic."
+    },
+    {
+      "id": "visuals",
+      "title": "Use a mind map as a retrieval index, not as the whole explanation",
+      "area": "Revision / memorisation",
+      "evidence": [
+        [
+          "prasanth",
+          null,
+          "His profile describes condensing FM chapters into a few pages and using mind maps for final revision."
+        ],
+        [
+          "bhavana",
+          null,
+          "Her profile describes mind maps as useful during compressed Phase II revision."
+        ],
+        [
+          "tejdeepthi",
+          null,
+          "Her profile describes summary sheets and mind maps for quick revision after topic learning."
+        ]
+      ],
+      "action": "Place the topic at the centre, then definition, mechanism, distinctions, application, current linkage and exception as branches. Reconstruct the map from memory. Put exact data, dates and units in a small companion table; keep the fuller explanation available for concepts the map cannot carry.",
+      "trap": "A beautiful infographic can hide missing logic. Colours and short labels do not establish understanding, factual accuracy or the ability to calculate."
+    },
+    {
+      "id": "work",
+      "title": "Match tasks to your real schedule; do not imitate extreme routines",
+      "area": "Working aspirants / sustainability",
+      "evidence": [
+        [
+          "ankit",
+          null,
+          "His profile describes choosing night study rather than forcing an early-morning routine, and using short breaks for GA."
+        ],
+        [
+          "raghav",
+          null,
+          "His profile describes balancing demanding work with repeated revision of selected sources."
+        ],
+        [
+          "tejdeepthi",
+          null,
+          "Her profile describes leaving a job with family support; other reviewed profiles describe success while employed."
+        ]
+      ],
+      "action": "Use short available slots for recall, MCQs and updating tables; reserve uninterrupted sessions for unfamiliar concepts and full typed practice. Plan breaks, sustainable sleep and a backup route. Decide employment changes using your own finances and obligations, not a success narrative.",
+      "trap": "Neither quitting work nor a 4 a.m. routine is a prerequisite. Do not copy sleep loss, workplace-rule violations or high-pressure life choices as study techniques."
+    },
+    {
+      "id": "interview",
+      "title": "Prepare your biodata and fundamentals, then leave time to act on feedback",
+      "area": "Interview",
+      "evidence": [
+        [
+          "divyanshu",
+          3150,
+          "He describes receiving challenging feedback on fundamentals and spacing mock interviews to allow corrective study."
+        ],
+        [
+          "raghav",
+          null,
+          "His profile describes preparation on RBI functions, annual reports, balance-sheet topics and peer mock sessions."
+        ],
+        [
+          "utkarsh",
+          null,
+          "His profile emphasises preparing claims in the biodata and admitting when an answer is not known."
+        ],
+        [
+          "satender",
+          null,
+          "His profile describes a previous mistake of treating the interview as easy after clearing the written stage."
+        ]
+      ],
+      "action": "Prepare truthful explanations of education, work, gaps, interests and certifications, plus RBI functions and relevant current issues. After each mock, repair the conceptual and communication gaps before another. Give a clear answer, distinguish uncertainty, and do not bluff.",
+      "trap": "Mock quantity does not substitute for feedback. Do not invent a hobby to steer questions or assume the panel will follow your preferred script."
+    },
+    {
+      "id": "eligibility",
+      "title": "Check eligibility and equipment before performance becomes irrelevant",
+      "area": "Administrative / exam-day traps",
+      "evidence": [
+        [
+          "tanay",
+          null,
+          "His written profile reports being stopped at document verification in an earlier attempt because of the qualification-date requirement."
+        ],
+        [
+          "satender",
+          null,
+          "His profile describes reporting a problematic keyboard during the descriptive exam."
+        ]
+      ],
+      "action": "Read the applicable official notification for age, qualification completion/result date, category and documentary requirements. Keep supporting records ready. Follow centre instructions and promptly report a genuine equipment issue to the invigilator.",
+      "trap": "Clearing written cutoffs does not override eligibility. A person's account of a replacement keyboard or delayed start does not establish a right to extra time or permission to refuse to begin."
+    }
+  ],
+  "conflicts": [
+    [
+      "Three vs four vs five months of news",
+      "Prashant, Tejdeepthi and Tanay report different windows; Divyanshu treats item types differently.",
+      "Use a rolling, relevance-led update system. Keep recurring/operative older items. None of these windows is a guaranteed syllabus boundary."
+    ],
+    [
+      "One source vs multiple sources",
+      "Shobhita limits sources; Divyanshu uses additional practice sources after earlier failures.",
+      "One stable learning spine, a controlled question bank, and primary-source verification. Add a resource only for an identified gap."
+    ],
+    [
+      "Skip Finance vs practise numericals",
+      "Prashant's profile reports a short-deadline gamble; Divyanshu says numerical practice matters.",
+      "For a planned 2027 attempt, build Finance foundations and numerical competence. Do not generalise a lucky paper composition."
+    ],
+    [
+      "Write less well vs finish everything",
+      "Prasanth's and Tejdeepthi's profiles describe surviving incomplete/short answers; Utkarsh lost substantial answer opportunity.",
+      "Aim for relevant, accurate answers across the required set within the clock. Neither padding nor deliberately leaving questions is the goal."
+    ],
+    [
+      "No dedicated English/typing work vs practise it",
+      "Tanay and Bhavana describe low practice in areas they felt able to manage; Shobhita deliberately trains typing and Divyanshu highlights precis.",
+      "Use a timed diagnostic to decide the needed practice. Another candidate's pre-existing skill is not your baseline."
+    ],
+    [
+      "Resign vs prepare with a job",
+      "Tejdeepthi's profile describes resigning with support; Ankit and Raghav describe studying while employed.",
+      "This is a personal risk decision, not an exam rule. Sustainable time, finances and backup options matter."
+    ],
+    [
+      "Prepare only Phase-II-style GA vs broad headlines",
+      "Satender's profile advocates Phase-II-relevant GA; Divyanshu describes being hurt when the paper felt broader.",
+      "Prioritise overlapping economic/social/banking news without eliminating the wider Phase I factual layer."
+    ]
+  ],
+  "suggested_workflow": [
+    [
+      "After each chapter task",
+      "Close the explanation; reconstruct a compact mind map. Answer a small set of fresh MCQs and one application question. Record what you could not recall.",
+      "A checked retrieval attempt and an error entry, not simply a 'read' tick."
+    ],
+    [
+      "Each current-affairs update",
+      "Check relevant items in CurrentAffairs-Monthly, Reports_NationalAndInternational, SchemesAndGovernmentPortals and StaticGK when supplied. Consolidate duplicates; verify important claims against the primary issuer.",
+      "Topic, event, date, issuer, edition/reference period, figure/unit, rule status, source, static connection and last-checked date."
+    ],
+    [
+      "A regular descriptive slot",
+      "Type an answer to a syllabus/PYQ-style demand. Check every subpart, evidence relevance and timing. Use the actual word/time instructions of the practice paper.",
+      "A completed answer plus a short correction list; do not measure success by length alone."
+    ],
+    [
+      "A weekly performance review",
+      "Review sectional trends, recurring errors, retained topics and writing completion. Adjust next week's emphasis without abandoning stronger sections.",
+      "Three specific repairs with a fresh-question retest; the cadence is our suggested workflow, not a topper consensus."
+    ],
+    [
+      "At intervals and near the exam",
+      "Simulate full sections and complete required descriptive sets. Practise moving on from difficult questions and check equipment/format familiarity.",
+      "Evidence that your strategy works on unseen material under realistic constraints."
+    ]
+  ]
+}

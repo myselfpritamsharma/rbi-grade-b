@@ -1,0 +1,121 @@
+{
+  "database": "questions.sqlite",
+  "version": 1,
+  "tables": {
+    "documents": [
+      "document_id PK",
+      "filename",
+      "year",
+      "phase_coverage",
+      "sections",
+      "page_count",
+      "document_type",
+      "text_layer",
+      "ocr_requirement",
+      "answer_key_status",
+      "shift_status",
+      "sha256 UNIQUE",
+      "inventory_status",
+      "notes"
+    ],
+    "questions": [
+      "question_id PK",
+      "document_id FK",
+      "year",
+      "phase",
+      "subject",
+      "section",
+      "shift",
+      "original_question_number",
+      "pdf_page_start",
+      "pdf_page_end",
+      "classification_basis",
+      "question_summary",
+      "option_pattern_summary",
+      "answer_key_status",
+      "answer_verification_status",
+      "explanation_available",
+      "marks",
+      "negative_marks",
+      "question_format",
+      "primary_taxonomy_id",
+      "official_syllabus_heading",
+      "archetype",
+      "difficulty_assessment",
+      "cognitive_demand",
+      "knowledge_type",
+      "static_current_type",
+      "source_category",
+      "extraction_confidence",
+      "classification_confidence",
+      "ocr_uncertainty",
+      "manual_review_required",
+      "exact_repetition_cluster_id",
+      "conceptual_repetition_cluster_id"
+    ],
+    "taxonomy": [
+      "taxonomy_id PK",
+      "version",
+      "phase",
+      "subject",
+      "topic",
+      "subtopic",
+      "concept",
+      "syllabus_version",
+      "official_heading",
+      "notes"
+    ],
+    "question_taxonomy": [
+      "question_id FK",
+      "taxonomy_id FK",
+      "tag_role (primary/secondary)",
+      "confidence"
+    ],
+    "source_mappings": [
+      "mapping_id PK",
+      "question_id FK",
+      "institution",
+      "publication",
+      "chapter_or_section",
+      "attribution (verified/probable/unverified)",
+      "evidence_note"
+    ],
+    "repetition_clusters": [
+      "cluster_id PK",
+      "cluster_type (exact/near/conceptual/thematic)",
+      "concept",
+      "rationale",
+      "confidence"
+    ],
+    "cluster_members": [
+      "cluster_id FK",
+      "question_id FK",
+      "similarity_note"
+    ],
+    "verification_log": [
+      "log_id PK",
+      "document_id FK",
+      "question_id FK nullable",
+      "check_type",
+      "result",
+      "reviewer_note",
+      "checked_at"
+    ],
+    "page_audit": [
+      "document_id FK",
+      "pdf_page",
+      "extracted_character_count",
+      "ocr_required",
+      "question_ids",
+      "review_status",
+      "notes"
+    ]
+  },
+  "content_policy": "Store question IDs, nonverbatim topic labels, and PDF page references; answer keys and verbatim question text are not copied.",
+  "integrity_rules": [
+    "Never infer missing papers or answers",
+    "Use one row per question; secondary topics use question_taxonomy",
+    "Keep phase, year, marks, source page, and verification state explicit",
+    "Treat recollected answer keys as unverified until cross-checked"
+  ]
+}

@@ -1,0 +1,2252 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "esi-report-fhi-2026",
+      "title": "Fiscal Health Index 2026: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\Fiscal_Health_Index_2026_lyst1782322936023.pdf",
+      "sha256": "fb8780d86fb6d0e78b2325cc327f300239da4483f0e5e9bfe6e70175a5739f53",
+      "pages": 11,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-report-fsr-2026",
+      "title": "FSR June 2026: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\Financial_Stability_Report__June_2026__lyst1783792681813.pdf",
+      "sha256": "34350c0d052c18ba4766c72ec5e52555060e63c517566128ad6f4b7bebf97c24",
+      "pages": 29,
+      "kind": "notes",
+      "period": "2026-06"
+    },
+    {
+      "id": "esi-report-sofi-2026",
+      "title": "SOFI 2026: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\State_of_Food_Security_and_Nutrition_in_the_World_2026_lyst1784884559591.pdf",
+      "sha256": "91c581e27d3e279edaa4e4012cff1781743d0c81d5b347088cd69e5a763bd042",
+      "pages": 7,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-report-weo-2026",
+      "title": "WEO July 2026 update: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\World_Economic_Outlook__July_2026_Update__1__lyst1784636445685.pdf",
+      "sha256": "7e8ccb2b7ce342a7cd9e77b80eec3b4c5dc38cee95b45c3f02fd494578f3fa49",
+      "pages": 14,
+      "kind": "notes",
+      "period": "2026-07"
+    },
+    {
+      "id": "esi-report-wir-2026",
+      "title": "World Investment Report 2026: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\World_Investment_Report_2026_lyst1784886252334.pdf",
+      "sha256": "7cdd9dc0c4860cf0ebd49c40cc4325ba36701d140a5f7d4b9a91fb142c2071d3",
+      "pages": 9,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-schemes-part1",
+      "title": "Government schemes Part 1",
+      "path": "SubjectNotesForPhase2\\SchemesAndGovernmentPortals\\Government_Schemes__Part_1__lyst1747990379452.pdf",
+      "sha256": "e3eebb022a667e26b28cfaec8c2b76954daca05570d9470f90d5ea92c79717f6",
+      "pages": 188,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-static-banks",
+      "title": "StaticGK: banking reforms and bank types",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Banks_in_INdia_lyst1777977965370.pdf",
+      "sha256": "e58a724ab24455657fd16779d75876940e1809a2a522ec9a1cf658da74466420",
+      "pages": 5,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-static-institutions",
+      "title": "StaticGK: international institutions",
+      "path": "SubjectNotesForPhase2\\StaticGK\\International_Organization_lyst1780574384147.pdf",
+      "sha256": "36c7c5a6fe59e2cd3941b31bbc15b89361b4b4e6e3734fb72a7f6f6385bb5c9d",
+      "pages": 33,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-static-polity",
+      "title": "StaticGK: constitutional background",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Indian_Polity_Static_Facts_lyst1779098062370.pdf",
+      "sha256": "ac01ddeda42f5c8d7318ab35793b28cc5e145ef928ef41342f3efd6994ddb9d4",
+      "pages": 4,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-static-regional",
+      "title": "StaticGK: regional cooperation",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Regional_Organization_lyst1780574432843.pdf",
+      "sha256": "ea8626723d618cf80d123bb2ca2a477678876d6c0c58911ed014ed728585c6f4",
+      "pages": 16,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-static-treaties",
+      "title": "StaticGK: environmental agreements and frameworks",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Treaties_and_Conventions_lyst1780574453793.pdf",
+      "sha256": "2db9c064f9fad0253e5f1db40dc52ced6c28ccd869aadadde991d29be00e4fc8",
+      "pages": 9,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "spotlight-2026-10",
+      "title": "Spotlight October 2026",
+      "path": "SubjectNotesForPhase2\\CurrentAffairs-Monthly\\Oct_2026_Spotlight_lyst1793792937123.pdf",
+      "sha256": "2c2f284b20ea967bb9903a6218c94855edbd503e6c994dcd1b989af35c1e0cec",
+      "pages": 175,
+      "kind": "monthly",
+      "period": "2026-10"
+    }
+  ],
+  "topics": [
+    {
+      "id": "ga-family-b",
+      "title": "GA family B: RBI, banking, payments, markets and financial products",
+      "subject": "GA",
+      "summary": "Selected paraphrased GA recall evidence, not complete syllabus or page coverage. All supplied compilations remain unverified; no official-source authentication was performed. Static principles are distinguished from news claims, edition labels and reference periods. Check current official rules/releases before relying on changing benefits, rates, laws or numbers.",
+      "tags": [
+        "GA family: B",
+        "P1 - Core depth",
+        "Source status: Unverified",
+        "GA master facts",
+        "Selected-page evidence"
+      ],
+      "related": [
+        "ga-family-p",
+        "ga-family-e"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "ga-b-node-1",
+            "label": "Institutions, mandates and systemic resilience",
+            "refs": [
+              {
+                "source": "esi-report-fsr-2026",
+                "pages": [
+                  2,
+                  3,
+                  28
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-b-node-2",
+            "label": "Product terms, eligibility and exceptions",
+            "refs": [
+              {
+                "source": "esi-report-fsr-2026",
+                "pages": [
+                  28
+                ]
+              },
+              {
+                "source": "esi-schemes-part1",
+                "pages": [
+                  116
+                ]
+              },
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  80
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-b-node-3",
+            "label": "October payments and financing claims",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68,
+                  69
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "ga-b-edge-1",
+            "from": "ga-b-node-1",
+            "to": "ga-b-node-2",
+            "label": "Connect the recall distinction to its scope and dated evidence",
+            "refs": [
+              {
+                "source": "esi-report-fsr-2026",
+                "pages": [
+                  28
+                ]
+              },
+              {
+                "source": "esi-schemes-part1",
+                "pages": [
+                  116
+                ]
+              },
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  80
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-b-edge-2",
+            "from": "ga-b-node-1",
+            "to": "ga-b-node-3",
+            "label": "Connect the recall distinction to its scope and dated evidence",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68,
+                  69
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "ga-b-master-facts-2026-11",
+          "title": "GA B: selected source-linked recall facts (unverified)",
+          "columns": [
+            "Item",
+            "Fact / distinction",
+            "Scope / caution",
+            "Edition / reference period"
+          ],
+          "rows": [
+            {
+              "id": "ga-b-2026-11-narasimham-i",
+              "cells": [
+                "Narasimham Committee I",
+                "Its recommendations included lower SLR and greater private/foreign-bank entry.",
+                "Unverified compilation. Static history; recommendations, not today's operative banking rules.",
+                "Undated banking compilation; historical recommendation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-banks",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-narasimham-ii",
+              "cells": [
+                "Narasimham Committee II",
+                "The 1998 committee favoured public-sector-bank consolidation.",
+                "Unverified compilation. Static history; distinguish the second committee from the first.",
+                "Committee year: 1998; source edition undated."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-banks",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-canara-hq",
+              "cells": [
+                "Canara Bank headquarters",
+                "Bengaluru, Karnataka.",
+                "Unverified compilation. Static institution matching; not a branch-location fact.",
+                "Undated banking compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-banks",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-pnb-hq",
+              "cells": [
+                "Punjab National Bank headquarters",
+                "New Delhi.",
+                "Unverified compilation. Static institution matching; avoid confusing it with Punjab & Sind Bank, also listed in New Delhi.",
+                "Undated banking compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-banks",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-fsr-publisher",
+              "cells": [
+                "Financial Stability Report",
+                "RBI publishes the FSR twice yearly; it assesses systemic risks and resilience.",
+                "Unverified compilation. Report identity; do not treat it as a monetary-policy announcement.",
+                "Report labelled June 2026; frequency is a static descriptor."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fsr-2026",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-fsdc-chair",
+              "cells": [
+                "FSDC versus a regulator",
+                "FSDC is a non-statutory coordination body chaired by the Union Finance Minister.",
+                "Unverified compilation. Static mandate; coordinating regulators does not make it the banking regulator.",
+                "June 2026 FSR compilation; institution established in 2010."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fsr-2026",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-fsdc-subcommittee",
+              "cells": [
+                "FSDC Sub-Committee",
+                "The RBI Governor chairs the operational/technical sub-committee.",
+                "Unverified compilation. Static chair distinction: not the chair of the full FSDC.",
+                "June 2026 FSR compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fsr-2026",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-srs-scope",
+              "cells": [
+                "Systemic Risk Survey",
+                "The compilation groups risks as global, financial, macroeconomic, institutional and general.",
+                "Unverified compilation. Survey categories; not five individual banks or five regulatory authorities.",
+                "June 2026 FSR compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fsr-2026",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-deposit-insurance",
+              "cells": [
+                "DICGC insurance ceiling",
+                "The compilation states cover of up to Rs 5 lakh per depositor per bank.",
+                "Unverified compilation. Rule snapshot; not per account. Aggregation, capacity/right and exclusions need current DICGC rules.",
+                "June 2026 compilation; not a freshly verified operative-rule check."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fsr-2026",
+                  "pages": [
+                    28
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-ifsca-role",
+              "cells": [
+                "IFSCA mandate",
+                "IFSCA is the unified financial-services regulator for India's IFSC.",
+                "Unverified compilation. Static jurisdiction distinction; IFSC supervision is not all domestic banking supervision.",
+                "June 2026 FSR compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fsr-2026",
+                  "pages": [
+                    28
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-cirp-purpose",
+              "cells": [
+                "CIRP under IBC",
+                "Corporate resolution seeks to revive viable distressed firms rather than default immediately to liquidation.",
+                "Unverified compilation. Static legal objective; not a promise that every company will be rescued.",
+                "IBC identified as 2016; June 2026 compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fsr-2026",
+                  "pages": [
+                    28
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-egr-form",
+              "cells": [
+                "Electronic Gold Receipts",
+                "EGRs are SEBI-regulated exchange-traded securities representing gold held in dematerialised form.",
+                "Unverified compilation. Instrument distinction; not a Sovereign Gold Bond or a jewellery purchase.",
+                "October 2026 edition; accompanying partnership's exact event date unspecified."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    80
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-programmable-erupee",
+              "cells": [
+                "Programmable digital rupee",
+                "Bank of India's reported feature permits scheduled e-rupee transfers and purpose-restricted spending.",
+                "Unverified compilation. News claim, not established rollout coverage; distinguish wallet functionality from ordinary bank deposits.",
+                "October 2026 edition; launch day not supplied on cited page."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    68
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-ppf-rate",
+              "cells": [
+                "PPF rate snapshot",
+                "The October compilation reports a 7.1% rate for Q3 FY2026-27.",
+                "Unverified compilation. Unverified rate snapshot, not permanent. The preceding page's quarter-end date says 30 December: do not rely on that date.",
+                "October 2026 edition; stated applicability begins 1 October 2026."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    68,
+                    69
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-sgb-coupon",
+              "cells": [
+                "Sovereign Gold Bond coupon",
+                "The scheme compilation states a fixed 2.50% annual coupon on the initial investment.",
+                "Unverified compilation. Historical product terms; not a forecast of gold returns or evidence that a new tranche is open.",
+                "Undated schemes compilation; no current issuance date established."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    116
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-sgb-maturity",
+              "cells": [
+                "SGB maturity versus early redemption",
+                "The compilation distinguishes eight-year maturity from permitted premature redemption after five years.",
+                "Unverified compilation. Product-term distinction; redemption windows and issue terms still require checking.",
+                "Undated schemes compilation; not a newly announced tenor."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    116
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-sgb-tax",
+              "cells": [
+                "SGB redemption tax distinction",
+                "The source distinguishes taxable interest from an individual's capital-gains exemption on redemption.",
+                "Unverified compilation. Legal/tax snapshot only; do not extend redemption treatment to exchange sales or every investor type.",
+                "Undated schemes compilation; current tax-law position not authenticated."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    116
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-b-2026-11-jnpa-blue-finance",
+              "cells": [
+                "JNPA–IFC blue financing",
+                "The October edition reports a US$70 million financing arrangement for shore-power infrastructure.",
+                "Unverified compilation. News financing amount, not project cost or realised emissions savings; no official confirmation performed.",
+                "October 2026 edition; event day unspecified; January 2028 is a stated completion target."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    68
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "ga-family-p",
+      "title": "GA family P: Public schemes, social programmes and development policy",
+      "subject": "GA",
+      "summary": "Selected paraphrased GA recall evidence, not complete syllabus or page coverage. All supplied compilations remain unverified; no official-source authentication was performed. Static principles are distinguished from news claims, edition labels and reference periods. Check current official rules/releases before relying on changing benefits, rates, laws or numbers.",
+      "tags": [
+        "GA family: P",
+        "P1 - Core depth",
+        "Source status: Unverified",
+        "GA master facts",
+        "Selected-page evidence"
+      ],
+      "related": [
+        "ga-family-b",
+        "ga-family-e"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "ga-p-node-1",
+            "label": "Farmer income: beneficiary, exclusion and dates",
+            "refs": [
+              {
+                "source": "esi-schemes-part1",
+                "pages": [
+                  150,
+                  151
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-p-node-2",
+            "label": "Financial inclusion and conditional enterprise credit",
+            "refs": [
+              {
+                "source": "esi-schemes-part1",
+                "pages": [
+                  117,
+                  118
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-p-node-3",
+            "label": "Organic farming and health-delivery design",
+            "refs": [
+              {
+                "source": "esi-schemes-part1",
+                "pages": [
+                  40,
+                  41,
+                  153
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "ga-p-edge-1",
+            "from": "ga-p-node-1",
+            "to": "ga-p-node-2",
+            "label": "Connect the recall distinction to its scope and dated evidence",
+            "refs": [
+              {
+                "source": "esi-schemes-part1",
+                "pages": [
+                  117,
+                  118
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-p-edge-2",
+            "from": "ga-p-node-1",
+            "to": "ga-p-node-3",
+            "label": "Connect the recall distinction to its scope and dated evidence",
+            "refs": [
+              {
+                "source": "esi-schemes-part1",
+                "pages": [
+                  40,
+                  41,
+                  153
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "ga-p-master-facts-2026-11",
+          "title": "GA P: selected source-linked recall facts (unverified)",
+          "columns": [
+            "Item",
+            "Fact / distinction",
+            "Scope / caution",
+            "Edition / reference period"
+          ],
+          "rows": [
+            {
+              "id": "ga-p-2026-11-pmkisan-family",
+              "cells": [
+                "PM-KISAN beneficiary unit",
+                "The source defines a landholding farmer family as husband, wife and minor children with cultivable land in land records.",
+                "Unverified compilation. Eligibility snapshot; landholding alone does not override exclusions.",
+                "Undated Part 1 compilation, with nearby progress references through February 2025."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    151
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-pmkisan-benefit",
+              "cells": [
+                "PM-KISAN benefit",
+                "The listed benefit is Rs 6,000 per eligible family yearly, paid in three Rs 2,000 instalments.",
+                "Unverified compilation. Income transfer, not a crop loan; amounts are per family, not per hectare.",
+                "Undated Part 1 compilation; no November 2026 benefit revision verified."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    151
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-pmkisan-pension-exclusion",
+              "cells": [
+                "PM-KISAN pension exclusion",
+                "The source excludes retired pensioners receiving Rs 10,000 or more monthly, except the specified MTS/Class IV/Group D category.",
+                "Unverified compilation. Threshold plus exception; do not drop the exemption or confuse monthly pension with annual support.",
+                "Undated scheme-rule snapshot."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    151
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-pmkisan-tax-exclusion",
+              "cells": [
+                "PM-KISAN income-tax exclusion",
+                "A family is excluded where a member paid income tax in the last assessment year.",
+                "Unverified compilation. Specific exclusion in the compilation; assessment year is not the same as the current calendar year.",
+                "Undated scheme-rule snapshot; verify current guidelines for applications."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    151
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-pmkisan-dates",
+              "cells": [
+                "PM-KISAN: three different dates",
+                "The source separates effective date (1 December 2018), announcement (1 February 2019) and launch (24 February 2019).",
+                "Unverified compilation. Do not substitute launch for retrospective applicability.",
+                "Historical dates as listed in Part 1; source edition undated."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    150
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-pmjdy-balance",
+              "cells": [
+                "PMJDY basic account",
+                "The scheme's basic savings account does not require a minimum balance.",
+                "Unverified compilation. Account feature; not a waiver of every service condition or a promise of unlimited facilities.",
+                "Undated scheme-rule snapshot; launch year listed as 2014."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    117
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-pmjdy-overdraft",
+              "cells": [
+                "PMJDY overdraft",
+                "The compilation lists an overdraft up to Rs 10,000 for eligible account holders aged 18–65.",
+                "Unverified compilation. Credit subject to eligibility, not a cash grant; a minor's account does not imply overdraft eligibility.",
+                "Undated scheme-rule snapshot; operational conditions not newly verified."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    117
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-pmjdy-rupay-date",
+              "cells": [
+                "PMJDY RuPay accident cover",
+                "The source distinguishes Rs 1 lakh cover from Rs 2 lakh for new accounts opened after 28 August 2018.",
+                "Unverified compilation. Date-conditioned insurance claim; card-use and other policy conditions are not established by this short fact.",
+                "Historical threshold date: 28 August 2018; current policy wording unverified."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    117
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-mudra-shishu",
+              "cells": [
+                "MUDRA Shishu category",
+                "Shishu covers loans up to Rs 50,000.",
+                "Unverified compilation. Loan category, not a subsidy entitlement; lender appraisal still matters.",
+                "Undated Part 1 compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    118
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-mudra-kishore-tarun",
+              "cells": [
+                "MUDRA Kishore versus Tarun",
+                "Kishore: above Rs 50,000 to Rs 5 lakh; Tarun: above Rs 5 lakh to Rs 10 lakh.",
+                "Unverified compilation. Use the lower-bound exclusions and upper-bound inclusions; these are loan bands.",
+                "Undated Part 1 compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    118
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-mudra-tarun-plus",
+              "cells": [
+                "MUDRA Tarun Plus",
+                "The listed band is above Rs 10 lakh to Rs 20 lakh, for entrepreneurs who successfully repaid a previous Tarun loan.",
+                "Unverified compilation. Conditional eligibility, not a universal Rs 20 lakh limit for first-time applicants.",
+                "Source says introduced October 2024; exact notification/effective day not supplied."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    118
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-pkvy-purpose",
+              "cells": [
+                "PKVY purpose",
+                "Paramparagat Krishi Vikas Yojana promotes sustainable organic farming.",
+                "Unverified compilation. Agricultural support, not a general farmer income-transfer scheme.",
+                "Source lists launch in 2015–16 and implementation references as of February 2025."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    153
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-pkvy-pgs",
+              "cells": [
+                "PKVY certification approach",
+                "The compilation describes participatory PGS certification supporting domestic organic-produce marketing.",
+                "Unverified compilation. Certification approach; do not assume PGS automatically meets every export-market requirement.",
+                "Undated scheme compilation; February 2025 context."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    153
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-pkvy-sharing",
+              "cells": [
+                "PKVY funding shares",
+                "The source lists Centre:State shares of 60:40 generally and 90:10 for North-Eastern/Himalayan states; UTs receive full central funding.",
+                "Unverified compilation. Source-stated funding pattern; verify the applicable guideline/version rather than generalising to every farm scheme.",
+                "Undated Part 1 compilation; current funding order not authenticated."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    153
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-pmjay-cover",
+              "cells": [
+                "PM-JAY hospital cover",
+                "The compilation lists Rs 5 lakh per eligible family per year for secondary and tertiary hospitalisation.",
+                "Unverified compilation. Health cover, not cash paid to each member; eligibility and newer extension rules require separate checks.",
+                "Undated Part 1 compilation; not a complete November 2026 eligibility guide."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    40
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-pmjay-implementers",
+              "cells": [
+                "PM-JAY implementation",
+                "The National Health Authority coordinates nationally; State Health Agencies manage state implementation.",
+                "Unverified compilation. Implementing-body distinction, not a ministry-name substitution.",
+                "Undated Part 1 compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    40
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-p-2026-11-pmjay-preexisting",
+              "cells": [
+                "PM-JAY pre-existing conditions",
+                "The source says pre-existing illnesses of eligible beneficiaries are covered from enrolment.",
+                "Unverified compilation. No waiting-period distinction in this compilation; do not infer universal eligibility or coverage of every treatment.",
+                "Undated Part 1 compilation; current package rules unverified."
+              ],
+              "refs": [
+                {
+                  "source": "esi-schemes-part1",
+                  "pages": [
+                    41
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "ga-family-e",
+      "title": "GA family E: Economy, fiscal/tax, trade flows, reports and social/economic data",
+      "subject": "GA",
+      "summary": "Selected paraphrased GA recall evidence, not complete syllabus or page coverage. All supplied compilations remain unverified; no official-source authentication was performed. Static principles are distinguished from news claims, edition labels and reference periods. Check current official rules/releases before relying on changing benefits, rates, laws or numbers.",
+      "tags": [
+        "GA family: E",
+        "P1 - Core depth",
+        "Source status: Unverified",
+        "GA master facts",
+        "Selected-page evidence"
+      ],
+      "related": [
+        "ga-family-b",
+        "ga-family-p"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "ga-e-node-1",
+            "label": "Fiscal index: publisher, dimensions and data period",
+            "refs": [
+              {
+                "source": "esi-report-fhi-2026",
+                "pages": [
+                  1,
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-e-node-2",
+            "label": "Reports: institution, indicator and forecast versus outcome",
+            "refs": [
+              {
+                "source": "esi-report-sofi-2026",
+                "pages": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "source": "esi-report-weo-2026",
+                "pages": [
+                  1,
+                  6
+                ]
+              },
+              {
+                "source": "esi-report-wir-2026",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-e-node-3",
+            "label": "October-edition statistics: scope and units",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  76,
+                  82
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "ga-e-edge-1",
+            "from": "ga-e-node-1",
+            "to": "ga-e-node-2",
+            "label": "Connect the recall distinction to its scope and dated evidence",
+            "refs": [
+              {
+                "source": "esi-report-sofi-2026",
+                "pages": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "source": "esi-report-weo-2026",
+                "pages": [
+                  1,
+                  6
+                ]
+              },
+              {
+                "source": "esi-report-wir-2026",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-e-edge-2",
+            "from": "ga-e-node-1",
+            "to": "ga-e-node-3",
+            "label": "Connect the recall distinction to its scope and dated evidence",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  76,
+                  82
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "ga-e-master-facts-2026-11",
+          "title": "GA E: selected source-linked recall facts (unverified)",
+          "columns": [
+            "Item",
+            "Fact / distinction",
+            "Scope / caution",
+            "Edition / reference period"
+          ],
+          "rows": [
+            {
+              "id": "ga-e-2026-11-fhi-publisher-period",
+              "cells": [
+                "Fiscal Health Index: publisher and period",
+                "The source attributes FHI 2026 to NITI Aayog and says it evaluates FY2023-24 state finances.",
+                "Unverified compilation. Edition year is not the financial year being measured.",
+                "Edition labelled 2026; reference FY2023-24."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fhi-2026",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-fhi-comparison-groups",
+              "cells": [
+                "FHI comparison groups",
+                "The compilation ranks major states separately from North-Eastern/Himalayan states.",
+                "Unverified compilation. Do not combine the two ranking tables into one national ordinal list.",
+                "2026-labelled edition; FY2023-24 data."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fhi-2026",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-fhi-pillars",
+              "cells": [
+                "FHI five dimensions",
+                "Listed dimensions are expenditure quality, revenue mobilisation, fiscal prudence, debt index and debt sustainability.",
+                "Unverified compilation. Composite-index architecture, not five equal weights established here.",
+                "2026-labelled edition; FY2023-24 data."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fhi-2026",
+                  "pages": [
+                    2,
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-fhi-data-origin",
+              "cells": [
+                "FHI data source",
+                "The compilation identifies CAG budgetary-transaction data as the basis for the fiscal assessment.",
+                "Unverified compilation. CAG is the stated data source; NITI Aayog is the report publisher.",
+                "2026-labelled edition; state transactions for FY2023-24."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fhi-2026",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-fhi-interpretation",
+              "cells": [
+                "FHI score direction",
+                "A higher score indicates greater fiscal robustness in this framework.",
+                "Unverified compilation. Not a measure of state income or a credit-rating guarantee; image-only rankings were not transcribed.",
+                "2026-labelled edition; FY2023-24 data."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fhi-2026",
+                  "pages": [
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-wir-publisher",
+              "cells": [
+                "World Investment Report",
+                "UN Trade and Development (UNCTAD) publishes this annual report on FDI trends and investment policy.",
+                "Unverified compilation. Report–publisher–indicator matching; FDI is not the same as portfolio flows.",
+                "Report labelled 2026; publication identity is the static component."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-wir-2026",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-wir-headline",
+              "cells": [
+                "WIR sustainable-investment headline",
+                "The compilation describes an uneven recovery, with transport, water, health and education lagging.",
+                "Unverified compilation. Qualitative report claim, not an independently confirmed global trend or uniform country outcome.",
+                "2026-labelled report; surrounding discussion concerns 2025 investment."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-wir-2026",
+                  "pages": [
+                    7
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-sofi-publishers",
+              "cells": [
+                "SOFI producing organisations",
+                "SOFI is jointly produced by FAO, IFAD, UNICEF, WFP and WHO and tracks hunger, food insecurity and nutrition.",
+                "Unverified compilation. Publisher/indicator matching; do not attribute it to only one health or agriculture body.",
+                "Report labelled 2026; no independent release authentication."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-sofi-2026",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-sofi-hunger-estimate",
+              "cells": [
+                "SOFI hunger headline: source claim",
+                "The compilation gives a 2025 hunger point estimate of 645 million, within a 608–696 million range.",
+                "Unverified compilation. Unestablished numeric claim: preserve the uncertainty range and verify the underlying release before memorising.",
+                "2026-labelled edition; estimate refers to 2025, not 2026."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-sofi-2026",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-sofi-diet-unit",
+              "cells": [
+                "Cost of a healthy diet: units",
+                "The compilation reports PPP $4.28 for 2025, distinct from a market-exchange-rate US-dollar cost.",
+                "Unverified compilation. Numeric/unit claim remains unestablished; the cited passage does not explicitly state the time/person denominator.",
+                "2026-labelled edition; diet-cost reference year 2025."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-sofi-2026",
+                  "pages": [
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-weo-frequency",
+              "cells": [
+                "WEO versus WEO Update",
+                "The IMF's full WEO is described as April/October, with January/July interim forecast updates.",
+                "Unverified compilation. Publication schedule, not four full editions; stale membership counts on the page are intentionally not retained.",
+                "Compilation labelled July 2026 Update."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-weo-2026",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-weo-growth-claim",
+              "cells": [
+                "WEO growth forecast: source claim",
+                "The compilation projects global GDP growth of 3.0% in 2026 and 3.4% in 2027.",
+                "Unverified compilation. Unestablished forecast, not an outcome; unusually specific geopolitical assumptions on this page need release-level checking.",
+                "July 2026-labelled Update; forecast years 2026 and 2027."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-weo-2026",
+                  "pages": [
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-jmp-coverage",
+              "cells": [
+                "WHO–UNICEF JMP",
+                "The October edition discusses JMP monitoring of school water, sanitation and hygiene (WASH).",
+                "Unverified compilation. Indicator scope is schools; do not substitute household WASH access.",
+                "October 2026 monthly edition; school-data discussion references 2025."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    82
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-jmp-india-headline",
+              "cells": [
+                "JMP India sanitation headline: source claim",
+                "The edition reports 50 million Indian children without school sanitation services out of 244 million globally.",
+                "Unverified compilation. Unestablished compilation estimate; children are the unit, not schools. The page separately notes hygiene-data limitations.",
+                "October 2026 edition; claim explicitly refers to 2025."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    82
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-e-2026-11-exports-quarter",
+              "cells": [
+                "Exports: goods plus services",
+                "The edition reports US$242.6 billion of combined exports in July–September 2026, up 15.84% year on year.",
+                "Unverified compilation. Unestablished news statistic; combined exports are not merchandise exports alone or a full-year total.",
+                "October 2026 edition; reference quarter July–September 2026."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    76
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "ga-family-i",
+      "title": "GA family I: International bodies, groupings, diplomacy and agreements",
+      "subject": "GA",
+      "summary": "Selected paraphrased GA recall evidence, not complete syllabus or page coverage. All supplied compilations remain unverified; no official-source authentication was performed. Static principles are distinguished from news claims, edition labels and reference periods. Check current official rules/releases before relying on changing benefits, rates, laws or numbers.",
+      "tags": [
+        "GA family: I",
+        "P2 - Syllabus breadth",
+        "Source status: Unverified",
+        "GA master facts",
+        "Selected-page evidence"
+      ],
+      "related": [
+        "ga-family-b",
+        "ga-family-e"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "ga-i-node-1",
+            "label": "Organisation-to-headquarters matching",
+            "refs": [
+              {
+                "source": "esi-static-institutions",
+                "pages": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "source": "esi-static-regional",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-i-node-2",
+            "label": "Development finance: borrower and private-sector mandates",
+            "refs": [
+              {
+                "source": "esi-static-institutions",
+                "pages": [
+                  11,
+                  12
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "ga-i-edge-1",
+            "from": "ga-i-node-1",
+            "to": "ga-i-node-2",
+            "label": "Connect the recall distinction to its scope and dated evidence",
+            "refs": [
+              {
+                "source": "esi-static-institutions",
+                "pages": [
+                  11,
+                  12
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "ga-i-master-facts-2026-11",
+          "title": "GA I: selected source-linked recall facts (unverified)",
+          "columns": [
+            "Item",
+            "Fact / distinction",
+            "Scope / caution",
+            "Edition / reference period"
+          ],
+          "rows": [
+            {
+              "id": "ga-i-2026-11-wto",
+              "cells": [
+                "WTO headquarters and establishment",
+                "The compilation pairs the WTO with Geneva and 1995.",
+                "Unverified compilation. Static organisation matching; volatile membership counts deliberately omitted.",
+                "Undated international-organisations compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-i-2026-11-un",
+              "cells": [
+                "United Nations headquarters",
+                "The UN is paired with New York and establishment in 1945.",
+                "Unverified compilation. Static institution fact; distinguish headquarters from the locations of specialised agencies.",
+                "Undated international-organisations compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-i-2026-11-ilo",
+              "cells": [
+                "ILO headquarters and establishment",
+                "The ILO is paired with Geneva and 1919.",
+                "Unverified compilation. Static institution fact; predates the United Nations.",
+                "Undated international-organisations compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-i-2026-11-who",
+              "cells": [
+                "WHO headquarters",
+                "The WHO is listed in Geneva, Switzerland.",
+                "Unverified compilation. Static headquarters matching; membership totals are not treated as timeless.",
+                "Undated international-organisations compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-i-2026-11-unesco",
+              "cells": [
+                "UNESCO headquarters",
+                "UNESCO is listed in Paris, France.",
+                "Unverified compilation. Static headquarters matching; do not substitute Geneva.",
+                "Undated international-organisations compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-i-2026-11-saarc",
+              "cells": [
+                "SAARC headquarters",
+                "SAARC's secretariat is listed in Kathmandu, Nepal.",
+                "Unverified compilation. Static location; no claim that a summit or rotating chair has been verified.",
+                "Undated regional-organisations compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-regional",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-i-2026-11-ibrd-borrowers",
+              "cells": [
+                "IBRD borrower scope",
+                "IBRD supports middle-income and creditworthy low-income countries with financing and advice.",
+                "Unverified compilation. Mandate distinction from IDA's poorest-country focus; lending terms vary.",
+                "Undated international-organisations compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    11
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-i-2026-11-ifc-mandate",
+              "cells": [
+                "IFC mandate",
+                "IFC focuses on private-sector development in developing countries through finance, capital mobilisation and advice.",
+                "Unverified compilation. Mandate distinction from sovereign-focused IBRD/IDA lending; links to the JNPA financing news.",
+                "Undated international-organisations compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-institutions",
+                  "pages": [
+                    12
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "ga-family-t",
+      "title": "GA family T: Science, technology, infrastructure and defence",
+      "subject": "GA",
+      "summary": "Selected paraphrased GA recall evidence, not complete syllabus or page coverage. All supplied compilations remain unverified; no official-source authentication was performed. Static principles are distinguished from news claims, edition labels and reference periods. Check current official rules/releases before relying on changing benefits, rates, laws or numbers.",
+      "tags": [
+        "GA family: T",
+        "P2 - Syllabus breadth",
+        "Source status: Unverified",
+        "GA master facts",
+        "Selected-page evidence"
+      ],
+      "related": [
+        "ga-family-b",
+        "ga-family-e"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "ga-t-node-1",
+            "label": "Government language AI and defence accounting",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  4,
+                  90
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-t-node-2",
+            "label": "Defence R&D, surveillance and rescue: identify purpose/operator",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  90,
+                  93
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "ga-t-edge-1",
+            "from": "ga-t-node-1",
+            "to": "ga-t-node-2",
+            "label": "Connect the recall distinction to its scope and dated evidence",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  90,
+                  93
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "ga-t-master-facts-2026-11",
+          "title": "GA T: selected source-linked recall facts (unverified)",
+          "columns": [
+            "Item",
+            "Fact / distinction",
+            "Scope / caution",
+            "Edition / reference period"
+          ],
+          "rows": [
+            {
+              "id": "ga-t-2026-11-cag-bhashini",
+              "cells": [
+                "CAG–BHASHINI Anuvaad",
+                "The edition reports a CAG/DIBD language-AI collaboration for translation of official audit documents.",
+                "Unverified compilation. Reported use case, not an audit opinion generated by AI; DIBD is under Digital India Corporation/MeitY.",
+                "October 2026 edition; the passage places the ceremony in September 2026, not October."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-t-2026-11-bulletproof-glass",
+              "cells": [
+                "Indigenous protective glass R&D",
+                "The edition links DRDO and CSIR-CGCRI to lightweight bulletproof-glass development for armoured vehicles.",
+                "Unverified compilation. Development project, not proof of completed induction or universal ballistic protection.",
+                "October 2026 edition; agreement/event day unspecified."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    90
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-t-2026-11-haps",
+              "cells": [
+                "HAPS developer and purpose",
+                "The edition identifies ADRDE, Agra, under DRDO, as developing a long-endurance stratospheric surveillance platform.",
+                "Unverified compilation. Reported development/testing; avoid converting a brief trial into demonstrated long endurance.",
+                "October 2026 edition; trial date not supplied on cited page."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    93
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-t-2026-11-sarex",
+              "cells": [
+                "National maritime SAREX",
+                "The edition identifies the Indian Coast Guard as conducting the national maritime search-and-rescue exercise off Odisha.",
+                "Unverified compilation. Exercise purpose/operator distinction; not a bilateral combat exercise.",
+                "October 2026 edition; described as SAREX-2026, exact exercise days unspecified."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    93
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-t-2026-11-trout",
+              "cells": [
+                "EyeROV TROUT",
+                "The edition describes underwater remotely operated vehicles for naval inspection, surveillance and recovery.",
+                "Unverified compilation. ROV is not an autonomous surface vessel; delivery/indigenous-first claims are not independently confirmed.",
+                "October 2026 edition; delivery day unspecified."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    93
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-t-2026-11-saksham",
+              "cells": [
+                "SAKSHAM defence accounting",
+                "The edition describes SAKSHAM integrating defence accounts and payment information with the Army's IAFIS.",
+                "Unverified compilation. Digital financial-administration tool, not a weapon system; deployment scope unverified.",
+                "October 2026 edition; launch day unspecified on cited page."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    90
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "ga-family-n",
+      "title": "GA family N: Environment, energy, physical geography and conservation",
+      "subject": "GA",
+      "summary": "Selected paraphrased GA recall evidence, not complete syllabus or page coverage. All supplied compilations remain unverified; no official-source authentication was performed. Static principles are distinguished from news claims, edition labels and reference periods. Check current official rules/releases before relying on changing benefits, rates, laws or numbers.",
+      "tags": [
+        "GA family: N",
+        "P2 - Syllabus breadth",
+        "Source status: Unverified",
+        "GA master facts",
+        "Selected-page evidence"
+      ],
+      "related": [
+        "ga-family-b",
+        "ga-family-e"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "ga-n-node-1",
+            "label": "Environmental institutions and assessment",
+            "refs": [
+              {
+                "source": "esi-static-treaties",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-n-node-2",
+            "label": "Treaties: distinct purposes and institutional roles",
+            "refs": [
+              {
+                "source": "esi-static-treaties",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-n-node-3",
+            "label": "October forest certification connects to a static code",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "ga-n-edge-1",
+            "from": "ga-n-node-1",
+            "to": "ga-n-node-2",
+            "label": "Connect the recall distinction to its scope and dated evidence",
+            "refs": [
+              {
+                "source": "esi-static-treaties",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-n-edge-2",
+            "from": "ga-n-node-1",
+            "to": "ga-n-node-3",
+            "label": "Connect the recall distinction to its scope and dated evidence",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "ga-n-master-facts-2026-11",
+          "title": "GA N: selected source-linked recall facts (unverified)",
+          "columns": [
+            "Item",
+            "Fact / distinction",
+            "Scope / caution",
+            "Edition / reference period"
+          ],
+          "rows": [
+            {
+              "id": "ga-n-2026-11-unep",
+              "cells": [
+                "UNEP headquarters",
+                "The compilation places UNEP in Nairobi, Kenya, and dates its start to 1972.",
+                "Unverified compilation. Static environmental institution fact, not a convention secretariat location.",
+                "Undated treaties compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-treaties",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-n-2026-11-ipcc",
+              "cells": [
+                "IPCC sponsoring organisations",
+                "The compilation identifies UNEP and the World Meteorological Organization as the bodies that formed the IPCC.",
+                "Unverified compilation. Scientific assessment institution; not itself a climate treaty or national regulator.",
+                "Undated treaties compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-treaties",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-n-2026-11-cartagena",
+              "cells": [
+                "Cartagena Protocol",
+                "The CBD-linked Cartagena Protocol concerns biosafety in handling living modified organisms.",
+                "Unverified compilation. Protocol-purpose matching; distinguish it from access-and-benefit sharing.",
+                "Undated compilation; historical protocol, not a new October policy."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-treaties",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-n-2026-11-nagoya",
+              "cells": [
+                "Nagoya Protocol",
+                "The CBD-linked Nagoya Protocol concerns access to genetic resources and sharing benefits from their use.",
+                "Unverified compilation. Not the Cartagena biosafety protocol or the Aichi target framework.",
+                "Undated treaties compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-treaties",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-n-2026-11-ozone-framework",
+              "cells": [
+                "Vienna Convention versus Montreal Protocol",
+                "The source distinguishes the ozone-protection framework from the Montreal Protocol's controlled-substance phase-out obligations.",
+                "Unverified compilation. Legal roles differ; simplified notes do not establish every party's timetable.",
+                "Historical instruments: Vienna 1985; Montreal 1987, as listed."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-treaties",
+                  "pages": [
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-n-2026-11-ramsar-purpose",
+              "cells": [
+                "Ramsar Convention",
+                "Ramsar concerns wetland conservation and wise use; the source lists adoption on 2 February 1971.",
+                "Unverified compilation. Wetland treaty, not exclusively a bird-protection agreement.",
+                "Historical adoption date; not the source edition date."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-treaties",
+                  "pages": [
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-n-2026-11-ramsar-roles",
+              "cells": [
+                "Ramsar secretariat versus depositary",
+                "The compilation places the secretariat in Gland and identifies UNESCO as depositary.",
+                "Unverified compilation. Institutional roles, not two alternative headquarters; current arrangements unverified.",
+                "Undated treaties compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-treaties",
+                  "pages": [
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-n-2026-11-cites",
+              "cells": [
+                "CITES scope",
+                "CITES regulates international trade in wild species and their products to avoid threatening survival.",
+                "Unverified compilation. Trade focus; not a blanket worldwide ban on every wildlife-related activity.",
+                "Undated treaties compilation; no current species-list amendment checked."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-treaties",
+                  "pages": [
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-n-2026-11-pramaan",
+              "cells": [
+                "PRAMAAN forest certification",
+                "The edition links PRAMAAN forest-management certification under IFWCS to National Working Plan Code 2023.",
+                "Unverified compilation. Reported certification framework; certification is not automatically equivalent to every foreign-market legal requirement.",
+                "October 2026 edition; code year 2023 is not a certificate-issue date."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "ga-family-a",
+      "title": "GA family A: Other current/static: people, sport, awards, days, books, polity and culture",
+      "subject": "GA",
+      "summary": "Selected paraphrased GA recall evidence, not complete syllabus or page coverage. All supplied compilations remain unverified; no official-source authentication was performed. Static principles are distinguished from news claims, edition labels and reference periods. Check current official rules/releases before relying on changing benefits, rates, laws or numbers.",
+      "tags": [
+        "GA family: A",
+        "P2 - Syllabus breadth",
+        "Source status: Unverified",
+        "GA master facts",
+        "Selected-page evidence"
+      ],
+      "related": [
+        "ga-family-b",
+        "ga-family-e"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "ga-a-node-1",
+            "label": "Rights and wider writ jurisdiction",
+            "refs": [
+              {
+                "source": "esi-static-polity",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-a-node-2",
+            "label": "Legislative lists and Public Service Commissions",
+            "refs": [
+              {
+                "source": "esi-static-polity",
+                "pages": [
+                  2
+                ]
+              },
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-a-node-3",
+            "label": "Selective recurring observances",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  121
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "ga-a-edge-1",
+            "from": "ga-a-node-1",
+            "to": "ga-a-node-2",
+            "label": "Connect the recall distinction to its scope and dated evidence",
+            "refs": [
+              {
+                "source": "esi-static-polity",
+                "pages": [
+                  2
+                ]
+              },
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ga-a-edge-2",
+            "from": "ga-a-node-1",
+            "to": "ga-a-node-3",
+            "label": "Connect the recall distinction to its scope and dated evidence",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  121
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "ga-a-master-facts-2026-11",
+          "title": "GA A: selected source-linked recall facts (unverified)",
+          "columns": [
+            "Item",
+            "Fact / distinction",
+            "Scope / caution",
+            "Edition / reference period"
+          ],
+          "rows": [
+            {
+              "id": "ga-a-2026-11-article14",
+              "cells": [
+                "Article 14",
+                "The source links Article 14 to equality before law and equal protection of laws.",
+                "Unverified compilation. Static constitutional principle; brief notes are not a full account of permissible classification.",
+                "Undated polity compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-polity",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-a-2026-11-article21a",
+              "cells": [
+                "Article 21A",
+                "The source associates Article 21A with free and compulsory education for children aged 6–14.",
+                "Unverified compilation. Age-bounded constitutional provision; not all ages or all forms of education.",
+                "Undated polity compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-polity",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-a-2026-11-writ-jurisdiction",
+              "cells": [
+                "Articles 32 versus 226",
+                "Article 32 protects fundamental rights through the Supreme Court; Article 226 gives High Courts wider writ jurisdiction, including other legal rights.",
+                "Unverified compilation. Static jurisdiction distinction; procedural/legal exceptions are outside this compact row.",
+                "Undated polity compilation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-polity",
+                  "pages": [
+                    1,
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-a-2026-11-article246",
+              "cells": [
+                "Article 246 and Seventh Schedule",
+                "The source links Article 246 to the Union, State and Concurrent legislative lists in the Seventh Schedule.",
+                "Unverified compilation. Allocation framework only; the notes' simplified 'only' and conflict rules must not erase constitutional exceptions.",
+                "Undated polity compilation; current legal text not authenticated."
+              ],
+              "refs": [
+                {
+                  "source": "esi-static-polity",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-a-2026-11-upsc-anniversary",
+              "cells": [
+                "UPSC: anniversary versus constitutional basis",
+                "The edition links the commission's historical origin to 1 October 1926 and Public Service Commissions to Articles 315–323.",
+                "Unverified compilation. News-to-static distinction; a centenary origin date is not the Constitution's commencement date.",
+                "October 2026 edition; historical origin 1 October 1926."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    3,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-a-2026-11-older-persons",
+              "cells": [
+                "International Day of Older Persons",
+                "The October date table lists the observance on 1 October.",
+                "Unverified compilation. Selective fixed-date recall; the annual theme is deliberately not retained.",
+                "October 2026 edition; recurring observance, not a one-off launch."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    121
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ga-a-2026-11-nonviolence-day",
+              "cells": [
+                "International Day of Non-Violence",
+                "The October date table lists 2 October.",
+                "Unverified compilation. Selective fixed-date recall; do not infer a new scheme from the observance.",
+                "October 2026 edition; recurring observance."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    121
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [],
+      "facts": [],
+      "updates": []
+    }
+  ]
+}

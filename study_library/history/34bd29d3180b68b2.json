@@ -1,0 +1,4286 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "unemployment-short-notes",
+      "title": "Unemployment short notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Unemployment-24\\Short_Notes_Unemployment__1__lyst1747211292238.pdf",
+      "sha256": "6570217fad2abb9a5a47cab61ec6bbd9057b204c5d60b424dfc7fe86c00f39da",
+      "pages": 22,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "motivation-short-notes",
+      "title": "Motivation short notes",
+      "path": "SubjectNotesForPhase2\\Management\\Motivation-8\\Short_Notes_Motivation__1__lyst1772798160470.pdf",
+      "sha256": "30a31a26726ebed5acaaed5d1c28a1c37b4819ee04dda4884271c3c17e3ea49d",
+      "pages": 24,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "spotlight-2026-10",
+      "title": "Spotlight October 2026",
+      "path": "SubjectNotesForPhase2\\CurrentAffairs-Monthly\\Oct_2026_Spotlight_lyst1793792937123.pdf",
+      "sha256": "2c2f284b20ea967bb9903a6218c94855edbd503e6c994dcd1b989af35c1e0cec",
+      "pages": 175,
+      "kind": "monthly",
+      "period": "2026-10"
+    },
+    {
+      "id": "esi-0-notes-1",
+      "title": "ESI Dictionary dictionary part 1",
+      "path": "SubjectNotesForPhase2\\ESI\\ESI Dictionary-0\\ESI_Dictionary_Part_1__1__lyst1772889422360.pdf",
+      "sha256": "2929ed156ae1ccd51f9c1de562edb7a9f766d899a4791ca51c7f9d88bd2acb7e",
+      "pages": 16,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-0-notes-3",
+      "title": "ESI Dictionary dictionary part 3",
+      "path": "SubjectNotesForPhase2\\ESI\\ESI Dictionary-0\\ESI_Dictionary_Part_3__1__lyst1772889846331.pdf",
+      "sha256": "5c5798798aa58be841db34502d7f5edf942db3111b1555d2c1f7105a6adb095a",
+      "pages": 18,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-0-notes-5",
+      "title": "ESI Dictionary dictionary part 5",
+      "path": "SubjectNotesForPhase2\\ESI\\ESI Dictionary-0\\ESI_Dictionary_Part_5__1__lyst1772890037100.pdf",
+      "sha256": "63cd78cadb12a9059e8f67f3f2f470c1ef06a18e76f282c4ce29d2315b2c4752",
+      "pages": 15,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-0-notes-7",
+      "title": "ESI Dictionary dictionary part 7",
+      "path": "SubjectNotesForPhase2\\ESI\\ESI Dictionary-0\\ESI_Dictionary_Part_7__1__lyst1772890518318.pdf",
+      "sha256": "88210d8a6ada99df4e764c22cbe25b9b6d890f6e8da5e19beecff57c42635e22",
+      "pages": 23,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-10-notes",
+      "title": "Nature of Indian Economy 1947-1991 Industry - notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Nature of Indian Economy 1947-1991 Industry-10\\Notes_India_1947_1991_Industry__1__lyst1770361975686.pdf",
+      "sha256": "b72eea4e8931f9afe8736529dee70e52263b26a0d7ffb9be2467c0f254ef884d",
+      "pages": 22,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-11-notes",
+      "title": "Nature of Indian Economy 1947-1991 Services - notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Nature of Indian Economy 1947-1991 Services-11\\Notes_India_1947_1991_Services___1__lyst1770367944200.pdf",
+      "sha256": "e3779167082156da5b46a62bfac3a1bd9972d20c5092314fb82a72591c3db370",
+      "pages": 8,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-12-notes",
+      "title": "Nature of Indian Economy 1947-1991 External Sector - notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Nature of Indian Economy 1947-1991 External Sector-12\\Notes_India_1947_1991_External_Sector___1__lyst1770626549567.pdf",
+      "sha256": "3aac4c85abd2281e144f2e46822843e4c921b8fca32fbbe0c0206f5da41c9fc0",
+      "pages": 25,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-15-notes",
+      "title": "Nature of Inidan Economy Post 1991 Agriculture - notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Nature of Inidan Economy Post 1991 Agriculture-15\\Notes_Indian_Economy_Post_1991_Agriculture___1__lyst1771395299939.pdf",
+      "sha256": "04ac235c7cadfde84e2f05feffb5ef60ffa4dd15c2fd4e5711188dd9cb10e523",
+      "pages": 22,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-16-notes",
+      "title": "Nature of Indian Economy Post 1991 Industry - notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Nature of Indian Economy Post 1991 Industry-16\\Notes_Indian_Economy_Post_1991___Industry__1__lyst1775714549047.pdf",
+      "sha256": "96a1653c888cd9d70c9573a013ac6185a6034900a1038bf1a5b2b884b63f6048",
+      "pages": 22,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-17-notes",
+      "title": "Nature of Indian Economy Post 1991 Services - notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Nature of Indian Economy Post 1991 Services-17\\Notes_Indian_Economy_Post_1991___Service___1__lyst1775719771433.pdf",
+      "sha256": "71b9828ae0f69e93fc104861679830171664f301e0eb6594e1e93f1aac4b4a2e",
+      "pages": 15,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-18-notes",
+      "title": "Nature of Indian Economy Post 1991 External Sector - notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Nature of Indian Economy Post 1991 External Sector-18\\Notes_Indian_Economy_post_1991___External_sector__1__lyst1775721399893.pdf",
+      "sha256": "7efa9f4165089bb0fff6ff91b9663aa15ab710f532b6a6ba6948f858e1b577b5",
+      "pages": 21,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-3-notes",
+      "title": "School Of Economic Thoughts - notes",
+      "path": "SubjectNotesForPhase2\\ESI\\School Of Economic Thoughts-3\\Notes_School_of_Economic_Thoughts__1__lyst1768657450107.pdf",
+      "sha256": "c7da07aa93b257d0c23c79620f42aa3b78cb25d3775997b36cd1783e3043978d",
+      "pages": 15,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-30-notes",
+      "title": "Internation Economic Institutions - notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Internation Economic Institutions-30\\Updated_Notes_Economic_Institutions___1__lyst1775626917792.pdf",
+      "sha256": "6cfdc8e3e6749101f984a973b698371d2034fa03152d4fefec90242d7991b52e",
+      "pages": 24,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-34-short-notes",
+      "title": "Planning period - short notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Planning Period in India (5 Year Plans)-34\\Short_Notes_Planning_Period_of_India__1__lyst1782211965992.pdf",
+      "sha256": "07960eeb73621d3b7119507917cfaaf533cdd9a748a95a57a0d42f37ced7d5ea",
+      "pages": 18,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-7-notes",
+      "title": "Nature of Indian Economy before Independence - notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Nature of Indian Economy before Independence-7\\Notes_India_s_Economy_Before_Independence__1__lyst1769492631644.pdf",
+      "sha256": "6ef77bca909bf99d7e4beb87dce8bdcabb67568a9ca67ff15d275d611aec7cfc",
+      "pages": 6,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-8-notes",
+      "title": "Nature of Indian Economy 1947-1991 Macro-economy - notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Nature of Indian Economy 1947-1991 Macro-economy-8\\Notes_India_1947_1991_Macro_economy__1__lyst1769667632612.pdf",
+      "sha256": "f6571becd3db673e4a0ef292611585db7d3aa433aaccecb9e24a19a5b1184bb4",
+      "pages": 15,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-9-notes",
+      "title": "Nature of Indian Economy 1947-1991 Agriculture - notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Nature of Indian Economy 1947-1991 Agriculture-9\\Notes_India_1947_1991_Agriculture__1__lyst1770015802026.pdf",
+      "sha256": "adc7218b804dfd02403253ad25ad503362e630c65c5a6c34e8643f0ac1aee1ce",
+      "pages": 26,
+      "kind": "notes",
+      "period": null
+    }
+  ],
+  "topics": [
+    {
+      "id": "employment-measurement",
+      "title": "Employment: people, participation and measurement",
+      "subject": "ESI",
+      "summary": "Separate the labour force, workers and unemployed before interpreting a rate. This pilot covers selected concepts, not the entire unemployment chapter.",
+      "tags": [
+        "employment",
+        "labour force",
+        "measurement",
+        "static foundation"
+      ],
+      "related": [
+        "growth-forecasts"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "measurement",
+            "label": "Employment measurement",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "labour-force",
+            "label": "Labour force: employed plus unemployed",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "participation",
+            "label": "LFPR: labour force / population",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "workers",
+            "label": "Workforce: those actually employed",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "unemployment-rate",
+            "label": "Unemployment rate: unemployed / labour force",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "underemployment",
+            "label": "Underemployment: work below skill or education level (notes' example)",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "measure-labour",
+            "from": "measurement",
+            "to": "labour-force",
+            "label": "defines the pool",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measure-lfpr",
+            "from": "measurement",
+            "to": "participation",
+            "label": "measures entry",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measure-workers",
+            "from": "measurement",
+            "to": "workers",
+            "label": "counts workers",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measure-ur",
+            "from": "measurement",
+            "to": "unemployment-rate",
+            "label": "uses labour force",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measure-under",
+            "from": "measurement",
+            "to": "underemployment",
+            "label": "distinguishes",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "rate-denominators",
+          "title": "Know the numerator and denominator",
+          "columns": [
+            "Measure",
+            "Numerator",
+            "Denominator",
+            "Interpretation check"
+          ],
+          "rows": [
+            {
+              "id": "lfpr",
+              "cells": [
+                "LFPR",
+                "Labour force",
+                "Population of the defined group",
+                "Do not switch age group or reference period in a comparison."
+              ],
+              "refs": [
+                {
+                  "source": "unemployment-short-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "workforce-rate",
+              "cells": [
+                "Workforce participation rate",
+                "Employed people",
+                "Population of the defined group",
+                "Employment is not the same as labour-force membership."
+              ],
+              "refs": [
+                {
+                  "source": "unemployment-short-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ur",
+              "cells": [
+                "Unemployment rate",
+                "Unemployed people",
+                "Labour force of the defined group",
+                "The denominator is not the entire population."
+              ],
+              "refs": [
+                {
+                  "source": "unemployment-short-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "rate-calculation",
+          "question": "Illustrative calculation: population 1,000; labour force 600; employed 540. Find LFPR and unemployment rate.",
+          "answer": "LFPR = 600/1,000 = 60%. Unemployed = 600 - 540 = 60; unemployment rate = 60/600 = 10%. The numbers are invented for practice, not observed labour statistics.",
+          "refs": [
+            {
+              "source": "unemployment-short-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "workforce-trap",
+          "question": "Are everyone in the labour force and everyone employed the same set?",
+          "answer": "No. Labour force includes employed and unemployed people; workforce refers to the employed.",
+          "refs": [
+            {
+              "source": "unemployment-short-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "motivation-theories",
+      "title": "Motivation: diagnose the broken link",
+      "subject": "Management",
+      "summary": "Compare what motivates an employee with how motivation works. Apply theory to a case instead of memorising author names alone.",
+      "tags": [
+        "FM",
+        "Vroom",
+        "Herzberg",
+        "Adams",
+        "workplace cases"
+      ],
+      "related": [],
+      "map": {
+        "nodes": [
+          {
+            "id": "motivation",
+            "label": "Motivation: needs and decision processes",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "content",
+            "label": "Content theories ask what motivates",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "process",
+            "label": "Process theories ask how motivation occurs",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "herzberg",
+            "label": "Herzberg: hygiene factors versus motivators",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "vroom",
+            "label": "Vroom: expectancy, instrumentality, valence",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  14,
+                  15
+                ]
+              }
+            ]
+          },
+          {
+            "id": "adams",
+            "label": "Adams: perceived fairness of treatment",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  17
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "mot-content",
+            "from": "motivation",
+            "to": "content",
+            "label": "includes",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mot-process",
+            "from": "motivation",
+            "to": "process",
+            "label": "includes",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mot-herzberg",
+            "from": "motivation",
+            "to": "herzberg",
+            "label": "distinguishes needs",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mot-vroom",
+            "from": "motivation",
+            "to": "vroom",
+            "label": "explains choice",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  14,
+                  15
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mot-adams",
+            "from": "motivation",
+            "to": "adams",
+            "label": "considers fairness",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  17
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "vroom-components",
+          "title": "Vroom: three distinct checks",
+          "columns": [
+            "Component",
+            "Employee's question",
+            "Illustrative repair"
+          ],
+          "rows": [
+            {
+              "id": "expectancy",
+              "cells": [
+                "Expectancy",
+                "Can my effort produce the required performance?",
+                "Training, resources and feasible targets."
+              ],
+              "refs": [
+                {
+                  "source": "motivation-short-notes",
+                  "pages": [
+                    14,
+                    15
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "instrumentality",
+              "cells": [
+                "Instrumentality",
+                "Will performance actually produce the reward?",
+                "Credible, transparent performance-to-reward decisions."
+              ],
+              "refs": [
+                {
+                  "source": "motivation-short-notes",
+                  "pages": [
+                    15
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "valence",
+              "cells": [
+                "Valence",
+                "Do I value this reward?",
+                "Discover what this employee values instead of assuming all want the same reward."
+              ],
+              "refs": [
+                {
+                  "source": "motivation-short-notes",
+                  "pages": [
+                    14
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "theory-comparison",
+          "title": "Which theory fits the clue?",
+          "columns": [
+            "Theory",
+            "Recognition clue",
+            "Avoid this confusion"
+          ],
+          "rows": [
+            {
+              "id": "herzberg",
+              "cells": [
+                "Herzberg",
+                "Job conditions versus intrinsic achievement/growth",
+                "Removing a source of dissatisfaction is not identical to adding a motivator."
+              ],
+              "refs": [
+                {
+                  "source": "motivation-short-notes",
+                  "pages": [
+                    9
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "vroom",
+              "cells": [
+                "Vroom",
+                "A weak link between effort, performance and a valued outcome",
+                "Reward value alone does not establish a credible performance-to-reward link."
+              ],
+              "refs": [
+                {
+                  "source": "motivation-short-notes",
+                  "pages": [
+                    14,
+                    15
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "adams",
+              "cells": [
+                "Adams",
+                "Perceived unfairness in organisational treatment",
+                "Fairness is a perception to investigate, not simply identical pay for everyone."
+              ],
+              "refs": [
+                {
+                  "source": "motivation-short-notes",
+                  "pages": [
+                    17
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "promotion-case",
+          "question": "Illustrative case: an employee wants promotion but thinks selection ignores performance. Diagnose the weak Vroom component.",
+          "answer": "Instrumentality: the employee does not believe performance will produce the desired reward. A credible selection process addresses this link; a larger reward alone may not.",
+          "refs": [
+            {
+              "source": "motivation-short-notes",
+              "pages": [
+                14,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ability-case",
+          "question": "Change the case: selection is fair, but the employee doubts they can meet the target. What changed?",
+          "answer": "The weak link is expectancy: effort is not expected to yield the required performance. Consider ability, support and target feasibility.",
+          "refs": [
+            {
+              "source": "motivation-short-notes",
+              "pages": [
+                15
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "programmable-digital-rupee",
+      "title": "Digital rupee: programmability and payment use",
+      "subject": "Finance",
+      "summary": "Use the monthly item to distinguish scheduling a payment from restricting its purpose. Product-launch claims below are from the supplied compilation, not an official verification.",
+      "tags": [
+        "FM",
+        "GA overlap",
+        "CBDC",
+        "payments",
+        "current affairs"
+      ],
+      "related": [],
+      "map": {
+        "nodes": [
+          {
+            "id": "cbdc",
+            "label": "Digital rupee: reported product features",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          },
+          {
+            "id": "schedule",
+            "label": "Scheduled transfers: amount and frequency",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          },
+          {
+            "id": "purpose",
+            "label": "Purpose controls: permitted spending categories",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          },
+          {
+            "id": "participants",
+            "label": "Reported institution: Bank of India; technology partner: Montran India",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "cbdc-schedule",
+            "from": "cbdc",
+            "to": "schedule",
+            "label": "can automate",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          },
+          {
+            "id": "cbdc-purpose",
+            "from": "cbdc",
+            "to": "purpose",
+            "label": "can constrain use",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          },
+          {
+            "id": "cbdc-participants",
+            "from": "cbdc",
+            "to": "participants",
+            "label": "source attributes to",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "payment-features",
+          "title": "Compare the function, not just the acronym",
+          "columns": [
+            "Feature",
+            "What it controls",
+            "Illustrative question"
+          ],
+          "rows": [
+            {
+              "id": "scheduled",
+              "cells": [
+                "Scheduled transfer",
+                "When and how much is transferred",
+                "Is a recurring monthly transfer automatically a spending restriction? No."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    68
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "purpose-bound",
+              "cells": [
+                "Purpose-based controls",
+                "Permitted uses after receipt",
+                "Can the recipient spend funds outside the permitted category? Check the applicable restriction."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    68
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "purpose-case",
+          "question": "Illustrative case: funds may be spent only on tuition. Is this merely a recurring transfer?",
+          "answer": "No. It illustrates a purpose restriction. A schedule concerns timing/frequency, not necessarily how the recipient may spend the funds.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                68
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "reported-provider",
+          "label": "Institution named in the compilation's programmability item",
+          "observations": [
+            {
+              "id": "spotlight-oct-provider",
+              "value": "Bank of India; platform developed by Montran India (compilation claim; verify official launch and scope).",
+              "as_of": "October 2026 compilation; event date not independently verified",
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    68
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "id": "programmability-oct-2026",
+          "date": "2026-10",
+          "category": "Finance",
+          "title": "Compilation reports programmable digital-rupee features",
+          "body": "The October compilation attributes scheduled CBDC-wallet transfers and purpose-based spending controls to a Bank of India product. Link this to payment design; verify the bank/RBI release before memorising launch details. This is a selected item, not full monthly finance coverage.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                68
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forest-certification",
+      "title": "Forest certification: news to static concepts",
+      "subject": "GA",
+      "summary": "Organise a certification item by scheme, purpose, recipient and verification need rather than collecting an isolated headline.",
+      "tags": [
+        "environment",
+        "ESI overlap",
+        "certification",
+        "current affairs"
+      ],
+      "related": [],
+      "map": {
+        "nodes": [
+          {
+            "id": "certificate",
+            "label": "PRAMAAN / IFWCS: compilation's certification item",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "framework",
+            "label": "Indian Forest and Wood Certification Scheme",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "purpose",
+            "label": "Sourcing and forest-management assurance",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "recipient",
+            "label": "Reported recipients include APFDC and a bamboo farmer",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "certificate-framework",
+            "from": "certificate",
+            "to": "framework",
+            "label": "belongs to",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "certificate-purpose",
+            "from": "certificate",
+            "to": "purpose",
+            "label": "supports",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "certificate-recipient",
+            "from": "certificate",
+            "to": "recipient",
+            "label": "report names",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "certification-fields",
+          "title": "News-to-static retrieval table",
+          "columns": [
+            "Field",
+            "Selected source claim",
+            "What to verify"
+          ],
+          "rows": [
+            {
+              "id": "scheme",
+              "cells": [
+                "Framework",
+                "IFWCS; certificates described as PRAMAAN",
+                "Official scheme name, owner and certification scope."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "purpose",
+              "cells": [
+                "Purpose",
+                "Forest-management and sourcing requirements",
+                "Which standards and product categories are covered?"
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "news",
+              "cells": [
+                "Reported development",
+                "Certificates awarded to forest/bamboo participants",
+                "Event date and any 'first' claim in the official release."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "certification-scope",
+          "question": "What five fields would you retrieve for a certification news item?",
+          "answer": "What changed; the scheme/issuer; covered product or beneficiary; standard/conditions; event date and source. Do not equate certification automatically with a subsidy or cash transfer.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": [
+        {
+          "id": "pramaan-oct-2026",
+          "date": "2026-10",
+          "category": "General",
+          "title": "Forest-certification item in the October compilation",
+          "body": "The source describes PRAMAAN certificates under IFWCS. Use this as a bridge to forest management and sustainable sourcing. The reported award details and 'first' claim still need official confirmation; the month here denotes the compilation edition.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "growth-forecasts",
+      "title": "Growth forecasts: publisher, period and revision",
+      "subject": "ESI",
+      "summary": "Attach every forecast to its publisher, release and reference period. Different institutions' forecasts are not automatically conflicting observations of the same fact.",
+      "tags": [
+        "GA overlap",
+        "GDP",
+        "reports",
+        "economic current affairs"
+      ],
+      "related": [
+        "employment-measurement"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "forecast",
+            "label": "GDP forecast: a dated estimate, not an actual outcome",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "publisher",
+            "label": "Publisher/report: World Bank versus IMF",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "period",
+            "label": "Reference period: fiscal year versus calendar year",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "revision",
+            "label": "Revision: compare the same institution and forecast period",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mechanism",
+            "label": "Growth drivers and risks: industry, services, agriculture and demand",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "forecast-publisher",
+            "from": "forecast",
+            "to": "publisher",
+            "label": "is attributed to",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "forecast-period",
+            "from": "forecast",
+            "to": "period",
+            "label": "must specify",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "forecast-revision",
+            "from": "forecast",
+            "to": "revision",
+            "label": "can be revised",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "forecast-mechanism",
+            "from": "forecast",
+            "to": "mechanism",
+            "label": "depends on",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "publisher-periods",
+          "title": "What the supplied October compilation reports (unverified)",
+          "columns": [
+            "Publisher / report",
+            "Reference period",
+            "Reported India growth forecast",
+            "Caution"
+          ],
+          "rows": [
+            {
+              "id": "wb-fy27-oct26",
+              "cells": [
+                "World Bank / South Asia Economic Update",
+                "FY 2026-27",
+                "7.1%",
+                "Compilation claim; verify the original report, not only the monthly table."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    88
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "imf-fy27-oct26",
+              "cells": [
+                "IMF / World Economic Outlook",
+                "FY 2026-27",
+                "7.0%",
+                "A different publisher: not an automatic contradiction of the World Bank forecast."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    88
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "forecast-mismatch",
+          "question": "One report shows 7.1% and another 7.0%. Must one be wrong?",
+          "answer": "No. Check institution, release date, forecast horizon, fiscal/calendar basis and method. Different institutions can publish different forecasts. Verify the figures against original releases before memorising.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                88
+              ]
+            }
+          ]
+        },
+        {
+          "id": "growth-jobs",
+          "question": "Application prompt: does a growth forecast alone prove broad employment improvement?",
+          "answer": "No. A GDP forecast is not a labour-force measure. Support an employment claim with relevant labour data and its reference period. This is an analytical link between the two sample topics, not a quoted claim from the compilation.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                88
+              ]
+            },
+            {
+              "source": "unemployment-short-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "wb-india-fy27-forecast",
+          "label": "World Bank India FY 2026-27 real GDP forecast",
+          "observations": [
+            {
+              "id": "wb-oct-2026",
+              "value": "7.1% (as reported by the supplied compilation; original report not verified)",
+              "as_of": "October 2026 edition; forecast horizon FY 2026-27",
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    88
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "imf-india-fy27-forecast",
+          "label": "IMF India FY 2026-27 real GDP forecast",
+          "observations": [
+            {
+              "id": "imf-oct-2026",
+              "value": "7.0% (as reported by the supplied compilation; original report not verified)",
+              "as_of": "October 2026 edition; forecast horizon FY 2026-27",
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    88
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "id": "forecasts-oct-2026",
+          "date": "2026-10",
+          "category": "Economy",
+          "title": "October growth-forecast comparison",
+          "body": "The supplied compilation reports India forecasts from the World Bank and IMF. Keep the two publisher-specific fact records separate. Link growth mechanisms to ESI, while using labour data rather than GDP alone for employment conclusions. This pilot covers only one selected economic-current-affairs item.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                88
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esi-agriculture",
+      "title": "Agriculture: food security, markets and resource trade-offs",
+      "subject": "ESI",
+      "summary": "Mandatory sector breadth: connect nutrition, price discovery and farm incentives. Deepen scheme eligibility from official current sources; avoid memorising every old subsidy rate.",
+      "tags": [
+        "P2 - Syllabus breadth"
+      ],
+      "related": [],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Agriculture: food security, markets and resource trade-offs",
+            "refs": [
+              {
+                "source": "esi-15-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-1",
+            "label": "Food security: quantity AND nutrition",
+            "refs": [
+              {
+                "source": "esi-15-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-2",
+            "label": "APMC reform: market access and fair price discovery",
+            "refs": [
+              {
+                "source": "esi-15-notes",
+                "pages": [
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-3",
+            "label": "e-NAM: connect markets and reduce information gaps",
+            "refs": [
+              {
+                "source": "esi-15-notes",
+                "pages": [
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-4",
+            "label": "Input support can create resource and fiscal trade-offs",
+            "refs": [
+              {
+                "source": "esi-15-notes",
+                "pages": [
+                  15
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "branch-1",
+            "label": "distinguishes",
+            "refs": [
+              {
+                "source": "esi-15-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "root",
+            "to": "branch-2",
+            "label": "examines",
+            "refs": [
+              {
+                "source": "esi-15-notes",
+                "pages": [
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "root",
+            "to": "branch-3",
+            "label": "connects",
+            "refs": [
+              {
+                "source": "esi-15-notes",
+                "pages": [
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "root",
+            "to": "branch-4",
+            "label": "evaluates",
+            "refs": [
+              {
+                "source": "esi-15-notes",
+                "pages": [
+                  15
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "concept-comparison",
+          "title": "Concept -> mechanism -> interpretation check",
+          "columns": [
+            "Concept / intervention",
+            "Mechanism / meaning",
+            "Trap or boundary"
+          ],
+          "rows": [
+            {
+              "id": "row-1",
+              "cells": [
+                "Food availability",
+                "Food quantity and dietary quality are separate checks.",
+                "Aggregate grain availability alone does not establish adequate nutrition."
+              ],
+              "refs": [
+                {
+                  "source": "esi-15-notes",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-2",
+              "cells": [
+                "Regulated agricultural markets",
+                "Intended protections include fair prices and prompt payments.",
+                "A protective purpose does not rule out trader concentration or weak competition."
+              ],
+              "refs": [
+                {
+                  "source": "esi-15-notes",
+                  "pages": [
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-3",
+              "cells": [
+                "e-NAM",
+                "Electronic market information and trading link existing markets.",
+                "A portal alone does not prove all farmers can realise better prices."
+              ],
+              "refs": [
+                {
+                  "source": "esi-15-notes",
+                  "pages": [
+                    9
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-4",
+              "cells": [
+                "Power and price support",
+                "Support changes input costs and production incentives.",
+                "Consider groundwater use, fiscal cost and uneven crop/region access."
+              ],
+              "refs": [
+                {
+                  "source": "esi-15-notes",
+                  "pages": [
+                    15
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "practice-1",
+          "question": "Illustrative case: grain stocks rise but child nutrition remains weak. What distinction matters?",
+          "answer": "Availability is only the quantitative dimension. Examine diet quality, access and the delivery of nutritional support before concluding that food security has improved.",
+          "refs": [
+            {
+              "source": "esi-15-notes",
+              "pages": [
+                2
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-2",
+          "question": "Build a descriptive outline on agricultural market reform.",
+          "answer": "Define the marketing problem; explain information/competition barriers; discuss market-linking interventions; evaluate access, implementation and producer outcomes; conclude with safeguards. Do not list portals without mechanisms.",
+          "refs": [
+            {
+              "source": "esi-15-notes",
+              "pages": [
+                6,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-3",
+          "question": "Why can a farm-support measure have both benefits and costs?",
+          "answer": "Support can reduce risk or costs but alter resource use and distribution. Analyse the particular subsidy rather than asserting that all support is good or bad.",
+          "refs": [
+            {
+              "source": "esi-15-notes",
+              "pages": [
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-4",
+          "question": "What is enough depth for this sector packet?",
+          "answer": "Explain food security, market reform and one support trade-off closed-book, then practise a scheme eligibility case using current verified rules. Skip crop encyclopaedias and stale numeric limits; retain syllabus breadth.",
+          "refs": [
+            {
+              "source": "esi-15-notes",
+              "pages": [
+                2,
+                6,
+                9,
+                15
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-industry",
+      "title": "Industry: reforms, approvals and productive capacity",
+      "subject": "ESI",
+      "summary": "Study the reform-to-investment channel, not an inventory of launch dates. Distinguish fewer barriers, easier approvals and actual productive investment.",
+      "tags": [
+        "P2 - Syllabus breadth"
+      ],
+      "related": [
+        "esi-agriculture"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Industry: reforms, approvals and productive capacity",
+            "refs": [
+              {
+                "source": "esi-16-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-1",
+            "label": "1991 policy: shift from regulatory control toward development",
+            "refs": [
+              {
+                "source": "esi-16-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-2",
+            "label": "Delicensing: greater entry and expansion freedom",
+            "refs": [
+              {
+                "source": "esi-16-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-3",
+            "label": "Disinvestment: changes government ownership",
+            "refs": [
+              {
+                "source": "esi-16-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-4",
+            "label": "Single-window approvals and land information",
+            "refs": [
+              {
+                "source": "esi-16-notes",
+                "pages": [
+                  9
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "branch-1",
+            "label": "traces",
+            "refs": [
+              {
+                "source": "esi-16-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "root",
+            "to": "branch-2",
+            "label": "explains",
+            "refs": [
+              {
+                "source": "esi-16-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "root",
+            "to": "branch-3",
+            "label": "distinguishes",
+            "refs": [
+              {
+                "source": "esi-16-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "root",
+            "to": "branch-4",
+            "label": "uses tools",
+            "refs": [
+              {
+                "source": "esi-16-notes",
+                "pages": [
+                  9
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "concept-comparison",
+          "title": "Concept -> mechanism -> interpretation check",
+          "columns": [
+            "Concept / intervention",
+            "Mechanism / meaning",
+            "Trap or boundary"
+          ],
+          "rows": [
+            {
+              "id": "row-1",
+              "cells": [
+                "Delicensing",
+                "Reduces prior industrial-permission requirements.",
+                "Does not mean every industry is exempt from all law."
+              ],
+              "refs": [
+                {
+                  "source": "esi-16-notes",
+                  "pages": [
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-2",
+              "cells": [
+                "Disinvestment",
+                "Reduces the government's equity stake.",
+                "A change in stake alone is not proof of better productivity."
+              ],
+              "refs": [
+                {
+                  "source": "esi-16-notes",
+                  "pages": [
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-3",
+              "cells": [
+                "National Single Window System",
+                "Helps identify and apply for relevant approvals.",
+                "The source describes guidance: identifying an approval is not automatically granting it."
+              ],
+              "refs": [
+                {
+                  "source": "esi-16-notes",
+                  "pages": [
+                    9
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-4",
+              "cells": [
+                "Industrial Land Bank",
+                "Provides information for comparing industrial sites.",
+                "Information access does not eliminate infrastructure or execution constraints."
+              ],
+              "refs": [
+                {
+                  "source": "esi-16-notes",
+                  "pages": [
+                    9
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "practice-1",
+          "question": "Illustrative case: approvals become easier but a plant is not built. Is reform necessarily ineffective?",
+          "answer": "Separate the intended reduction in permission friction from investment outcomes. Identify other constraints and evaluate actual investment, productivity and jobs rather than portal activity alone.",
+          "refs": [
+            {
+              "source": "esi-16-notes",
+              "pages": [
+                3,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-2",
+          "question": "Compare delicensing and disinvestment.",
+          "answer": "Delicensing concerns entry/expansion permission; disinvestment concerns government equity. They are distinct reform instruments with different transmission channels.",
+          "refs": [
+            {
+              "source": "esi-16-notes",
+              "pages": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-3",
+          "question": "Plan a 400-word answer on industrial reform.",
+          "answer": "Define the constraint; select reform instruments; trace incentives into investment/productivity; assess implementation and inclusion; conclude. Use a few verified current anchors, not every historical policy date.",
+          "refs": [
+            {
+              "source": "esi-16-notes",
+              "pages": [
+                3,
+                4,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-4",
+          "question": "Depth checkpoint: what should be retrieved?",
+          "answer": "Explain two reform mechanisms and two distinct approval/site-information tools. Add a limitation to each. Current institutional counts in the notes are not permanent facts.",
+          "refs": [
+            {
+              "source": "esi-16-notes",
+              "pages": [
+                4,
+                9
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-services",
+      "title": "Services: output, jobs, insurance and logistics",
+      "subject": "ESI",
+      "summary": "Cover services through common dimensions: output, employment, productivity, exports and access. Use definitions accurately; update reported sector shares before exam use.",
+      "tags": [
+        "P2 - Syllabus breadth"
+      ],
+      "related": [
+        "employment-measurement"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Services: output, jobs, insurance and logistics",
+            "refs": [
+              {
+                "source": "esi-17-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-1",
+            "label": "GDP share, employment and productivity are different indicators",
+            "refs": [
+              {
+                "source": "esi-17-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-2",
+            "label": "Insurance penetration: premiums relative to GDP",
+            "refs": [
+              {
+                "source": "esi-17-notes",
+                "pages": [
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-3",
+            "label": "Insurance density: premiums per person",
+            "refs": [
+              {
+                "source": "esi-17-notes",
+                "pages": [
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-4",
+            "label": "Logistics policy: coordination and cost competitiveness",
+            "refs": [
+              {
+                "source": "esi-17-notes",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "branch-1",
+            "label": "separates",
+            "refs": [
+              {
+                "source": "esi-17-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "root",
+            "to": "branch-2",
+            "label": "defines",
+            "refs": [
+              {
+                "source": "esi-17-notes",
+                "pages": [
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "root",
+            "to": "branch-3",
+            "label": "contrasts",
+            "refs": [
+              {
+                "source": "esi-17-notes",
+                "pages": [
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "root",
+            "to": "branch-4",
+            "label": "connects",
+            "refs": [
+              {
+                "source": "esi-17-notes",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "concept-comparison",
+          "title": "Concept -> mechanism -> interpretation check",
+          "columns": [
+            "Concept / intervention",
+            "Mechanism / meaning",
+            "Trap or boundary"
+          ],
+          "rows": [
+            {
+              "id": "row-1",
+              "cells": [
+                "Output share",
+                "Measures a sector's contribution to output.",
+                "A large output share does not by itself establish an equally large employment share."
+              ],
+              "refs": [
+                {
+                  "source": "esi-17-notes",
+                  "pages": [
+                    1,
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-2",
+              "cells": [
+                "Labour productivity",
+                "Output per unit of labour input.",
+                "Specify persons or hours and compare like periods."
+              ],
+              "refs": [
+                {
+                  "source": "esi-17-notes",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-3",
+              "cells": [
+                "Insurance penetration versus density",
+                "Premium/GDP versus premium/population.",
+                "The denominators and units differ; neither alone measures claim quality or protection adequacy."
+              ],
+              "refs": [
+                {
+                  "source": "esi-17-notes",
+                  "pages": [
+                    7
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-4",
+              "cells": [
+                "Logistics policy",
+                "Aims to improve costs, coordination and data-driven decisions.",
+                "Targets are not achieved outcomes."
+              ],
+              "refs": [
+                {
+                  "source": "esi-17-notes",
+                  "pages": [
+                    12
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "practice-1",
+          "question": "Original practice: premiums are 40 units, GDP is 1,000 units and population is 20. Calculate penetration and density.",
+          "answer": "Penetration = 40/1,000 x 100 = 4%. Density = 40/20 = 2 currency units per person. These inputs are invented to test the denominators.",
+          "refs": [
+            {
+              "source": "esi-17-notes",
+              "pages": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-2",
+          "question": "Does fast services growth guarantee enough jobs for all skill groups?",
+          "answer": "No. Compare employment with output and examine skill requirements/productivity. The two shares cannot be substituted for each other.",
+          "refs": [
+            {
+              "source": "esi-17-notes",
+              "pages": [
+                1,
+                2
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-3",
+          "question": "Build a services-led development answer outline.",
+          "answer": "Describe output/jobs/export channels; distinguish subsectors; explain productivity and access constraints; evaluate logistics/digital support; conclude on broad employment quality. Do not treat all services as equally skill-intensive.",
+          "refs": [
+            {
+              "source": "esi-17-notes",
+              "pages": [
+                1,
+                2,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-4",
+          "question": "How much sector trivia should be retained?",
+          "answer": "Learn the indicator distinctions and two subsector mechanisms deeply. Use dated verified numbers only when they support an argument; do not memorise every projected market size.",
+          "refs": [
+            {
+              "source": "esi-17-notes",
+              "pages": [
+                1,
+                2,
+                7,
+                12
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-external-sector",
+      "title": "External sector: trade, capital flows and convertibility",
+      "subject": "ESI",
+      "summary": "Explain how trade, financial flows and policy interact. Keep BoP accounting separate from claims about development; the source itself gives inconsistent convertibility dates, preserved for review.",
+      "tags": [
+        "P2 - Syllabus breadth"
+      ],
+      "related": [
+        "esi-services"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "External sector: trade, capital flows and convertibility",
+            "refs": [
+              {
+                "source": "esi-18-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-1",
+            "label": "Trade opening: imports, exports and competitiveness",
+            "refs": [
+              {
+                "source": "esi-18-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-2",
+            "label": "BoP: transactions with the rest of the world over a period",
+            "refs": [
+              {
+                "source": "esi-18-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-3",
+            "label": "FDI versus portfolio investment",
+            "refs": [
+              {
+                "source": "esi-18-notes",
+                "pages": [
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-4",
+            "label": "Current-account versus capital-account convertibility",
+            "refs": [
+              {
+                "source": "esi-18-notes",
+                "pages": [
+                  19
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "branch-1",
+            "label": "traces",
+            "refs": [
+              {
+                "source": "esi-18-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "root",
+            "to": "branch-2",
+            "label": "records",
+            "refs": [
+              {
+                "source": "esi-18-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "root",
+            "to": "branch-3",
+            "label": "distinguishes",
+            "refs": [
+              {
+                "source": "esi-18-notes",
+                "pages": [
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "root",
+            "to": "branch-4",
+            "label": "compares",
+            "refs": [
+              {
+                "source": "esi-18-notes",
+                "pages": [
+                  19
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "concept-comparison",
+          "title": "Concept -> mechanism -> interpretation check",
+          "columns": [
+            "Concept / intervention",
+            "Mechanism / meaning",
+            "Trap or boundary"
+          ],
+          "rows": [
+            {
+              "id": "row-1",
+              "cells": [
+                "Balance of payments",
+                "Records cross-border goods, services, transfers and investment transactions.",
+                "It is a period-based transaction record, not just merchandise exports minus imports."
+              ],
+              "refs": [
+                {
+                  "source": "esi-18-notes",
+                  "pages": [
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-2",
+              "cells": [
+                "FDI",
+                "Investment associated with a lasting business/control relationship.",
+                "Do not infer the legal threshold from the label alone; verify current applicable rules."
+              ],
+              "refs": [
+                {
+                  "source": "esi-18-notes",
+                  "pages": [
+                    10
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-3",
+              "cells": [
+                "Portfolio investment",
+                "Investment in financial assets such as traded securities.",
+                "Not the same ownership/control relationship as a direct-investment example."
+              ],
+              "refs": [
+                {
+                  "source": "esi-18-notes",
+                  "pages": [
+                    10
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-4",
+              "cells": [
+                "Convertibility",
+                "Current transactions and capital/asset transactions have distinct rules.",
+                "The notes disagree on the current-account convertibility year; do not memorise either without verification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-18-notes",
+                  "pages": [
+                    6,
+                    19
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "practice-1",
+          "question": "Illustrative classification: buying goods abroad versus buying a foreign financial asset.",
+          "answer": "The goods purchase is a current-transaction example; the financial-asset purchase involves a capital/financial transaction. Applicable permissions still need checking.",
+          "refs": [
+            {
+              "source": "esi-18-notes",
+              "pages": [
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-2",
+          "question": "Can a services surplus matter even if merchandise trade is in deficit?",
+          "answer": "Yes. The notes explain that invisibles/services earnings and remittances can offset some goods-trade deficit. Inspect the complete accounts instead of equating the merchandise balance with the entire BoP.",
+          "refs": [
+            {
+              "source": "esi-18-notes",
+              "pages": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-3",
+          "question": "Outline an answer on opening the external sector.",
+          "answer": "Define the opening; explain trade and capital-flow channels; discuss competitiveness and financing; evaluate vulnerability and policy safeguards; conclude with a balanced judgement. Omit unsupported claims that all trade deficits are bad.",
+          "refs": [
+            {
+              "source": "esi-18-notes",
+              "pages": [
+                2,
+                4,
+                10,
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-4",
+          "question": "Which source ambiguity needs resolving first?",
+          "answer": "Page 6 says current-account convertibility since 1994; page 19 states an August 1993 date. These are incompatible source observations of the stated milestone, not two confirmed historical facts.",
+          "refs": [
+            {
+              "source": "esi-18-notes",
+              "pages": [
+                6,
+                19
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "india-current-account-convertibility-year",
+          "label": "Year of India's current-account convertibility milestone (source inconsistency)",
+          "observations": [
+            {
+              "id": "notes-p6-1994",
+              "value": "1994",
+              "as_of": "Undated notes, PDF page 6; historical milestone claim",
+              "refs": [
+                {
+                  "source": "esi-18-notes",
+                  "pages": [
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "notes-p19-1993",
+              "value": "1993 (page specifies 20 August)",
+              "as_of": "Undated notes, PDF page 19; historical milestone claim",
+              "refs": [
+                {
+                  "source": "esi-18-notes",
+                  "pages": [
+                    19
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": []
+    },
+    {
+      "id": "esi-international-institutions",
+      "title": "International institutions: mandate, finance and reports",
+      "subject": "ESI",
+      "summary": "Mandatory globalisation breadth plus objective report knowledge. Match institutions to functions and reports; do not memorise mutable membership counts from undated notes.",
+      "tags": [
+        "P2 - Syllabus breadth"
+      ],
+      "related": [
+        "esi-external-sector",
+        "growth-forecasts"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "International institutions: mandate, finance and reports",
+            "refs": [
+              {
+                "source": "esi-30-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-1",
+            "label": "IMF: quotas, governance and capacity development",
+            "refs": [
+              {
+                "source": "esi-30-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-2",
+            "label": "IBRD and IDA together form the World Bank",
+            "refs": [
+              {
+                "source": "esi-30-notes",
+                "pages": [
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-3",
+            "label": "IFC: private-sector development financing",
+            "refs": [
+              {
+                "source": "esi-30-notes",
+                "pages": [
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-4",
+            "label": "WTO: rules for goods, services and intellectual property",
+            "refs": [
+              {
+                "source": "esi-30-notes",
+                "pages": [
+                  14
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "branch-1",
+            "label": "distinguishes",
+            "refs": [
+              {
+                "source": "esi-30-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "root",
+            "to": "branch-2",
+            "label": "identifies",
+            "refs": [
+              {
+                "source": "esi-30-notes",
+                "pages": [
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "root",
+            "to": "branch-3",
+            "label": "contrasts",
+            "refs": [
+              {
+                "source": "esi-30-notes",
+                "pages": [
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "root",
+            "to": "branch-4",
+            "label": "covers",
+            "refs": [
+              {
+                "source": "esi-30-notes",
+                "pages": [
+                  14
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "concept-comparison",
+          "title": "Concept -> mechanism -> interpretation check",
+          "columns": [
+            "Concept / intervention",
+            "Mechanism / meaning",
+            "Trap or boundary"
+          ],
+          "rows": [
+            {
+              "id": "row-1",
+              "cells": [
+                "IMF governance",
+                "Quota-based voting and member representation.",
+                "A quota share is not an equal one-country-one-vote arrangement."
+              ],
+              "refs": [
+                {
+                  "source": "esi-30-notes",
+                  "pages": [
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-2",
+              "cells": [
+                "IBRD versus IDA",
+                "Development finance versus concessional support for poorer countries.",
+                "World Bank and the wider World Bank Group are not identical labels."
+              ],
+              "refs": [
+                {
+                  "source": "esi-30-notes",
+                  "pages": [
+                    10,
+                    11
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-3",
+              "cells": [
+                "IFC",
+                "Financing oriented to private-sector development.",
+                "Do not attribute every World Bank Group activity to IBRD."
+              ],
+              "refs": [
+                {
+                  "source": "esi-30-notes",
+                  "pages": [
+                    10
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-4",
+              "cells": [
+                "WTO versus GATT",
+                "The notes contrast WTO's institutional structure and wider subject coverage.",
+                "Do not reduce WTO solely to merchandise tariffs."
+              ],
+              "refs": [
+                {
+                  "source": "esi-30-notes",
+                  "pages": [
+                    14
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "practice-1",
+          "question": "Which two institutions are jointly called the World Bank?",
+          "answer": "IBRD and IDA. The World Bank Group is broader; distinguish IFC and the other arms rather than treating every name as interchangeable.",
+          "refs": [
+            {
+              "source": "esi-30-notes",
+              "pages": [
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-2",
+          "question": "Which report fields should be retrieved beyond a publisher name?",
+          "answer": "Publisher, edition/reference period, framework/measure, findings and India implications. The notes identify World Bank reports such as World Development Report and Global Economic Prospects; the monthly forecast packet supplies a dated illustration.",
+          "refs": [
+            {
+              "source": "esi-30-notes",
+              "pages": [
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-3",
+          "question": "Build a comparison-based globalisation answer.",
+          "answer": "Choose a function or problem first, then compare institutional mandates, financing/rules and practical limitations. Avoid a disconnected list of headquarters and presidents.",
+          "refs": [
+            {
+              "source": "esi-30-notes",
+              "pages": [
+                4,
+                10,
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-4",
+          "question": "What should be updated rather than learned as permanent?",
+          "answer": "Membership, quota shares, leadership, eligibility thresholds and latest report findings. Keep the stable mandate map; verify mutable values against official releases.",
+          "refs": [
+            {
+              "source": "esi-30-notes",
+              "pages": [
+                4,
+                10,
+                11
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-economic-thought",
+      "title": "Economic thought: assumptions, demand and policy response",
+      "subject": "ESI",
+      "summary": "Selective theory support: compare classical adjustment and Keynesian demand management intuitively. Do not let advanced diagrams displace higher-priority ESI issues.",
+      "tags": [
+        "P3 - Selective / reference"
+      ],
+      "related": [],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Economic thought: assumptions, demand and policy response",
+            "refs": [
+              {
+                "source": "esi-3-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-1",
+            "label": "Classical presentation: flexible wages/prices and long-run adjustment",
+            "refs": [
+              {
+                "source": "esi-3-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-2",
+            "label": "Keynesian presentation: short-run constraints",
+            "refs": [
+              {
+                "source": "esi-3-notes",
+                "pages": [
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-3",
+            "label": "Insufficient demand can restrain output and employment",
+            "refs": [
+              {
+                "source": "esi-3-notes",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-4",
+            "label": "Public spending can support demand in a depressed economy",
+            "refs": [
+              {
+                "source": "esi-3-notes",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "branch-1",
+            "label": "assumes",
+            "refs": [
+              {
+                "source": "esi-3-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "root",
+            "to": "branch-2",
+            "label": "contrasts",
+            "refs": [
+              {
+                "source": "esi-3-notes",
+                "pages": [
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "root",
+            "to": "branch-3",
+            "label": "explains",
+            "refs": [
+              {
+                "source": "esi-3-notes",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "root",
+            "to": "branch-4",
+            "label": "evaluates",
+            "refs": [
+              {
+                "source": "esi-3-notes",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "concept-comparison",
+          "title": "Concept -> mechanism -> interpretation check",
+          "columns": [
+            "Concept / intervention",
+            "Mechanism / meaning",
+            "Trap or boundary"
+          ],
+          "rows": [
+            {
+              "id": "row-1",
+              "cells": [
+                "Time horizon",
+                "Classical discussion stresses long-run adjustment; Keynesian discussion stresses short-run conditions.",
+                "Do not compare conclusions without comparing assumptions."
+              ],
+              "refs": [
+                {
+                  "source": "esi-3-notes",
+                  "pages": [
+                    3,
+                    10
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-2",
+              "cells": [
+                "Wage/price adjustment",
+                "Flexibility supports a self-adjusting account.",
+                "Rigidities change the speed and outcome of adjustment."
+              ],
+              "refs": [
+                {
+                  "source": "esi-3-notes",
+                  "pages": [
+                    3,
+                    12
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-3",
+              "cells": [
+                "Demand shortfall",
+                "Spending can restrain output when productive capacity is unused.",
+                "Do not assume the same response when capacity and supply are binding."
+              ],
+              "refs": [
+                {
+                  "source": "esi-3-notes",
+                  "pages": [
+                    12
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-4",
+              "cells": [
+                "Government role",
+                "Laissez-faire versus active demand support in the stylised comparison.",
+                "These are learning models, not universal policy slogans."
+              ],
+              "refs": [
+                {
+                  "source": "esi-3-notes",
+                  "pages": [
+                    3,
+                    12
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "practice-1",
+          "question": "Illustrative case: unused capacity and falling demand. What channel could public expenditure support?",
+          "answer": "Aggregate spending can support output and employment when demand is deficient. State the unused-capacity assumption and discuss limits; do not promise a costless outcome.",
+          "refs": [
+            {
+              "source": "esi-3-notes",
+              "pages": [
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-2",
+          "question": "Why are model assumptions examinable?",
+          "answer": "Changing the time horizon, adjustment speed or capacity assumptions can change the conclusion. Explain the mechanism instead of memorising that one school is always correct.",
+          "refs": [
+            {
+              "source": "esi-3-notes",
+              "pages": [
+                3,
+                10,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-3",
+          "question": "Stopping rule for this chapter?",
+          "answer": "Retrieve the common comparison dimensions and apply one demand-shock case. Return to this reference only when a policy question reveals a gap; advanced derivations are lower priority.",
+          "refs": [
+            {
+              "source": "esi-3-notes",
+              "pages": [
+                3,
+                10,
+                12
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-planning",
+      "title": "Planning: objectives, instruments and institutional transition",
+      "subject": "ESI",
+      "summary": "Selective historical breadth: remember the purpose and broad strategy shifts. Use the readable short notes; the full planning PDF has no extractable text and is catalogued as reference only.",
+      "tags": [
+        "P3 - Selective / reference"
+      ],
+      "related": [],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Planning: objectives, instruments and institutional transition",
+            "refs": [
+              {
+                "source": "esi-34-short-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-1",
+            "label": "Planning matches policy instruments to long-term objectives",
+            "refs": [
+              {
+                "source": "esi-34-short-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-2",
+            "label": "Imperative versus indicative planning",
+            "refs": [
+              {
+                "source": "esi-34-short-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-3",
+            "label": "Growth/jobs and distribution are distinct objectives",
+            "refs": [
+              {
+                "source": "esi-34-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-4",
+            "label": "Planning Commission to NITI Aayog: institutional transition",
+            "refs": [
+              {
+                "source": "esi-34-short-notes",
+                "pages": [
+                  4,
+                  18
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "branch-1",
+            "label": "defines",
+            "refs": [
+              {
+                "source": "esi-34-short-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "root",
+            "to": "branch-2",
+            "label": "compares",
+            "refs": [
+              {
+                "source": "esi-34-short-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "root",
+            "to": "branch-3",
+            "label": "separates",
+            "refs": [
+              {
+                "source": "esi-34-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "root",
+            "to": "branch-4",
+            "label": "traces",
+            "refs": [
+              {
+                "source": "esi-34-short-notes",
+                "pages": [
+                  4,
+                  18
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "concept-comparison",
+          "title": "Concept -> mechanism -> interpretation check",
+          "columns": [
+            "Concept / intervention",
+            "Mechanism / meaning",
+            "Trap or boundary"
+          ],
+          "rows": [
+            {
+              "id": "row-1",
+              "cells": [
+                "Imperative planning",
+                "Directive allocation with a central authority.",
+                "Do not confuse it with all forms of government coordination."
+              ],
+              "refs": [
+                {
+                  "source": "esi-34-short-notes",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-2",
+              "cells": [
+                "Indicative planning",
+                "Government facilitates and influences private decisions.",
+                "A facilitator still shapes incentives and policy priorities."
+              ],
+              "refs": [
+                {
+                  "source": "esi-34-short-notes",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-3",
+              "cells": [
+                "Economic versus social objectives",
+                "Output/employment alongside distribution and justice.",
+                "A higher aggregate income does not automatically settle distribution."
+              ],
+              "refs": [
+                {
+                  "source": "esi-34-short-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-4",
+              "cells": [
+                "Mahalanobis strategy",
+                "Emphasis on heavy/capital-goods industrial capacity and self-reliance.",
+                "The notes also describe foreign-exchange constraints: evaluate feasibility."
+              ],
+              "refs": [
+                {
+                  "source": "esi-34-short-notes",
+                  "pages": [
+                    10
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "practice-1",
+          "question": "Compare plan targets with outcomes: what is the basic trap?",
+          "answer": "A stated target is not an achieved outcome. Explain strategy and constraints rather than reproducing every target-growth table.",
+          "refs": [
+            {
+              "source": "esi-34-short-notes",
+              "pages": [
+                10,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-2",
+          "question": "Outline a short answer on planning institutions.",
+          "answer": "Explain planning purpose; distinguish planning types; trace broad institutional change; assess coordination and implementation. Treat plan-era budget classifications in old notes as historical, not automatically current.",
+          "refs": [
+            {
+              "source": "esi-34-short-notes",
+              "pages": [
+                2,
+                3,
+                4,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-3",
+          "question": "What should be prioritised over all twelve plan dates?",
+          "answer": "A few strategy transitions, growth-versus-distribution objectives, and the Commission-to-NITI transition. Use detailed chronology as reference for targeted gaps.",
+          "refs": [
+            {
+              "source": "esi-34-short-notes",
+              "pages": [
+                3,
+                4,
+                10,
+                18
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-colonial-economy",
+      "title": "Before Independence: structural constraints and development",
+      "subject": "ESI",
+      "summary": "Selective context for explaining reform needs: agricultural stagnation, structural dependence and the difference between demographic potential and realised development.",
+      "tags": [
+        "P3 - Selective / reference"
+      ],
+      "related": [],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Before Independence: structural constraints and development",
+            "refs": [
+              {
+                "source": "esi-7-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-1",
+            "label": "Agriculture: livelihood dependence with weak productivity",
+            "refs": [
+              {
+                "source": "esi-7-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-2",
+            "label": "Cash-crop orientation and colonial trade incentives",
+            "refs": [
+              {
+                "source": "esi-7-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-3",
+            "label": "Industrial deterioration constrained diversification",
+            "refs": [
+              {
+                "source": "esi-7-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-4",
+            "label": "Demographic dividend is potential, not an automatic benefit",
+            "refs": [
+              {
+                "source": "esi-7-notes",
+                "pages": [
+                  5
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "branch-1",
+            "label": "identifies",
+            "refs": [
+              {
+                "source": "esi-7-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "root",
+            "to": "branch-2",
+            "label": "connects",
+            "refs": [
+              {
+                "source": "esi-7-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "root",
+            "to": "branch-3",
+            "label": "contrasts",
+            "refs": [
+              {
+                "source": "esi-7-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "root",
+            "to": "branch-4",
+            "label": "distinguishes",
+            "refs": [
+              {
+                "source": "esi-7-notes",
+                "pages": [
+                  5
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "concept-comparison",
+          "title": "Concept -> mechanism -> interpretation check",
+          "columns": [
+            "Concept / intervention",
+            "Mechanism / meaning",
+            "Trap or boundary"
+          ],
+          "rows": [
+            {
+              "id": "row-1",
+              "cells": [
+                "Livelihood dependence",
+                "A large agricultural dependence can coexist with poor productivity.",
+                "Dependence is not a measure of agricultural prosperity."
+              ],
+              "refs": [
+                {
+                  "source": "esi-7-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-2",
+              "cells": [
+                "Cash crops",
+                "Production incentives can shift toward export-oriented crops.",
+                "Production volume alone does not establish household food access."
+              ],
+              "refs": [
+                {
+                  "source": "esi-7-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-3",
+              "cells": [
+                "Diversification",
+                "Weak industrial opportunities limit structural transformation.",
+                "Do not infer modern sector shares from colonial observations."
+              ],
+              "refs": [
+                {
+                  "source": "esi-7-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-4",
+              "cells": [
+                "Demographic dividend",
+                "A working-age structure creates economic potential.",
+                "Jobs and human capabilities are needed to realise the opportunity."
+              ],
+              "refs": [
+                {
+                  "source": "esi-7-notes",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "practice-1",
+          "question": "How can colonial context support an answer without overwhelming it?",
+          "answer": "Use one relevant structural constraint to explain why an intervention was pursued, then analyse its mechanism and outcome. Avoid an entire historical narrative in a current-policy answer.",
+          "refs": [
+            {
+              "source": "esi-7-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-2",
+          "question": "Does a working-age population automatically create a dividend?",
+          "answer": "No. The notes define economic potential from age structure; an answer still needs employment and capability channels.",
+          "refs": [
+            {
+              "source": "esi-7-notes",
+              "pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-3",
+          "question": "What is enough preparation depth?",
+          "answer": "Explain two structural constraints and one reform motivation. Keep historical numerical series in reference unless explicitly demanded.",
+          "refs": [
+            {
+              "source": "esi-7-notes",
+              "pages": [
+                3,
+                5
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-planned-economy-sectors",
+      "title": "1947-1991: compare sector strategies and their constraints",
+      "subject": "ESI",
+      "summary": "A compact comparison across the historical macro, agriculture, industry, services and external-sector folders. These selected pages are context, not an exhaustive historical synthesis.",
+      "tags": [
+        "P3 - Selective / reference"
+      ],
+      "related": [
+        "esi-agriculture",
+        "esi-industry",
+        "esi-services",
+        "esi-external-sector"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "1947-1991: compare sector strategies and their constraints",
+            "refs": [
+              {
+                "source": "esi-8-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-1",
+            "label": "Macro: planned development from structural underdevelopment",
+            "refs": [
+              {
+                "source": "esi-8-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-2",
+            "label": "Agriculture: land reform and an input/credit package",
+            "refs": [
+              {
+                "source": "esi-9-notes",
+                "pages": [
+                  7,
+                  13
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-3",
+            "label": "Industry: capital-goods strategy and rural demand linkages",
+            "refs": [
+              {
+                "source": "esi-10-notes",
+                "pages": [
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-4",
+            "label": "Services: productivity and employment need separate checks",
+            "refs": [
+              {
+                "source": "esi-11-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-5",
+            "label": "External policy: import substitution and self-reliance",
+            "refs": [
+              {
+                "source": "esi-12-notes",
+                "pages": [
+                  3,
+                  4
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "branch-1",
+            "label": "frames",
+            "refs": [
+              {
+                "source": "esi-8-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "root",
+            "to": "branch-2",
+            "label": "compares",
+            "refs": [
+              {
+                "source": "esi-9-notes",
+                "pages": [
+                  7,
+                  13
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "root",
+            "to": "branch-3",
+            "label": "contrasts",
+            "refs": [
+              {
+                "source": "esi-10-notes",
+                "pages": [
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "root",
+            "to": "branch-4",
+            "label": "distinguishes",
+            "refs": [
+              {
+                "source": "esi-11-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "root",
+            "to": "branch-5",
+            "label": "traces",
+            "refs": [
+              {
+                "source": "esi-12-notes",
+                "pages": [
+                  3,
+                  4
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "concept-comparison",
+          "title": "Concept -> mechanism -> interpretation check",
+          "columns": [
+            "Concept / intervention",
+            "Mechanism / meaning",
+            "Trap or boundary"
+          ],
+          "rows": [
+            {
+              "id": "row-1",
+              "cells": [
+                "Macro strategy",
+                "Planning sought growth from a weak structural starting point.",
+                "Targets, actual outcomes and shocks must be distinguished."
+              ],
+              "refs": [
+                {
+                  "source": "esi-8-notes",
+                  "pages": [
+                    3,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-2",
+              "cells": [
+                "Land reform and Green Revolution inputs",
+                "Tenure/ownership measures differ from technology, water and credit support.",
+                "Unequal access can distribute gains unevenly."
+              ],
+              "refs": [
+                {
+                  "source": "esi-9-notes",
+                  "pages": [
+                    7,
+                    13,
+                    15
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-3",
+              "cells": [
+                "Heavy industry",
+                "Capital-goods capacity formed a strategic priority.",
+                "Agricultural/rural-income weakness can reduce industrial demand."
+              ],
+              "refs": [
+                {
+                  "source": "esi-10-notes",
+                  "pages": [
+                    2,
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-4",
+              "cells": [
+                "Services",
+                "High productivity is not identical to broad employment absorption.",
+                "This history-labelled source includes later structural observations; do not assume every page describes only 1947-91."
+              ],
+              "refs": [
+                {
+                  "source": "esi-11-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-5",
+              "cells": [
+                "Import substitution",
+                "Protection aimed to reduce external dependence and build domestic capability.",
+                "Assess costs and competitiveness as well as the intended objective."
+              ],
+              "refs": [
+                {
+                  "source": "esi-12-notes",
+                  "pages": [
+                    3,
+                    4
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "practice-1",
+          "question": "Illustrative mechanism: a farm-output shock affects a factory. Explain.",
+          "answer": "Lower agricultural output can reduce rural incomes and demand for industrial goods, while agro-based industries can also face input shortages. Distinguish demand and input channels.",
+          "refs": [
+            {
+              "source": "esi-10-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-2",
+          "question": "Compare agricultural land reform with an input package.",
+          "answer": "Land reform addresses ownership/tenure/incentives; input packages address technology and production resources. They address different constraints and can interact.",
+          "refs": [
+            {
+              "source": "esi-9-notes",
+              "pages": [
+                7,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-3",
+          "question": "Build a 1991-transition answer without listing every policy date.",
+          "answer": "Start with inherited constraints; contrast pre-reform sector strategies with opening/competition; evaluate intended channels and distribution; conclude using relevant evidence rather than chronology.",
+          "refs": [
+            {
+              "source": "esi-8-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-4",
+          "question": "What is the stopping rule for historical sector notes?",
+          "answer": "Retrieve one intervention, one mechanism and one limitation per sector. Deepen historical detail only when an actual practice demand reveals a gap.",
+          "refs": [
+            {
+              "source": "esi-9-notes",
+              "pages": [
+                7,
+                15
+              ]
+            },
+            {
+              "source": "esi-10-notes",
+              "pages": [
+                2,
+                3
+              ]
+            },
+            {
+              "source": "esi-12-notes",
+              "pages": [
+                3,
+                4
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-glossary",
+      "title": "ESI glossary: retrieve a concept, then apply it",
+      "subject": "ESI",
+      "summary": "A small concept-use packet drawn from selected dictionary entries. All eight dictionary PDFs remain searchable in the catalogue; they are references, not eight books to memorise.",
+      "tags": [
+        "P3 - Selective / reference"
+      ],
+      "related": [],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "ESI glossary: retrieve a concept, then apply it",
+            "refs": [
+              {
+                "source": "esi-0-notes-1",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-1",
+            "label": "BoP: cross-border transaction record over a period",
+            "refs": [
+              {
+                "source": "esi-0-notes-1",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-2",
+            "label": "Crowding out: public activity may displace private spending",
+            "refs": [
+              {
+                "source": "esi-0-notes-3",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-3",
+            "label": "Externalities: effects on welfare beyond the transaction",
+            "refs": [
+              {
+                "source": "esi-0-notes-5",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-4",
+            "label": "Opportunity cost: the forgone alternative",
+            "refs": [
+              {
+                "source": "esi-0-notes-7",
+                "pages": [
+                  14
+                ]
+              }
+            ]
+          },
+          {
+            "id": "branch-5",
+            "label": "Fiscal drag: rising tax burdens can restrain demand",
+            "refs": [
+              {
+                "source": "esi-0-notes-5",
+                "pages": [
+                  6
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "branch-1",
+            "label": "retrieves",
+            "refs": [
+              {
+                "source": "esi-0-notes-1",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "root",
+            "to": "branch-2",
+            "label": "applies",
+            "refs": [
+              {
+                "source": "esi-0-notes-3",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "root",
+            "to": "branch-3",
+            "label": "distinguishes",
+            "refs": [
+              {
+                "source": "esi-0-notes-5",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "root",
+            "to": "branch-4",
+            "label": "tests",
+            "refs": [
+              {
+                "source": "esi-0-notes-7",
+                "pages": [
+                  14
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "root",
+            "to": "branch-5",
+            "label": "connects",
+            "refs": [
+              {
+                "source": "esi-0-notes-5",
+                "pages": [
+                  6
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "concept-comparison",
+          "title": "Concept -> mechanism -> interpretation check",
+          "columns": [
+            "Concept / intervention",
+            "Mechanism / meaning",
+            "Trap or boundary"
+          ],
+          "rows": [
+            {
+              "id": "row-1",
+              "cells": [
+                "BoP",
+                "Account of transactions between residents and the rest of the world.",
+                "Not only merchandise trade."
+              ],
+              "refs": [
+                {
+                  "source": "esi-0-notes-1",
+                  "pages": [
+                    12
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-2",
+              "cells": [
+                "Crowding out",
+                "A possible reduction of private spending associated with public expansion.",
+                "State the financing and capacity context; do not claim every public project crowds out."
+              ],
+              "refs": [
+                {
+                  "source": "esi-0-notes-3",
+                  "pages": [
+                    12
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-3",
+              "cells": [
+                "Externality",
+                "A positive or negative effect beyond the immediate transaction.",
+                "Private output value and social welfare effects can differ."
+              ],
+              "refs": [
+                {
+                  "source": "esi-0-notes-5",
+                  "pages": [
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-4",
+              "cells": [
+                "Opportunity cost",
+                "The alternative forgone by committing scarce resources.",
+                "It need not be a separate cash payment."
+              ],
+              "refs": [
+                {
+                  "source": "esi-0-notes-7",
+                  "pages": [
+                    14
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "row-5",
+              "cells": [
+                "Fiscal drag",
+                "Progressive tax effects can restrain demand as incomes move into higher brackets.",
+                "Distinguish a built-in effect from a new discretionary tax decision."
+              ],
+              "refs": [
+                {
+                  "source": "esi-0-notes-5",
+                  "pages": [
+                    6
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "practice-1",
+          "question": "Original case: a government spends scarce funds on project A instead of feasible project B. What is the concept?",
+          "answer": "Opportunity cost: the forgone alternative use of resources. Explain the alternative, not just the money paid for A.",
+          "refs": [
+            {
+              "source": "esi-0-notes-7",
+              "pages": [
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-2",
+          "question": "Original case: factory output rises but neighbouring households face pollution. What should the GDP discussion include?",
+          "answer": "A negative external effect on welfare. Analyse output and social costs separately; do not assume higher production measures every welfare consequence.",
+          "refs": [
+            {
+              "source": "esi-0-notes-5",
+              "pages": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "practice-3",
+          "question": "How should the dictionary be used during mock-test repair?",
+          "answer": "Identify the missed concept; retrieve its definition; create an original example and counterexample; retest in a fresh question. Do not replace applied study with alphabetical memorisation.",
+          "refs": [
+            {
+              "source": "esi-0-notes-1",
+              "pages": [
+                12
+              ]
+            },
+            {
+              "source": "esi-0-notes-7",
+              "pages": [
+                14
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    }
+  ],
+  "imports": [
+    {
+      "at": "2026-11-10T12:48:28.907038+00:00",
+      "bundle_sha256": "d269fcf37607122dc387be16e828dc79fcc024f3c51010654335c1ef333000ff",
+      "topics": [
+        "employment-measurement",
+        "motivation-theories",
+        "programmable-digital-rupee",
+        "forest-certification",
+        "growth-forecasts"
+      ]
+    },
+    {
+      "at": "2026-11-10T13:03:45.854281+00:00",
+      "bundle_sha256": "054d579b2d18ea78e65dcfccea8ec17c5bc0ece1e5311faca331aa44e73b9d4b",
+      "topics": [
+        "esi-agriculture",
+        "esi-industry",
+        "esi-services",
+        "esi-external-sector",
+        "esi-international-institutions",
+        "esi-economic-thought",
+        "esi-planning",
+        "esi-colonial-economy",
+        "esi-planned-economy-sectors",
+        "esi-glossary"
+      ]
+    }
+  ]
+}

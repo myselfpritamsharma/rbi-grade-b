@@ -1,0 +1,1617 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "esi-report-nfhs-2026",
+      "title": "NFHS-6: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\National_Family_Health_Survey___6_lyst1782322367241.pdf",
+      "sha256": "3202379774a2bb8ffb9add47c7493eb1abb53076a8dce4dbde032c6b7eea387d",
+      "pages": 8,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-report-sofi-2026",
+      "title": "SOFI 2026: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\State_of_Food_Security_and_Nutrition_in_the_World_2026_lyst1784884559591.pdf",
+      "sha256": "91c581e27d3e279edaa4e4012cff1781743d0c81d5b347088cd69e5a763bd042",
+      "pages": 7,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-report-fhi-2026",
+      "title": "Fiscal Health Index 2026: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\Fiscal_Health_Index_2026_lyst1782322936023.pdf",
+      "sha256": "fb8780d86fb6d0e78b2325cc327f300239da4483f0e5e9bfe6e70175a5739f53",
+      "pages": 11,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-report-sdg-2026",
+      "title": "SDG Report 2026: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\Sustainable_Development_Goals_Report_2026_lyst1784879999493.pdf",
+      "sha256": "582a0fb0cdef7da39d09f258c47998bbb57d972a4fbe62a7e8bade149afe075e",
+      "pages": 16,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-report-wdr-2026",
+      "title": "World Development Report 2026: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\World_Development_Report_2026_lyst1793268901951.pdf",
+      "sha256": "b1d26463d4030e574c04f489108d214ab40121e5bd5ba249ad6000d5b88c2a65",
+      "pages": 22,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-report-wir-2026",
+      "title": "World Investment Report 2026: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\World_Investment_Report_2026_lyst1784886252334.pdf",
+      "sha256": "7cdd9dc0c4860cf0ebd49c40cc4325ba36701d140a5f7d4b9a91fb142c2071d3",
+      "pages": 9,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-report-weo-2026",
+      "title": "WEO July 2026 update: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\World_Economic_Outlook__July_2026_Update__1__lyst1784636445685.pdf",
+      "sha256": "7e8ccb2b7ce342a7cd9e77b80eec3b4c5dc38cee95b45c3f02fd494578f3fa49",
+      "pages": 14,
+      "kind": "notes",
+      "period": "2026-07"
+    },
+    {
+      "id": "esi-report-fc-2026",
+      "title": "16th Finance Commission: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\16th_Finance_Commission_Report__lyst1777211845670.pdf",
+      "sha256": "279180a0358d43d274d27a7e3fad18c2deab29af46ed73f28a5434cffa523f47",
+      "pages": 7,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-report-survey-2026",
+      "title": "Economic Survey 2025-26: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\Economic_Survey_2025_26__Final__lyst1779049480157.pdf",
+      "sha256": "ff143295f15f8eeb59698fb651327b9e4758646a42047ae63900136d4a1dab99",
+      "pages": 15,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-report-budget-2026",
+      "title": "Union Budget 2026-27: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\Union_Budget_2026_27__Final__lyst1770469814870.pdf",
+      "sha256": "b24e3bf822d3942ec4c514646439ddbcdb8567e4a24ee17fecd5717ec6c96b40",
+      "pages": 26,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-report-fsr-2026",
+      "title": "FSR June 2026: supplied, unverified study compilation",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\Financial_Stability_Report__June_2026__lyst1783792681813.pdf",
+      "sha256": "34350c0d052c18ba4766c72ec5e52555060e63c517566128ad6f4b7bebf97c24",
+      "pages": 29,
+      "kind": "notes",
+      "period": "2026-06"
+    }
+  ],
+  "topics": [
+    {
+      "id": "employment-measurement",
+      "title": "Employment: people, participation and measurement",
+      "subject": "ESI",
+      "summary": "Separate the labour force, workers and unemployed before interpreting a rate. This pilot covers selected concepts, not the entire unemployment chapter.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-jobs-survey-denominators",
+              "cells": [
+                "Government of India / Economic Survey 2025-26 (claimed)",
+                "The jobs discussion combines employment estimates, organised-manufacturing employment, portal registrations and vacancies. These measure different populations and events.",
+                "Separate employed persons from registered workers, advertised vacancies and training places before evaluating job creation; retain age coverage and reference quarter.",
+                "Portal registration or a vacancy is not a realised job. Labour-code recognition is not proof that benefits have reached every eligible worker. Supplied secondary compilation only; official edition and underlying evidence have not been verified."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-survey-2026",
+                  "pages": [
+                    13
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "report-jobs-ai-complements",
+              "cells": [
+                "World Bank / WDR 2026 (claimed AI theme)",
+                "The selected page prioritises foundational skills and warns that tax incentives favouring automation over hiring can affect labour demand.",
+                "Illustrative application: evaluate an AI subsidy by worker productivity, displacement, reskilling and access for small firms, not adoption alone.",
+                "This is a policy mechanism, not an India employment forecast. The claimed WDR theme and edition require official confirmation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-wdr-2026",
+                  "pages": [
+                    18
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-jobs-recall",
+          "question": "Recall: why should e-Shram registrations, vacancies and employment counts not be added together?",
+          "answer": "They count different things, can overlap and use different periods or populations. Registration indicates administrative reach; employment requires a defined labour-market measure.",
+          "refs": [
+            {
+              "source": "esi-report-survey-2026",
+              "pages": [
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "id": "report-jobs-answer-plan",
+          "question": "Answer framework: can AI adoption generate inclusive employment in India?",
+          "answer": "Original planning prompt: define productivity versus displacement; examine foundational skills, firm information and finance gaps; assess tax incentives and worker transitions; conclude with productivity and job-quality indicators. Treat the compilation's policy discussion as unverified, not an observed outcome.",
+          "refs": [
+            {
+              "source": "esi-report-wdr-2026",
+              "pages": [
+                18
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "growth-forecasts",
+      "title": "Growth forecasts: publisher, period and revision",
+      "subject": "ESI",
+      "summary": "Attach every forecast to its publisher, release and reference period. Different institutions' forecasts are not automatically conflicting observations of the same fact.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-forecast-vintage",
+              "cells": [
+                "IMF / WEO July 2026 update (claimed)",
+                "The compilation describes interim forecast revisions and a global baseline conditional on energy-market normalisation, trade policies and the technology cycle.",
+                "Compare India forecasts only after aligning publisher, release vintage, fiscal/calendar year and assumptions; test sensitivity to imported energy and external demand.",
+                "The detailed geopolitical baseline is unverified. A conditional projection is not an outcome; do not combine this global calendar-year projection with India's fiscal-year estimate."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-weo-2026",
+                  "pages": [
+                    1,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "report-survey-advance-estimate",
+              "cells": [
+                "Government of India / Economic Survey 2025-26 (claimed)",
+                "The page labels FY26 GDP and GVA numbers as First Advance Estimates and links demand to consumption and investment.",
+                "Use the estimate label and national-accounts concept; an advance estimate can change and GDP is not interchangeable with GVA.",
+                "Not a final realised growth rate; official national-accounts release and price basis should be checked. Supplied secondary compilation only; official edition and underlying evidence have not been verified."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-survey-2026",
+                  "pages": [
+                    4
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-forecast-application",
+          "question": "Application: an energy-shock assumption changes after a forecast. Must the earlier forecast be called an observed error immediately?",
+          "answer": "No. First identify the original conditional baseline, forecast horizon and later information. Compare the revised forecast or realised outcome on the same definition; do not silently replace the vintage.",
+          "refs": [
+            {
+              "source": "esi-report-weo-2026",
+              "pages": [
+                6
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "report-weo-global-growth-calendar2026",
+          "label": "Global real GDP growth: calendar 2026, supplied July 2026 WEO compilation",
+          "observations": [
+            {
+              "id": "report-weo-global-growth-calendar2026-compilation-observation",
+              "value": "Compilation projects 3.0% global GDP growth in calendar 2026, conditional on its stated energy/trade baseline; not officially verified or a realised outcome.",
+              "as_of": "Purported July 2026 WEO update; forecast for calendar 2026",
+              "refs": [
+                {
+                  "source": "esi-report-weo-2026",
+                  "pages": [
+                    6
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": []
+    },
+    {
+      "id": "esi-agriculture",
+      "title": "Agriculture: food security, markets and resource trade-offs",
+      "subject": "ESI",
+      "summary": "Mandatory sector breadth: connect nutrition, price discovery and farm incentives. Deepen scheme eligibility from official current sources; avoid memorising every old subsidy rate.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-agri-price-discovery",
+              "cells": [
+                "Government of India / Economic Survey 2025-26 (claimed)",
+                "Agricultural infrastructure, farm-gate facilities and electronic markets are presented as complementary channels for efficiency and price discovery.",
+                "Illustrative mechanism: storage and market access can reduce losses and improve sale timing, while price discovery needs actual participation and competition.",
+                "The page's trader-registration unit and the placement of a large transfer amount under pension discussion are ambiguous; neither claim is retained. Infrastructure access does not establish a causal income gain."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-survey-2026",
+                  "pages": [
+                    9
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "report-agri-healthy-diet",
+              "cells": [
+                "FAO with IFAD, UNICEF, WFP and WHO / SOFI 2026 (claimed)",
+                "Healthy-diet affordability depends on food-basket composition, local prices, value chains and productivity; local and seasonal differences can be hidden by national averages.",
+                "For India, complement cereal output and buffer-stock discussion with diverse nutritious foods, local market prices, logistics and household purchasing power.",
+                "India application is an analytical extension, not an India SOFI estimate. Cost of a Healthy Diet data coverage and update frequency are explicit limitations."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-sofi-2026",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-agri-answer-plan",
+          "question": "Answer framework: why is foodgrain output insufficient evidence of nutrition security?",
+          "answer": "Original outline: distinguish availability, access, affordability and dietary diversity; connect productivity and value chains to local food prices; add household resources and targeted protection; monitor nutritious-diet costs rather than only aggregate tonnage.",
+          "refs": [
+            {
+              "source": "esi-report-sofi-2026",
+              "pages": [
+                5
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-external-sector",
+      "title": "External sector: trade, capital flows and convertibility",
+      "subject": "ESI",
+      "summary": "Explain how trade, financial flows and policy interact. Keep BoP accounting separate from claims about development; the source itself gives inconsistent convertibility dates, preserved for review.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-external-fdi-quality",
+              "cells": [
+                "UN Trade and Development (UNCTAD) / WIR 2026 (claimed)",
+                "The compilation distinguishes FDI flows, multinational activity, greenfield projects and international project finance; its SDG investment discussion is uneven across sectors and countries.",
+                "Assess India investment by entry mode, sector, technology transfer and infrastructure additionality rather than headline inflow alone.",
+                "Announced greenfield projects, project-finance measures and balance-of-payments FDI are not interchangeable. No India inflow or sectoral ranking is inferred. Supplied secondary compilation only; official edition and underlying evidence have not been verified."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-wir-2026",
+                  "pages": [
+                    1,
+                    7
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-external-investment-application",
+          "question": "Application: does a rise in announced greenfield project value prove an equal increase in realised FDI?",
+          "answer": "No. Project announcements, financing and realised investment differ in timing and coverage. Evaluate completion, financing conditions and sectoral allocation before inferring development benefits.",
+          "refs": [
+            {
+              "source": "esi-report-wir-2026",
+              "pages": [
+                1,
+                7
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-international-institutions",
+      "title": "International institutions: mandate, finance and reports",
+      "subject": "ESI",
+      "summary": "Mandatory globalisation breadth plus objective report knowledge. Match institutions to functions and reports; do not memorise mutable membership counts from undated notes.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-institutions-imf",
+              "cells": [
+                "IMF / WEO July 2026 update (claimed)",
+                "WEO is presented as a macroeconomic outlook with full reports and interim revisions, covering growth, inflation, fiscal and external indicators.",
+                "Use WEO for forecast-vintage and policy-risk comparisons, not as evidence of a lending commitment to India.",
+                "The page's '190 member countries' is not retained as current membership; verify institutional facts separately. Supplied secondary compilation only; official edition and underlying evidence have not been verified."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-weo-2026",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "report-institutions-worldbank",
+              "cells": [
+                "World Bank / WDR 2026 (claimed)",
+                "WDR is described as an annual thematic development analysis offering policy insights, rather than a standard short-run macro forecast.",
+                "Use thematic mechanisms to structure development answers, distinguishing them from IMF projections and UNCTAD investment tracking.",
+                "The supplied AI title and team attribution are not independently authenticated and should not be memorised as official edition facts."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-wdr-2026",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "report-institutions-food-partnership",
+              "cells": [
+                "FAO, IFAD, UNICEF, WFP and WHO / SOFI 2026 (claimed)",
+                "SOFI is attributed to a joint UN-agency assessment of hunger, food insecurity, diet quality and nutrition targets under SDG 2.",
+                "Choose food and nutrition evidence suited to the question; do not treat all international reports as measuring the same development outcome.",
+                "Supplied secondary compilation only; official edition and underlying evidence have not been verified. This attribution is recorded from the PDF, not independent publisher confirmation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-sofi-2026",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-institutions-recall",
+          "question": "Recall: which analytical question is the supplied WIR framework best suited to?",
+          "answer": "Cross-border investment flows, multinational enterprises and investment-policy choices. It is not a household nutrition survey or a comprehensive macro forecast; the supplied 2026 edition remains unverified.",
+          "refs": [
+            {
+              "source": "esi-report-wir-2026",
+              "pages": [
+                1
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-growth-development",
+      "title": "Growth and development: output, distribution and transformation",
+      "subject": "ESI",
+      "summary": "Core depth: distinguish real output expansion from inclusive development; explain productivity and structural change, then test jobs, capabilities and environmental costs rather than dumping GDP figures.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-development-ai-capabilities",
+              "cells": [
+                "World Bank / WDR 2026 (claimed)",
+                "AI gains require education, electricity, connectivity, affordable computing and accessible information; technology adoption alone is insufficient.",
+                "Illustrative India application: pair digital infrastructure with small-firm access, local-language tools and foundational learning to broaden productivity gains.",
+                "Examples such as UPI and IndiaAI in the compilation do not demonstrate measured causal effects. No return-on-investment estimate is supplied or inferred."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-wdr-2026",
+                  "pages": [
+                    18
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-development-answer-plan",
+          "question": "Answer framework: distinguish a technological growth opportunity from inclusive development.",
+          "answer": "Original outline: identify the productivity channel; identify access complements and distributional barriers; assess employment incentives and public infrastructure; evaluate learning, firm reach and worker welfare, not only output.",
+          "refs": [
+            {
+              "source": "esi-report-wdr-2026",
+              "pages": [
+                18
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-human-development",
+      "title": "Human development: capabilities, human capital and feedback",
+      "subject": "ESI",
+      "summary": "Core depth: explain real freedoms as the end of development, human capital as a productive means, the growth–capability feedback loop and why average index gains can hide exclusion.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-capabilities-nutrition-health",
+              "cells": [
+                "Joint UN agencies / SOFI 2026 (claimed)",
+                "The selected pages call for coordinated health, agriculture, education and social-protection policies to make healthy diets affordable.",
+                "Use a capabilities chain: affordable diverse diets support health and learning, while income security and service access determine whether households can benefit.",
+                "The causal chain is an original analytical application, not an estimated effect in this PDF. Global findings are not India prevalence figures."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-sofi-2026",
+                  "pages": [
+                    4,
+                    5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-human-development-application",
+          "question": "Application: income rises but nutritious foods remain locally costly. Is human development guaranteed?",
+          "answer": "No. Real access depends on prices, diet composition, local availability and public services. Combine income measures with nutrition and service indicators; avoid treating national means as every household's experience.",
+          "refs": [
+            {
+              "source": "esi-report-sofi-2026",
+              "pages": [
+                4,
+                5
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-sustainable-development",
+      "title": "Sustainability: resource limits, policy and intergenerational equity",
+      "subject": "ESI",
+      "summary": "Core depth: connect present needs with future resource availability, explain growth–environment mechanisms, evaluate policy instruments and SDG implementation without treating an income threshold as automatic environmental repair.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-sustainability-monitoring",
+              "cells": [
+                "SDG Report 2026 compilation / UN framework attribution not independently checked",
+                "The text prioritises timely, disaggregated, nationally owned statistics, confidentiality and methodological independence; AI should support rather than replace statistical standards.",
+                "For India, assess district and group disparities and retain methods, survey periods and revision notes when tracking SDG-linked programmes.",
+                "AI interpolation is not equivalent to observed data. The compilation's report identity and global progress percentages are not verified; numeric progress claims are omitted."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-sdg-2026",
+                  "pages": [
+                    4,
+                    9
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "report-sustainability-investment",
+              "cells": [
+                "UNCTAD / WIR 2026 (claimed)",
+                "The selected discussion separates telecommunications, renewables and lagging social/infrastructure sectors; aggregate recovery can conceal unequal investment.",
+                "An India sustainability assessment should examine water, sanitation, health and education funding alongside energy and digital investment.",
+                "Global sector patterns are not India findings. Project counts, values and completed assets differ; no reported growth percentage is promoted to a verified fact."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-wir-2026",
+                  "pages": [
+                    7
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-sdg-data-recall",
+          "question": "Recall: which safeguards are lost if AI-generated estimates are treated as observed official statistics?",
+          "answer": "Provenance, transparent methods, accountability and representation can be weakened. Preserve independence, confidentiality, community inclusion and clear identification of modelled versus observed values.",
+          "refs": [
+            {
+              "source": "esi-report-sdg-2026",
+              "pages": [
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "report-sdg-answer-plan",
+          "question": "Answer framework: can rising investment alone establish SDG progress?",
+          "answer": "Original outline: identify sector allocation and financing mode; examine completion and access; test who benefits and which sectors lag; pair capital measures with social and environmental outcomes. Treat the PDF's 2026 trends as unverified.",
+          "refs": [
+            {
+              "source": "esi-report-wir-2026",
+              "pages": [
+                7
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-poverty",
+      "title": "Poverty: incidence, depth, capabilities and vulnerability",
+      "subject": "ESI",
+      "summary": "Core depth: distinguish absolute, relative and multidimensional poverty; interpret incidence versus shortfall, trace poverty traps and match persistent deprivation or temporary shocks to suitable policy responses.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-poverty-line-comparability",
+              "cells": [
+                "Government of India / Economic Survey 2025-26 citing World Bank (claimed)",
+                "The page discusses a revised international poverty threshold using a new PPP price base and separately names extreme and lower-middle-income poverty.",
+                "When comparing Indian poverty estimates, align threshold, PPP vintage, survey/reference year and population coverage before interpreting change.",
+                "A threshold/PPP revision is not itself a welfare gain. The compilation's poverty rates are not retained as verified estimates; do not splice rates across definitions."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-survey-2026",
+                  "pages": [
+                    13
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "report-poverty-diet-vulnerability",
+              "cells": [
+                "Joint UN agencies / SOFI 2026 (claimed)",
+                "Least-cost healthy-diet measures illuminate a deprivation channel that calorie availability or aggregate income alone may miss.",
+                "Illustrative India application: evaluate food-price shocks using local nutritious-basket prices and household purchasing capacity, including vulnerable groups.",
+                "Diet unaffordability is not identical to an income-poverty headcount; geographic and seasonal price gaps limit national-average interpretation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-sofi-2026",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-poverty-comparison-application",
+          "question": "Application: can rates computed at different PPP vintages be compared as a pure change in poverty?",
+          "answer": "Not without a harmonised series. First align the poverty line, PPP base, survey welfare measure and reference year; separate methodological revisions from changes in household circumstances.",
+          "refs": [
+            {
+              "source": "esi-report-survey-2026",
+              "pages": [
+                13
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-demography",
+      "title": "Demography: population change, dependency and the dividend",
+      "subject": "ESI",
+      "summary": "Core depth: separate natural increase from migration, interpret crude rates and age composition, and explain why a demographic opportunity produces growth only with health, skills, participation and productive jobs.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-demography-service-measures",
+              "cells": [
+                "MoHFW / IIPS, NFHS-6 (claimed)",
+                "The compilation groups fertility and contraception with district-level population, health and family-welfare measurement.",
+                "Keep fertility behaviour, service access and population age structure distinct when discussing India's demographic transition and dividend.",
+                "Internal period inconsistency: page 3 says '2023-24' but its phase dates extend to December 2024. Survey coverage wording is malformed. Fertility and contraception figures are excluded pending official verification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-nfhs-2026",
+                  "pages": [
+                    3,
+                    5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-demography-recall",
+          "question": "Recall: why should contraception coverage and total fertility rate be kept conceptually separate?",
+          "answer": "Contraception is a service/use indicator; fertility summarises childbearing. Neither directly measures labour-force skills or employment. The supplied NFHS-6 values and period require verification.",
+          "refs": [
+            {
+              "source": "esi-report-nfhs-2026",
+              "pages": [
+                5
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-health",
+      "title": "Health: prevention, access and financial protection",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: explain health as well-being and a development input, distinguish prevention from treatment and financial protection from service availability, and prepare one coherent delivery-reform answer.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-health-continuum",
+              "cells": [
+                "MoHFW / IIPS, NFHS-6 (claimed)",
+                "The tables distinguish antenatal contacts, skilled/institutional delivery, postnatal care, child nutrition and insurance/financing coverage.",
+                "Evaluate the care continuum and financial protection separately: insurance coverage does not establish service quality or freedom from out-of-pocket costs.",
+                "NFHS-6 edition, comparator values and survey timing are unverified; page 3 contains conflicting period descriptions. No coverage percentage or causal scheme attribution is endorsed."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-nfhs-2026",
+                  "pages": [
+                    4,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "report-health-food-systems",
+              "cells": [
+                "Joint UN agencies / SOFI 2026 (claimed)",
+                "The text links maternal/child nutrition and healthy diets to health, education, agriculture and social protection.",
+                "Use preventive nutrition and affordable diverse food as complements to clinical care, not substitutes for treatment or health-system capacity.",
+                "Global discussion only; it does not identify a measured India programme effect. Supplied secondary compilation only; official edition and underlying evidence have not been verified."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-sofi-2026",
+                  "pages": [
+                    4,
+                    5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-health-application",
+          "question": "Application: can wider health-insurance enrolment prove universal health coverage?",
+          "answer": "No. Assess access, quality, continuity and financial protection in addition to nominal coverage. Use the supplied tables to classify indicators, not to assert the unverified NFHS-6 percentages.",
+          "refs": [
+            {
+              "source": "esi-report-nfhs-2026",
+              "pages": [
+                4,
+                6
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-education",
+      "title": "Education: access, learning and equitable opportunity",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: distinguish forms of learning, enrolment and meaningful educational opportunity; explain access–quality–equity and prepare a reform answer that separates policy aspirations from achieved results.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-education-ai-foundations",
+              "cells": [
+                "World Bank / WDR 2026 (claimed)",
+                "Literacy, numeracy, reasoning, digital skills and teamwork are presented as foundations for adapting to technological change.",
+                "For India, combine advanced-technology skills with foundational learning and affordable connectivity; evaluate equitable readiness rather than course counts alone.",
+                "Policy recommendation, not an observed learning gain. AI theme and report edition remain unauthenticated."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-wdr-2026",
+                  "pages": [
+                    18
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "report-education-pathways",
+              "cells": [
+                "Government of India / Economic Survey 2025-26 (claimed)",
+                "The selected education discussion describes credit frameworks, academic credit records and flexible entry/exit alongside school access.",
+                "Ask whether flexible pathways improve progression, recognition and inclusion; enrolment and institutional expansion alone do not measure learning.",
+                "The school-ratio sentence has an omitted indicator label and later labels it GER; institution counts and scheme naming are not independently checked. Numeric and naming claims are not reused."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-survey-2026",
+                  "pages": [
+                    12
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-education-answer-plan",
+          "question": "Answer framework: how should India prepare students for AI-linked labour-market change?",
+          "answer": "Original outline: foundational literacy and numeracy; digital access and reasoning; adaptable skills and transitions; information for firms and students; assess participation, learning and employment quality rather than training enrolment alone.",
+          "refs": [
+            {
+              "source": "esi-report-wdr-2026",
+              "pages": [
+                18
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-gender-issues",
+      "title": "Gender: agency, resources, care and participation",
+      "subject": "ESI",
+      "summary": "Core depth: use health, education, work and representation as distinct lenses; explain how norms, unpaid care and asset control shape agency, then evaluate an equity-oriented policy mix without relying on one headline ratio.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-gender-agency-measures",
+              "cells": [
+                "MoHFW / IIPS, NFHS-6 (claimed)",
+                "The compilation separates internet use, phone ownership/use, operating a bank account, cash-paid work and household decision participation.",
+                "Illustrative India application: assess resources, actual use, paid-work opportunity and decision-making jointly; a bank account is not proof of control over household resources.",
+                "Definitions and denominators differ. Do not equate 'worked in last 12 months and paid in cash' with PLFS participation. All NFHS-6 percentages and new-module claims remain unverified."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-nfhs-2026",
+                  "pages": [
+                    3,
+                    7
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-gender-application",
+          "question": "Application: a woman has a bank account and phone. Does that establish economic agency?",
+          "answer": "No. Distinguish ownership, independent use, income opportunity and control over decisions. These are separate indicators in the supplied table; do not infer causation or equate them to labour-force participation.",
+          "refs": [
+            {
+              "source": "esi-report-nfhs-2026",
+              "pages": [
+                7
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-public-finance",
+      "title": "Public expenditure and receipts: classify before evaluating",
+      "subject": "ESI",
+      "summary": "Separate accounting classification, economic purpose and financing consequences when assessing public finances.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-budget-classification",
+              "cells": [
+                "Ministry of Finance / Union Budget 2026-27 (claimed)",
+                "The compilation distinguishes estimated receipts/expenditure, revenue/capital categories and Budget versus Revised Estimates.",
+                "Classify each fiscal item before evaluating development priorities; compare BE with BE or explicitly identify the change in estimate status.",
+                "Capital spending is not automatically effective and revenue spending is not automatically waste. The introductory classification is broad; legal authorisation and accounting treatment require primary documents."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-budget-2026",
+                  "pages": [
+                    3,
+                    5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-budget-recall",
+          "question": "Recall: why must a fiscal comparison retain BE, RE and actual-status labels?",
+          "answer": "BE is a budget plan; RE revises that plan as information improves; neither is a final outturn. A change in the estimate label can otherwise be mistaken for a realised spending change.",
+          "refs": [
+            {
+              "source": "esi-report-budget-2026",
+              "pages": [
+                3,
+                5
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-public-debt",
+      "title": "Public debt: financing, risk and sustainability",
+      "subject": "ESI",
+      "summary": "Evaluate debt using its use, servicing burden, maturity and currency risk rather than a single headline ratio.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-debt-fhi-measures",
+              "cells": [
+                "NITI Aayog / FHI 2026 assessing FY2023-24 (claimed)",
+                "The framework separates liability/GSDP, interest/revenue and a growth-versus-interest-payments-growth measure; these capture different fiscal pressures.",
+                "For Indian states, combine debt stock with debt-service burden and revenue capacity, considering structural differences and transfer dependence.",
+                "Do not replace the PDF's interest-payments-growth indicator with the textbook interest-rate-minus-growth formula. Ratios and index weights require official methodology verification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fhi-2026",
+                  "pages": [
+                    2,
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-debt-application",
+          "question": "Application: can two states with equal debt/GSDP face different repayment pressure?",
+          "answer": "Yes. Compare interest burdens relative to receipts, own-revenue capacity, committed expenditure and reliance on transfers. An identical stock ratio does not imply identical fiscal space.",
+          "refs": [
+            {
+              "source": "esi-report-fhi-2026",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "report-budget-centre-debt-fy27-be",
+          "label": "Centre debt/GDP: FY2026-27 BE, supplied Budget compilation",
+          "observations": [
+            {
+              "id": "report-budget-centre-debt-fy27-be-compilation-observation",
+              "value": "Compilation reports 55.6% of GDP for central debt in FY2026-27 BE; unverified projected ratio, not general-government debt or an outcome.",
+              "as_of": "Union Budget 2026-27 compilation; FY2026-27 BE (no exact release date asserted)",
+              "refs": [
+                {
+                  "source": "esi-report-budget-2026",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": []
+    },
+    {
+      "id": "esi-fiscal-policy",
+      "title": "Fiscal policy: deficits, stabilisation and consolidation",
+      "subject": "ESI",
+      "summary": "Link the budget's allocation, redistribution and stabilisation roles to deficit measures, financing choices and policy trade-offs.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-fiscal-budget-status",
+              "cells": [
+                "Ministry of Finance / Union Budget 2026-27 (claimed)",
+                "The selected fiscal table separates fiscal, revenue and primary deficits and central debt ratios, with FY2026-27 BE beside FY2025-26 RE.",
+                "Evaluate consolidation by the type and quality of adjustment, not only a deficit headline; retain the central-government scope and estimate status.",
+                "Budget estimates are not realised outcomes. Reported deficit and debt values are stored only as dated, unverified observations below; official budget tables were not checked."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-budget-2026",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "report-fiscal-targeted-support",
+              "cells": [
+                "IMF / WEO July 2026 update (claimed)",
+                "The policy discussion favours temporary, targeted support for vulnerable households over broad subsidies and conditions withdrawal on normalising markets.",
+                "Illustrative India application: weigh household protection, fiscal cost, price signals and exit design when responding to an imported-energy shock.",
+                "Conditional general advice, not an implemented Indian measure or universal ban on support. The shock narrative and edition remain unverified."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-weo-2026",
+                  "pages": [
+                    12
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-fiscal-answer-plan",
+          "question": "Answer framework: design a fiscally credible response to an energy-price shock.",
+          "answer": "Original outline: identify transmission to inflation and real incomes; target temporary household relief; assess fiscal space and incentives; set an exit trigger; coordinate monetary and financial-stability policy. Do not present the PDF recommendation as implemented Indian policy.",
+          "refs": [
+            {
+              "source": "esi-report-weo-2026",
+              "pages": [
+                12
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "report-budget-centre-fd-fy27-be",
+          "label": "Centre fiscal deficit: FY2026-27 BE, supplied Budget compilation",
+          "observations": [
+            {
+              "id": "report-budget-centre-fd-fy27-be-compilation-observation",
+              "value": "Compilation reports 4.3% of GDP for the Centre's FY2026-27 Budget Estimate; unverified plan, not an outturn.",
+              "as_of": "Union Budget 2026-27 compilation; FY2026-27 BE (no exact release date asserted)",
+              "refs": [
+                {
+                  "source": "esi-report-budget-2026",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": []
+    },
+    {
+      "id": "esi-federal-finance",
+      "title": "Federal finance: powers, sharing and intergovernmental support",
+      "subject": "ESI",
+      "summary": "Distinguish tax assignment, tax sharing, grants and borrowing constraints within India's fiscal federation.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-federal-devolution",
+              "cells": [
+                "16th Finance Commission / recommendation period FY2026-27 to FY2030-31 (claimed)",
+                "The compilation distinguishes vertical sharing between Union and states from horizontal distribution among states, and excludes cesses/surcharges from its divisible-pool explanation.",
+                "Explain fiscal imbalance and interstate equity separately; an increase in the gross tax take need not translate proportionately into the divisible pool.",
+                "Recommendations do not establish acceptance or implementation. The claimed 41% share is excluded pending official report/acceptance verification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fc-2026",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "report-federal-state-benchmarking",
+              "cells": [
+                "NITI Aayog / FHI 2026, FY2023-24 reference data (claimed)",
+                "The framework separately evaluates major states and North-Eastern/Himalayan states, adding transfer and committed-spending measures for structural differences.",
+                "Interpret interstate comparisons alongside terrain, revenue base and service-delivery costs rather than reading a single ranking as effort alone.",
+                "Publication label 2026 is not the fiscal reference year 2023-24. No rank or score is endorsed; cohort coverage and methodology require primary confirmation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fhi-2026",
+                  "pages": [
+                    1,
+                    2,
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-federal-recall",
+          "question": "Recall: distinguish vertical and horizontal devolution.",
+          "answer": "Vertical devolution sets the collective state share relative to the Union; horizontal devolution allocates that state share among individual states. Keep the two stages separate; this PDF's numerical recommendations remain unverified.",
+          "refs": [
+            {
+              "source": "esi-report-fc-2026",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-banks-rbi",
+      "title": "Banks and RBI: development, inclusion and policy transmission",
+      "subject": "ESI",
+      "summary": "Separate financial intermediation from central-bank policy and evaluate whether formal access becomes usable, resilient finance.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-bank-systemic-risk",
+              "cells": [
+                "RBI / Financial Stability Report June 2026 (claimed)",
+                "FSR is described as a collective assessment of financial-system risks and resilience; the microfinance section juxtaposes recovering credit with a shrinking borrower base.",
+                "Do not infer universal inclusion from sound aggregate balance sheets or expanding credit; examine reach, borrower stress and interconnected institutions.",
+                "Report edition is not the period of every indicator. An unspecified 'latest quarter' is not assigned a date; no stress or borrower count is endorsed."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fsr-2026",
+                  "pages": [
+                    2,
+                    10,
+                    11
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-bank-report-recall",
+          "question": "Recall: is the supplied FSR framework an assessment of financial stability or proof of inclusive credit access?",
+          "answer": "It assesses systemic risks and resilience, drawing on regulator inputs. Inclusive access requires additional borrower and distribution evidence; strong aggregate resilience alone does not establish it.",
+          "refs": [
+            {
+              "source": "esi-report-fsr-2026",
+              "pages": [
+                2
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-rural-credit",
+      "title": "Rural credit and microfinance: access with borrower resilience",
+      "subject": "ESI",
+      "summary": "Match financing to rural cash flows and compare formal institutions, group finance and borrower-protection risks.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-rural-mfi-reach",
+              "cells": [
+                "RBI / FSR June 2026 (claimed)",
+                "The microfinance discussion distinguishes credit growth, borrower numbers, multiple-lender exposure and arrears; these can move in different directions.",
+                "Illustrative India application: credit growth with fewer borrowers may mean larger balances or concentration, not broader outreach; evaluate affordability and repayment capacity.",
+                "A shrinking borrower base need not prove exclusion caused by regulation. The quarter and dataset behind the counts are not clear; no causal or numeric claim is promoted."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-fsr-2026",
+                  "pages": [
+                    10,
+                    11
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-rural-credit-application",
+          "question": "Application: microfinance lending grows while borrower numbers fall. What should an inclusion answer ask?",
+          "answer": "Check active borrowers, average exposure, multiple borrowing, overdue loans and pricing. Distinguish reduced over-indebtedness from reduced access; aggregate lending alone cannot settle which dominates.",
+          "refs": [
+            {
+              "source": "esi-report-fsr-2026",
+              "pages": [
+                10,
+                11
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-inflation",
+      "title": "Inflation: measurement, causes and limits of policy",
+      "subject": "ESI",
+      "summary": "Identify the relevant price measure and shock before explaining monetary transmission and the growth-price trade-off.",
+      "tags": [],
+      "related": [],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [
+        {
+          "id": "report-evidence-2026-11",
+          "title": "Report evidence: framework, India application and verification",
+          "columns": [
+            "Publisher + edition (compilation attribution)",
+            "Framework / findings",
+            "India relevance / application",
+            "Limitation / verification"
+          ],
+          "rows": [
+            {
+              "id": "report-inflation-food-price-granularity",
+              "cells": [
+                "Joint UN agencies / SOFI 2026 (claimed)",
+                "Cost of a Healthy Diet estimates the least cost of a nutritionally adequate basket, subject to price coverage and update limits.",
+                "For India, use it as a nutrition-affordability lens alongside, not in place of, CPI; local and seasonal price differences matter for household vulnerability.",
+                "A diet-cost level is not a CPI inflation rate. Do not compare PPP-denominated cost levels across years without checking price bases and methodology; global values are omitted."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-sofi-2026",
+                  "pages": [
+                    4,
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "report-inflation-conditional-response",
+              "cells": [
+                "IMF / WEO July 2026 update (claimed)",
+                "The policy discussion links persistent inflation, expectations and exchange-rate pass-through to a tighter stance, while easing is conditional on weaker growth and subsiding price pressure.",
+                "Illustrative India application: distinguish a first-round supply shock from second-round inflation and choose policy conditional on persistence and credibility.",
+                "Not an RBI policy decision or an automatic rate rule. General recommendations and the purported July 2026 context remain unverified."
+              ],
+              "refs": [
+                {
+                  "source": "esi-report-weo-2026",
+                  "pages": [
+                    12
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "report-inflation-application",
+          "question": "Application: can healthy-diet affordability worsen even if headline inflation slows?",
+          "answer": "Yes. Slower inflation need not lower the price level or raise household purchasing power. Diet composition, local prices, availability and income matter; use the PDF framework rather than an invented India statistic.",
+          "refs": [
+            {
+              "source": "esi-report-sofi-2026",
+              "pages": [
+                5
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    }
+  ]
+}

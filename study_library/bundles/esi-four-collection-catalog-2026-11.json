@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "evidence-catalog-dd7ff189e7ccd2",
+      "title": "42fed716 2edd 436a ab8b 7a22275ab771 All Committees",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\42fed716_2edd_436a_ab8b_7a22275ab771_All_Committees_lyst1741842963694.pdf",
+      "sha256": "a0d8ecc4aea1f49945085d602fb1e22b4ee7bee9be62ef85982a2050da70c6be",
+      "pages": 25,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    },
+    {
+      "id": "evidence-catalog-51383762a946ba",
+      "title": "Budget highlights  New detail  2",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\Budget_highlights__New_detail__2_lyst1770010245033.pdf",
+      "sha256": "7e1cc26741cd38ed47c55eae1aeb35b44f75d34719b657d9afa5d3aa74cab9a5",
+      "pages": 25,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    },
+    {
+      "id": "evidence-catalog-e8bdf5cfc0923c",
+      "title": "ECONOMIC SURVEY ANALYSIS DETAILED",
+      "path": "SubjectNotesForPhase2\\Reports_NationalAndInternational\\ECONOMIC_SURVEY_ANALYSIS_DETAILED_lyst1770010116071.pdf",
+      "sha256": "14fa538e2264f8788d92b10f0422cb48ba2ffe7f75db38f4892c9d764033726c",
+      "pages": 14,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    },
+    {
+      "id": "evidence-catalog-257c5f5a5d4594",
+      "title": "Schemes Practice Questions   1",
+      "path": "SubjectNotesForPhase2\\SchemesAndGovernmentPortals\\Schemes_Practice_Questions___1_lyst5972.pdf",
+      "sha256": "e4d5268d6192ee63fc42f9d3f77e2ed34e002ed9ecb8546db462b841123f36a0",
+      "pages": 50,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    },
+    {
+      "id": "evidence-catalog-cb83dedb4652cf",
+      "title": "Schemes Practice Questions   2",
+      "path": "SubjectNotesForPhase2\\SchemesAndGovernmentPortals\\Schemes_Practice_Questions___2_lyst1717389671734.pdf",
+      "sha256": "010156c3a347ae7eefc00d81170feba21a14b290829b560484f2751d017e9705",
+      "pages": 55,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    },
+    {
+      "id": "evidence-catalog-a2a0db8b94cd63",
+      "title": "737e2175 2a30 4701 8d2a 3833e38fe82c UN International Decades and Important Days  1 ",
+      "path": "SubjectNotesForPhase2\\StaticGK\\737e2175_2a30_4701_8d2a_3833e38fe82c_UN_International_Decades_and_Important_Days__1__lyst1778738391057.pdf",
+      "sha256": "3475f1f1ecd032eeb4d13c5bda73beb3c4f0e1d57332458bf5085f588bd7a264",
+      "pages": 9,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    },
+    {
+      "id": "evidence-catalog-eb86de9267808d",
+      "title": "Awards",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Awards_lyst1780574540660.pdf",
+      "sha256": "28f3ab2e6289b0f4a92174cc8d8f47fce76fd41bebe585f581fb32dd1e0c412e",
+      "pages": 9,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    },
+    {
+      "id": "evidence-catalog-8054f17086de19",
+      "title": "Borders  Peaks and Passes",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Borders__Peaks_and_Passes_lyst1780574493127.pdf",
+      "sha256": "1819cd2a746f066c2648fbe763ea381d55a718048c0c344e702c78f091dd3c1f",
+      "pages": 3,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    },
+    {
+      "id": "evidence-catalog-19e6ac0f0809da",
+      "title": "Countries and Currencies",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Countries_and_Currencies_lyst1780574514944.pdf",
+      "sha256": "7ab6ec060312bd3c604f8484dc1e3267933c8eff0ba859111531d85002487f51",
+      "pages": 4,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    },
+    {
+      "id": "evidence-catalog-ca3dad7bc9af58",
+      "title": "Indian rivers and dams",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Indian_rivers_and_dams_lyst1779023672686.pdf",
+      "sha256": "13df2bc85636ceafbdf87c010e787d14768620810a0e249a79923193088fa63b",
+      "pages": 9,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    },
+    {
+      "id": "evidence-catalog-f6b828e417aa48",
+      "title": "Joint military exercises ",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Joint_military_exercises__lyst1779023319100.pdf",
+      "sha256": "ea05c1d7f03ec223006f7a075403f296d1e12101afa210b355fde2b133709d41",
+      "pages": 4,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    },
+    {
+      "id": "evidence-catalog-40886369a90893",
+      "title": "Major Plants and Ports  Updated on May 11  2026 ",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Major_Plants_and_Ports__Updated_on_May_11__2026__lyst1778476631540.pdf",
+      "sha256": "e4844c4dfbf96d4555d444e5df6812685559d6f91fb02dbd7e82bbfc59992e08",
+      "pages": 7,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    },
+    {
+      "id": "evidence-catalog-cd7e7fbf23f50f",
+      "title": "NP  WLS  BR  Updated on May 11  2026 ",
+      "path": "SubjectNotesForPhase2\\StaticGK\\NP__WLS__BR__Updated_on_May_11__2026__lyst1778476706056.pdf",
+      "sha256": "e949abeeeb8b3dc225da63574b96edbdff474e31b8098ac5d8874e9b0dfdd875",
+      "pages": 17,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    },
+    {
+      "id": "evidence-catalog-d1cddfcc7c0bf5",
+      "title": "Sports HQ",
+      "path": "SubjectNotesForPhase2\\StaticGK\\Sports_HQ_lyst1780574400212.pdf",
+      "sha256": "82e37ed09dfe2f75bbb8c8a75fe7d43f18caf3c7d33912ae27b38573e3dbfc64",
+      "pages": 1,
+      "kind": "notes",
+      "period": null,
+      "coverage_note": "Reference catalogue entry only; no date or claim inferred from filename. Only explicitly cited pages support synthesised topic content."
+    }
+  ],
+  "topics": []
+}

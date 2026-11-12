@@ -1,0 +1,1310 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "unemployment-short-notes",
+      "title": "Unemployment short notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Unemployment-24\\Short_Notes_Unemployment__1__lyst1747211292238.pdf",
+      "sha256": "6570217fad2abb9a5a47cab61ec6bbd9057b204c5d60b424dfc7fe86c00f39da",
+      "pages": 22,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "motivation-short-notes",
+      "title": "Motivation short notes",
+      "path": "SubjectNotesForPhase2\\Management\\Motivation-8\\Short_Notes_Motivation__1__lyst1772798160470.pdf",
+      "sha256": "30a31a26726ebed5acaaed5d1c28a1c37b4819ee04dda4884271c3c17e3ea49d",
+      "pages": 24,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "spotlight-2026-10",
+      "title": "Spotlight October 2026",
+      "path": "SubjectNotesForPhase2\\CurrentAffairs-Monthly\\Oct_2026_Spotlight_lyst1793792937123.pdf",
+      "sha256": "2c2f284b20ea967bb9903a6218c94855edbd503e6c994dcd1b989af35c1e0cec",
+      "pages": 175,
+      "kind": "monthly",
+      "period": "2026-10"
+    }
+  ],
+  "topics": [
+    {
+      "id": "employment-measurement",
+      "title": "Employment: people, participation and measurement",
+      "subject": "ESI",
+      "summary": "Separate the labour force, workers and unemployed before interpreting a rate. This pilot covers selected concepts, not the entire unemployment chapter.",
+      "tags": [
+        "employment",
+        "labour force",
+        "measurement",
+        "static foundation"
+      ],
+      "related": [
+        "growth-forecasts"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "measurement",
+            "label": "Employment measurement",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "labour-force",
+            "label": "Labour force: employed plus unemployed",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "participation",
+            "label": "LFPR: labour force / population",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "workers",
+            "label": "Workforce: those actually employed",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "unemployment-rate",
+            "label": "Unemployment rate: unemployed / labour force",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "underemployment",
+            "label": "Underemployment: work below skill or education level (notes' example)",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "measure-labour",
+            "from": "measurement",
+            "to": "labour-force",
+            "label": "defines the pool",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measure-lfpr",
+            "from": "measurement",
+            "to": "participation",
+            "label": "measures entry",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measure-workers",
+            "from": "measurement",
+            "to": "workers",
+            "label": "counts workers",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measure-ur",
+            "from": "measurement",
+            "to": "unemployment-rate",
+            "label": "uses labour force",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measure-under",
+            "from": "measurement",
+            "to": "underemployment",
+            "label": "distinguishes",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "rate-denominators",
+          "title": "Know the numerator and denominator",
+          "columns": [
+            "Measure",
+            "Numerator",
+            "Denominator",
+            "Interpretation check"
+          ],
+          "rows": [
+            {
+              "id": "lfpr",
+              "cells": [
+                "LFPR",
+                "Labour force",
+                "Population of the defined group",
+                "Do not switch age group or reference period in a comparison."
+              ],
+              "refs": [
+                {
+                  "source": "unemployment-short-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "workforce-rate",
+              "cells": [
+                "Workforce participation rate",
+                "Employed people",
+                "Population of the defined group",
+                "Employment is not the same as labour-force membership."
+              ],
+              "refs": [
+                {
+                  "source": "unemployment-short-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ur",
+              "cells": [
+                "Unemployment rate",
+                "Unemployed people",
+                "Labour force of the defined group",
+                "The denominator is not the entire population."
+              ],
+              "refs": [
+                {
+                  "source": "unemployment-short-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "rate-calculation",
+          "question": "Illustrative calculation: population 1,000; labour force 600; employed 540. Find LFPR and unemployment rate.",
+          "answer": "LFPR = 600/1,000 = 60%. Unemployed = 600 - 540 = 60; unemployment rate = 60/600 = 10%. The numbers are invented for practice, not observed labour statistics.",
+          "refs": [
+            {
+              "source": "unemployment-short-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "workforce-trap",
+          "question": "Are everyone in the labour force and everyone employed the same set?",
+          "answer": "No. Labour force includes employed and unemployed people; workforce refers to the employed.",
+          "refs": [
+            {
+              "source": "unemployment-short-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "motivation-theories",
+      "title": "Motivation: diagnose the broken link",
+      "subject": "Management",
+      "summary": "Compare what motivates an employee with how motivation works. Apply theory to a case instead of memorising author names alone.",
+      "tags": [
+        "FM",
+        "Vroom",
+        "Herzberg",
+        "Adams",
+        "workplace cases"
+      ],
+      "related": [],
+      "map": {
+        "nodes": [
+          {
+            "id": "motivation",
+            "label": "Motivation: needs and decision processes",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "content",
+            "label": "Content theories ask what motivates",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "process",
+            "label": "Process theories ask how motivation occurs",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "herzberg",
+            "label": "Herzberg: hygiene factors versus motivators",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "vroom",
+            "label": "Vroom: expectancy, instrumentality, valence",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  14,
+                  15
+                ]
+              }
+            ]
+          },
+          {
+            "id": "adams",
+            "label": "Adams: perceived fairness of treatment",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  17
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "mot-content",
+            "from": "motivation",
+            "to": "content",
+            "label": "includes",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mot-process",
+            "from": "motivation",
+            "to": "process",
+            "label": "includes",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mot-herzberg",
+            "from": "motivation",
+            "to": "herzberg",
+            "label": "distinguishes needs",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mot-vroom",
+            "from": "motivation",
+            "to": "vroom",
+            "label": "explains choice",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  14,
+                  15
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mot-adams",
+            "from": "motivation",
+            "to": "adams",
+            "label": "considers fairness",
+            "refs": [
+              {
+                "source": "motivation-short-notes",
+                "pages": [
+                  17
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "vroom-components",
+          "title": "Vroom: three distinct checks",
+          "columns": [
+            "Component",
+            "Employee's question",
+            "Illustrative repair"
+          ],
+          "rows": [
+            {
+              "id": "expectancy",
+              "cells": [
+                "Expectancy",
+                "Can my effort produce the required performance?",
+                "Training, resources and feasible targets."
+              ],
+              "refs": [
+                {
+                  "source": "motivation-short-notes",
+                  "pages": [
+                    14,
+                    15
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "instrumentality",
+              "cells": [
+                "Instrumentality",
+                "Will performance actually produce the reward?",
+                "Credible, transparent performance-to-reward decisions."
+              ],
+              "refs": [
+                {
+                  "source": "motivation-short-notes",
+                  "pages": [
+                    15
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "valence",
+              "cells": [
+                "Valence",
+                "Do I value this reward?",
+                "Discover what this employee values instead of assuming all want the same reward."
+              ],
+              "refs": [
+                {
+                  "source": "motivation-short-notes",
+                  "pages": [
+                    14
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "theory-comparison",
+          "title": "Which theory fits the clue?",
+          "columns": [
+            "Theory",
+            "Recognition clue",
+            "Avoid this confusion"
+          ],
+          "rows": [
+            {
+              "id": "herzberg",
+              "cells": [
+                "Herzberg",
+                "Job conditions versus intrinsic achievement/growth",
+                "Removing a source of dissatisfaction is not identical to adding a motivator."
+              ],
+              "refs": [
+                {
+                  "source": "motivation-short-notes",
+                  "pages": [
+                    9
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "vroom",
+              "cells": [
+                "Vroom",
+                "A weak link between effort, performance and a valued outcome",
+                "Reward value alone does not establish a credible performance-to-reward link."
+              ],
+              "refs": [
+                {
+                  "source": "motivation-short-notes",
+                  "pages": [
+                    14,
+                    15
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "adams",
+              "cells": [
+                "Adams",
+                "Perceived unfairness in organisational treatment",
+                "Fairness is a perception to investigate, not simply identical pay for everyone."
+              ],
+              "refs": [
+                {
+                  "source": "motivation-short-notes",
+                  "pages": [
+                    17
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "promotion-case",
+          "question": "Illustrative case: an employee wants promotion but thinks selection ignores performance. Diagnose the weak Vroom component.",
+          "answer": "Instrumentality: the employee does not believe performance will produce the desired reward. A credible selection process addresses this link; a larger reward alone may not.",
+          "refs": [
+            {
+              "source": "motivation-short-notes",
+              "pages": [
+                14,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ability-case",
+          "question": "Change the case: selection is fair, but the employee doubts they can meet the target. What changed?",
+          "answer": "The weak link is expectancy: effort is not expected to yield the required performance. Consider ability, support and target feasibility.",
+          "refs": [
+            {
+              "source": "motivation-short-notes",
+              "pages": [
+                15
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "programmable-digital-rupee",
+      "title": "Digital rupee: programmability and payment use",
+      "subject": "Finance",
+      "summary": "Use the monthly item to distinguish scheduling a payment from restricting its purpose. Product-launch claims below are from the supplied compilation, not an official verification.",
+      "tags": [
+        "FM",
+        "GA overlap",
+        "CBDC",
+        "payments",
+        "current affairs"
+      ],
+      "related": [],
+      "map": {
+        "nodes": [
+          {
+            "id": "cbdc",
+            "label": "Digital rupee: reported product features",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          },
+          {
+            "id": "schedule",
+            "label": "Scheduled transfers: amount and frequency",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          },
+          {
+            "id": "purpose",
+            "label": "Purpose controls: permitted spending categories",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          },
+          {
+            "id": "participants",
+            "label": "Reported institution: Bank of India; technology partner: Montran India",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "cbdc-schedule",
+            "from": "cbdc",
+            "to": "schedule",
+            "label": "can automate",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          },
+          {
+            "id": "cbdc-purpose",
+            "from": "cbdc",
+            "to": "purpose",
+            "label": "can constrain use",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          },
+          {
+            "id": "cbdc-participants",
+            "from": "cbdc",
+            "to": "participants",
+            "label": "source attributes to",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  68
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "payment-features",
+          "title": "Compare the function, not just the acronym",
+          "columns": [
+            "Feature",
+            "What it controls",
+            "Illustrative question"
+          ],
+          "rows": [
+            {
+              "id": "scheduled",
+              "cells": [
+                "Scheduled transfer",
+                "When and how much is transferred",
+                "Is a recurring monthly transfer automatically a spending restriction? No."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    68
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "purpose-bound",
+              "cells": [
+                "Purpose-based controls",
+                "Permitted uses after receipt",
+                "Can the recipient spend funds outside the permitted category? Check the applicable restriction."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    68
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "purpose-case",
+          "question": "Illustrative case: funds may be spent only on tuition. Is this merely a recurring transfer?",
+          "answer": "No. It illustrates a purpose restriction. A schedule concerns timing/frequency, not necessarily how the recipient may spend the funds.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                68
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "reported-provider",
+          "label": "Institution named in the compilation's programmability item",
+          "observations": [
+            {
+              "id": "spotlight-oct-provider",
+              "value": "Bank of India; platform developed by Montran India (compilation claim; verify official launch and scope).",
+              "as_of": "October 2026 compilation; event date not independently verified",
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    68
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "id": "programmability-oct-2026",
+          "date": "2026-10",
+          "category": "Finance",
+          "title": "Compilation reports programmable digital-rupee features",
+          "body": "The October compilation attributes scheduled CBDC-wallet transfers and purpose-based spending controls to a Bank of India product. Link this to payment design; verify the bank/RBI release before memorising launch details. This is a selected item, not full monthly finance coverage.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                68
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forest-certification",
+      "title": "Forest certification: news to static concepts",
+      "subject": "GA",
+      "summary": "Organise a certification item by scheme, purpose, recipient and verification need rather than collecting an isolated headline.",
+      "tags": [
+        "environment",
+        "ESI overlap",
+        "certification",
+        "current affairs"
+      ],
+      "related": [],
+      "map": {
+        "nodes": [
+          {
+            "id": "certificate",
+            "label": "PRAMAAN / IFWCS: compilation's certification item",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "framework",
+            "label": "Indian Forest and Wood Certification Scheme",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "purpose",
+            "label": "Sourcing and forest-management assurance",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "recipient",
+            "label": "Reported recipients include APFDC and a bamboo farmer",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "certificate-framework",
+            "from": "certificate",
+            "to": "framework",
+            "label": "belongs to",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "certificate-purpose",
+            "from": "certificate",
+            "to": "purpose",
+            "label": "supports",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "certificate-recipient",
+            "from": "certificate",
+            "to": "recipient",
+            "label": "report names",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "certification-fields",
+          "title": "News-to-static retrieval table",
+          "columns": [
+            "Field",
+            "Selected source claim",
+            "What to verify"
+          ],
+          "rows": [
+            {
+              "id": "scheme",
+              "cells": [
+                "Framework",
+                "IFWCS; certificates described as PRAMAAN",
+                "Official scheme name, owner and certification scope."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "purpose",
+              "cells": [
+                "Purpose",
+                "Forest-management and sourcing requirements",
+                "Which standards and product categories are covered?"
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "news",
+              "cells": [
+                "Reported development",
+                "Certificates awarded to forest/bamboo participants",
+                "Event date and any 'first' claim in the official release."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "certification-scope",
+          "question": "What five fields would you retrieve for a certification news item?",
+          "answer": "What changed; the scheme/issuer; covered product or beneficiary; standard/conditions; event date and source. Do not equate certification automatically with a subsidy or cash transfer.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": [
+        {
+          "id": "pramaan-oct-2026",
+          "date": "2026-10",
+          "category": "General",
+          "title": "Forest-certification item in the October compilation",
+          "body": "The source describes PRAMAAN certificates under IFWCS. Use this as a bridge to forest management and sustainable sourcing. The reported award details and 'first' claim still need official confirmation; the month here denotes the compilation edition.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "growth-forecasts",
+      "title": "Growth forecasts: publisher, period and revision",
+      "subject": "ESI",
+      "summary": "Attach every forecast to its publisher, release and reference period. Different institutions' forecasts are not automatically conflicting observations of the same fact.",
+      "tags": [
+        "GA overlap",
+        "GDP",
+        "reports",
+        "economic current affairs"
+      ],
+      "related": [
+        "employment-measurement"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "forecast",
+            "label": "GDP forecast: a dated estimate, not an actual outcome",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "publisher",
+            "label": "Publisher/report: World Bank versus IMF",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "period",
+            "label": "Reference period: fiscal year versus calendar year",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "revision",
+            "label": "Revision: compare the same institution and forecast period",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mechanism",
+            "label": "Growth drivers and risks: industry, services, agriculture and demand",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "forecast-publisher",
+            "from": "forecast",
+            "to": "publisher",
+            "label": "is attributed to",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "forecast-period",
+            "from": "forecast",
+            "to": "period",
+            "label": "must specify",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "forecast-revision",
+            "from": "forecast",
+            "to": "revision",
+            "label": "can be revised",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "id": "forecast-mechanism",
+            "from": "forecast",
+            "to": "mechanism",
+            "label": "depends on",
+            "refs": [
+              {
+                "source": "spotlight-2026-10",
+                "pages": [
+                  88
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "publisher-periods",
+          "title": "What the supplied October compilation reports (unverified)",
+          "columns": [
+            "Publisher / report",
+            "Reference period",
+            "Reported India growth forecast",
+            "Caution"
+          ],
+          "rows": [
+            {
+              "id": "wb-fy27-oct26",
+              "cells": [
+                "World Bank / South Asia Economic Update",
+                "FY 2026-27",
+                "7.1%",
+                "Compilation claim; verify the original report, not only the monthly table."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    88
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "imf-fy27-oct26",
+              "cells": [
+                "IMF / World Economic Outlook",
+                "FY 2026-27",
+                "7.0%",
+                "A different publisher: not an automatic contradiction of the World Bank forecast."
+              ],
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    88
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "forecast-mismatch",
+          "question": "One report shows 7.1% and another 7.0%. Must one be wrong?",
+          "answer": "No. Check institution, release date, forecast horizon, fiscal/calendar basis and method. Different institutions can publish different forecasts. Verify the figures against original releases before memorising.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                88
+              ]
+            }
+          ]
+        },
+        {
+          "id": "growth-jobs",
+          "question": "Application prompt: does a growth forecast alone prove broad employment improvement?",
+          "answer": "No. A GDP forecast is not a labour-force measure. Support an employment claim with relevant labour data and its reference period. This is an analytical link between the two sample topics, not a quoted claim from the compilation.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                88
+              ]
+            },
+            {
+              "source": "unemployment-short-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "wb-india-fy27-forecast",
+          "label": "World Bank India FY 2026-27 real GDP forecast",
+          "observations": [
+            {
+              "id": "wb-oct-2026",
+              "value": "7.1% (as reported by the supplied compilation; original report not verified)",
+              "as_of": "October 2026 edition; forecast horizon FY 2026-27",
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    88
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "imf-india-fy27-forecast",
+          "label": "IMF India FY 2026-27 real GDP forecast",
+          "observations": [
+            {
+              "id": "imf-oct-2026",
+              "value": "7.0% (as reported by the supplied compilation; original report not verified)",
+              "as_of": "October 2026 edition; forecast horizon FY 2026-27",
+              "refs": [
+                {
+                  "source": "spotlight-2026-10",
+                  "pages": [
+                    88
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "id": "forecasts-oct-2026",
+          "date": "2026-10",
+          "category": "Economy",
+          "title": "October growth-forecast comparison",
+          "body": "The supplied compilation reports India forecasts from the World Bank and IMF. Keep the two publisher-specific fact records separate. Link growth mechanisms to ESI, while using labour data rather than GDP alone for employment conclusions. This pilot covers only one selected economic-current-affairs item.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                88
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "imports": [
+    {
+      "at": "2026-11-10T12:48:28.907038+00:00",
+      "bundle_sha256": "d269fcf37607122dc387be16e828dc79fcc024f3c51010654335c1ef333000ff",
+      "topics": [
+        "employment-measurement",
+        "motivation-theories",
+        "programmable-digital-rupee",
+        "forest-certification",
+        "growth-forecasts"
+      ]
+    }
+  ]
+}

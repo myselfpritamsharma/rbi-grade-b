@@ -1,0 +1,22 @@
+{
+  "ESI": {
+    "Economics policy/current-linked": 64,
+    "Static economics/institutions": 7,
+    "Unclear reconstructed demand": 1,
+    "Social policy/current-linked": 57,
+    "Environment/general policy-current": 17,
+    "Static social issues": 2,
+    "Cross-cutting static": 2
+  },
+  "FM": {
+    "Static management/ethics/governance": 63,
+    "Static finance/concepts/institutions": 39,
+    "Standing finance rules/schemes": 23,
+    "Other standing policy": 1,
+    "Other current policy": 1,
+    "Dated finance/current changes": 11,
+    "Standing management/governance rules": 8,
+    "Environment report/current": 1,
+    "Cross-cutting static": 3
+  }
+}

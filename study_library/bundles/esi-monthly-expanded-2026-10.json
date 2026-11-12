@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "sources": [],
+  "topics": [
+    {
+      "id": "esi-national-income",
+      "title": "National income: boundaries, bridges and welfare",
+      "subject": "ESI",
+      "summary": "Identify the production boundary, reconcile measurement approaches and distinguish output growth from welfare.",
+      "tags": [
+        "P1 - Core depth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-inflation",
+        "esi-economy-nature",
+        "esi-post1991-macro",
+        "growth-forecasts"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [],
+      "cards": [
+        {
+          "id": "monthly-link-environmental-accounting-application",
+          "question": "How can environmental accounts improve an ESI answer without claiming GDP measures all welfare?",
+          "answer": "Explain what conventional output measures omit, identify the relevant resource stock/flow, and discuss comparable data and valuation limits. Better measurement can inform policy; it does not itself solve resource degradation. This is an original analytical exercise, not evidence that the initiative achieved its objectives.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": [
+        {
+          "id": "monthly-link-environmental-accounting",
+          "date": "2026-10",
+          "category": "Economy",
+          "title": "Environmental-economic accounting: connect output to resource use",
+          "body": "The supplied compilation reports a MoSPI environmental-economic accounting strategy for 2026-30, covering resource and environmental accounts and data gaps. Link this to GDP's measurement boundaries and the difference between production, natural assets and welfare. Do not equate an accounting strategy with a completed green-GDP estimate or an achieved environmental outcome. October 2026 is the compilation edition, not an independently verified release or effective date. Verify the original release before using event details as facts.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                8
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esi-sustainable-development",
+      "title": "Sustainability: resource limits, policy and intergenerational equity",
+      "subject": "ESI",
+      "summary": "Core depth: connect present needs with future resource availability, explain growth\u2013environment mechanisms, evaluate policy instruments and SDG implementation without treating an income threshold as automatic environmental repair.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "sustainability",
+        "SDGs",
+        "environment"
+      ],
+      "related": [
+        "esi-growth-development",
+        "esi-poverty",
+        "esi-urbanisation-migration"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [],
+      "cards": [
+        {
+          "id": "monthly-link-resource-accounting-application",
+          "question": "How can environmental accounts improve an ESI answer without claiming GDP measures all welfare?",
+          "answer": "Explain what conventional output measures omit, identify the relevant resource stock/flow, and discuss comparable data and valuation limits. Better measurement can inform policy; it does not itself solve resource degradation. This is an original analytical exercise, not evidence that the initiative achieved its objectives.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": [
+        {
+          "id": "monthly-link-resource-accounting",
+          "date": "2026-10",
+          "category": "Economy",
+          "title": "Environmental-economic accounting: connect output to resource use",
+          "body": "The supplied compilation reports a MoSPI environmental-economic accounting strategy for 2026-30, covering resource and environmental accounts and data gaps. Link this to GDP's measurement boundaries and the difference between production, natural assets and welfare. Do not equate an accounting strategy with a completed green-GDP estimate or an achieved environmental outcome. October 2026 is the compilation edition, not an independently verified release or effective date. Verify the original release before using event details as facts.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                8
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esi-urbanisation-migration",
+      "title": "Urbanisation and migration: drivers, agglomeration and inclusion",
+      "subject": "ESI",
+      "summary": "Core depth: distinguish urban population growth from migration alone, explain push\u2013pull drivers and agglomeration, assess origin/destination effects and match urban-service and inclusion policies to real constraints.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "urbanisation",
+        "migration",
+        "agglomeration"
+      ],
+      "related": [
+        "esi-demography",
+        "employment-measurement",
+        "esi-poverty",
+        "esi-sustainable-development",
+        "esi-multiculturalism"
+      ],
+      "map": {
+        "nodes": [],
+        "edges": []
+      },
+      "tables": [],
+      "cards": [
+        {
+          "id": "monthly-link-international-mobility-application",
+          "question": "Which distinctions would you make in a descriptive answer prompted by a mobility dialogue?",
+          "answer": "Separate origin/destination, temporary/permanent movement, worker/student channels, rights and coordination. Discuss skills and protection mechanisms without inventing operational immigration permissions. This is an original analytical exercise, not evidence that the initiative achieved its objectives.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                28
+              ]
+            }
+          ]
+        },
+        {
+          "id": "monthly-link-urban-accessibility-application",
+          "question": "How would you evaluate an urban transport intervention beyond the number of vehicles or awards?",
+          "answer": "Assess access time and cost, reliability, integration, safety and inclusion for vulnerable residents. Explain which constraints the intervention addresses and use outcome evidence rather than ceremonial recognition. This is an original analytical exercise, not evidence that the initiative achieved its objectives.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                29
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": [
+        {
+          "id": "monthly-link-international-mobility",
+          "date": "2026-10",
+          "category": "Economy",
+          "title": "Migration: distinguish international mobility from urbanisation",
+          "body": "The compilation reports an India-Canada Migration and Mobility Dialogue involving students, skilled workers, professionals and business visitors. This is a useful reminder that migration is not only rural-to-urban movement. A dialogue or terms of reference is not automatically a new visa entitlement or evidence of higher migration flows. October 2026 is the compilation edition, not an independently verified release or effective date. Verify the original release before using event details as facts.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                28
+              ]
+            }
+          ]
+        },
+        {
+          "id": "monthly-link-urban-accessibility",
+          "date": "2026-10",
+          "category": "Economy",
+          "title": "Urban mobility: accessibility, inclusion and integration",
+          "body": "The compilation describes an Urban Mobility India conference focused on accessibility and liveability. Use the item to connect transport integration, affordability and access to jobs/services. A conference theme, award or technology demonstration does not prove a city has resolved congestion or exclusion. October 2026 is the compilation edition, not an independently verified release or effective date. Verify the original release before using event details as facts.",
+          "refs": [
+            {
+              "source": "spotlight-2026-10",
+              "pages": [
+                29
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "2021": {
+    "essay": "Coding in schools; BPO industry; creative thinking in business; prevention versus cure",
+    "precis": "Sand scarcity, urbanisation and extraction damage",
+    "rc": "Agorism passage, but insurance-sector subquestions: mismatched in supplied PDF",
+    "limits": "Essay about 300 words; precis 170 words"
+  },
+  "2022": {
+    "essay": "Renewable energy and grids; women entrepreneurs; peace through understanding; medical tourism",
+    "precis": "Space exploration and the space race",
+    "rc": "FMC-SEBI merger and commodity-market regulation",
+    "limits": "Essay about 300 words; precis 170 words"
+  },
+  "2023": {
+    "essay": "Climate economics; e-rupee; employee motivation; multilingual business social media",
+    "precis": "AI and women's economic empowerment",
+    "rc": "Inflation, business profits and distribution",
+    "limits": "Essay about 600-620 words; precis 180-200 words"
+  },
+  "2024": {
+    "essay": "Olympics impacts; climate migration; employee mental health; lifelong learning",
+    "precis": "AI as CEO: advantages, limitations and ethics",
+    "rc": "CRM systems: functions, collaboration, deployment and implementation",
+    "limits": "Essay about 600-620 words; precis 180-200 words"
+  },
+  "2025": {
+    "essay": "Emissions-intensity commitment; digital advertising; intergenerational education; startup adaptation",
+    "precis": "Amazon climate regime, drought and forest risk",
+    "rc": "Desalination, osmosis and power generation",
+    "limits": "Essay about 600-620 words; precis 180-200 words"
+  }
+}

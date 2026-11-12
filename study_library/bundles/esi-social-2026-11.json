@@ -1,0 +1,4748 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "esi-2-notes",
+      "title": "Economic Growth and Development - full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Economic Growth and Development-2\\Notes_Economic_Growth_and_Development__1__lyst1768456010627.pdf",
+      "sha256": "b0e88e39d1353799388e1f745fa7048d20b5bc27b0042fae1045fdb16417a334",
+      "pages": 20,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-2-notes-short",
+      "title": "Economic Growth and Development - short-note triangulation",
+      "path": "SubjectNotesForPhase2\\ESI\\Economic Growth and Development-2\\Short_Notes_Economic_Growth_and_Development__1__lyst1715164019018.pdf",
+      "sha256": "bfb69d1a393c4c31bc7fd29658a18caf3ab323efa7a33f426830c978a1e4d96c",
+      "pages": 14,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-4-notes",
+      "title": "Human Development - full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Human Development-4\\Notes_Human_Development__1__lyst1768817297089.pdf",
+      "sha256": "25c8dfe77ac1506a875785dd37e8b54a8caef816253395f1a888ca089f7c6685",
+      "pages": 6,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-4-notes-short",
+      "title": "Human Development - short-note triangulation",
+      "path": "SubjectNotesForPhase2\\ESI\\Human Development-4\\Short_Notes_Human_Development__1__lyst1715164130321.pdf",
+      "sha256": "3cdac8fdc9ec84eb077b6723c5afcf5997978c935e8c35e4ed4f48f5f7521ff8",
+      "pages": 5,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-5-notes",
+      "title": "Sustainable Development - full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Sustainable Development-5\\Notes_Sustainable_Development__1__lyst1769062431605.pdf",
+      "sha256": "caf060315acc6301e99bc6a6dd72620556eca5aa87787a686515d81ed8f8ba93",
+      "pages": 22,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-5-notes-short",
+      "title": "Sustainable Development - short-note triangulation",
+      "path": "SubjectNotesForPhase2\\ESI\\Sustainable Development-5\\Short_Notes_Sustainable_Development__1__lyst1715257525004.pdf",
+      "sha256": "e15d7909dd0f32f1825140cc6fa4bf5251a12d586730067a99c51db7ebcee923",
+      "pages": 11,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-23-notes",
+      "title": "Poverty - full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Poverty-23\\Notes_Poverty___1__lyst1773214001458.pdf",
+      "sha256": "00a8428463145a7673a80af18b7bfafa260540b66163e3013fcc516025577843",
+      "pages": 15,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-24-notes",
+      "title": "Unemployment - full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Unemployment-24\\NOTES_UNEMPLOYMENT_FINALLY_STRUCTURED__2__lyst1773386755914.pdf",
+      "sha256": "74492be5bedafb3f1d55311ba8940d09003a985054c74591da7218ee612a91ed",
+      "pages": 16,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "unemployment-short-notes",
+      "title": "Unemployment short notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Unemployment-24\\Short_Notes_Unemployment__1__lyst1747211292238.pdf",
+      "sha256": "6570217fad2abb9a5a47cab61ec6bbd9057b204c5d60b424dfc7fe86c00f39da",
+      "pages": 22,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-25-notes",
+      "title": "Population Growth and Demography - full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Population Growth and Demography-25\\Notes_Population_Growth_and_Demographic_Issues___1__lyst1773738789116.pdf",
+      "sha256": "980323fa35c0300c22a298f441fa49293901c266ae2c9c365cf237423dbb8396",
+      "pages": 18,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-26-notes",
+      "title": "Health - full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Health-26\\NOTES_HEALTH__1__lyst1775643802457.pdf",
+      "sha256": "5b027d6c5a7daa2ad982d1350a15e775ee29a1cdd718d35f16ccf5113d81f76e",
+      "pages": 14,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-27-notes",
+      "title": "Education - full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Education-27\\NOTES_EDUCATION__1__lyst1775645855756.pdf",
+      "sha256": "7cb941f23726b1e254d74dfb00f1bf6e003b357d3b530e2697fad648e9d476d5",
+      "pages": 9,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-28-notes",
+      "title": "Gender Issues - full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Gender Issues-28\\NOTES_GENDER_ISSUES_FINAL___1__lyst1773997162164.pdf",
+      "sha256": "32305b5d3931168d1bf4ebc042eef6b4889204f920bae679558ab22247209d07",
+      "pages": 7,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-29-notes",
+      "title": "Positive Discrimination - full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Positive Discrimination-29\\NOTES_POSTITIVE_DISCRIINATION___1__lyst1774255715751.pdf",
+      "sha256": "4abaa6cb2ac29515fd998853722d91bd6dc01cae80b216a5a9b928e9b3f1bb3e",
+      "pages": 6,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-35-notes",
+      "title": "Multiculturism - full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Multiculturism-35\\Notes_Multiculturalism__1__lyst1715859057156.pdf",
+      "sha256": "8f9cb76d8cdaee01173c70f8b18d895318e79a5e3133857536a1fed0448d0f52",
+      "pages": 12,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-36-notes",
+      "title": "Urbanisation and Migration - full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Urbanisation and Migration-36\\NOTES_URBANIZATION_AND_MIGRATION_FINAL___1__lyst1774515354735.pdf",
+      "sha256": "82a979cc94cf5b6382a24da733b68126e30e1549384ccc295dda0ee0d0d3eb31",
+      "pages": 15,
+      "kind": "notes",
+      "period": null
+    }
+  ],
+  "topics": [
+    {
+      "id": "esi-growth-development",
+      "title": "Growth and development: output, distribution and transformation",
+      "subject": "ESI",
+      "summary": "Core depth: distinguish real output expansion from inclusive development; explain productivity and structural change, then test jobs, capabilities and environmental costs rather than dumping GDP figures.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "growth",
+        "development",
+        "productivity"
+      ],
+      "related": [
+        "esi-human-development",
+        "esi-poverty",
+        "esi-sustainable-development",
+        "employment-measurement",
+        "growth-forecasts"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "growth",
+            "label": "Growth: sustained expansion of output",
+            "refs": [
+              {
+                "source": "esi-2-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "drivers",
+            "label": "Investment, labour use and technology",
+            "refs": [
+              {
+                "source": "esi-2-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "transformation",
+            "label": "Structural change in production and work",
+            "refs": [
+              {
+                "source": "esi-2-notes",
+                "pages": [
+                  2,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "wellbeing",
+            "label": "Development: broader quality of life",
+            "refs": [
+              {
+                "source": "esi-2-notes",
+                "pages": [
+                  4,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "distribution",
+            "label": "Poverty, inequality and employment outcomes",
+            "refs": [
+              {
+                "source": "esi-2-notes",
+                "pages": [
+                  3,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "environment",
+            "label": "Pollution and resource depletion costs",
+            "refs": [
+              {
+                "source": "esi-2-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "social-link-1",
+            "from": "drivers",
+            "to": "growth",
+            "label": "raises productive capacity",
+            "refs": [
+              {
+                "source": "esi-2-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-2",
+            "from": "growth",
+            "to": "transformation",
+            "label": "can shift the sectoral structure",
+            "refs": [
+              {
+                "source": "esi-2-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-3",
+            "from": "growth",
+            "to": "wellbeing",
+            "label": "creates resources, not guaranteed welfare",
+            "refs": [
+              {
+                "source": "esi-2-notes",
+                "pages": [
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-4",
+            "from": "distribution",
+            "to": "wellbeing",
+            "label": "tests who benefits",
+            "refs": [
+              {
+                "source": "esi-2-notes",
+                "pages": [
+                  4,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-5",
+            "from": "growth",
+            "to": "environment",
+            "label": "can impose unpriced costs",
+            "refs": [
+              {
+                "source": "esi-2-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-6",
+            "from": "environment",
+            "to": "wellbeing",
+            "label": "qualifies the development verdict",
+            "refs": [
+              {
+                "source": "esi-2-notes",
+                "pages": [
+                  4,
+                  6
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "social-comparison",
+          "title": "Distinctions and policy tests",
+          "columns": [
+            "Lens",
+            "Core distinction",
+            "Application / policy test"
+          ],
+          "rows": [
+            {
+              "id": "social-row-1",
+              "cells": [
+                "Output vs welfare",
+                "Growth tracks production; development also tests how people live.",
+                "Pair output evidence with health, education, work and poverty outcomes."
+              ],
+              "refs": [
+                {
+                  "source": "esi-2-notes",
+                  "pages": [
+                    4,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-2",
+              "cells": [
+                "Capital vs technology",
+                "More equipment expands inputs; innovation can raise output from given resources.",
+                "Ask whether investment is productive, not simply large."
+              ],
+              "refs": [
+                {
+                  "source": "esi-2-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-3",
+              "cells": [
+                "Sectoral shift vs inclusion",
+                "Moving away from agriculture changes economic structure.",
+                "Judge whether workers gain productive opportunities rather than assuming every shift improves welfare."
+              ],
+              "refs": [
+                {
+                  "source": "esi-2-notes",
+                  "pages": [
+                    2,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-4",
+              "cells": [
+                "Trickle-down vs deliberate inclusion",
+                "The traditional approach assumes output gains spread; the modern approach tests broader outcomes.",
+                "Explain the missing transmission channel when poverty persists."
+              ],
+              "refs": [
+                {
+                  "source": "esi-2-notes",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-5",
+              "cells": [
+                "Private gains vs social costs",
+                "Output may rise alongside pollution and resource loss.",
+                "Include environmental costs before calling a project developmental."
+              ],
+              "refs": [
+                {
+                  "source": "esi-2-notes",
+                  "pages": [
+                    4
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "social-card-1",
+          "question": "Illustrative calculation: real output rises from 400 to 424 units. What is growth?",
+          "answer": "(424 - 400) / 400 × 100 = 6%. These invented real-output units avoid confusing price increases with additional production; this is not an observed GDP estimate.",
+          "refs": [
+            {
+              "source": "esi-2-notes",
+              "pages": [
+                2
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-2",
+          "question": "Illustrative case: a factory raises output but nearby water becomes unsafe. Has development necessarily improved?",
+          "answer": "No. Separate the output gain from health, distribution and environmental effects. Examine who gains jobs, who bears the damage and whether prevention or compensation changes the net welfare assessment.",
+          "refs": [
+            {
+              "source": "esi-2-notes",
+              "pages": [
+                3,
+                4,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-3",
+          "question": "Why can better technology matter without proportionately more capital?",
+          "answer": "It can improve how existing resources are used, increasing potential output. Capital quantity alone is therefore an incomplete explanation of productivity.",
+          "refs": [
+            {
+              "source": "esi-2-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-4",
+          "question": "Plan a descriptive answer: 'Growth is necessary but not a sufficient development strategy.'",
+          "answer": "Skeleton: define output versus well-being → explain investment/productivity and resource creation → trace jobs and public-service channels → identify inequality and pollution leakages → propose inclusive, environmentally responsible transmission → conclude with an outcome dashboard. Avoid presenting a disputed absolute necessity claim as a theorem.",
+          "refs": [
+            {
+              "source": "esi-2-notes",
+              "pages": [
+                3,
+                4,
+                5,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-5",
+          "question": "What depth should this chapter reach, and what should not dominate revision?",
+          "answer": "Master the growth/development distinction, two productivity mechanisms, one distribution channel and one environmental trade-off; practise a calculation and a balanced answer. Do not spend most revision time memorising long alternative-index lists, changing income cut-offs or undated ranks.",
+          "refs": [
+            {
+              "source": "esi-2-notes",
+              "pages": [
+                2,
+                3,
+                4,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-6",
+          "question": "How do the short notes triangulate the central distinction?",
+          "answer": "They also separate GDP-centred progress from wider inclusion and sustainability. Use this as a consistency check, not as evidence that all output gains automatically trickle down.",
+          "refs": [
+            {
+              "source": "esi-2-notes-short",
+              "pages": [
+                2,
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-human-development",
+      "title": "Human development: capabilities, human capital and feedback",
+      "subject": "ESI",
+      "summary": "Core depth: explain real freedoms as the end of development, human capital as a productive means, the growth–capability feedback loop and why average index gains can hide exclusion.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "capabilities",
+        "human capital",
+        "HDI"
+      ],
+      "related": [
+        "esi-growth-development",
+        "esi-education",
+        "esi-health",
+        "esi-gender-issues",
+        "esi-demography"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "human",
+            "label": "Human development: expand real choices",
+            "refs": [
+              {
+                "source": "esi-4-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "capabilities",
+            "label": "Capabilities: opportunities to do and be",
+            "refs": [
+              {
+                "source": "esi-4-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "capital",
+            "label": "Human capital: embodied skills and health",
+            "refs": [
+              {
+                "source": "esi-4-notes",
+                "pages": [
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "investment",
+            "label": "Education, health, training and information",
+            "refs": [
+              {
+                "source": "esi-4-notes",
+                "pages": [
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "productivity",
+            "label": "Productive, adaptable workforce",
+            "refs": [
+              {
+                "source": "esi-4-notes",
+                "pages": [
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "resources",
+            "label": "Growth finances opportunities and services",
+            "refs": [
+              {
+                "source": "esi-4-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "social-link-1",
+            "from": "human",
+            "to": "capabilities",
+            "label": "judges people as ends",
+            "refs": [
+              {
+                "source": "esi-4-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-2",
+            "from": "investment",
+            "to": "capital",
+            "label": "builds productive capacities",
+            "refs": [
+              {
+                "source": "esi-4-notes",
+                "pages": [
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-3",
+            "from": "capital",
+            "to": "productivity",
+            "label": "supports innovation and efficiency",
+            "refs": [
+              {
+                "source": "esi-4-notes",
+                "pages": [
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-4",
+            "from": "productivity",
+            "to": "resources",
+            "label": "helps generate economic resources",
+            "refs": [
+              {
+                "source": "esi-4-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-5",
+            "from": "resources",
+            "to": "investment",
+            "label": "can finance capability-building",
+            "refs": [
+              {
+                "source": "esi-4-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-6",
+            "from": "investment",
+            "to": "capabilities",
+            "label": "can expand substantive choices",
+            "refs": [
+              {
+                "source": "esi-4-notes",
+                "pages": [
+                  1,
+                  4,
+                  5
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "social-comparison",
+          "title": "Distinctions and policy tests",
+          "columns": [
+            "Lens",
+            "Core distinction",
+            "Application / policy test"
+          ],
+          "rows": [
+            {
+              "id": "social-row-1",
+              "cells": [
+                "Human development",
+                "Asks whether people have meaningful opportunities.",
+                "Value health and education even beyond their contribution to output."
+              ],
+              "refs": [
+                {
+                  "source": "esi-4-notes",
+                  "pages": [
+                    1,
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-2",
+              "cells": [
+                "Human capital",
+                "Treats skills, knowledge and health as productive assets.",
+                "Trace how training improves productivity; do not reduce people only to inputs."
+              ],
+              "refs": [
+                {
+                  "source": "esi-4-notes",
+                  "pages": [
+                    4,
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-3",
+              "cells": [
+                "Capital formation",
+                "Education, health, training, migration and information require investment.",
+                "Distinguish the accumulation process from the stock of capacities."
+              ],
+              "refs": [
+                {
+                  "source": "esi-4-notes",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-4",
+              "cells": [
+                "Two-way relationship",
+                "Growth can fund services; capabilities can support growth.",
+                "Identify a failure on either side rather than assume automatic feedback."
+              ],
+              "refs": [
+                {
+                  "source": "esi-4-notes",
+                  "pages": [
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-5",
+              "cells": [
+                "Choice vs income alone",
+                "More money is an enabling resource, not a complete description of opportunity.",
+                "Ask whether a person can actually access learning, health and valued work."
+              ],
+              "refs": [
+                {
+                  "source": "esi-4-notes",
+                  "pages": [
+                    1,
+                    2,
+                    4
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "social-card-1",
+          "question": "Distinguish a capability from a productive human-capital investment.",
+          "answer": "A capability concerns a person's real opportunity to live in a valued way. A training investment builds skills that can raise production. The same education may serve both purposes, but the evaluative lenses differ.",
+          "refs": [
+            {
+              "source": "esi-4-notes",
+              "pages": [
+                1,
+                2,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-2",
+          "question": "Illustrative case: higher family income coexists with a girl being unable to attend school. What is missing?",
+          "answer": "Income alone does not establish a real educational choice. Diagnose barriers to using resources, then assess whether access to education and agency actually improve; do not equate purchasing power with achieved freedom.",
+          "refs": [
+            {
+              "source": "esi-4-notes",
+              "pages": [
+                1,
+                2,
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-3",
+          "question": "HDI and IHDI improve different parts of a development diagnosis. How?",
+          "answer": "HDI summarises average achievement in health, education and living standards. IHDI adds the distributional lens; an average can look good while opportunities remain uneven. This comparison does not require memorising current ranks.",
+          "refs": [
+            {
+              "source": "esi-2-notes",
+              "pages": [
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-4",
+          "question": "Plan a descriptive answer: 'Human development is both a means and an end.'",
+          "answer": "Skeleton: define capabilities → explain intrinsic value of health/education → show investment-to-productivity channel → show growth-to-services channel → identify exclusion that breaks the loop → recommend access, quality and distribution checks.",
+          "refs": [
+            {
+              "source": "esi-4-notes",
+              "pages": [
+                1,
+                2,
+                4,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-5",
+          "question": "What depth should human-development revision reach?",
+          "answer": "Explain the capability/human-capital distinction, reproduce the two-way loop and apply it to a health or education case. Learn index purpose and inequality caveats; do not over-study ranks, launch-year trivia or elaborate index arithmetic without verified methodology.",
+          "refs": [
+            {
+              "source": "esi-4-notes",
+              "pages": [
+                1,
+                2,
+                4,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-6",
+          "question": "Why include information alongside education and health?",
+          "answer": "People need information about learning institutions and jobs to make useful choices. The short notes treat expenditure on obtaining that information as human-capital formation; information complements rather than replaces access to services.",
+          "refs": [
+            {
+              "source": "esi-4-notes-short",
+              "pages": [
+                5
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-sustainable-development",
+      "title": "Sustainability: resource limits, policy and intergenerational equity",
+      "subject": "ESI",
+      "summary": "Core depth: connect present needs with future resource availability, explain growth–environment mechanisms, evaluate policy instruments and SDG implementation without treating an income threshold as automatic environmental repair.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "sustainability",
+        "SDGs",
+        "environment"
+      ],
+      "related": [
+        "esi-growth-development",
+        "esi-poverty",
+        "esi-urbanisation-migration"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "sustainability",
+            "label": "Sustainability: present and future resource use",
+            "refs": [
+              {
+                "source": "esi-5-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "resources",
+            "label": "Renewables: use must respect regeneration",
+            "refs": [
+              {
+                "source": "esi-5-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "externalities",
+            "label": "Production can damage environmental quality",
+            "refs": [
+              {
+                "source": "esi-5-notes",
+                "pages": [
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "instruments",
+            "label": "Standards, efficient technology and public transport",
+            "refs": [
+              {
+                "source": "esi-5-notes",
+                "pages": [
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "equity",
+            "label": "Intergenerational equity and prudent depletion",
+            "refs": [
+              {
+                "source": "esi-5-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "sdgs",
+            "label": "SDGs: integrated objectives and implementation",
+            "refs": [
+              {
+                "source": "esi-5-notes",
+                "pages": [
+                  13,
+                  20
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "social-link-1",
+            "from": "sustainability",
+            "to": "resources",
+            "label": "requires regeneration-aware extraction",
+            "refs": [
+              {
+                "source": "esi-5-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-2",
+            "from": "resources",
+            "to": "equity",
+            "label": "preserves future usefulness",
+            "refs": [
+              {
+                "source": "esi-5-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-3",
+            "from": "externalities",
+            "to": "instruments",
+            "label": "calls for deliberate intervention",
+            "refs": [
+              {
+                "source": "esi-5-notes",
+                "pages": [
+                  3,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-4",
+            "from": "instruments",
+            "to": "sustainability",
+            "label": "can reduce pressure on resources",
+            "refs": [
+              {
+                "source": "esi-5-notes",
+                "pages": [
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-5",
+            "from": "sdgs",
+            "to": "sustainability",
+            "label": "coordinates social and environmental goals",
+            "refs": [
+              {
+                "source": "esi-5-notes",
+                "pages": [
+                  13
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-6",
+            "from": "equity",
+            "to": "sdgs",
+            "label": "extends the evaluation across generations",
+            "refs": [
+              {
+                "source": "esi-5-notes",
+                "pages": [
+                  4,
+                  13
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "social-comparison",
+          "title": "Distinctions and policy tests",
+          "columns": [
+            "Lens",
+            "Core distinction",
+            "Application / policy test"
+          ],
+          "rows": [
+            {
+              "id": "social-row-1",
+              "cells": [
+                "Renewable vs exhaustible",
+                "Renewables regenerate; exhaustible resources require prudent depletion.",
+                "Renewable does not mean unlimited: compare extraction with replenishment."
+              ],
+              "refs": [
+                {
+                  "source": "esi-5-notes",
+                  "pages": [
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-2",
+              "cells": [
+                "Efficiency vs conservation",
+                "Efficient techniques reduce resource needs; conservation also protects future availability.",
+                "Check resource pressure, not technology adoption alone."
+              ],
+              "refs": [
+                {
+                  "source": "esi-5-notes",
+                  "pages": [
+                    4,
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-3",
+              "cells": [
+                "EKC vs policy guarantee",
+                "The inverted-U is a theoretical relationship, not an assured path.",
+                "Technology, regulation and governance determine whether pollution falls."
+              ],
+              "refs": [
+                {
+                  "source": "esi-5-notes",
+                  "pages": [
+                    2,
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-4",
+              "cells": [
+                "Standards vs public investment",
+                "Emission limits constrain behaviour; public transport provides an alternative.",
+                "Combine enforcement with feasible ways to comply."
+              ],
+              "refs": [
+                {
+                  "source": "esi-5-notes",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-5",
+              "cells": [
+                "SDG agenda vs monitoring",
+                "SDGs specify linked goals; the SDG India Index supports subnational comparison.",
+                "Use monitoring to identify implementation gaps, not just celebrate rankings."
+              ],
+              "refs": [
+                {
+                  "source": "esi-5-notes",
+                  "pages": [
+                    13,
+                    20
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "social-card-1",
+          "question": "Illustrative resource case: a forest regenerates 8 units annually and harvest is 11. What is the warning?",
+          "answer": "Harvest exceeds regeneration by 3 invented units per year, signalling depletion pressure. A sustainable plan must respect regeneration and future usefulness; the arithmetic is illustrative, not a forestry estimate.",
+          "refs": [
+            {
+              "source": "esi-5-notes",
+              "pages": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-2",
+          "question": "Why is 'grow first, clean up automatically later' a weak argument?",
+          "answer": "The EKC describes a possible non-linear pattern. Its cleaner phase depends on technology, regulation, awareness and other conditions; income alone is not a policy instrument.",
+          "refs": [
+            {
+              "source": "esi-5-notes",
+              "pages": [
+                2,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-3",
+          "question": "Illustrative case: a vehicle emission rule fails because workers lack alternatives. What complementary policy fits?",
+          "answer": "Improve usable public transport while enforcing standards. Explain the mechanism: a practical travel alternative can reduce dependence on private vehicles rather than placing all adjustment costs on commuters.",
+          "refs": [
+            {
+              "source": "esi-5-notes",
+              "pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-4",
+          "question": "Plan a descriptive answer: 'Reconcile development and environmental protection.'",
+          "answer": "Skeleton: define present/future needs → identify output and livelihood benefits → trace pollution and depletion costs → match standards, technology and transport to causes → discuss who bears adjustment costs → monitor social and environmental outcomes through the SDG framework.",
+          "refs": [
+            {
+              "source": "esi-5-notes",
+              "pages": [
+                2,
+                3,
+                4,
+                5,
+                13,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-5",
+          "question": "What depth is appropriate, and what should not be over-studied?",
+          "answer": "Know regeneration versus depletion, intergenerational equity, the conditional EKC, a policy mix and the role of SDG monitoring. Do not memorise every target or recycle old climate pledges as achieved outcomes; avoid assuming all natural assets are replaceable by machines.",
+          "refs": [
+            {
+              "source": "esi-5-notes",
+              "pages": [
+                3,
+                4,
+                5,
+                13,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-6",
+          "question": "What useful cross-check do the short notes provide?",
+          "answer": "They restate the regeneration limit, equitable use across generations, public transport and emission controls. Use the full notes' explicit EKC caveat to qualify the short version's compressed description.",
+          "refs": [
+            {
+              "source": "esi-5-notes-short",
+              "pages": [
+                2,
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-poverty",
+      "title": "Poverty: incidence, depth, capabilities and vulnerability",
+      "subject": "ESI",
+      "summary": "Core depth: distinguish absolute, relative and multidimensional poverty; interpret incidence versus shortfall, trace poverty traps and match persistent deprivation or temporary shocks to suitable policy responses.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "poverty",
+        "measurement",
+        "vulnerability"
+      ],
+      "related": [
+        "esi-growth-development",
+        "employment-measurement",
+        "esi-health",
+        "esi-education",
+        "esi-gender-issues"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "poverty",
+            "label": "Poverty: inadequate resources and opportunities",
+            "refs": [
+              {
+                "source": "esi-23-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "threshold",
+            "label": "Absolute and relative poverty lenses",
+            "refs": [
+              {
+                "source": "esi-23-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measurement",
+            "label": "Incidence, shortfall and severity",
+            "refs": [
+              {
+                "source": "esi-23-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "deprivations",
+            "label": "Multidimensional deprivation",
+            "refs": [
+              {
+                "source": "esi-23-notes",
+                "pages": [
+                  14
+                ]
+              }
+            ]
+          },
+          {
+            "id": "dynamics",
+            "label": "Chronic, churning and occasional poverty",
+            "refs": [
+              {
+                "source": "esi-23-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mechanism",
+            "label": "Weak work and unequal assets constrain mobility",
+            "refs": [
+              {
+                "source": "esi-23-notes",
+                "pages": [
+                  2,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "social-link-1",
+            "from": "poverty",
+            "to": "threshold",
+            "label": "requires an explicit benchmark",
+            "refs": [
+              {
+                "source": "esi-23-notes",
+                "pages": [
+                  2,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-2",
+            "from": "threshold",
+            "to": "measurement",
+            "label": "separates counts from depth",
+            "refs": [
+              {
+                "source": "esi-23-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-3",
+            "from": "poverty",
+            "to": "deprivations",
+            "label": "extends beyond income alone",
+            "refs": [
+              {
+                "source": "esi-23-notes",
+                "pages": [
+                  2,
+                  14
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-4",
+            "from": "mechanism",
+            "to": "poverty",
+            "label": "can reproduce deprivation",
+            "refs": [
+              {
+                "source": "esi-23-notes",
+                "pages": [
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-5",
+            "from": "dynamics",
+            "to": "poverty",
+            "label": "distinguishes persistence from shocks",
+            "refs": [
+              {
+                "source": "esi-23-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-6",
+            "from": "deprivations",
+            "to": "mechanism",
+            "label": "reveals overlapping barriers",
+            "refs": [
+              {
+                "source": "esi-23-notes",
+                "pages": [
+                  3,
+                  14
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "social-comparison",
+          "title": "Distinctions and policy tests",
+          "columns": [
+            "Lens",
+            "Core distinction",
+            "Application / policy test"
+          ],
+          "rows": [
+            {
+              "id": "social-row-1",
+              "cells": [
+                "Absolute vs relative",
+                "A minimum threshold differs from disadvantage relative to others.",
+                "State the benchmark before comparing poverty across societies."
+              ],
+              "refs": [
+                {
+                  "source": "esi-23-notes",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-2",
+              "cells": [
+                "Incidence vs depth",
+                "Headcount asks how many are poor; a gap asks how far below the line they are.",
+                "A policy may reduce shortfalls before anyone crosses the line."
+              ],
+              "refs": [
+                {
+                  "source": "esi-23-notes",
+                  "pages": [
+                    5,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-3",
+              "cells": [
+                "Depth vs severity",
+                "Squared gaps give more weight to larger shortfalls.",
+                "Do not infer identical hardship from identical headcount ratios."
+              ],
+              "refs": [
+                {
+                  "source": "esi-23-notes",
+                  "pages": [
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-4",
+              "cells": [
+                "Chronic vs transient",
+                "Persistent deprivation differs from repeated entry or an occasional shock.",
+                "Combine durable livelihood/asset support with appropriate shock protection."
+              ],
+              "refs": [
+                {
+                  "source": "esi-23-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-5",
+              "cells": [
+                "Monetary vs multidimensional",
+                "Consumption or income cannot fully capture health, learning and living conditions.",
+                "Use the two lenses together; do not treat different indices as interchangeable."
+              ],
+              "refs": [
+                {
+                  "source": "esi-23-notes",
+                  "pages": [
+                    14
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "social-card-1",
+          "question": "Illustrative calculation: 24 of 120 people are below a defined poverty line. What is the headcount ratio?",
+          "answer": "HCR = 24/120 × 100 = 20%. It says nothing about each poor person's shortfall. These are invented people and a hypothetical threshold, not a poverty estimate.",
+          "refs": [
+            {
+              "source": "esi-23-notes",
+              "pages": [
+                5,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-2",
+          "question": "Illustrative shortfall: line 100 units; one person's consumption 70. What can and cannot be concluded?",
+          "answer": "The person's normalised gap is (100 - 70)/100 = 30%. This is an individual shortfall example, not the population poverty-gap index. One observation cannot establish an area's average gap or severity.",
+          "refs": [
+            {
+              "source": "esi-23-notes",
+              "pages": [
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-3",
+          "question": "Why might poverty headcount stay unchanged after a useful transfer?",
+          "answer": "An illustrative transfer can raise a poor household's resources while leaving it below the line. Depth may improve without an immediate change in incidence; assess both rather than conclude the transfer had no effect.",
+          "refs": [
+            {
+              "source": "esi-23-notes",
+              "pages": [
+                5,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-4",
+          "question": "Plan a descriptive answer: 'Poverty reduction needs more than growth.'",
+          "answer": "Skeleton: define monetary and capability deprivation → describe low-quality work and unequal asset access → distinguish chronic from shock-driven poverty → match livelihoods, services and protection to those causes → discuss targeting and durable mobility → evaluate incidence, depth and multiple deprivations.",
+          "refs": [
+            {
+              "source": "esi-23-notes",
+              "pages": [
+                2,
+                3,
+                5,
+                6,
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-5",
+          "question": "What poverty depth is essential, and what should not consume revision?",
+          "answer": "Be fluent in absolute/relative, incidence/depth/severity, multidimensionality and chronic/transient distinctions; practise one calculation and one mechanism-led policy answer. Learn estimation history selectively, not a dump of old rupee thresholds, calorie norms or incomparable PPP lines.",
+          "refs": [
+            {
+              "source": "esi-23-notes",
+              "pages": [
+                2,
+                3,
+                5,
+                6,
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-6",
+          "question": "Illustrative case: income rises but unsafe water and missed schooling persist. Has every poverty dimension disappeared?",
+          "answer": "No. The monetary improvement and non-monetary deprivations may coexist. Diagnose which service or opportunity gaps remain; do not assert an MPI classification without its specified indicators and cut-offs.",
+          "refs": [
+            {
+              "source": "esi-23-notes",
+              "pages": [
+                14
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "employment-measurement",
+      "title": "Employment: people, participation and measurement",
+      "subject": "ESI",
+      "summary": "Separate the labour force, workers and unemployed before interpreting a rate. This pilot covers selected concepts, not the entire unemployment chapter.",
+      "tags": [
+        "employment",
+        "labour force",
+        "measurement",
+        "static foundation",
+        "P1 - Core depth",
+        "unemployment types",
+        "policy transmission"
+      ],
+      "related": [
+        "growth-forecasts",
+        "esi-growth-development",
+        "esi-poverty",
+        "esi-demography",
+        "esi-gender-issues"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "measurement",
+            "label": "Employment measurement",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "labour-force",
+            "label": "Labour force: employed plus unemployed",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "participation",
+            "label": "LFPR: labour force / population",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "workers",
+            "label": "Workforce: those actually employed",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "unemployment-rate",
+            "label": "Unemployment rate: unemployed / labour force",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "underemployment",
+            "label": "Underemployment: work below skill or education level (notes' example)",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "measure-labour",
+            "from": "measurement",
+            "to": "labour-force",
+            "label": "defines the pool",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measure-lfpr",
+            "from": "measurement",
+            "to": "participation",
+            "label": "measures entry",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measure-workers",
+            "from": "measurement",
+            "to": "workers",
+            "label": "counts workers",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measure-ur",
+            "from": "measurement",
+            "to": "unemployment-rate",
+            "label": "uses labour force",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measure-under",
+            "from": "measurement",
+            "to": "underemployment",
+            "label": "distinguishes",
+            "refs": [
+              {
+                "source": "unemployment-short-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "rate-denominators",
+          "title": "Know the numerator and denominator",
+          "columns": [
+            "Measure",
+            "Numerator",
+            "Denominator",
+            "Interpretation check"
+          ],
+          "rows": [
+            {
+              "id": "lfpr",
+              "cells": [
+                "LFPR",
+                "Labour force",
+                "Population of the defined group",
+                "Do not switch age group or reference period in a comparison."
+              ],
+              "refs": [
+                {
+                  "source": "unemployment-short-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "workforce-rate",
+              "cells": [
+                "Workforce participation rate",
+                "Employed people",
+                "Population of the defined group",
+                "Employment is not the same as labour-force membership."
+              ],
+              "refs": [
+                {
+                  "source": "unemployment-short-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ur",
+              "cells": [
+                "Unemployment rate",
+                "Unemployed people",
+                "Labour force of the defined group",
+                "The denominator is not the entire population."
+              ],
+              "refs": [
+                {
+                  "source": "unemployment-short-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-unemployment-diagnosis",
+          "title": "Diagnose the employment constraint before choosing a policy",
+          "columns": [
+            "Type",
+            "Diagnostic distinction",
+            "Illustrative policy direction"
+          ],
+          "rows": [
+            {
+              "id": "social-seasonal",
+              "cells": [
+                "Seasonal",
+                "Work disappears in predictable parts of a production calendar.",
+                "Consider off-season livelihood diversification, not only vacancy information."
+              ],
+              "refs": [
+                {
+                  "source": "esi-24-notes",
+                  "pages": [
+                    7,
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-disguised",
+              "cells": [
+                "Disguised",
+                "Removing a redundant worker need not reduce output.",
+                "Enable productive non-farm work; counting everyone as working can hide low productivity."
+              ],
+              "refs": [
+                {
+                  "source": "esi-24-notes",
+                  "pages": [
+                    7
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-structural",
+              "cells": [
+                "Structural",
+                "Skills, geography or the production structure do not match labour demand.",
+                "Match training and mobility support to actual vacancies; demand support alone may not resolve mismatch."
+              ],
+              "refs": [
+                {
+                  "source": "esi-24-notes",
+                  "pages": [
+                    7,
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-frictional",
+              "cells": [
+                "Frictional",
+                "Temporary search and movement between jobs.",
+                "Improve information and matching rather than classify every search spell as a permanent skills deficit."
+              ],
+              "refs": [
+                {
+                  "source": "esi-24-notes",
+                  "pages": [
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-cyclical",
+              "cells": [
+                "Cyclical",
+                "Economy-wide weakness reduces demand for workers.",
+                "Diagnose the demand downturn; distinguish it from predictable seasonality."
+              ],
+              "refs": [
+                {
+                  "source": "esi-24-notes",
+                  "pages": [
+                    8
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "rate-calculation",
+          "question": "Illustrative calculation: population 1,000; labour force 600; employed 540. Find LFPR and unemployment rate.",
+          "answer": "LFPR = 600/1,000 = 60%. Unemployed = 600 - 540 = 60; unemployment rate = 60/600 = 10%. The numbers are invented for practice, not observed labour statistics.",
+          "refs": [
+            {
+              "source": "unemployment-short-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "workforce-trap",
+          "question": "Are everyone in the labour force and everyone employed the same set?",
+          "answer": "No. Labour force includes employed and unemployed people; workforce refers to the employed.",
+          "refs": [
+            {
+              "source": "unemployment-short-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-1",
+          "question": "Illustrative case: labour force falls from 500 to 450 while employed stays 400. Does falling unemployment prove more jobs?",
+          "answer": "Initially UR = (500 - 400)/500 = 20%; later UR = (450 - 400)/450 ≈ 11.1%. No new job appears. Participation has fallen, so read LFPR and WPR alongside UR. The invented example holds the underlying population constant.",
+          "refs": [
+            {
+              "source": "unemployment-short-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-2",
+          "question": "Illustrative case: six farm workers produce the same output as four. Is that the same as having no work after harvest?",
+          "answer": "No. The first is a stylised disguised-unemployment case: some labour is redundant. The second is seasonal unemployment. Their causes and remedies differ even if both reflect underused labour.",
+          "refs": [
+            {
+              "source": "esi-24-notes",
+              "pages": [
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-3",
+          "question": "Why should rates not be compared without their reference-period definitions?",
+          "answer": "A usual-status lens and a weekly or daily lens can capture different work patterns. The notes' exact classification wording contains inconsistencies, so use this distinction conceptually and verify official PLFS rules before quoting thresholds.",
+          "refs": [
+            {
+              "source": "esi-24-notes",
+              "pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-4",
+          "question": "Plan a descriptive answer: 'Employment-centred growth requires more than a low unemployment rate.'",
+          "answer": "Skeleton: define labour force/workforce and rate denominators → contrast participation with unemployment → diagnose seasonal, disguised, structural or cyclical constraints → match job creation, skills and matching policies to causes → discuss work quality and underemployment → evaluate with multiple indicators and consistent reference periods.",
+          "refs": [
+            {
+              "source": "esi-24-notes",
+              "pages": [
+                3,
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-5",
+          "question": "What is the expanded depth goal for this existing employment packet?",
+          "answer": "Retain the original measurement map; add denominator fluency, unemployment diagnosis and mechanism-led policy evaluation. Practise a rate case and a balanced descriptive plan. Do not memorise erroneous UPS/UPSS wording, assume a lower UR always means more work, or rely on unverified law-replacement claims.",
+          "refs": [
+            {
+              "source": "esi-24-notes",
+              "pages": [
+                3,
+                5,
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-6",
+          "question": "Illustrative case: vacancies require technical skills, while applicants lack them. Why might a general spending boost be insufficient?",
+          "answer": "The stated constraint is structural mismatch. A defensible response links demand for specific skills to training and access to suitable jobs; merely expanding spending does not guarantee applicants can fill those positions.",
+          "refs": [
+            {
+              "source": "esi-24-notes",
+              "pages": [
+                7,
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-demography",
+      "title": "Demography: population change, dependency and the dividend",
+      "subject": "ESI",
+      "summary": "Core depth: separate natural increase from migration, interpret crude rates and age composition, and explain why a demographic opportunity produces growth only with health, skills, participation and productive jobs.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "demography",
+        "demographic dividend",
+        "measurement"
+      ],
+      "related": [
+        "employment-measurement",
+        "esi-human-development",
+        "esi-gender-issues",
+        "esi-urbanisation-migration"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "population",
+            "label": "Population: births, deaths and migration",
+            "refs": [
+              {
+                "source": "esi-25-notes",
+                "pages": [
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "transition",
+            "label": "Mortality and fertility change at different speeds",
+            "refs": [
+              {
+                "source": "esi-25-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "composition",
+            "label": "Age composition and dependency",
+            "refs": [
+              {
+                "source": "esi-25-notes",
+                "pages": [
+                  15
+                ]
+              }
+            ]
+          },
+          {
+            "id": "dividend",
+            "label": "Working-age potential, not automatic growth",
+            "refs": [
+              {
+                "source": "esi-25-notes",
+                "pages": [
+                  17
+                ]
+              }
+            ]
+          },
+          {
+            "id": "conversion",
+            "label": "Health, education, skills and job creation",
+            "refs": [
+              {
+                "source": "esi-25-notes",
+                "pages": [
+                  17,
+                  18
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ageing",
+            "label": "Ageing changes care and work needs",
+            "refs": [
+              {
+                "source": "esi-25-notes",
+                "pages": [
+                  17,
+                  18
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "social-link-1",
+            "from": "transition",
+            "to": "population",
+            "label": "changes natural increase",
+            "refs": [
+              {
+                "source": "esi-25-notes",
+                "pages": [
+                  3,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-2",
+            "from": "population",
+            "to": "composition",
+            "label": "reshapes the age distribution",
+            "refs": [
+              {
+                "source": "esi-25-notes",
+                "pages": [
+                  15,
+                  17
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-3",
+            "from": "composition",
+            "to": "dividend",
+            "label": "can create a favourable work-age balance",
+            "refs": [
+              {
+                "source": "esi-25-notes",
+                "pages": [
+                  15,
+                  17
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-4",
+            "from": "conversion",
+            "to": "dividend",
+            "label": "turns potential into productive activity",
+            "refs": [
+              {
+                "source": "esi-25-notes",
+                "pages": [
+                  17,
+                  18
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-5",
+            "from": "composition",
+            "to": "ageing",
+            "label": "also requires planning for later-life needs",
+            "refs": [
+              {
+                "source": "esi-25-notes",
+                "pages": [
+                  17,
+                  18
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-6",
+            "from": "ageing",
+            "to": "conversion",
+            "label": "requires health and work-policy adaptation",
+            "refs": [
+              {
+                "source": "esi-25-notes",
+                "pages": [
+                  18
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "social-comparison",
+          "title": "Distinctions and policy tests",
+          "columns": [
+            "Lens",
+            "Core distinction",
+            "Application / policy test"
+          ],
+          "rows": [
+            {
+              "id": "social-row-1",
+              "cells": [
+                "CBR vs CDR",
+                "Births and deaths each use mid-year population, usually per thousand.",
+                "Age composition can distort cross-population comparisons of crude death rates."
+              ],
+              "refs": [
+                {
+                  "source": "esi-25-notes",
+                  "pages": [
+                    2,
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-2",
+              "cells": [
+                "Natural vs actual growth",
+                "Natural increase excludes migration; actual change includes net migration.",
+                "Do not infer fertility change from total population change alone."
+              ],
+              "refs": [
+                {
+                  "source": "esi-25-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-3",
+              "cells": [
+                "Transition vs fixed stages",
+                "Mortality decline may precede fertility decline, temporarily widening the gap.",
+                "Explain the mechanism rather than treating disputed stage numbering as universal."
+              ],
+              "refs": [
+                {
+                  "source": "esi-25-notes",
+                  "pages": [
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-4",
+              "cells": [
+                "Dependency vs unemployment",
+                "Age dependency is a demographic relationship, not a count of actual joblessness.",
+                "A working-age person is not necessarily a worker."
+              ],
+              "refs": [
+                {
+                  "source": "esi-25-notes",
+                  "pages": [
+                    15,
+                    17
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-5",
+              "cells": [
+                "Dividend vs ageing",
+                "A favourable age mix creates opportunity; later ageing creates different needs.",
+                "Invest in capabilities and jobs now while planning health and support needs."
+              ],
+              "refs": [
+                {
+                  "source": "esi-25-notes",
+                  "pages": [
+                    17,
+                    18
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "social-card-1",
+          "question": "Illustrative calculation: births 900, deaths 400, in-migrants 250, out-migrants 100. What changes?",
+          "answer": "Natural increase = 900 - 400 = 500 people. Actual increase = 500 + 250 - 100 = 650. With an illustrative mid-year population of 50,000, CBR = 18 and CDR = 8 per thousand; natural increase is 10 per thousand. These are invented counts.",
+          "refs": [
+            {
+              "source": "esi-25-notes",
+              "pages": [
+                2,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-2",
+          "question": "Why can a healthier, older population show a higher crude death rate?",
+          "answer": "Crude rates use the whole population without adjusting for age. More older people can raise the crude death rate even when survival conditions are better; examine age composition before ranking health systems.",
+          "refs": [
+            {
+              "source": "esi-25-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-3",
+          "question": "Illustrative case: the working-age share grows but vacancies and skills lag. Is the dividend assured?",
+          "answer": "No. Demographic potential needs productive employment and capabilities. Skills deficits, poor health and jobless growth can prevent the age structure from translating into higher output.",
+          "refs": [
+            {
+              "source": "esi-25-notes",
+              "pages": [
+                17,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-4",
+          "question": "Plan a descriptive answer: 'The demographic dividend is conditional.'",
+          "answer": "Skeleton: define the age-composition opportunity → explain mortality/fertility sequence → trace participation, productivity and saving channels → identify skills, health and job constraints → propose capability and employment measures → note state differences and ageing → conclude with outcomes rather than a fixed national expiry date.",
+          "refs": [
+            {
+              "source": "esi-25-notes",
+              "pages": [
+                4,
+                15,
+                17,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-5",
+          "question": "What depth is needed, and what should not dominate?",
+          "answer": "Know population accounting, crude-rate units, dependency versus actual employment and the conditional dividend. Practise one calculation and a jobs–skills–health answer. Avoid memorising old projected shares, exact dividend-window dates, alleged ideal pyramids or inconsistent stage numbering.",
+          "refs": [
+            {
+              "source": "esi-25-notes",
+              "pages": [
+                2,
+                3,
+                4,
+                15,
+                17,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-6",
+          "question": "Illustrative case: two states have different age profiles. Why avoid one identical policy package?",
+          "answer": "The dividend's timing varies across states. A younger state may prioritise capability-building and job absorption; an older state also needs stronger ageing-related healthcare and appropriate work options. These are illustrative policy applications, not state rankings.",
+          "refs": [
+            {
+              "source": "esi-25-notes",
+              "pages": [
+                17,
+                18
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-health",
+      "title": "Health: prevention, access and financial protection",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: explain health as well-being and a development input, distinguish prevention from treatment and financial protection from service availability, and prepare one coherent delivery-reform answer.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "static foundation",
+        "health",
+        "social services",
+        "financial protection"
+      ],
+      "related": [
+        "esi-human-development",
+        "esi-poverty",
+        "esi-demography",
+        "esi-gender-issues"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "health",
+            "label": "Health: well-being, not only absence of illness",
+            "refs": [
+              {
+                "source": "esi-26-notes",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "prevention",
+            "label": "Public health: prevention and collective action",
+            "refs": [
+              {
+                "source": "esi-26-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "access",
+            "label": "Access: staff, facilities and affordable medicines",
+            "refs": [
+              {
+                "source": "esi-26-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "finance",
+            "label": "Financing: protect households from medical costs",
+            "refs": [
+              {
+                "source": "esi-26-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "productivity",
+            "label": "Health supports attendance and productive days",
+            "refs": [
+              {
+                "source": "esi-26-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "governance",
+            "label": "Coordination, quality and accountability",
+            "refs": [
+              {
+                "source": "esi-26-notes",
+                "pages": [
+                  6
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "social-link-1",
+            "from": "health",
+            "to": "prevention",
+            "label": "requires action before illness",
+            "refs": [
+              {
+                "source": "esi-26-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-2",
+            "from": "prevention",
+            "to": "productivity",
+            "label": "reduces avoidable production loss",
+            "refs": [
+              {
+                "source": "esi-26-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-3",
+            "from": "access",
+            "to": "health",
+            "label": "makes needed care usable",
+            "refs": [
+              {
+                "source": "esi-26-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-4",
+            "from": "finance",
+            "to": "access",
+            "label": "reduces affordability barriers",
+            "refs": [
+              {
+                "source": "esi-26-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-5",
+            "from": "governance",
+            "to": "access",
+            "label": "supports reliable service delivery",
+            "refs": [
+              {
+                "source": "esi-26-notes",
+                "pages": [
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-6",
+            "from": "health",
+            "to": "productivity",
+            "label": "also improves school participation",
+            "refs": [
+              {
+                "source": "esi-26-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "social-comparison",
+          "title": "Distinctions and policy tests",
+          "columns": [
+            "Lens",
+            "Core distinction",
+            "Application / policy test"
+          ],
+          "rows": [
+            {
+              "id": "social-row-1",
+              "cells": [
+                "Well-being vs disease absence",
+                "Health includes physical, mental and social dimensions.",
+                "Assess functioning and quality of life, not treatment counts alone."
+              ],
+              "refs": [
+                {
+                  "source": "esi-26-notes",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-2",
+              "cells": [
+                "Prevention vs cure",
+                "Public-health action lowers disease risks; treatment responds to illness.",
+                "Use nutrition, hygiene and preventive care alongside clinical services."
+              ],
+              "refs": [
+                {
+                  "source": "esi-26-notes",
+                  "pages": [
+                    2,
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-3",
+              "cells": [
+                "Coverage vs availability",
+                "Financial coverage does not itself create clinicians, medicines or facilities.",
+                "Check both payment barriers and local service capacity."
+              ],
+              "refs": [
+                {
+                  "source": "esi-26-notes",
+                  "pages": [
+                    5,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-4",
+              "cells": [
+                "Public vs private provision",
+                "Both sectors deliver care, with different roles and access conditions.",
+                "Evaluate affordability and quality rather than assume ownership alone ensures performance."
+              ],
+              "refs": [
+                {
+                  "source": "esi-26-notes",
+                  "pages": [
+                    2,
+                    5,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-5",
+              "cells": [
+                "Health vs economic feedback",
+                "Illness reduces productivity; prevention can release resources.",
+                "Connect healthier children and workers to learning and output, without inventing benefit ratios."
+              ],
+              "refs": [
+                {
+                  "source": "esi-26-notes",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "social-card-1",
+          "question": "Illustrative case: a family has financial coverage but no nearby qualified provider. What remains unsolved?",
+          "answer": "Supply-side access remains weak. Financial protection must be complemented by personnel, facilities, medicines and accountable quality; coverage on paper is not the same as usable care.",
+          "refs": [
+            {
+              "source": "esi-26-notes",
+              "pages": [
+                5,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-2",
+          "question": "How can preventive health support education and the economy?",
+          "answer": "Better health can reduce absence and production losses, help children attend school and reduce avoidable treatment spending. Explain the chain rather than attach an unsupported numerical multiplier.",
+          "refs": [
+            {
+              "source": "esi-26-notes",
+              "pages": [
+                2
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-3",
+          "question": "Illustrative case: a hospital expands but unsafe water and poor nutrition persist. Why is that incomplete?",
+          "answer": "Treatment capacity addresses only part of the burden. Nutrition, hygiene and preventive medicine influence illness before patients reach a hospital; a development strategy needs both determinants and care.",
+          "refs": [
+            {
+              "source": "esi-26-notes",
+              "pages": [
+                2,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-4",
+          "question": "Plan a descriptive answer: 'Improve health outcomes without equating reform to more insurance alone.'",
+          "answer": "Skeleton: define broad well-being → identify prevention and social determinants → map personnel/infrastructure/medicine barriers → pair financial protection with primary service capacity → address quality and coordination → evaluate access, household burden and health outcomes.",
+          "refs": [
+            {
+              "source": "esi-26-notes",
+              "pages": [
+                1,
+                2,
+                5,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-5",
+          "question": "What is mandatory breadth, and what should not be over-studied?",
+          "answer": "Prepare prevention versus cure, supply versus financing, one growth linkage and a balanced delivery answer. This is mandatory coverage, not a skip topic. Do not memorise every committee, old mortality series or scheme benefit limit without current verification.",
+          "refs": [
+            {
+              "source": "esi-26-notes",
+              "pages": [
+                1,
+                2,
+                5,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-6",
+          "question": "Why is medical spending alone not a sufficient performance measure?",
+          "answer": "Resources matter, but staffing, governance, affordability and medicine access determine whether they produce usable, safe care. Link inputs to access and outcomes instead of assuming expenditure automatically creates health.",
+          "refs": [
+            {
+              "source": "esi-26-notes",
+              "pages": [
+                5,
+                6
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-education",
+      "title": "Education: access, learning and equitable opportunity",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: distinguish forms of learning, enrolment and meaningful educational opportunity; explain access–quality–equity and prepare a reform answer that separates policy aspirations from achieved results.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "static foundation",
+        "education",
+        "learning",
+        "equity"
+      ],
+      "related": [
+        "esi-human-development",
+        "esi-poverty",
+        "esi-gender-issues",
+        "employment-measurement"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "education",
+            "label": "Education: learning and capability-building",
+            "refs": [
+              {
+                "source": "esi-27-notes",
+                "pages": [
+                  1,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "forms",
+            "label": "Formal, non-formal and informal learning",
+            "refs": [
+              {
+                "source": "esi-27-notes",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "access",
+            "label": "Access, affordability and continuation",
+            "refs": [
+              {
+                "source": "esi-27-notes",
+                "pages": [
+                  7,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "quality",
+            "label": "Quality and competency-oriented learning",
+            "refs": [
+              {
+                "source": "esi-27-notes",
+                "pages": [
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "equity",
+            "label": "Rights and inclusion of disadvantaged learners",
+            "refs": [
+              {
+                "source": "esi-27-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "outcomes",
+            "label": "Occupational opportunity and social participation",
+            "refs": [
+              {
+                "source": "esi-27-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "social-link-1",
+            "from": "education",
+            "to": "forms",
+            "label": "takes several institutional forms",
+            "refs": [
+              {
+                "source": "esi-27-notes",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-2",
+            "from": "equity",
+            "to": "access",
+            "label": "asks who can actually participate",
+            "refs": [
+              {
+                "source": "esi-27-notes",
+                "pages": [
+                  4,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-3",
+            "from": "access",
+            "to": "quality",
+            "label": "must be paired with useful learning",
+            "refs": [
+              {
+                "source": "esi-27-notes",
+                "pages": [
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-4",
+            "from": "quality",
+            "to": "outcomes",
+            "label": "supports skills and opportunities",
+            "refs": [
+              {
+                "source": "esi-27-notes",
+                "pages": [
+                  4,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-5",
+            "from": "forms",
+            "to": "access",
+            "label": "can provide complementary routes",
+            "refs": [
+              {
+                "source": "esi-27-notes",
+                "pages": [
+                  1,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-6",
+            "from": "outcomes",
+            "to": "education",
+            "label": "grounds the development rationale",
+            "refs": [
+              {
+                "source": "esi-27-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "social-comparison",
+          "title": "Distinctions and policy tests",
+          "columns": [
+            "Lens",
+            "Core distinction",
+            "Application / policy test"
+          ],
+          "rows": [
+            {
+              "id": "social-row-1",
+              "cells": [
+                "Formal vs non-formal",
+                "Institutional schooling differs from organised learning outside that system.",
+                "Use complementary routes for groups excluded from regular provision."
+              ],
+              "refs": [
+                {
+                  "source": "esi-27-notes",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-2",
+              "cells": [
+                "Informal vs organised",
+                "Daily experience can teach without a structured programme.",
+                "Do not call every non-school activity non-formal education."
+              ],
+              "refs": [
+                {
+                  "source": "esi-27-notes",
+                  "pages": [
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-3",
+              "cells": [
+                "Enrolment vs learning",
+                "GER measures participation, not mastery of competencies.",
+                "Pair access with retention and learning checks."
+              ],
+              "refs": [
+                {
+                  "source": "esi-27-notes",
+                  "pages": [
+                    7,
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-4",
+              "cells": [
+                "Right vs delivery",
+                "A legal commitment to education still requires usable provision.",
+                "Ask whether disadvantaged learners can attend and continue."
+              ],
+              "refs": [
+                {
+                  "source": "esi-27-notes",
+                  "pages": [
+                    4,
+                    7,
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-5",
+              "cells": [
+                "Reform target vs achievement",
+                "NEP describes policy direction and planned changes.",
+                "Do not write a target as if implementation and results are already complete."
+              ],
+              "refs": [
+                {
+                  "source": "esi-27-notes",
+                  "pages": [
+                    7
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "social-card-1",
+          "question": "Illustrative GER calculation: total enrolment is 1,080 and official age-group population is 1,000. Is 108% impossible?",
+          "answer": "GER = 1,080/1,000 × 100 = 108%. It includes enrolled learners irrespective of age, so it need not be bounded at 100%. It does not show that every age-eligible child is enrolled or learning. These are invented counts.",
+          "refs": [
+            {
+              "source": "esi-27-notes",
+              "pages": [
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-2",
+          "question": "Illustrative case: a school enrols more children but skills remain weak. Which distinction matters?",
+          "answer": "Access has expanded, but enrolment is not equivalent to learning quality. Diagnose teaching and competency outcomes alongside continuation and equitable participation, rather than dismissing either access or quality.",
+          "refs": [
+            {
+              "source": "esi-27-notes",
+              "pages": [
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-3",
+          "question": "Classify an organised evening course for migrant workers versus a child learning from everyday family experience.",
+          "answer": "The structured course outside regular institutions is an illustrative non-formal route. Learning through daily experience without organised instruction is informal. Neither is automatically a substitute for adequate formal provision.",
+          "refs": [
+            {
+              "source": "esi-27-notes",
+              "pages": [
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-4",
+          "question": "Plan a descriptive answer: 'Make education expansion inclusive and meaningful.'",
+          "answer": "Skeleton: define access and learning → distinguish participation from competencies → identify affordability and inclusion barriers → connect rights with delivery → discuss quality, flexible learning and continuation → treat reform proposals as proposals → evaluate access, retention and learning together.",
+          "refs": [
+            {
+              "source": "esi-27-notes",
+              "pages": [
+                1,
+                4,
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-5",
+          "question": "What is mandatory breadth, and what should not dominate revision?",
+          "answer": "Know the three learning forms, enrolment versus learning, the role of educational rights and access–equity–quality. Prepare one GER example and a reform skeleton. Do not skip the topic, but avoid long committee histories, undated counts and claims that every NEP aspiration is implemented.",
+          "refs": [
+            {
+              "source": "esi-27-notes",
+              "pages": [
+                1,
+                4,
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-6",
+          "question": "Why is education also an ESI development issue rather than only a school-system issue?",
+          "answer": "Learning influences productivity, occupational opportunities, inequality and social participation. A useful answer connects those mechanisms with who gains access to good education, instead of listing programmes alone.",
+          "refs": [
+            {
+              "source": "esi-27-notes",
+              "pages": [
+                4
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-gender-issues",
+      "title": "Gender: agency, resources, care and participation",
+      "subject": "ESI",
+      "summary": "Core depth: use health, education, work and representation as distinct lenses; explain how norms, unpaid care and asset control shape agency, then evaluate an equity-oriented policy mix without relying on one headline ratio.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "gender",
+        "agency",
+        "unpaid care"
+      ],
+      "related": [
+        "employment-measurement",
+        "esi-human-development",
+        "esi-demography",
+        "esi-positive-discrimination",
+        "esi-education"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "gender",
+            "label": "Gender inequality: unequal opportunities and agency",
+            "refs": [
+              {
+                "source": "esi-28-notes",
+                "pages": [
+                  1,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "norms",
+            "label": "Norms, stereotypes and unequal care roles",
+            "refs": [
+              {
+                "source": "esi-28-notes",
+                "pages": [
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "assets",
+            "label": "Access to and control over assets",
+            "refs": [
+              {
+                "source": "esi-28-notes",
+                "pages": [
+                  6,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "work",
+            "label": "Participation, employment and remuneration",
+            "refs": [
+              {
+                "source": "esi-28-notes",
+                "pages": [
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "capabilities",
+            "label": "Health and educational opportunities",
+            "refs": [
+              {
+                "source": "esi-28-notes",
+                "pages": [
+                  1,
+                  3,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "voice",
+            "label": "Decision-making and political participation",
+            "refs": [
+              {
+                "source": "esi-28-notes",
+                "pages": [
+                  6,
+                  7
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "social-link-1",
+            "from": "gender",
+            "to": "norms",
+            "label": "is reproduced through social expectations",
+            "refs": [
+              {
+                "source": "esi-28-notes",
+                "pages": [
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-2",
+            "from": "norms",
+            "to": "work",
+            "label": "can constrain economic participation",
+            "refs": [
+              {
+                "source": "esi-28-notes",
+                "pages": [
+                  5,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-3",
+            "from": "assets",
+            "to": "voice",
+            "label": "influences bargaining and control",
+            "refs": [
+              {
+                "source": "esi-28-notes",
+                "pages": [
+                  6,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-4",
+            "from": "capabilities",
+            "to": "work",
+            "label": "supports productive opportunities",
+            "refs": [
+              {
+                "source": "esi-28-notes",
+                "pages": [
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-5",
+            "from": "voice",
+            "to": "gender",
+            "label": "tests substantive agency, not presence alone",
+            "refs": [
+              {
+                "source": "esi-28-notes",
+                "pages": [
+                  6,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-6",
+            "from": "work",
+            "to": "assets",
+            "label": "income matters more when control improves",
+            "refs": [
+              {
+                "source": "esi-28-notes",
+                "pages": [
+                  7
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "social-comparison",
+          "title": "Distinctions and policy tests",
+          "columns": [
+            "Lens",
+            "Core distinction",
+            "Application / policy test"
+          ],
+          "rows": [
+            {
+              "id": "social-row-1",
+              "cells": [
+                "Sex ratio vs agency",
+                "Population composition is not equivalent to control over life choices.",
+                "Read demographic indicators alongside work, assets and decision-making."
+              ],
+              "refs": [
+                {
+                  "source": "esi-28-notes",
+                  "pages": [
+                    2,
+                    7
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-2",
+              "cells": [
+                "LFPR vs WPR",
+                "Labour-force membership includes work-seeking/availability; WPR counts employment.",
+                "Use the same population group and look at job access, not participation alone."
+              ],
+              "refs": [
+                {
+                  "source": "esi-28-notes",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-3",
+              "cells": [
+                "Formal rights vs lived control",
+                "Legal recognition can coexist with unequal practical access to property.",
+                "Ask who owns, uses and makes decisions over resources."
+              ],
+              "refs": [
+                {
+                  "source": "esi-28-notes",
+                  "pages": [
+                    6,
+                    7
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-4",
+              "cells": [
+                "Equality vs equity",
+                "A common entitlement differs from support responsive to unequal starting conditions.",
+                "An equitable design tackles barriers without treating women as a uniform group."
+              ],
+              "refs": [
+                {
+                  "source": "esi-28-notes",
+                  "pages": [
+                    7
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-5",
+              "cells": [
+                "Representation vs substantive voice",
+                "Seats or presence do not alone establish equal power.",
+                "Assess meaningful decision-making alongside the representation measure."
+              ],
+              "refs": [
+                {
+                  "source": "esi-28-notes",
+                  "pages": [
+                    6,
+                    7
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "social-card-1",
+          "question": "Illustrative case: women complete education but cannot accept distant jobs because care responsibilities are unequal. What is the mechanism?",
+          "answer": "Capabilities do not automatically become employment. Unequal care roles and restrictive norms constrain usable job choices; an illustrative response combines safe access to work, care support and fair opportunities rather than education alone.",
+          "refs": [
+            {
+              "source": "esi-28-notes",
+              "pages": [
+                5,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-2",
+          "question": "Illustrative calculation: 30,000 female births and 32,000 male births. What is sex ratio at birth in the Indian convention?",
+          "answer": "30,000/32,000 × 1,000 = 937.5 girls per 1,000 boys. State the convention and reference population. This invented example is not the overall population sex ratio and cannot establish women's agency.",
+          "refs": [
+            {
+              "source": "esi-28-notes",
+              "pages": [
+                2,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-3",
+          "question": "Distinguish maternal morbidity from maternal mortality ratio.",
+          "answer": "Morbidity concerns pregnancy/childbirth-related illness or disability; the mortality ratio counts maternal deaths relative to live births. Do not interchange health burden with death counts or quote an undated current value.",
+          "refs": [
+            {
+              "source": "esi-28-notes",
+              "pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-4",
+          "question": "Plan a descriptive answer: 'Women's empowerment is more than numerical representation.'",
+          "answer": "Skeleton: define agency → organise evidence across health, education, work, assets and voice → trace norms and care constraints → distinguish formal rights from lived control → propose capability, access and decision-making measures → discuss unequal starting conditions → assess substantive outcomes.",
+          "refs": [
+            {
+              "source": "esi-28-notes",
+              "pages": [
+                1,
+                3,
+                4,
+                5,
+                6,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-5",
+          "question": "What gender depth is essential, and what must not be over-studied?",
+          "answer": "Master indicator distinctions, care/norms-to-work mechanisms, asset control, equality versus equity and a multi-domain answer. Avoid undated ranks or productivity percentages; verify law commencement and current legal text separately because these notes contain contradictory legal claims.",
+          "refs": [
+            {
+              "source": "esi-28-notes",
+              "pages": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-6",
+          "question": "Illustrative case: a property title includes a woman but she cannot decide its use. Is empowerment complete?",
+          "answer": "No. Formal recognition differs from practical control. Ask whether she can make decisions, benefit from the asset and exercise voice; a document alone does not resolve bargaining inequalities.",
+          "refs": [
+            {
+              "source": "esi-28-notes",
+              "pages": [
+                6,
+                7
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-positive-discrimination",
+      "title": "Positive discrimination: substantive equality and representation",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: explain why identical treatment can preserve historical disadvantage, distinguish reservation from wider inclusion and evaluate representation, targeting and complementary capability support without asserting unverified legal details.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "static foundation",
+        "affirmative action",
+        "equality",
+        "representation"
+      ],
+      "related": [
+        "esi-gender-issues",
+        "esi-education",
+        "esi-poverty",
+        "esi-multiculturalism"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "affirmative",
+            "label": "Affirmative action: address historical disadvantage",
+            "refs": [
+              {
+                "source": "esi-29-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "equity",
+            "label": "Substantive equality and social mobility",
+            "refs": [
+              {
+                "source": "esi-29-notes",
+                "pages": [
+                  2,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tools",
+            "label": "Reservation across education, jobs and representation",
+            "refs": [
+              {
+                "source": "esi-29-notes",
+                "pages": [
+                  2,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "representation",
+            "label": "Voice and access for disadvantaged groups",
+            "refs": [
+              {
+                "source": "esi-29-notes",
+                "pages": [
+                  2,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "design",
+            "label": "Targeting and distribution within eligible groups",
+            "refs": [
+              {
+                "source": "esi-29-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tradeoffs",
+            "label": "Implementation concerns, stigma and fairness debates",
+            "refs": [
+              {
+                "source": "esi-29-notes",
+                "pages": [
+                  6
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "social-link-1",
+            "from": "affirmative",
+            "to": "equity",
+            "label": "responds to unequal starting positions",
+            "refs": [
+              {
+                "source": "esi-29-notes",
+                "pages": [
+                  2,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-2",
+            "from": "tools",
+            "to": "representation",
+            "label": "opens institutional opportunities",
+            "refs": [
+              {
+                "source": "esi-29-notes",
+                "pages": [
+                  2,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-3",
+            "from": "representation",
+            "to": "equity",
+            "label": "can improve mobility and participation",
+            "refs": [
+              {
+                "source": "esi-29-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-4",
+            "from": "design",
+            "to": "tools",
+            "label": "shapes who receives benefits",
+            "refs": [
+              {
+                "source": "esi-29-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-5",
+            "from": "tradeoffs",
+            "to": "design",
+            "label": "requires evidence-led review",
+            "refs": [
+              {
+                "source": "esi-29-notes",
+                "pages": [
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-6",
+            "from": "equity",
+            "to": "affirmative",
+            "label": "supplies the policy rationale",
+            "refs": [
+              {
+                "source": "esi-29-notes",
+                "pages": [
+                  2,
+                  6
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "social-comparison",
+          "title": "Distinctions and policy tests",
+          "columns": [
+            "Lens",
+            "Core distinction",
+            "Application / policy test"
+          ],
+          "rows": [
+            {
+              "id": "social-row-1",
+              "cells": [
+                "Formal vs substantive equality",
+                "An identical rule need not remove accumulated disadvantage.",
+                "Explain historical exclusion and access barriers before judging differential support."
+              ],
+              "refs": [
+                {
+                  "source": "esi-29-notes",
+                  "pages": [
+                    2,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-2",
+              "cells": [
+                "Reservation vs overall inclusion",
+                "Reserved opportunities are one institutional tool, not the entire equality agenda.",
+                "Assess actual advancement and mobility, not seat allocation alone."
+              ],
+              "refs": [
+                {
+                  "source": "esi-29-notes",
+                  "pages": [
+                    2,
+                    5,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-3",
+              "cells": [
+                "Education vs jobs",
+                "Access to learning and public employment concern different entry points.",
+                "Do not assume the same eligibility and implementation rules apply everywhere."
+              ],
+              "refs": [
+                {
+                  "source": "esi-29-notes",
+                  "pages": [
+                    2,
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-4",
+              "cells": [
+                "Representation vs advancement",
+                "A political voice channel differs from the broader educational/economic objective.",
+                "Connect participation to substantive opportunities and outcomes."
+              ],
+              "refs": [
+                {
+                  "source": "esi-29-notes",
+                  "pages": [
+                    2,
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-5",
+              "cells": [
+                "Group eligibility vs benefit capture",
+                "A disadvantaged group can contain more advanced members.",
+                "Discuss targeting carefully; verify category-specific rules rather than assert one universal income test."
+              ],
+              "refs": [
+                {
+                  "source": "esi-29-notes",
+                  "pages": [
+                    5,
+                    6
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "social-card-1",
+          "question": "Why might formally identical treatment fail to create equal opportunity?",
+          "answer": "Past exclusion can leave unequal resources and institutional access. An affirmative measure seeks to change those starting conditions; evaluate whether it improves representation and mobility rather than assume different treatment is inherently unfair or automatically sufficient.",
+          "refs": [
+            {
+              "source": "esi-29-notes",
+              "pages": [
+                2,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-2",
+          "question": "Illustrative case: reserved educational access expands, but entrants lack academic support. How should the response be framed?",
+          "answer": "Treat access as a gain and identify the complementary capability gap. An illustrative policy package adds learning support and tracks completion and opportunity; this is an original application, not a claim about a particular institution.",
+          "refs": [
+            {
+              "source": "esi-29-notes",
+              "pages": [
+                2,
+                5,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-3",
+          "question": "How should merit-related objections be handled in an analytical answer?",
+          "answer": "Acknowledge fairness and implementation concerns, then examine unequal prior opportunities, actual performance and mobility. Avoid treating beneficiaries as inherently less capable or treating every criticism as settled evidence against the policy.",
+          "refs": [
+            {
+              "source": "esi-29-notes",
+              "pages": [
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-4",
+          "question": "Plan a descriptive answer: 'Evaluate positive discrimination as an inclusion instrument.'",
+          "answer": "Skeleton: define the historical-disadvantage rationale → contrast formal/substantive equality → distinguish education, employment and representation tools → explain mobility benefits → examine targeting, stigma and implementation concerns → add capability support and transparent review → conclude using access and outcomes, not slogans.",
+          "refs": [
+            {
+              "source": "esi-29-notes",
+              "pages": [
+                2,
+                5,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-5",
+          "question": "What is mandatory breadth, and what must not be over-studied?",
+          "answer": "Know rationale, tool distinctions, representation, targeting and a balanced answer. Do not skip the chapter. Avoid memorising every commission, numerical quota, creamy-layer ceiling or amendment timeline from these notes; verify precise legal provisions and effective dates separately.",
+          "refs": [
+            {
+              "source": "esi-29-notes",
+              "pages": [
+                2,
+                4,
+                5,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-6",
+          "question": "What does Article 46 add at a high level to this topic?",
+          "answer": "The notes connect it to promoting educational and economic interests of weaker sections. Use that broad advancement objective to explain why an inclusion strategy is wider than an isolated recruitment rule; do not infer a specific quota entitlement from this general direction.",
+          "refs": [
+            {
+              "source": "esi-29-notes",
+              "pages": [
+                5
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-multiculturalism",
+      "title": "Multiculturalism: recognition, inclusion and common citizenship",
+      "subject": "ESI",
+      "summary": "Mandatory syllabus breadth: distinguish the fact of cultural diversity from policies of accommodation, compare recognition with redistribution and balance group protection with individual rights and shared civic participation.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "static foundation",
+        "multiculturalism",
+        "recognition",
+        "social justice"
+      ],
+      "related": [
+        "esi-positive-discrimination",
+        "esi-urbanisation-migration",
+        "esi-gender-issues"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "multi",
+            "label": "Multiculturalism: recognition and accommodation",
+            "refs": [
+              {
+                "source": "esi-35-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "diversity",
+            "label": "Diversity: multiple cultures coexist",
+            "refs": [
+              {
+                "source": "esi-35-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "recognition",
+            "label": "Recognition addresses identity-based exclusion",
+            "refs": [
+              {
+                "source": "esi-35-notes",
+                "pages": [
+                  1,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "policy",
+            "label": "Accommodation and representation tools",
+            "refs": [
+              {
+                "source": "esi-35-notes",
+                "pages": [
+                  2,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "rights",
+            "label": "Individual rights and shared civic interests",
+            "refs": [
+              {
+                "source": "esi-35-notes",
+                "pages": [
+                  2,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "integration",
+            "label": "Participation through education, language and work",
+            "refs": [
+              {
+                "source": "esi-35-notes",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "social-link-1",
+            "from": "diversity",
+            "to": "multi",
+            "label": "poses a policy question, not an automatic answer",
+            "refs": [
+              {
+                "source": "esi-35-notes",
+                "pages": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-2",
+            "from": "multi",
+            "to": "recognition",
+            "label": "revalues marginalised identities",
+            "refs": [
+              {
+                "source": "esi-35-notes",
+                "pages": [
+                  1,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-3",
+            "from": "recognition",
+            "to": "policy",
+            "label": "motivates institutional accommodation",
+            "refs": [
+              {
+                "source": "esi-35-notes",
+                "pages": [
+                  2,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-4",
+            "from": "policy",
+            "to": "rights",
+            "label": "must be tested against individual freedom",
+            "refs": [
+              {
+                "source": "esi-35-notes",
+                "pages": [
+                  2,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-5",
+            "from": "integration",
+            "to": "multi",
+            "label": "turns recognition into participation",
+            "refs": [
+              {
+                "source": "esi-35-notes",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-6",
+            "from": "rights",
+            "to": "integration",
+            "label": "balances protection with common citizenship",
+            "refs": [
+              {
+                "source": "esi-35-notes",
+                "pages": [
+                  9,
+                  12
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "social-comparison",
+          "title": "Distinctions and policy tests",
+          "columns": [
+            "Lens",
+            "Core distinction",
+            "Application / policy test"
+          ],
+          "rows": [
+            {
+              "id": "social-row-1",
+              "cells": [
+                "Diversity vs multiculturalism",
+                "Diversity describes coexistence; multiculturalism advocates recognition and accommodation.",
+                "A diverse city can still have exclusionary institutions."
+              ],
+              "refs": [
+                {
+                  "source": "esi-35-notes",
+                  "pages": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-2",
+              "cells": [
+                "Recognition vs redistribution",
+                "Identity-related disadvantage is not only a resource-allocation problem.",
+                "Consider both respectful treatment and material opportunities."
+              ],
+              "refs": [
+                {
+                  "source": "esi-35-notes",
+                  "pages": [
+                    2,
+                    7
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-3",
+              "cells": [
+                "Assimilation vs accommodation",
+                "Absorption into majority norms differs from protecting cultural differences.",
+                "Enable participation without requiring cultural erasure."
+              ],
+              "refs": [
+                {
+                  "source": "esi-35-notes",
+                  "pages": [
+                    7,
+                    12
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-4",
+              "cells": [
+                "Group rights vs individual rights",
+                "Protecting a community can sometimes restrict people within it.",
+                "Check internal freedom as well as majority–minority relations."
+              ],
+              "refs": [
+                {
+                  "source": "esi-35-notes",
+                  "pages": [
+                    2,
+                    9
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-5",
+              "cells": [
+                "Symbolic celebration vs substantive inclusion",
+                "Public celebration may coexist with unequal education, jobs and voice.",
+                "Judge whether recognition changes real opportunities and participation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-35-notes",
+                  "pages": [
+                    9,
+                    12
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "social-card-1",
+          "question": "Illustrative case: a city holds a cultural festival but public services remain inaccessible in minority languages. What is the gap?",
+          "answer": "Symbolic celebration has not resolved substantive access. An illustrative response uses appropriate language access and participation mechanisms while assessing resources and shared civic needs; a festival alone is not inclusion.",
+          "refs": [
+            {
+              "source": "esi-35-notes",
+              "pages": [
+                2,
+                9,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-2",
+          "question": "Why does redistribution alone not exhaust multicultural policy?",
+          "answer": "Disadvantage can involve disrespect, exclusion from representation and pressure to abandon an identity. Resource transfers may help material conditions without correcting those recognition problems.",
+          "refs": [
+            {
+              "source": "esi-35-notes",
+              "pages": [
+                1,
+                2,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-3",
+          "question": "Illustrative case: a community invokes cultural protection to restrict members' choices. What should an answer test?",
+          "answer": "Test both protection against majority domination and the individual rights of people within the group. Cultural recognition does not automatically justify internal restrictions; explain the tension rather than rank cultures.",
+          "refs": [
+            {
+              "source": "esi-35-notes",
+              "pages": [
+                2,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-4",
+          "question": "Plan a descriptive answer: 'Diversity requires recognition and common citizenship.'",
+          "answer": "Skeleton: distinguish diversity from a policy stance → explain recognition and material inequality → compare accommodation with assimilation → discuss representation and service access → test group claims against individual rights and common interests → propose substantive participation → evaluate inclusion, not symbolism alone.",
+          "refs": [
+            {
+              "source": "esi-35-notes",
+              "pages": [
+                1,
+                2,
+                7,
+                9,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-5",
+          "question": "What is mandatory breadth, and what should not be over-studied?",
+          "answer": "Prepare diversity/policy, recognition/redistribution and group/individual-right distinctions plus one balanced case. Do not skip it, but avoid memorising every labelled subtype or philosopher; do not reduce communities to fixed stereotypes.",
+          "refs": [
+            {
+              "source": "esi-35-notes",
+              "pages": [
+                1,
+                2,
+                7,
+                9,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-6",
+          "question": "Can integration preserve distinct cultures?",
+          "answer": "Yes, in an accommodation-oriented approach, access to education, language learning, jobs and civic participation need not demand complete absorption into majority cultural practices. The policy test is meaningful participation with rights protection.",
+          "refs": [
+            {
+              "source": "esi-35-notes",
+              "pages": [
+                7,
+                12
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-urbanisation-migration",
+      "title": "Urbanisation and migration: drivers, agglomeration and inclusion",
+      "subject": "ESI",
+      "summary": "Core depth: distinguish urban population growth from migration alone, explain push–pull drivers and agglomeration, assess origin/destination effects and match urban-service and inclusion policies to real constraints.",
+      "tags": [
+        "P1 - Core depth",
+        "static foundation",
+        "urbanisation",
+        "migration",
+        "agglomeration"
+      ],
+      "related": [
+        "esi-demography",
+        "employment-measurement",
+        "esi-poverty",
+        "esi-sustainable-development",
+        "esi-multiculturalism"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "urban",
+            "label": "Urban change: population, classification and movement",
+            "refs": [
+              {
+                "source": "esi-36-notes",
+                "pages": [
+                  1,
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "migration",
+            "label": "Migration: varied motives and degrees of choice",
+            "refs": [
+              {
+                "source": "esi-36-notes",
+                "pages": [
+                  11,
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "drivers",
+            "label": "Push–pull forces: livelihoods, services and safety",
+            "refs": [
+              {
+                "source": "esi-36-notes",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "productivity",
+            "label": "Density and connectivity can support productivity",
+            "refs": [
+              {
+                "source": "esi-36-notes",
+                "pages": [
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "costs",
+            "label": "Congestion, housing stress and environmental costs",
+            "refs": [
+              {
+                "source": "esi-36-notes",
+                "pages": [
+                  9,
+                  13
+                ]
+              }
+            ]
+          },
+          {
+            "id": "policy",
+            "label": "Infrastructure, land-use planning and inclusion",
+            "refs": [
+              {
+                "source": "esi-36-notes",
+                "pages": [
+                  8,
+                  9,
+                  13
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "social-link-1",
+            "from": "drivers",
+            "to": "migration",
+            "label": "shapes reasons for movement",
+            "refs": [
+              {
+                "source": "esi-36-notes",
+                "pages": [
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-2",
+            "from": "migration",
+            "to": "urban",
+            "label": "contributes, but is not the only component",
+            "refs": [
+              {
+                "source": "esi-36-notes",
+                "pages": [
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-3",
+            "from": "urban",
+            "to": "productivity",
+            "label": "can create agglomeration advantages",
+            "refs": [
+              {
+                "source": "esi-36-notes",
+                "pages": [
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-4",
+            "from": "urban",
+            "to": "costs",
+            "label": "requires service capacity to keep pace",
+            "refs": [
+              {
+                "source": "esi-36-notes",
+                "pages": [
+                  9,
+                  13
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-5",
+            "from": "policy",
+            "to": "costs",
+            "label": "can reduce planning and access failures",
+            "refs": [
+              {
+                "source": "esi-36-notes",
+                "pages": [
+                  9,
+                  13
+                ]
+              }
+            ]
+          },
+          {
+            "id": "social-link-6",
+            "from": "policy",
+            "to": "productivity",
+            "label": "supports inclusive connectivity and investment",
+            "refs": [
+              {
+                "source": "esi-36-notes",
+                "pages": [
+                  8,
+                  9
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "social-comparison",
+          "title": "Distinctions and policy tests",
+          "columns": [
+            "Lens",
+            "Core distinction",
+            "Application / policy test"
+          ],
+          "rows": [
+            {
+              "id": "social-row-1",
+              "cells": [
+                "Urbanisation vs urban growth",
+                "A rising urban share differs from the absolute addition of urban residents.",
+                "Check the population base and definition before comparing places."
+              ],
+              "refs": [
+                {
+                  "source": "esi-36-notes",
+                  "pages": [
+                    1,
+                    2,
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-2",
+              "cells": [
+                "Natural increase vs migration",
+                "Births minus deaths, net movement and reclassification all affect urban totals.",
+                "Do not attribute every new urban resident to rural out-migration."
+              ],
+              "refs": [
+                {
+                  "source": "esi-36-notes",
+                  "pages": [
+                    2,
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-3",
+              "cells": [
+                "Push vs pull",
+                "Origin hardships and destination attractions jointly shape movement.",
+                "Diagnose jobs, services, safety and environmental pressures at both ends."
+              ],
+              "refs": [
+                {
+                  "source": "esi-36-notes",
+                  "pages": [
+                    12
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-4",
+              "cells": [
+                "Voluntary vs forced movement",
+                "Economic choice differs from displacement with little or no viable option.",
+                "Do not treat every migrant as a voluntary job seeker or every displaced person as a cross-border refugee."
+              ],
+              "refs": [
+                {
+                  "source": "esi-36-notes",
+                  "pages": [
+                    11
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "social-row-5",
+              "cells": [
+                "Agglomeration vs congestion",
+                "Density/connectivity can support productivity; inadequate planning can raise costs.",
+                "Judge infrastructure, housing and inclusion rather than assume city growth is automatically developmental."
+              ],
+              "refs": [
+                {
+                  "source": "esi-36-notes",
+                  "pages": [
+                    8,
+                    9,
+                    13
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "social-card-1",
+          "question": "Illustrative calculation: urban residents increase by 20,000; natural increase is 8,000 and reclassification adds 5,000. What is the residual net migration?",
+          "answer": "20,000 - 8,000 - 5,000 = 7,000, assuming these exhaust the components and boundaries are consistently defined. These invented figures show why urban growth is not identical to migration.",
+          "refs": [
+            {
+              "source": "esi-36-notes",
+              "pages": [
+                2,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-2",
+          "question": "Illustrative case: workers move after crop failure toward a city with vacancies. Identify push and pull.",
+          "answer": "Crop failure and fragile livelihoods are origin-side pushes; jobs and income prospects are destination-side pulls. Both can act together, and movement may involve constrained choice rather than a simple preference.",
+          "refs": [
+            {
+              "source": "esi-36-notes",
+              "pages": [
+                11,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-3",
+          "question": "Why can migration help an origin region while also creating costs?",
+          "answer": "Remittances can support household resources, while skilled-worker loss and a changed age composition can create pressures. At destinations, migrants contribute labour but service capacity must adapt; avoid an all-good or all-bad verdict.",
+          "refs": [
+            {
+              "source": "esi-36-notes",
+              "pages": [
+                12,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-4",
+          "question": "Plan a descriptive answer: 'Make migration and urbanisation developmental.'",
+          "answer": "Skeleton: distinguish urban share/growth and movement → decompose urban growth → explain push–pull and agglomeration mechanisms → compare origin/destination benefits and costs → address housing, services, connectivity and participation → discuss planning and displacement trade-offs → assess inclusive productivity and living conditions.",
+          "refs": [
+            {
+              "source": "esi-36-notes",
+              "pages": [
+                1,
+                2,
+                3,
+                8,
+                9,
+                11,
+                12,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-5",
+          "question": "What depth is essential, and what should not dominate?",
+          "answer": "Know the urban-growth decomposition, push–pull, voluntary/forced movement, agglomeration/congestion and origin/destination trade-offs. Prepare a numerical illustration and a policy answer. Do not memorise every city model or use old urban shares; do not blame migrants inherently for service failures.",
+          "refs": [
+            {
+              "source": "esi-36-notes",
+              "pages": [
+                2,
+                3,
+                8,
+                9,
+                11,
+                12,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social-card-6",
+          "question": "Illustrative case: neighbourhood upgrading raises rents and displaces low-income residents. Why is physical renewal not enough?",
+          "answer": "The gentrification lens shows that improving buildings and attracting wealth can change living costs and community access. Assess affordability, displacement and inclusive planning alongside investment gains.",
+          "refs": [
+            {
+              "source": "esi-36-notes",
+              "pages": [
+                9
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    }
+  ]
+}

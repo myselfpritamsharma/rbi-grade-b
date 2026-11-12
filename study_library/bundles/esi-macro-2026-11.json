@@ -1,0 +1,5391 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "esi-1-notes",
+      "title": "National income: boundaries, bridges and welfare — full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\National Income Accounting-1\\Notes_National_Income_Accounting___1__lyst1775722532250.pdf",
+      "sha256": "3c8403340aee67bacc22f681d748ef6887d2165af5a614820c7615464853a44f",
+      "pages": 37,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-13-notes",
+      "title": "Economic reforms: stabilisation, incentives and inclusion — full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Economic Reforms-13\\Notes_Economic_Reforms___1__lyst1770880310860.pdf",
+      "sha256": "1838f9f6277bc564e7155f437fb8cd9dfa02a41a88f35a3dfee53c1a5f64a6c0",
+      "pages": 18,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-6-notes",
+      "title": "Nature of the Indian economy: transformation and persistent gaps — full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Nature of Indian Economy-6\\Notes_Nature_of_Indian_Economy__2__lyst1775629242376.pdf",
+      "sha256": "3a03e0641c9726702b14e6dc734900be75d1227a1f123a10440ba2afab6ad256",
+      "pages": 12,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-14-notes",
+      "title": "Post-1991 macroeconomy: growth, capital formation and delivery — full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Nature of Indian Economy Post 1991 Macro-economy-14\\Notes_Indian_Economy_Post_1991_Macro_Economy___1__lyst1775678383080.pdf",
+      "sha256": "f31970ba191b7783612f13fe2cefeecfcb02d6443db2d10a28200f2968b81d51",
+      "pages": 10,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-19-notes",
+      "title": "Public expenditure and receipts: classify before evaluating — full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Public Expenditure and Receipts-19\\Notes_Public_Expenditure_and_Reciepts__1__lyst1775636762930.pdf",
+      "sha256": "7a503a4200849257d50d5d7fe20dad5b888994d0650a7a1dc384fd6d092c7235",
+      "pages": 8,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-20-notes",
+      "title": "Public debt: financing, risk and sustainability — full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Public Debt-20\\NOTES_PUBLIC_DEBT__1__lyst1775639780641.pdf",
+      "sha256": "90cac50ae546e2552a05fa2b537ae607f04e214f15823006ba606f608abc6173",
+      "pages": 12,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-21-notes",
+      "title": "Fiscal policy: deficits, stabilisation and consolidation — full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Fiscal Policy-21\\Notes_Fiscal_Policy_fianl__1__lyst1772782099912.pdf",
+      "sha256": "90daa9ac2044ff0bd9507d6d93de4bb389044184af8c275606c62c8a8f52bd28",
+      "pages": 14,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-22-notes",
+      "title": "Federal finance: powers, sharing and intergovernmental support — full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Federal Finance-22\\Notes_Federal_Finance___1__lyst1773040506980.pdf",
+      "sha256": "0ab6bcda21ffaf562bde3082d79f86765475236689c6cf8dc839867bc12c7e19",
+      "pages": 7,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-31-notes",
+      "title": "Banks and RBI: development, inclusion and policy transmission — full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Roles of Banks and RBI in Development Process-31\\Notes_Role_of_Indian_Banks_and_Reserve_Bank_in_Development_Flattened_lyst1712913753310.pdf",
+      "sha256": "8f3e459ba6fd28ad37335b2366c3ac8933104282301ac07adcd8c7ca67fbd051",
+      "pages": 8,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-32-notes",
+      "title": "Rural credit and microfinance: access with borrower resilience — full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Rural Credit and Microfinance-32\\Notes_Rural_Credit_and_Microfinance_Flattened_lyst9422.pdf",
+      "sha256": "a190f73254bb7f369c79ac485b355bd5410f33c0abd9fbbccc91cc6f7324f131",
+      "pages": 16,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-33-notes",
+      "title": "Inflation: measurement, causes and limits of policy — full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Inflation-33\\Notes_Inflation_Flattened_lyst1713862040114.pdf",
+      "sha256": "067f205a8690b52223c5adcba81d980195f678f642725a594f090849d80e5fef",
+      "pages": 14,
+      "kind": "notes",
+      "period": null
+    },
+    {
+      "id": "esi-37-notes",
+      "title": "Indian taxation: design, GST mechanics and revenue responsiveness — full notes",
+      "path": "SubjectNotesForPhase2\\ESI\\Indian Taxation System-37\\UPDATED_NOTES_INDIAN_TAXATION_SYSTEM___1__lyst1775467338786.pdf",
+      "sha256": "703d2356c592bdca1e559c5686ad18e83b1285d287e2cc433739b8b911b12397",
+      "pages": 25,
+      "kind": "notes",
+      "period": null
+    }
+  ],
+  "topics": [
+    {
+      "id": "esi-national-income",
+      "title": "National income: boundaries, bridges and welfare",
+      "subject": "ESI",
+      "summary": "Identify the production boundary, reconcile measurement approaches and distinguish output growth from welfare.",
+      "tags": [
+        "P1 - Core depth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-inflation",
+        "esi-economy-nature",
+        "esi-post1991-macro",
+        "growth-forecasts"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "National accounts: production, income and expenditure",
+            "refs": [
+              {
+                "source": "esi-1-notes",
+                "pages": [
+                  11,
+                  23,
+                  24
+                ]
+              }
+            ]
+          },
+          {
+            "id": "boundary",
+            "label": "Boundary: resident, territory and current production",
+            "refs": [
+              {
+                "source": "esi-1-notes",
+                "pages": [
+                  4,
+                  6,
+                  8,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "methods",
+            "label": "Three methods: value added, factor income, final expenditure",
+            "refs": [
+              {
+                "source": "esi-1-notes",
+                "pages": [
+                  19,
+                  21,
+                  23
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bridges",
+            "label": "Domestic → national; gross → net; valuation basis",
+            "refs": [
+              {
+                "source": "esi-1-notes",
+                "pages": [
+                  10,
+                  18,
+                  24,
+                  25,
+                  34,
+                  35
+                ]
+              }
+            ]
+          },
+          {
+            "id": "prices",
+            "label": "Nominal versus real output and GDP deflator",
+            "refs": [
+              {
+                "source": "esi-1-notes",
+                "pages": [
+                  29,
+                  30,
+                  31
+                ]
+              }
+            ]
+          },
+          {
+            "id": "welfare",
+            "label": "Per-capita output is not distribution or environmental welfare",
+            "refs": [
+              {
+                "source": "esi-1-notes",
+                "pages": [
+                  31,
+                  32,
+                  36
+                ]
+              }
+            ]
+          },
+          {
+            "id": "revisions",
+            "label": "Base-year and data revisions change comparability",
+            "refs": [
+              {
+                "source": "esi-1-notes",
+                "pages": [
+                  33,
+                  34,
+                  35,
+                  36
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "boundary",
+            "label": "first defines what is counted",
+            "refs": [
+              {
+                "source": "esi-1-notes",
+                "pages": [
+                  4,
+                  6,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "boundary",
+            "to": "methods",
+            "label": "prevents double counting and transfer-income errors",
+            "refs": [
+              {
+                "source": "esi-1-notes",
+                "pages": [
+                  19,
+                  21,
+                  23,
+                  24
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "methods",
+            "to": "bridges",
+            "label": "reconciles aggregates on the same basis",
+            "refs": [
+              {
+                "source": "esi-1-notes",
+                "pages": [
+                  24,
+                  25
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "root",
+            "to": "prices",
+            "label": "separates price change from output change",
+            "refs": [
+              {
+                "source": "esi-1-notes",
+                "pages": [
+                  29,
+                  31
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "prices",
+            "to": "welfare",
+            "label": "real growth still leaves welfare gaps",
+            "refs": [
+              {
+                "source": "esi-1-notes",
+                "pages": [
+                  31,
+                  32
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-6",
+            "from": "revisions",
+            "to": "prices",
+            "label": "requires consistent series and base-year labels",
+            "refs": [
+              {
+                "source": "esi-1-notes",
+                "pages": [
+                  33,
+                  34,
+                  36
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "macro-2026-11-comparison",
+          "title": "Distinctions and application checks",
+          "columns": [
+            "Concept",
+            "Distinction / mechanism",
+            "Use or caution"
+          ],
+          "rows": [
+            {
+              "id": "domestic-national",
+              "cells": [
+                "Domestic / national",
+                "Territory of production / income of residents.",
+                "Residence is an economic concept, not citizenship; use NFIA only for the national bridge."
+              ],
+              "refs": [
+                {
+                  "source": "esi-1-notes",
+                  "pages": [
+                    4,
+                    9,
+                    10,
+                    25
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "gross-net",
+              "cells": [
+                "Gross / net",
+                "Subtract consumption of fixed capital (depreciation) to obtain the net aggregate.",
+                "Do not subtract depreciation twice."
+              ],
+              "refs": [
+                {
+                  "source": "esi-1-notes",
+                  "pages": [
+                    10,
+                    18,
+                    24
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "valuation",
+              "cells": [
+                "Factor cost / basic prices / market prices",
+                "The notes distinguish factor payments, production taxes/subsidies and product taxes/subsidies.",
+                "Do not equate GVA at basic prices with GDP at market prices without the appropriate tax/subsidy bridge."
+              ],
+              "refs": [
+                {
+                  "source": "esi-1-notes",
+                  "pages": [
+                    34,
+                    35
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "methods",
+              "cells": [
+                "Value added / income / expenditure",
+                "Subtract intermediate inputs / sum factor incomes / count final uses.",
+                "All three need compatible boundaries and valuations; share trades themselves are not fresh production."
+              ],
+              "refs": [
+                {
+                  "source": "esi-1-notes",
+                  "pages": [
+                    19,
+                    21,
+                    23,
+                    24
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "prices",
+              "cells": [
+                "Nominal / real / deflator",
+                "Current-price value / constant-price output / nominal-to-real price index.",
+                "Deflator = nominal GDP ÷ real GDP × 100; an index level of 125 is not 125% inflation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-1-notes",
+                  "pages": [
+                    29,
+                    30,
+                    31
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "disposable",
+              "cells": [
+                "National income / disposable income",
+                "Earned factor income differs from resources available after relevant transfers and taxes.",
+                "A remittance can affect disposable resources without being current domestic production."
+              ],
+              "refs": [
+                {
+                  "source": "esi-1-notes",
+                  "pages": [
+                    9,
+                    27,
+                    28
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "boundary-case",
+          "question": "A used machine is resold through a broker. What belongs in current production?",
+          "answer": "The old machine's resale value is not newly produced output; the current brokerage service is. Classify the transaction before adding money flows.",
+          "refs": [
+            {
+              "source": "esi-1-notes",
+              "pages": [
+                6,
+                21,
+                23
+              ]
+            }
+          ]
+        },
+        {
+          "id": "value-added-calculation",
+          "question": "Original illustrative calculation: a grower sells produce for 80, a processor sells for 150 and a retailer sells for 190. Assume no other intermediate inputs. Find total value added.",
+          "answer": "Value added = 80 + (150 − 80) + (190 − 150) = 190 currency units, not gross sales of 420. Invented inputs demonstrate the anti-double-counting rule; they are not source statistics.",
+          "refs": [
+            {
+              "source": "esi-1-notes",
+              "pages": [
+                19,
+                20,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bridges-calculation",
+          "question": "Original illustrative bridge: GDP at market prices 1,000; depreciation 80; net indirect taxes 100; NFIA −20. Find textbook NNP at factor cost.",
+          "answer": "1,000 − 80 − 100 − 20 = 800. State every valuation and sign. These invented figures use the notes' textbook factor-cost bridge, not a claim that today's headline GDP is reported at factor cost.",
+          "refs": [
+            {
+              "source": "esi-1-notes",
+              "pages": [
+                10,
+                24,
+                25,
+                34,
+                35
+              ]
+            }
+          ]
+        },
+        {
+          "id": "deflator-calculation",
+          "question": "Original illustrative price calculation: nominal GDP 600 and real GDP 480. What is the deflator?",
+          "answer": "600 ÷ 480 × 100 = 125 index points. It means the aggregate price level is 25% above the reference level of 100; computing annual inflation would also require the preceding period's index.",
+          "refs": [
+            {
+              "source": "esi-1-notes",
+              "pages": [
+                30,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "id": "resident-trap",
+          "question": "Can an Indian passport alone establish inclusion in India's national income?",
+          "answer": "No. Distinguish citizenship from economic residence and distinguish factor income from transfers. The notes' shorthand about 'Indians/foreigners' must be read with their residence definition.",
+          "refs": [
+            {
+              "source": "esi-1-notes",
+              "pages": [
+                4,
+                9,
+                10,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "id": "descriptive-outline",
+          "question": "Plan an answer: 'GDP growth is necessary but insufficient for development.'",
+          "answer": "Outline: define real output → explain measurement and production boundaries → distinguish per-capita output from distribution → discuss unpaid services and environmental costs → conclude with complementary welfare indicators and careful comparisons. Use an official dated release for any contemporary number.",
+          "refs": [
+            {
+              "source": "esi-1-notes",
+              "pages": [
+                5,
+                6,
+                29,
+                31,
+                32,
+                36
+              ]
+            }
+          ]
+        },
+        {
+          "id": "depth-stop",
+          "question": "How deep should this P1 topic be studied, and where should revision stop?",
+          "answer": "Master three methods, final/intermediate classification, gross/net and domestic/national bridges, basic-price versus market-price labels, disposable-income distinctions, real/nominal/deflator and welfare limits. Stop after solving fresh mixed cases without cues; do not memorise historical per-capita figures or obsolete sector weights. P1 is a study allocation, not permission to omit any syllabus chapter.",
+          "refs": [
+            {
+              "source": "esi-1-notes",
+              "pages": [
+                6,
+                8,
+                10,
+                19,
+                21,
+                23,
+                24,
+                27,
+                28,
+                29,
+                31,
+                32,
+                36
+              ]
+            }
+          ]
+        },
+        {
+          "id": "source-check",
+          "question": "Which statements in these notes require a source check before use?",
+          "answer": "The early blanket GVA = GDP wording conflicts with the later distinction between basic-price GVA and market-price GDP. Later pages also mix a newer base-year assertion with the earlier series discussion. Treat release status/base year as date-sensitive and check NSO; do not repeat citizenship shorthand, declare all non-market production excluded, or infer that nominal GDP has no policy use.",
+          "refs": [
+            {
+              "source": "esi-1-notes",
+              "pages": [
+                4,
+                6,
+                19,
+                29,
+                33,
+                34,
+                35,
+                36
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-reforms",
+      "title": "Economic reforms: stabilisation, incentives and inclusion",
+      "subject": "ESI",
+      "summary": "Explain the crisis-to-reform mechanism and assess efficiency gains alongside distributional and employment concerns.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-post1991-macro",
+        "esi-economy-nature",
+        "esi-fiscal-policy",
+        "esi-banks-rbi"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Reforms: stabilise the economy and change incentives",
+            "refs": [
+              {
+                "source": "esi-13-notes",
+                "pages": [
+                  3,
+                  10,
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "crisis",
+            "label": "Crisis: fiscal stress, external vulnerability and shocks",
+            "refs": [
+              {
+                "source": "esi-13-notes",
+                "pages": [
+                  1,
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "stabilise",
+            "label": "Stabilisation: inflation, fiscal and external balance",
+            "refs": [
+              {
+                "source": "esi-13-notes",
+                "pages": [
+                  10,
+                  11
+                ]
+              }
+            ]
+          },
+          {
+            "id": "lpg",
+            "label": "Liberalisation, privatisation and global integration",
+            "refs": [
+              {
+                "source": "esi-13-notes",
+                "pages": [
+                  4,
+                  5,
+                  6,
+                  8,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "structural",
+            "label": "Structural reform: competition, finance and productive capacity",
+            "refs": [
+              {
+                "source": "esi-13-notes",
+                "pages": [
+                  12,
+                  13,
+                  14
+                ]
+              }
+            ]
+          },
+          {
+            "id": "inclusion",
+            "label": "Assessment: growth, jobs, agriculture, inequality and human development",
+            "refs": [
+              {
+                "source": "esi-13-notes",
+                "pages": [
+                  14,
+                  15,
+                  16,
+                  17
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "crisis",
+            "to": "root",
+            "label": "creates pressure for policy change",
+            "refs": [
+              {
+                "source": "esi-13-notes",
+                "pages": [
+                  1,
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "root",
+            "to": "stabilise",
+            "label": "addresses immediate imbalances",
+            "refs": [
+              {
+                "source": "esi-13-notes",
+                "pages": [
+                  10,
+                  11
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "root",
+            "to": "lpg",
+            "label": "opens entry, ownership and international channels",
+            "refs": [
+              {
+                "source": "esi-13-notes",
+                "pages": [
+                  4,
+                  5,
+                  8,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "lpg",
+            "to": "structural",
+            "label": "changes longer-run resource allocation",
+            "refs": [
+              {
+                "source": "esi-13-notes",
+                "pages": [
+                  12,
+                  13,
+                  14
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "structural",
+            "to": "inclusion",
+            "label": "must be evaluated beyond aggregate growth",
+            "refs": [
+              {
+                "source": "esi-13-notes",
+                "pages": [
+                  14,
+                  15,
+                  16,
+                  17
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "macro-2026-11-comparison",
+          "title": "Distinctions and application checks",
+          "columns": [
+            "Concept",
+            "Distinction / mechanism",
+            "Use or caution"
+          ],
+          "rows": [
+            {
+              "id": "horizon",
+              "cells": [
+                "Stabilisation / structural adjustment",
+                "Contain near-term imbalances / alter long-run supply incentives and institutions.",
+                "Tax and financial changes can serve both; the categories are analytical, not watertight."
+              ],
+              "refs": [
+                {
+                  "source": "esi-13-notes",
+                  "pages": [
+                    10,
+                    11,
+                    12,
+                    13
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "liberalisation",
+              "cells": [
+                "Liberalisation / absence of regulation",
+                "Reduce restrictive entry and controls, not every public-interest rule.",
+                "Ask what competition and supervision replace administrative controls."
+              ],
+              "refs": [
+                {
+                  "source": "esi-13-notes",
+                  "pages": [
+                    4,
+                    12,
+                    13
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ownership",
+              "cells": [
+                "Disinvestment / privatisation",
+                "Selling equity need not transfer control; privatisation involves private ownership/control.",
+                "Check the actual transaction rather than treating every share sale as privatisation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-13-notes",
+                  "pages": [
+                    5,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "autonomy",
+              "cells": [
+                "PSU autonomy / ownership transfer",
+                "More managerial discretion can occur without selling an enterprise.",
+                "Understand the incentive rationale; do not memorise changing Ratna thresholds."
+              ],
+              "refs": [
+                {
+                  "source": "esi-13-notes",
+                  "pages": [
+                    6,
+                    7
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "convertibility",
+              "cells": [
+                "Current-account / capital-account convertibility",
+                "Routine international transactions differ from investment and borrowing flows.",
+                "Do not infer unrestricted capital mobility from trade liberalisation; source descriptions contain simplified categories."
+              ],
+              "refs": [
+                {
+                  "source": "esi-13-notes",
+                  "pages": [
+                    8,
+                    9,
+                    12
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "evaluation",
+              "cells": [
+                "Efficiency / inclusion",
+                "Growth, investment and exports are not the same test as jobs, regional balance and social access.",
+                "Use balanced mechanisms and dated evidence, not a claim that every outcome was caused solely by reforms."
+              ],
+              "refs": [
+                {
+                  "source": "esi-13-notes",
+                  "pages": [
+                    14,
+                    15,
+                    16,
+                    17
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "crisis-chain",
+          "question": "How could an oil-price shock aggravate an already vulnerable external position?",
+          "answer": "A higher import bill and weaker remittance inflows can intensify foreign-exchange pressure. Explain interaction with domestic fiscal and industrial weaknesses, rather than reciting a crisis-year statistics list.",
+          "refs": [
+            {
+              "source": "esi-13-notes",
+              "pages": [
+                1,
+                2,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ownership-case",
+          "question": "The government sells a small shareholding but retains control. Is this necessarily privatisation?",
+          "answer": "No. It is disinvestment; whether control actually transfers is the relevant distinction. Greater PSU autonomy is another reform lever and is not itself a sale.",
+          "refs": [
+            {
+              "source": "esi-13-notes",
+              "pages": [
+                5,
+                6,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "tradeoff-case",
+          "question": "Why might competition gains coexist with pressure on some workers or sectors?",
+          "answer": "Opening markets can improve efficiency and export opportunities while import competition, skill mismatch and uneven access to services leave adjustment costs concentrated. Identify affected groups and complementary policy rather than making an all-good/all-bad judgement.",
+          "refs": [
+            {
+              "source": "esi-13-notes",
+              "pages": [
+                14,
+                15,
+                16,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "id": "descriptive-outline",
+          "question": "Outline: 'The next stage of reform must convert growth into broad development.'",
+          "answer": "Crisis and objectives briefly → stabilisation versus structural changes → LPG transmission through incentives and finance → gains and adjustment costs → employment, agriculture, infrastructure, skills, governance and sustainability → balanced conclusion.",
+          "refs": [
+            {
+              "source": "esi-13-notes",
+              "pages": [
+                3,
+                10,
+                12,
+                14,
+                15,
+                16,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "id": "depth-stop",
+          "question": "What does P2 breadth require here?",
+          "answer": "Cover crisis mechanisms, LPG distinctions, stabilisation/structural horizons, ownership versus control, convertibility and a balanced evaluation. Stop before detailed chronology, successive licensing lists or Ratna numeric criteria. Practise a policy-comparison answer; the whole syllabus remains mandatory breadth, and P2 is not a prediction of question frequency.",
+          "refs": [
+            {
+              "source": "esi-13-notes",
+              "pages": [
+                1,
+                3,
+                4,
+                6,
+                7,
+                8,
+                10,
+                12,
+                15,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "id": "source-check",
+          "question": "Which reform claims should not be carried forward unqualified?",
+          "answer": "The notes use sweeping claims about removal of trade barriers and broad causal claims about sectoral outcomes. Do not treat them as current legal rules or causal proof. Use the fiscal-policy packet rather than page 11's loose deficit definition; verify present trade/investment restrictions and any modern scheme before naming its scope.",
+          "refs": [
+            {
+              "source": "esi-13-notes",
+              "pages": [
+                9,
+                11,
+                12,
+                13,
+                15,
+                18
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-economy-nature",
+      "title": "Nature of the Indian economy: transformation and persistent gaps",
+      "subject": "ESI",
+      "summary": "Assess development using structural change, capabilities and distribution, not a single income ranking.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-national-income",
+        "esi-post1991-macro",
+        "employment-measurement",
+        "esi-banks-rbi"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Developing economy: progress alongside structural constraints",
+            "refs": [
+              {
+                "source": "esi-6-notes",
+                "pages": [
+                  8,
+                  10,
+                  11,
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "income",
+            "label": "Income: aggregate and per-person measures",
+            "refs": [
+              {
+                "source": "esi-6-notes",
+                "pages": [
+                  2,
+                  8,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "structure",
+            "label": "Structure: sectoral output and employment need separate checks",
+            "refs": [
+              {
+                "source": "esi-6-notes",
+                "pages": [
+                  1,
+                  6,
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "id": "distribution",
+            "label": "Distribution: inequality, poverty and the Lorenz/Gini lens",
+            "refs": [
+              {
+                "source": "esi-6-notes",
+                "pages": [
+                  3,
+                  4,
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "capabilities",
+            "label": "Capabilities: health, education, skills and productive work",
+            "refs": [
+              {
+                "source": "esi-6-notes",
+                "pages": [
+                  6,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "capacity",
+            "label": "Capacity: capital, infrastructure, technology and finance",
+            "refs": [
+              {
+                "source": "esi-6-notes",
+                "pages": [
+                  7,
+                  8,
+                  11,
+                  12
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "income",
+            "label": "uses quantitative progress indicators",
+            "refs": [
+              {
+                "source": "esi-6-notes",
+                "pages": [
+                  8,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "root",
+            "to": "structure",
+            "label": "also requires structural transformation",
+            "refs": [
+              {
+                "source": "esi-6-notes",
+                "pages": [
+                  8,
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "income",
+            "to": "distribution",
+            "label": "average gains do not establish equal gains",
+            "refs": [
+              {
+                "source": "esi-6-notes",
+                "pages": [
+                  2,
+                  3,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "capabilities",
+            "to": "structure",
+            "label": "skills and job opportunities affect labour movement",
+            "refs": [
+              {
+                "source": "esi-6-notes",
+                "pages": [
+                  7,
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "capacity",
+            "to": "capabilities",
+            "label": "capital and infrastructure support productivity",
+            "refs": [
+              {
+                "source": "esi-6-notes",
+                "pages": [
+                  7,
+                  8,
+                  11
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "macro-2026-11-comparison",
+          "title": "Distinctions and application checks",
+          "columns": [
+            "Concept",
+            "Distinction / mechanism",
+            "Use or caution"
+          ],
+          "rows": [
+            {
+              "id": "growth-development",
+              "cells": [
+                "Growth / development",
+                "Higher output is quantitative; development also involves structural and social improvement.",
+                "Use income and structural indicators together."
+              ],
+              "refs": [
+                {
+                  "source": "esi-6-notes",
+                  "pages": [
+                    8,
+                    10,
+                    11,
+                    12
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "output-work",
+              "cells": [
+                "Output share / employment share",
+                "A sector can lose GDP share faster than it releases labour.",
+                "Do not equate services-led output growth with complete labour transformation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-6-notes",
+                  "pages": [
+                    1,
+                    6,
+                    10
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "average-distribution",
+              "cells": [
+                "Per-capita income / inequality",
+                "An average says little about how income or wealth is shared.",
+                "Specify whether an inequality estimate concerns income, consumption or wealth."
+              ],
+              "refs": [
+                {
+                  "source": "esi-6-notes",
+                  "pages": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    9
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lorenz-gini",
+              "cells": [
+                "Lorenz curve / Gini",
+                "Cumulative distribution picture / area-based inequality summary.",
+                "Gini = area between equality line and Lorenz curve ÷ area under equality line; compare consistent concepts."
+              ],
+              "refs": [
+                {
+                  "source": "esi-6-notes",
+                  "pages": [
+                    3,
+                    4,
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "human-physical",
+              "cells": [
+                "Human / physical capital",
+                "Health, schooling and skills / equipment and infrastructure.",
+                "Both matter for productivity; neither is captured adequately by a headline rank alone."
+              ],
+              "refs": [
+                {
+                  "source": "esi-6-notes",
+                  "pages": [
+                    6,
+                    7,
+                    8,
+                    11
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "labour",
+              "cells": [
+                "Structural / cyclical unemployment",
+                "Mismatch and slow reallocation / fluctuations in aggregate activity.",
+                "Recognise mechanisms without asserting that one form is absent in India."
+              ],
+              "refs": [
+                {
+                  "source": "esi-6-notes",
+                  "pages": [
+                    7,
+                    10
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "structural-case",
+          "question": "If services' GDP share rises while many workers remain in agriculture, what should an answer investigate?",
+          "answer": "The gap between output and employment transformation, productivity, skills and non-farm opportunities. A falling agricultural output share alone does not demonstrate adequate job creation elsewhere.",
+          "refs": [
+            {
+              "source": "esi-6-notes",
+              "pages": [
+                6,
+                7,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "id": "gini-calculation",
+          "question": "Original illustrative geometry: area under equality line = 0.50; area between it and the Lorenz curve = 0.15. Find Gini.",
+          "answer": "Gini = 0.15 ÷ 0.50 = 0.30. These invented areas show the formula only; they are not an estimate for India. Gini alone cannot reveal the poverty level or mean income.",
+          "refs": [
+            {
+              "source": "esi-6-notes",
+              "pages": [
+                3,
+                4,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "poverty-loop",
+          "question": "Explain the low-capital/low-income feedback without treating it as destiny.",
+          "answer": "Low capital can constrain productivity and income; low income can limit saving and investment. Better human capital, infrastructure and financial intermediation provide channels for change. Evaluate the constraints rather than claiming that every household is trapped identically.",
+          "refs": [
+            {
+              "source": "esi-6-notes",
+              "pages": [
+                7,
+                8,
+                11,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "id": "descriptive-outline",
+          "question": "Outline: 'India combines signs of underdevelopment with sustained structural progress.'",
+          "answer": "Define the evaluation criteria → income and distribution → output/employment mismatch → human capital and technology constraints → infrastructure and finance progress → conclude with a multidimensional, evidence-qualified assessment.",
+          "refs": [
+            {
+              "source": "esi-6-notes",
+              "pages": [
+                2,
+                3,
+                6,
+                7,
+                8,
+                10,
+                11,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "id": "depth-stop",
+          "question": "Where should P2 study stop?",
+          "answer": "Be able to defend the developing-economy assessment using income, sectoral/employment, inequality, capabilities and capital/finance lenses. Learn Lorenz/Gini interpretation, not a country-rank list. Stop after one balanced outline and a fresh structural-change case. Whole-syllabus breadth is still compulsory; priority is not an exam-frequency claim.",
+          "refs": [
+            {
+              "source": "esi-6-notes",
+              "pages": [
+                3,
+                4,
+                5,
+                7,
+                8,
+                10,
+                11,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "id": "source-check",
+          "question": "How should report rankings, poverty figures and demographic labels be revised?",
+          "answer": "Record publisher, income/wealth/poverty concept, reference period and population before comparing. The notes mix multiple poverty measures and report vintages; do not combine them into one trend. Their dated national targets and simplified human-capital/unemployment statements need checking, not rote reuse.",
+          "refs": [
+            {
+              "source": "esi-6-notes",
+              "pages": [
+                2,
+                5,
+                6,
+                7,
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-post1991-macro",
+      "title": "Post-1991 macroeconomy: growth, capital formation and delivery",
+      "subject": "ESI",
+      "summary": "Connect services-led growth and household saving to investment, while examining employment, regional and project-delivery gaps.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-reforms",
+        "esi-national-income",
+        "esi-economy-nature",
+        "esi-public-finance"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Post-reform macroeconomy: growth quality as well as pace",
+            "refs": [
+              {
+                "source": "esi-14-notes",
+                "pages": [
+                  1,
+                  3,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "sector",
+            "label": "Services-led output transformation",
+            "refs": [
+              {
+                "source": "esi-14-notes",
+                "pages": [
+                  3,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "percapita",
+            "label": "Per-capita income: an average, not a distribution",
+            "refs": [
+              {
+                "source": "esi-14-notes",
+                "pages": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "saving",
+            "label": "Saving → mobilisation of finance → investment",
+            "refs": [
+              {
+                "source": "esi-14-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "investment",
+            "label": "Capital formation: fixed assets and inventories",
+            "refs": [
+              {
+                "source": "esi-14-notes",
+                "pages": [
+                  4,
+                  5,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "delivery",
+            "label": "Public/private delivery: PPP, viability support and social investment",
+            "refs": [
+              {
+                "source": "esi-14-notes",
+                "pages": [
+                  7,
+                  8,
+                  9
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "sector",
+            "label": "asks which sectors drive output",
+            "refs": [
+              {
+                "source": "esi-14-notes",
+                "pages": [
+                  3,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "sector",
+            "to": "percapita",
+            "label": "does not settle who shares the gains",
+            "refs": [
+              {
+                "source": "esi-14-notes",
+                "pages": [
+                  2,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "saving",
+            "to": "investment",
+            "label": "mobilised funds support capital formation",
+            "refs": [
+              {
+                "source": "esi-14-notes",
+                "pages": [
+                  5,
+                  6,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "investment",
+            "to": "delivery",
+            "label": "requires financing and execution choices",
+            "refs": [
+              {
+                "source": "esi-14-notes",
+                "pages": [
+                  7,
+                  8,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "delivery",
+            "to": "root",
+            "label": "must weigh efficiency, access and long-contract risk",
+            "refs": [
+              {
+                "source": "esi-14-notes",
+                "pages": [
+                  9
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "macro-2026-11-comparison",
+          "title": "Distinctions and application checks",
+          "columns": [
+            "Concept",
+            "Distinction / mechanism",
+            "Use or caution"
+          ],
+          "rows": [
+            {
+              "id": "growth-distribution",
+              "cells": [
+                "GDP growth / per-capita income",
+                "Aggregate output expansion / average per person.",
+                "Neither establishes equal gains across people or regions."
+              ],
+              "refs": [
+                {
+                  "source": "esi-14-notes",
+                  "pages": [
+                    1,
+                    2,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "sector-jobs",
+              "cells": [
+                "Sectoral output / labour absorption",
+                "Fast service growth can coexist with pressure on agricultural livelihoods.",
+                "Discuss output/employment mismatch rather than assuming automatic job transfer."
+              ],
+              "refs": [
+                {
+                  "source": "esi-14-notes",
+                  "pages": [
+                    3,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "saving-investment",
+              "cells": [
+                "Saving / finance / investment",
+                "Resources not consumed / intermediation / addition to productive assets.",
+                "A higher saving pool still needs mobilisation and viable investment opportunities."
+              ],
+              "refs": [
+                {
+                  "source": "esi-14-notes",
+                  "pages": [
+                    5,
+                    6,
+                    7
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "fixed-inventory",
+              "cells": [
+                "Fixed capital / change in inventories",
+                "Longer-lived productive assets / changes in stocks of materials and goods.",
+                "Do not call every capital-formation component a new factory."
+              ],
+              "refs": [
+                {
+                  "source": "esi-14-notes",
+                  "pages": [
+                    4,
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ppp-vgf",
+              "cells": [
+                "PPP / viability gap support",
+                "A public-private project arrangement / fiscal support for viability.",
+                "Risk-sharing and access must be checked; public support does not eliminate project risk."
+              ],
+              "refs": [
+                {
+                  "source": "esi-14-notes",
+                  "pages": [
+                    8,
+                    9
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ppp-csr",
+              "cells": [
+                "Commercial project partnership / CSR",
+                "Infrastructure delivery contract / corporate social-responsibility investment.",
+                "Do not confuse contractual returns with a social-spending obligation; applicability is date-sensitive."
+              ],
+              "refs": [
+                {
+                  "source": "esi-14-notes",
+                  "pages": [
+                    8,
+                    9
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "saving-case",
+          "question": "Why can a rise in household saving fail to produce an equal immediate rise in productive investment?",
+          "answer": "The notes distinguish saving, financial mobilisation and actual investment. Discuss the intermediation and project-delivery steps rather than assuming that a saving statistic proves productive assets were created.",
+          "refs": [
+            {
+              "source": "esi-14-notes",
+              "pages": [
+                5,
+                6,
+                7,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "percapita-calculation",
+          "question": "Original illustrative calculation: real income rises from 1,000 to 1,100 units while population rises from 100 to 105. What happens to per-capita income?",
+          "answer": "It rises from 10 to about 10.48 units: (1,100 ÷ 105) ÷ (1,000 ÷ 100) − 1 ≈ 4.76%. Aggregate growth of 10% is not per-capita growth. Inputs are invented and say nothing about distribution.",
+          "refs": [
+            {
+              "source": "esi-14-notes",
+              "pages": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ppp-case",
+          "question": "A PPP bid promises low fiscal cost but high user charges and uncertain long-term demand. What are the checks?",
+          "answer": "Assess efficiency and expertise gains alongside affordability, aggressive bidding, duration and risk allocation. Viability support is a financing tool, not evidence that every PPP is socially accessible or commercially sound.",
+          "refs": [
+            {
+              "source": "esi-14-notes",
+              "pages": [
+                8,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "descriptive-outline",
+          "question": "Outline: 'Assess the quality of India's post-reform growth.'",
+          "answer": "Brief growth direction without a year-by-year list → services and employment mismatch → per-capita and regional distribution → saving-finance-investment chain → public/private delivery and access → balanced conclusion and dated official evidence.",
+          "refs": [
+            {
+              "source": "esi-14-notes",
+              "pages": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "depth-stop",
+          "question": "How much post-1991 chronology is enough for P2?",
+          "answer": "Know services-led transformation, income/distribution limits, saving/investment components and PPP/VGF/CSR distinctions. Stop before plan-period growth tables and acronym catalogues; practise one project-risk case. Retain the whole syllabus's mandatory breadth rather than using P2 to skip this area.",
+          "refs": [
+            {
+              "source": "esi-14-notes",
+              "pages": [
+                2,
+                3,
+                4,
+                5,
+                8,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "source-check",
+          "question": "Which claims should not be treated as settled current facts?",
+          "answer": "The GDP-overestimation discussion presents a disputed argument and blurs price basis with real measurement; do not repeat it as established fact. The page 9 blanket criticism of social-sector PPP feasibility sits beside a description of social-sector viability support: use case-specific assessment. Refresh investment data and CSR/scheme applicability from current official material.",
+          "refs": [
+            {
+              "source": "esi-14-notes",
+              "pages": [
+                2,
+                3,
+                5,
+                7,
+                9
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-public-finance",
+      "title": "Public expenditure and receipts: classify before evaluating",
+      "subject": "ESI",
+      "summary": "Separate accounting classification, economic purpose and financing consequences when assessing public finances.",
+      "tags": [
+        "P1 - Core depth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-fiscal-policy",
+        "esi-public-debt",
+        "esi-taxation",
+        "esi-federal-finance"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Public finances: what is spent and how it is financed",
+            "refs": [
+              {
+                "source": "esi-19-notes",
+                "pages": [
+                  1,
+                  7,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "spending",
+            "label": "Expenditure: revenue and capital classification",
+            "refs": [
+              {
+                "source": "esi-19-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "purpose",
+            "label": "Purpose: development and service delivery",
+            "refs": [
+              {
+                "source": "esi-19-notes",
+                "pages": [
+                  1,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "transfer",
+            "label": "Transfers versus purchase of current goods/services",
+            "refs": [
+              {
+                "source": "esi-19-notes",
+                "pages": [
+                  3,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "receipts",
+            "label": "Receipts: tax, non-tax and capital flows",
+            "refs": [
+              {
+                "source": "esi-19-notes",
+                "pages": [
+                  7,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "quality",
+            "label": "Quality: composition, scale and spending management",
+            "refs": [
+              {
+                "source": "esi-19-notes",
+                "pages": [
+                  4,
+                  5,
+                  6,
+                  7
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "spending",
+            "label": "classifies the outflow",
+            "refs": [
+              {
+                "source": "esi-19-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "spending",
+            "to": "purpose",
+            "label": "is distinct from judging development value",
+            "refs": [
+              {
+                "source": "esi-19-notes",
+                "pages": [
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "spending",
+            "to": "transfer",
+            "label": "also distinguishes redistribution from direct purchases",
+            "refs": [
+              {
+                "source": "esi-19-notes",
+                "pages": [
+                  3,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "root",
+            "to": "receipts",
+            "label": "classifies funding without calling borrowing income",
+            "refs": [
+              {
+                "source": "esi-19-notes",
+                "pages": [
+                  7,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "quality",
+            "to": "root",
+            "label": "evaluates spending relative to resources and outcomes",
+            "refs": [
+              {
+                "source": "esi-19-notes",
+                "pages": [
+                  4,
+                  5,
+                  6
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "macro-2026-11-comparison",
+          "title": "Distinctions and application checks",
+          "columns": [
+            "Concept",
+            "Distinction / mechanism",
+            "Use or caution"
+          ],
+          "rows": [
+            {
+              "id": "revenue-capital",
+              "cells": [
+                "Revenue / capital expenditure",
+                "Operating and other non-asset expenditure / asset creation or liability reduction.",
+                "Recurring versus one-off is only a clue, not the decisive test; spending quality is a separate question."
+              ],
+              "refs": [
+                {
+                  "source": "esi-19-notes",
+                  "pages": [
+                    1,
+                    2,
+                    3
+                  ]
+                },
+                {
+                  "source": "esi-21-notes",
+                  "pages": [
+                    3,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "grants-trap",
+              "cells": [
+                "Grant for assets / direct capital spending",
+                "A grant and the recipient's eventual asset creation are not the same accounting entry.",
+                "The expenditure notes list asset grants under capital, but the fiscal notes explicitly classify central grants as revenue even when intended for assets; use the latter distinction."
+              ],
+              "refs": [
+                {
+                  "source": "esi-19-notes",
+                  "pages": [
+                    2
+                  ]
+                },
+                {
+                  "source": "esi-21-notes",
+                  "pages": [
+                    3,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "purpose",
+              "cells": [
+                "Developmental / non-developmental labels",
+                "An older purpose-based grouping differs from revenue/capital accounting.",
+                "Do not infer that education salaries lack development value or every administrative service is socially useless."
+              ],
+              "refs": [
+                {
+                  "source": "esi-19-notes",
+                  "pages": [
+                    2,
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "transfer",
+              "cells": [
+                "Transfer / non-transfer expenditure",
+                "Redistribution without a current service in return / payment for current goods and services.",
+                "A welfare payment is not itself production; the recipient's later purchase is a different transaction."
+              ],
+              "refs": [
+                {
+                  "source": "esi-19-notes",
+                  "pages": [
+                    3,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "receipts",
+              "cells": [
+                "Tax / non-tax revenue receipts",
+                "Compulsory taxes / receipts such as interest and dividends.",
+                "Neither borrowing nor disinvestment belongs in ordinary revenue receipts."
+              ],
+              "refs": [
+                {
+                  "source": "esi-19-notes",
+                  "pages": [
+                    7,
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "capital-receipts",
+              "cells": [
+                "Debt / non-debt capital receipts",
+                "Borrowing creates a repayment liability; loan recovery and disinvestment reduce assets.",
+                "A non-debt receipt is not automatically recurrent or proof of improved fiscal capacity."
+              ],
+              "refs": [
+                {
+                  "source": "esi-19-notes",
+                  "pages": [
+                    8
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "classification-case",
+          "question": "Classify new machinery, its maintenance and interest on the borrowing used to buy it.",
+          "answer": "Direct acquisition creates a capital asset; routine maintenance and interest are revenue expenditure. An expense's usefulness does not change its accounting class. The fiscal notes supply the sharper asset/liability test.",
+          "refs": [
+            {
+              "source": "esi-19-notes",
+              "pages": [
+                1,
+                2
+              ]
+            },
+            {
+              "source": "esi-21-notes",
+              "pages": [
+                3,
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "receipt-case",
+          "question": "The government receives a dividend, recovers an old loan and issues a new bond. Are these all revenue receipts?",
+          "answer": "No: dividend is non-tax revenue; loan recovery is non-debt capital receipt; bond borrowing is debt-creating capital receipt. Separate operating resources, asset reduction and future liabilities.",
+          "refs": [
+            {
+              "source": "esi-19-notes",
+              "pages": [
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ratio-calculation",
+          "question": "Original illustrative calculation: spending rises from 200 to 230 units while nominal GDP rises from 1,000 to 1,250. Has spending/GDP increased?",
+          "answer": "It falls from 20% to 18.4%, despite spending increasing 15%. Invented figures demonstrate why absolute spending alone is insufficient; examine composition and real service delivery as well.",
+          "refs": [
+            {
+              "source": "esi-19-notes",
+              "pages": [
+                4,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "descriptive-outline",
+          "question": "Outline: 'The quality of expenditure matters as much as its size.'",
+          "answer": "Define the revenue/capital and transfer classifications → separate them from development purpose → compare spending/GDP and composition → discuss infrastructure, health, education and implementation → connect financing to fiscal/debt constraints → conclude with an outcome-based assessment.",
+          "refs": [
+            {
+              "source": "esi-19-notes",
+              "pages": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "depth-stop",
+          "question": "What should P1 expenditure revision cover?",
+          "answer": "Practise mixed expenditure/receipt classifications, transfer-versus-purchase cases and asset/liability consequences; distinguish productive social spending from accounting capital expenditure. Stop before historical spending totals or lengthy Planning Commission chronology. P1 depth complements, not substitutes for, mandatory whole-syllabus breadth.",
+          "refs": [
+            {
+              "source": "esi-19-notes",
+              "pages": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "source-check",
+          "question": "What are the important source limitations?",
+          "answer": "Avoid the notes' blanket inference that high revenue spending signals backwardness, or that high capital spending proves private investment scarcity. Their capital-grant listing conflicts with the fiscal notes. Institutional descriptions of NITI Aayog also need verification before implying it allocates funds like the former Planning Commission.",
+          "refs": [
+            {
+              "source": "esi-19-notes",
+              "pages": [
+                2,
+                6,
+                7
+              ]
+            },
+            {
+              "source": "esi-21-notes",
+              "pages": [
+                3,
+                4,
+                6
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-public-debt",
+      "title": "Public debt: financing, risk and sustainability",
+      "subject": "ESI",
+      "summary": "Evaluate debt using its use, servicing burden, maturity and currency risk rather than a single headline ratio.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-fiscal-policy",
+        "esi-public-finance",
+        "esi-federal-finance",
+        "esi-inflation"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Public debt: today's financing and tomorrow's obligations",
+            "refs": [
+              {
+                "source": "esi-20-notes",
+                "pages": [
+                  1,
+                  3,
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "profile",
+            "label": "Profile: creditor, currency, maturity and marketability",
+            "refs": [
+              {
+                "source": "esi-20-notes",
+                "pages": [
+                  1,
+                  2,
+                  4,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "use",
+            "label": "Use: stabilisation and investment versus servicing burden",
+            "refs": [
+              {
+                "source": "esi-20-notes",
+                "pages": [
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "sustainability",
+            "label": "Sustainability: debt/GDP, interest and revenue capacity",
+            "refs": [
+              {
+                "source": "esi-20-notes",
+                "pages": [
+                  3,
+                  4,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "management",
+            "label": "Management: refinancing, conversion and debt retirement",
+            "refs": [
+              {
+                "source": "esi-20-notes",
+                "pages": [
+                  6,
+                  7,
+                  10,
+                  11,
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "funds",
+            "label": "Funds: Consolidated Fund, Contingency Fund and Public Account",
+            "refs": [
+              {
+                "source": "esi-20-notes",
+                "pages": [
+                  7,
+                  8
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "profile",
+            "label": "requires defining the liability perimeter",
+            "refs": [
+              {
+                "source": "esi-20-notes",
+                "pages": [
+                  1,
+                  2,
+                  4,
+                  9,
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "profile",
+            "to": "sustainability",
+            "label": "exposes refinancing and exchange-rate risks",
+            "refs": [
+              {
+                "source": "esi-20-notes",
+                "pages": [
+                  3,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "use",
+            "to": "sustainability",
+            "label": "weighs benefits against repayment capacity",
+            "refs": [
+              {
+                "source": "esi-20-notes",
+                "pages": [
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "management",
+            "to": "profile",
+            "label": "changes cost or maturity, not always the debt stock",
+            "refs": [
+              {
+                "source": "esi-20-notes",
+                "pages": [
+                  6,
+                  7,
+                  10,
+                  11
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "root",
+            "to": "funds",
+            "label": "distinguishes borrowing and government-held trust balances",
+            "refs": [
+              {
+                "source": "esi-20-notes",
+                "pages": [
+                  7,
+                  8
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "macro-2026-11-comparison",
+          "title": "Distinctions and application checks",
+          "columns": [
+            "Concept",
+            "Distinction / mechanism",
+            "Use or caution"
+          ],
+          "rows": [
+            {
+              "id": "stock-flow",
+              "cells": [
+                "Debt stock / annual deficit",
+                "Accumulated liability at a date / a financing gap over a period.",
+                "A debt ratio is not the annual fiscal deficit; define Centre, states or combined government."
+              ],
+              "refs": [
+                {
+                  "source": "esi-20-notes",
+                  "pages": [
+                    1,
+                    3,
+                    9,
+                    10
+                  ]
+                },
+                {
+                  "source": "esi-21-notes",
+                  "pages": [
+                    5,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "internal-external",
+              "cells": [
+                "Domestic / external exposure",
+                "Creditor residence and contractual currency are separate dimensions to inspect.",
+                "Do not assume every rupee liability has no foreign-creditor risk or equate national external debt with sovereign debt."
+              ],
+              "refs": [
+                {
+                  "source": "esi-20-notes",
+                  "pages": [
+                    1,
+                    2,
+                    4,
+                    9,
+                    10
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "maturity",
+              "cells": [
+                "Short / long maturity",
+                "Near-term rollover pressure / obligations spread further into the future.",
+                "Longer maturity reduces immediate refinancing concentration; it does not erase interest costs."
+              ],
+              "refs": [
+                {
+                  "source": "esi-20-notes",
+                  "pages": [
+                    2,
+                    3,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "refinancing",
+              "cells": [
+                "Refunding / conversion / retirement",
+                "Replace maturing debt / change borrowing terms / extinguish debt.",
+                "Refinancing is not automatically a reduction in the outstanding principal."
+              ],
+              "refs": [
+                {
+                  "source": "esi-20-notes",
+                  "pages": [
+                    6,
+                    7
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "funds",
+              "cells": [
+                "Consolidated / Contingency / Public Account",
+                "Main government inflows and authorised spending / unforeseen spending advance / money held in a banker-like capacity.",
+                "Separate parliamentary authorisation, later recoupment and fiduciary balances; do not memorise an old corpus amount."
+              ],
+              "refs": [
+                {
+                  "source": "esi-20-notes",
+                  "pages": [
+                    7,
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "benefits-risks",
+              "cells": [
+                "Debt-financed investment / crowding out",
+                "Useful capacity and demand support / servicing demands and competition for funds.",
+                "Judge project returns and macro conditions, not 'all debt good' or 'all debt bad'."
+              ],
+              "refs": [
+                {
+                  "source": "esi-20-notes",
+                  "pages": [
+                    4,
+                    5,
+                    6
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "ratio-calculation",
+          "question": "Original illustrative calculation: debt 600, GDP 1,000, annual interest 36 and revenue receipts 180. Compute two burden indicators.",
+          "answer": "Debt/GDP = 60%; interest/revenue receipts = 20%. If debt becomes 630 and GDP 1,100, debt/GDP falls to about 57.27% even though the stock rises. Inputs are invented; none establishes a universal safe-debt threshold.",
+          "refs": [
+            {
+              "source": "esi-20-notes",
+              "pages": [
+                3,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "rollover-case",
+          "question": "Why can replacing a maturing bond solve a cash problem without solving a debt problem?",
+          "answer": "New borrowing can repay old principal, shifting the maturity profile without reducing total obligations. Check the new interest terms and future rollover concentration.",
+          "refs": [
+            {
+              "source": "esi-20-notes",
+              "pages": [
+                4,
+                6,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "use-case",
+          "question": "Does borrowing for a useful project make servicing risk disappear?",
+          "answer": "No. Productive use can strengthen capacity and future resources, while interest and repayment obligations still require financing. Compare benefits, debt-service pressure and alternative uses of funds; avoid the notes' overly categorical 'not a burden' wording.",
+          "refs": [
+            {
+              "source": "esi-20-notes",
+              "pages": [
+                3,
+                4,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "descriptive-outline",
+          "question": "Outline: 'Debt sustainability is more than the debt/GDP ratio.'",
+          "answer": "Define government coverage and valuation → debt/GDP and interest/revenue burden → maturity and currency exposure → purpose and growth contribution → refinancing/debt-management options → fiscal capacity and risks → conditional conclusion.",
+          "refs": [
+            {
+              "source": "esi-20-notes",
+              "pages": [
+                1,
+                3,
+                4,
+                5,
+                6,
+                9,
+                10,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "id": "depth-stop",
+          "question": "Why retain P2 while still learning debt mechanisms?",
+          "answer": "This packet retains P2 breadth: understand indicators, maturity/currency risks, financing use, three government funds and management tools. Its links to P1 fiscal policy justify applied cases, not a separate promotion or an exam-frequency claim. Stop before old targets, redemption catalogues and institutional date lists; all syllabus chapters still require breadth.",
+          "refs": [
+            {
+              "source": "esi-20-notes",
+              "pages": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "id": "source-check",
+          "question": "Which source statements need caution?",
+          "answer": "The source mixes wider national external-debt instruments with government debt and treats improving ratios as near-conclusive evidence of sustainability. It also simplifies monetary financing and debt definitions. Define coverage, currency valuation and observation date; do not import historical targets, current ratios or treat currency issuance as a costless routine debt solution.",
+          "refs": [
+            {
+              "source": "esi-20-notes",
+              "pages": [
+                1,
+                2,
+                3,
+                4,
+                9,
+                10
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-fiscal-policy",
+      "title": "Fiscal policy: deficits, stabilisation and consolidation",
+      "subject": "ESI",
+      "summary": "Link the budget's allocation, redistribution and stabilisation roles to deficit measures, financing choices and policy trade-offs.",
+      "tags": [
+        "P1 - Core depth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-public-finance",
+        "esi-public-debt",
+        "esi-taxation",
+        "esi-inflation",
+        "esi-federal-finance"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Fiscal policy: revenue, spending and borrowing choices",
+            "refs": [
+              {
+                "source": "esi-21-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "functions",
+            "label": "Functions: allocation, distribution and stabilisation",
+            "refs": [
+              {
+                "source": "esi-21-notes",
+                "pages": [
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "accounts",
+            "label": "Accounts: revenue/capital and debt/non-debt flows",
+            "refs": [
+              {
+                "source": "esi-21-notes",
+                "pages": [
+                  2,
+                  3,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "deficits",
+            "label": "Indicators: fiscal, revenue, primary and effective revenue deficits",
+            "refs": [
+              {
+                "source": "esi-21-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "financing",
+            "label": "Financing: borrowing, monetary effects and crowding out",
+            "refs": [
+              {
+                "source": "esi-21-notes",
+                "pages": [
+                  6,
+                  7,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "rules",
+            "label": "Consolidation and FRBM: credibility with conditional flexibility",
+            "refs": [
+              {
+                "source": "esi-21-notes",
+                "pages": [
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "functions",
+            "label": "sets objectives before choosing instruments",
+            "refs": [
+              {
+                "source": "esi-21-notes",
+                "pages": [
+                  2,
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "accounts",
+            "to": "deficits",
+            "label": "determines numerator and exclusions",
+            "refs": [
+              {
+                "source": "esi-21-notes",
+                "pages": [
+                  3,
+                  4,
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "deficits",
+            "to": "financing",
+            "label": "signals borrowing and servicing needs",
+            "refs": [
+              {
+                "source": "esi-21-notes",
+                "pages": [
+                  5,
+                  6,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "financing",
+            "to": "functions",
+            "label": "supports demand but may add inflation or financing pressure",
+            "refs": [
+              {
+                "source": "esi-21-notes",
+                "pages": [
+                  5,
+                  7,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "rules",
+            "to": "root",
+            "label": "constrains discretion and requires transparency",
+            "refs": [
+              {
+                "source": "esi-21-notes",
+                "pages": [
+                  9,
+                  10,
+                  12,
+                  13
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "macro-2026-11-comparison",
+          "title": "Distinctions and application checks",
+          "columns": [
+            "Concept",
+            "Distinction / mechanism",
+            "Use or caution"
+          ],
+          "rows": [
+            {
+              "id": "fiscal-deficit",
+              "cells": [
+                "Fiscal deficit",
+                "Total expenditure − revenue receipts − non-debt capital receipts.",
+                "Exclude borrowing from the receipts used to calculate the borrowing requirement."
+              ],
+              "refs": [
+                {
+                  "source": "esi-21-notes",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "revenue-deficit",
+              "cells": [
+                "Revenue deficit",
+                "Revenue expenditure − revenue receipts.",
+                "A revenue-account gap is not a complete judgement on spending's human-development benefits."
+              ],
+              "refs": [
+                {
+                  "source": "esi-21-notes",
+                  "pages": [
+                    3,
+                    4,
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "primary-deficit",
+              "cells": [
+                "Primary deficit",
+                "Fiscal deficit after removing the interest component.",
+                "Separate current non-interest balance from inherited servicing pressure; verify the exact interest definition in any official dataset."
+              ],
+              "refs": [
+                {
+                  "source": "esi-21-notes",
+                  "pages": [
+                    5,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "effective-revenue",
+              "cells": [
+                "Effective revenue deficit",
+                "Revenue deficit − grants intended to create capital assets.",
+                "Grant treatment differs from directly creating an asset in the grantor's accounts."
+              ],
+              "refs": [
+                {
+                  "source": "esi-21-notes",
+                  "pages": [
+                    3,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "market-monetary",
+              "cells": [
+                "Market borrowing / monetary financing",
+                "Raise funds through debt markets / financing involving central-bank money.",
+                "Not every deficit means money printing; legal constraints and liquidity consequences matter."
+              ],
+              "refs": [
+                {
+                  "source": "esi-21-notes",
+                  "pages": [
+                    6,
+                    7,
+                    10,
+                    12
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "stabilise-consolidate",
+              "cells": [
+                "Stabilisation / consolidation",
+                "Support activity or restrain pressure / improve fiscal sustainability.",
+                "Consider timing, composition, vulnerable groups and the monetary stance instead of indiscriminate cuts."
+              ],
+              "refs": [
+                {
+                  "source": "esi-21-notes",
+                  "pages": [
+                    4,
+                    5,
+                    7,
+                    8,
+                    9
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "deficit-calculation",
+          "question": "Original illustrative budget (same units): total expenditure 500, revenue expenditure 350, revenue receipts 300, non-debt capital receipts 20, interest 40 and asset-creation grants 15. Find four deficits.",
+          "answer": "Fiscal = 500 − 300 − 20 = 180; revenue = 350 − 300 = 50; primary = 180 − 40 = 140 (interest as defined in this practice budget); effective revenue = 50 − 15 = 35. All inputs are invented; borrowing is not subtracted as a receipt in the fiscal-deficit formula.",
+          "refs": [
+            {
+              "source": "esi-21-notes",
+              "pages": [
+                3,
+                5,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "crowding-case",
+          "question": "Is deficit spending always inflationary or always harmful to private investment?",
+          "answer": "No automatic verdict follows. The notes identify idle-capacity utilisation and infrastructure benefits as well as inflation, servicing and crowding-out risks. Explain the financing channel, resource constraints and spending composition rather than turning a possible effect into an identity.",
+          "refs": [
+            {
+              "source": "esi-21-notes",
+              "pages": [
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "policy-mix",
+          "question": "How can fiscal and monetary choices pull in opposite directions during inflation?",
+          "answer": "Fiscal demand support can add to spending pressure while monetary tightening seeks to restrain credit and demand. Distinguish targeted relief or supply-improving expenditure from broad stimulus, and explain the growth/inflation trade-off. This is an analytical application of the notes, not a claim about a current Budget or RBI decision.",
+          "refs": [
+            {
+              "source": "esi-21-notes",
+              "pages": [
+                4,
+                5,
+                7,
+                9
+              ]
+            },
+            {
+              "source": "esi-33-notes",
+              "pages": [
+                3,
+                5,
+                6,
+                12,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "id": "rules-case",
+          "question": "Why have fiscal rules and an escape provision together?",
+          "answer": "Rules support discipline and transparent medium-term expectations; exceptional shocks may justify a disclosed deviation rather than pretending circumstances never change. Explain safeguards and the return to a sustainable path, without treating an old numeric target as current law.",
+          "refs": [
+            {
+              "source": "esi-21-notes",
+              "pages": [
+                9,
+                10,
+                11,
+                12,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "id": "descriptive-outline",
+          "question": "Outline: 'Fiscal consolidation should improve quality, not merely shrink expenditure.'",
+          "answer": "Define deficit and debt sustainability → allocation/distribution/stabilisation functions → revenue mobilisation and expenditure composition → financing/crowding-out risks → fiscal-monetary coordination → transparent rules and shock flexibility → balanced way forward.",
+          "refs": [
+            {
+              "source": "esi-21-notes",
+              "pages": [
+                2,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "id": "depth-stop",
+          "question": "What is the P1 stopping rule for fiscal policy?",
+          "answer": "Solve a mixed-budget deficit problem, justify classification choices, compare financing channels and discuss consolidation with a growth/equity trade-off. Know FRBM's rationale and disclosure/escape logic, not every amendment-year target. Stop after a clean case and descriptive outline; continue mandatory breadth elsewhere in the syllabus.",
+          "refs": [
+            {
+              "source": "esi-21-notes",
+              "pages": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                12,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "id": "source-check",
+          "question": "Which fiscal details must be refreshed before a current-affairs answer?",
+          "answer": "Separate recommendations, enacted provisions, old deadlines and the current Budget path. The source alternates 'net interest liabilities' and broader interest language and contains simplified monetary-financing statements. Verify official definitions and current legal exceptions; no current target or rate is asserted by this packet.",
+          "refs": [
+            {
+              "source": "esi-21-notes",
+              "pages": [
+                5,
+                6,
+                9,
+                10,
+                11,
+                12,
+                13
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-federal-finance",
+      "title": "Federal finance: powers, sharing and intergovernmental support",
+      "subject": "ESI",
+      "summary": "Distinguish tax assignment, tax sharing, grants and borrowing constraints within India's fiscal federation.",
+      "tags": [
+        "P2 - Syllabus breadth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-taxation",
+        "esi-fiscal-policy",
+        "esi-public-debt",
+        "esi-public-finance"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Fiscal federation: match powers, resources and responsibilities",
+            "refs": [
+              {
+                "source": "esi-22-notes",
+                "pages": [
+                  1,
+                  2,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "assignment",
+            "label": "Tax assignment: power to levy, collect and retain can differ",
+            "refs": [
+              {
+                "source": "esi-22-notes",
+                "pages": [
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "sharing",
+            "label": "Sharing: Union/state proceeds and inter-state allocation",
+            "refs": [
+              {
+                "source": "esi-22-notes",
+                "pages": [
+                  3,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "grants",
+            "label": "Grants: statutory and discretionary channels",
+            "refs": [
+              {
+                "source": "esi-22-notes",
+                "pages": [
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "borrowing",
+            "label": "Borrowing: Union/state powers and consent conditions",
+            "refs": [
+              {
+                "source": "esi-22-notes",
+                "pages": [
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "institutions",
+            "label": "Institutions: Finance Commission and GST coordination",
+            "refs": [
+              {
+                "source": "esi-22-notes",
+                "pages": [
+                  6,
+                  7
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "assignment",
+            "label": "starts with constitutional allocation",
+            "refs": [
+              {
+                "source": "esi-22-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "assignment",
+            "to": "sharing",
+            "label": "does not imply the collector keeps all proceeds",
+            "refs": [
+              {
+                "source": "esi-22-notes",
+                "pages": [
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "sharing",
+            "to": "institutions",
+            "label": "uses Finance Commission recommendations",
+            "refs": [
+              {
+                "source": "esi-22-notes",
+                "pages": [
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "grants",
+            "to": "root",
+            "label": "adds support beyond shared tax proceeds",
+            "refs": [
+              {
+                "source": "esi-22-notes",
+                "pages": [
+                  4,
+                  5,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "borrowing",
+            "to": "root",
+            "label": "adds financing with legal and repayment constraints",
+            "refs": [
+              {
+                "source": "esi-22-notes",
+                "pages": [
+                  5
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "macro-2026-11-comparison",
+          "title": "Distinctions and application checks",
+          "columns": [
+            "Concept",
+            "Distinction / mechanism",
+            "Use or caution"
+          ],
+          "rows": [
+            {
+              "id": "powers-proceeds",
+              "cells": [
+                "Levy / collection / appropriation",
+                "Authority to impose a tax differs from collecting and retaining its proceeds.",
+                "Do not infer the final beneficiary from the collecting government alone."
+              ],
+              "refs": [
+                {
+                  "source": "esi-22-notes",
+                  "pages": [
+                    2,
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "vertical-horizontal",
+              "cells": [
+                "Union-state sharing / allocation among states",
+                "Distribution across government tiers / distribution of the states' share among states.",
+                "The Finance Commission discusses both; distinguish the two questions before using a recommendation."
+              ],
+              "refs": [
+                {
+                  "source": "esi-22-notes",
+                  "pages": [
+                    7
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "pool-exclusions",
+              "cells": [
+                "Shared taxes / surcharge and specific-purpose cess",
+                "The notes distinguish Article 270 sharing from its listed exclusions.",
+                "Do not apply a sharing percentage mechanically to every Union tax receipt."
+              ],
+              "refs": [
+                {
+                  "source": "esi-22-notes",
+                  "pages": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "grants",
+              "cells": [
+                "Statutory / discretionary grants",
+                "Article 275 channel / Article 282 public-purpose grants.",
+                "Keep grants distinct from tax devolution and check scheme conditions and applicable recommendations."
+              ],
+              "refs": [
+                {
+                  "source": "esi-22-notes",
+                  "pages": [
+                    4,
+                    5,
+                    7
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "institutions",
+              "cells": [
+                "Finance Commission / GST Council",
+                "Tax-sharing and grant recommendations / GST coordination and recommendations.",
+                "They are not interchangeable fiscal institutions."
+              ],
+              "refs": [
+                {
+                  "source": "esi-22-notes",
+                  "pages": [
+                    6,
+                    7
+                  ]
+                },
+                {
+                  "source": "esi-37-notes",
+                  "pages": [
+                    12
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "borrowing",
+              "cells": [
+                "Union / state borrowing",
+                "The notes distinguish Union domestic/external powers and states' domestic borrowing framework.",
+                "Page 5's blanket consent statement is not a complete legal test; verify the applicable Article 293 conditions before asserting a restriction."
+              ],
+              "refs": [
+                {
+                  "source": "esi-22-notes",
+                  "pages": [
+                    5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "levy-case",
+          "question": "A tax is collected by the Union. Must the Union retain its entire proceeds?",
+          "answer": "No. Levy, collection and appropriation can be assigned differently. Identify the constitutional sharing route, its exclusions and the relevant recommendation before describing who receives what.",
+          "refs": [
+            {
+              "source": "esi-22-notes",
+              "pages": [
+                2,
+                3,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "institution-case",
+          "question": "A question asks how to supplement municipal resources. Which Finance Commission function is relevant?",
+          "answer": "Measures to augment the state's Consolidated Fund to supplement resources of municipalities, alongside the equivalent panchayat function. Explain this route rather than confusing it with direct GST administration.",
+          "refs": [
+            {
+              "source": "esi-22-notes",
+              "pages": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grant-case",
+          "question": "Why is a conditional grant not identical to general tax devolution?",
+          "answer": "The source distinguishes assigned/shared taxes from grant channels; a grant's purpose and conditions need separate examination. For a contemporary scheme, establish who is eligible, which tier finances it and what conditions/exclusions apply instead of assuming every state receives an identical unconditional transfer.",
+          "refs": [
+            {
+              "source": "esi-22-notes",
+              "pages": [
+                3,
+                4,
+                5,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "descriptive-outline",
+          "question": "Outline: 'Fiscal federalism requires both autonomy and coordination.'",
+          "answer": "Division of responsibilities and tax powers → levy/collection/retention distinction → Union-state sharing and inter-state distribution → grants and local-body support → GST coordination and borrowing constraints → transparent cooperative arrangements.",
+          "refs": [
+            {
+              "source": "esi-22-notes",
+              "pages": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                7
+              ]
+            },
+            {
+              "source": "esi-37-notes",
+              "pages": [
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "id": "depth-stop",
+          "question": "Why P2, and what must still be mastered?",
+          "answer": "Retain P2 breadth: understand assignment/sharing/grants, Finance Commission functions, GST Council contrast and borrowing qualification. Fiscal-policy links warrant application practice, not a priority promotion. Stop before exhaustive article/committee chronology or changing devolution weights. Whole-syllabus coverage remains mandatory, with current recommendations checked separately.",
+          "refs": [
+            {
+              "source": "esi-22-notes",
+              "pages": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "source-check",
+          "question": "What source-specific legal caveats matter?",
+          "answer": "Do not reproduce the blanket claim that every state loan needs Union consent as the complete law. Also verify the source's wording on Article 275 beneficiary groups, emergency transfer powers and examples of abolished taxes before a legal answer. The latest Finance Commission report must be read separately; this static packet asserts no current sharing percentage.",
+          "refs": [
+            {
+              "source": "esi-22-notes",
+              "pages": [
+                2,
+                4,
+                5,
+                6,
+                7
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-banks-rbi",
+      "title": "Banks and RBI: development, inclusion and policy transmission",
+      "subject": "ESI",
+      "summary": "Separate financial intermediation from central-bank policy and evaluate whether formal access becomes usable, resilient finance.",
+      "tags": [
+        "P1 - Core depth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-rural-credit",
+        "esi-inflation",
+        "esi-fiscal-policy",
+        "esi-economy-nature"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Banks and RBI: finance productive activity with stability",
+            "refs": [
+              {
+                "source": "esi-31-notes",
+                "pages": [
+                  1,
+                  6,
+                  7,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "intermediation",
+            "label": "Banks mobilise saving, allocate credit and facilitate payments",
+            "refs": [
+              {
+                "source": "esi-31-notes",
+                "pages": [
+                  7,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "inclusion",
+            "label": "Inclusion: rural access, business correspondents and literacy",
+            "refs": [
+              {
+                "source": "esi-31-notes",
+                "pages": [
+                  2,
+                  3,
+                  4,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "development",
+            "label": "Developmental channels: rural, MSME and export finance",
+            "refs": [
+              {
+                "source": "esi-31-notes",
+                "pages": [
+                  2,
+                  3,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "infrastructure",
+            "label": "Payment and foreign-exchange infrastructure",
+            "refs": [
+              {
+                "source": "esi-31-notes",
+                "pages": [
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "policy",
+            "label": "RBI liquidity and inflation instruments transmit through finance",
+            "refs": [
+              {
+                "source": "esi-31-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "intermediation",
+            "label": "channels surplus funds to financing needs",
+            "refs": [
+              {
+                "source": "esi-31-notes",
+                "pages": [
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "intermediation",
+            "to": "development",
+            "label": "supports productive sectors",
+            "refs": [
+              {
+                "source": "esi-31-notes",
+                "pages": [
+                  2,
+                  3,
+                  7,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "inclusion",
+            "to": "intermediation",
+            "label": "broadens formal access and participation",
+            "refs": [
+              {
+                "source": "esi-31-notes",
+                "pages": [
+                  3,
+                  4,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "infrastructure",
+            "to": "inclusion",
+            "label": "reduces transaction and access barriers",
+            "refs": [
+              {
+                "source": "esi-31-notes",
+                "pages": [
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "policy",
+            "to": "intermediation",
+            "label": "influences liquidity, borrowing and spending",
+            "refs": [
+              {
+                "source": "esi-31-notes",
+                "pages": [
+                  5,
+                  6,
+                  7
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "macro-2026-11-comparison",
+          "title": "Distinctions and application checks",
+          "columns": [
+            "Concept",
+            "Distinction / mechanism",
+            "Use or caution"
+          ],
+          "rows": [
+            {
+              "id": "roles",
+              "cells": [
+                "Commercial banks / RBI",
+                "Customer-facing deposits, credit and payments / system policy, regulation and infrastructure roles.",
+                "Do not describe every bank loan as a direct RBI loan."
+              ],
+              "refs": [
+                {
+                  "source": "esi-31-notes",
+                  "pages": [
+                    1,
+                    5,
+                    6,
+                    7,
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "access-use",
+              "cells": [
+                "Account access / meaningful inclusion",
+                "An entry point to formal finance / usable savings, credit, payments and financial understanding.",
+                "Business correspondents and literacy complement branches; account counts alone are insufficient as an evaluation frame."
+              ],
+              "refs": [
+                {
+                  "source": "esi-31-notes",
+                  "pages": [
+                    3,
+                    4,
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "sector-tools",
+              "cells": [
+                "PSL / credit guarantee / refinance or development institution",
+                "Directed access categories / risk-sharing support / institutional finance channels.",
+                "Identify the borrower, lender and mechanism; these are not interchangeable grants or automatic entitlements."
+              ],
+              "refs": [
+                {
+                  "source": "esi-31-notes",
+                  "pages": [
+                    2,
+                    3,
+                    7,
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "institutions",
+              "cells": [
+                "NABARD / SIDBI / EXIM",
+                "Rural/agricultural development / small-enterprise development / export-import finance roles described in the notes.",
+                "Keep sectoral purpose distinct from RBI's wider system role."
+              ],
+              "refs": [
+                {
+                  "source": "esi-31-notes",
+                  "pages": [
+                    2,
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "payments-credit",
+              "cells": [
+                "Payment rails / credit provision",
+                "Moving money and enabling transactions / financing spending over time.",
+                "Faster payment infrastructure does not itself guarantee an affordable loan or sound repayment capacity."
+              ],
+              "refs": [
+                {
+                  "source": "esi-31-notes",
+                  "pages": [
+                    4,
+                    5,
+                    7
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "policy-development",
+              "cells": [
+                "Stability mandate / developmental role",
+                "Manage inflation and liquidity / broaden finance and infrastructure.",
+                "An instrument affects financing conditions; it cannot guarantee that credit is demanded or well allocated."
+              ],
+              "refs": [
+                {
+                  "source": "esi-31-notes",
+                  "pages": [
+                    1,
+                    5,
+                    6,
+                    7
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "intermediation-case",
+          "question": "What is the developmental connection between household deposits and enterprise credit?",
+          "answer": "Banks help channel funds from surplus holders to deficit-spending sectors, supporting expenditure, investment and employment. Credit appraisal and repayment capacity remain relevant: channelising funds is not proof every project is productive.",
+          "refs": [
+            {
+              "source": "esi-31-notes",
+              "pages": [
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "credit-calculation",
+          "question": "Original illustrative reserve arithmetic: a toy bank receives 2,500 units and retains an assumed 8%. How much remains in this first-round example?",
+          "answer": "Reserve amount = 2,500 × 0.08 = 200; remainder = 2,300. The figures and ratio are invented, not current CRR or a lending entitlement. This is a simplified first-round arithmetic exercise, not a mechanical forecast of system-wide credit creation.",
+          "refs": [
+            {
+              "source": "esi-31-notes",
+              "pages": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-scope",
+          "question": "How should a question on KCC, a guarantee or a payment-infrastructure scheme be answered?",
+          "answer": "Name the credit/access barrier, intended users, implementing channel and conditions. Then verify the latest eligibility, geography, permitted activities and exclusions from the scheme's current official rules. The notes describe examples, not universal entitlements or a current rate/limit sheet.",
+          "refs": [
+            {
+              "source": "esi-31-notes",
+              "pages": [
+                2,
+                3,
+                4,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "transmission-limits",
+          "question": "Why should 'RBI eases → development follows' not be treated as an automatic chain?",
+          "answer": "The notes provide the liquidity/rate channel and the separate bank-intermediation channel. Application: easier funding still has to become suitable credit and productive spending; it cannot by itself remove a supply shock. Discuss inflation and growth constraints rather than promising a fixed response.",
+          "refs": [
+            {
+              "source": "esi-31-notes",
+              "pages": [
+                5,
+                6,
+                7,
+                8
+              ]
+            },
+            {
+              "source": "esi-33-notes",
+              "pages": [
+                3,
+                5,
+                6,
+                12,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "id": "descriptive-outline",
+          "question": "Outline: 'Banks are developmental intermediaries, not merely lenders.'",
+          "answer": "Saving mobilisation → productive and priority-sector credit → rural/MSME/export institutions → payments and inclusion infrastructure → scheme-delivery and literacy → RBI stability/transmission role → access, quality and resilience caveats.",
+          "refs": [
+            {
+              "source": "esi-31-notes",
+              "pages": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "depth-stop",
+          "question": "What should P1 banking/RBI depth achieve?",
+          "answer": "Distinguish institution and instrument roles; trace saving-credit-spending and rate/liquidity transmission; compare inclusion channels; explain scheme scope and limitations. Stop before chatbot-brand lists, nationalisation chronology and stale allocation limits. Whole-syllabus breadth is still required; this priority is analytical study guidance, not a marks forecast.",
+          "refs": [
+            {
+              "source": "esi-31-notes",
+              "pages": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "source-check",
+          "question": "What does the vintage and scope of this PDF not establish?",
+          "answer": "Its inflation-target language includes an expired named period and an undated 'current' claim; neither establishes the target after that period. It also gives simplified credit-creation and scheme statements and omits later operational developments. Do not infer the present policy corridor, latest ratios or current scheme benefits from this packet.",
+          "refs": [
+            {
+              "source": "esi-31-notes",
+              "pages": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-rural-credit",
+      "title": "Rural credit and microfinance: access with borrower resilience",
+      "subject": "ESI",
+      "summary": "Match financing to rural cash flows and compare formal institutions, group finance and borrower-protection risks.",
+      "tags": [
+        "P1 - Core depth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-banks-rbi",
+        "esi-economy-nature",
+        "esi-public-finance"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Rural finance: timely access, suitable use and repayment capacity",
+            "refs": [
+              {
+                "source": "esi-32-notes",
+                "pages": [
+                  2,
+                  8,
+                  9,
+                  15
+                ]
+              }
+            ]
+          },
+          {
+            "id": "needs",
+            "label": "Needs: seasonal working capital versus long-lived investment",
+            "refs": [
+              {
+                "source": "esi-32-notes",
+                "pages": [
+                  2,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "institutions",
+            "label": "Channels: cooperatives, banks, RRBs and government",
+            "refs": [
+              {
+                "source": "esi-32-notes",
+                "pages": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "informal",
+            "label": "Informal finance: accessibility with exploitation and debt-trap risks",
+            "refs": [
+              {
+                "source": "esi-32-notes",
+                "pages": [
+                  8,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "groups",
+            "label": "Microfinance: SHG-bank links, MFIs and group mechanisms",
+            "refs": [
+              {
+                "source": "esi-32-notes",
+                "pages": [
+                  10,
+                  11,
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "resilience",
+            "label": "Resilience: indebtedness, stable funding and social outcomes",
+            "refs": [
+              {
+                "source": "esi-32-notes",
+                "pages": [
+                  13,
+                  14,
+                  15,
+                  16
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "needs",
+            "label": "first diagnoses the borrower's cash-flow horizon",
+            "refs": [
+              {
+                "source": "esi-32-notes",
+                "pages": [
+                  2,
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "institutions",
+            "to": "needs",
+            "label": "provides formal credit channels",
+            "refs": [
+              {
+                "source": "esi-32-notes",
+                "pages": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "institutions",
+            "to": "informal",
+            "label": "can reduce reliance if access barriers fall",
+            "refs": [
+              {
+                "source": "esi-32-notes",
+                "pages": [
+                  8,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "groups",
+            "to": "root",
+            "label": "extends finance beyond conventional banking",
+            "refs": [
+              {
+                "source": "esi-32-notes",
+                "pages": [
+                  10,
+                  11,
+                  12
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "groups",
+            "to": "resilience",
+            "label": "requires debt checks and sound funding",
+            "refs": [
+              {
+                "source": "esi-32-notes",
+                "pages": [
+                  13,
+                  14,
+                  15
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "macro-2026-11-comparison",
+          "title": "Distinctions and application checks",
+          "columns": [
+            "Concept",
+            "Distinction / mechanism",
+            "Use or caution"
+          ],
+          "rows": [
+            {
+              "id": "maturity",
+              "cells": [
+                "Working-capital / investment credit",
+                "Seasonal inputs and operating needs / land improvement, equipment and other longer-lived assets.",
+                "Match repayment timing to cash generation; do not memorise source-specific maturity cut-offs."
+              ],
+              "refs": [
+                {
+                  "source": "esi-32-notes",
+                  "pages": [
+                    2,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "formal-informal",
+              "cells": [
+                "Institutional / non-institutional",
+                "Banks, cooperatives and other formal channels / moneylenders, landlords and personal networks.",
+                "Coverage, documentation, cost and recovery practices all affect effective access."
+              ],
+              "refs": [
+                {
+                  "source": "esi-32-notes",
+                  "pages": [
+                    3,
+                    5,
+                    8,
+                    9
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "bank-coop",
+              "cells": [
+                "RRB / cooperative credit institution",
+                "Sponsored rural bank model / member-oriented cooperative structure.",
+                "Understand function and regulatory distinctions, not stale counts, ownership percentages or quotas."
+              ],
+              "refs": [
+                {
+                  "source": "esi-32-notes",
+                  "pages": [
+                    3,
+                    4,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "shg-jlg",
+              "cells": [
+                "SHG-bank linkage / joint-liability lending",
+                "Pooled saving and group-bank relationship / shared repayment responsibility in a lending arrangement.",
+                "Group sizes vary; neither label proves every member's repayment capacity."
+              ],
+              "refs": [
+                {
+                  "source": "esi-32-notes",
+                  "pages": [
+                    11,
+                    12,
+                    13
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "credit-microfinance",
+              "cells": [
+                "Microcredit / microfinance",
+                "A loan / a wider range including savings, insurance, remittances and support services.",
+                "A lender's legal form determines what it may offer; do not assume every MFI may accept public deposits."
+              ],
+              "refs": [
+                {
+                  "source": "esi-32-notes",
+                  "pages": [
+                    10,
+                    14
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "outreach-outcome",
+              "cells": [
+                "Outreach / borrower resilience",
+                "More clients and disbursements / improved income capacity without harmful debt.",
+                "Check multiple borrowing, funding stability and social impact rather than equating repayment pressure with empowerment."
+              ],
+              "refs": [
+                {
+                  "source": "esi-32-notes",
+                  "pages": [
+                    12,
+                    13,
+                    14,
+                    15,
+                    16
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "seasonal-case",
+          "question": "Why can a technically affordable loan still be unsuitable for a seasonal farm borrower?",
+          "answer": "Its repayment schedule may precede harvest cash flows, or the sanctioned amount and access process may not match the activity. Analyse purpose, timing, adequacy and repayment capacity together instead of measuring access by loan approval alone.",
+          "refs": [
+            {
+              "source": "esi-32-notes",
+              "pages": [
+                2,
+                4,
+                8,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "debt-case",
+          "question": "Does group liability eliminate over-indebtedness?",
+          "answer": "No. Shared responsibility can aid accountability, but multiple borrowing, weak household-income assessment and funding stress remain concerns. The mechanism does not replace checking the household's overall debt burden.",
+          "refs": [
+            {
+              "source": "esi-32-notes",
+              "pages": [
+                12,
+                13,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "id": "illustrative-affordability",
+          "question": "Original illustrative household check: monthly income 12,000, existing instalments 2,000 and proposed instalment 1,000. What fraction of income would total instalments absorb?",
+          "answer": "(2,000 + 1,000) ÷ 12,000 × 100 = 25%. This is invented arithmetic for discussing total obligations, not an RBI eligibility ceiling or an approval recommendation. Seasonal income and essential spending still need assessment.",
+          "refs": [
+            {
+              "source": "esi-32-notes",
+              "pages": [
+                13,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scheme-scope",
+          "question": "What should be checked before saying KCC or interest support covers a borrower?",
+          "answer": "Separate credit provision from an income transfer or subsidy. Verify the current permitted activities, eligible borrower categories, implementing lender, repayment conditions and exclusions; do not infer automatic coverage from a scheme's name. The notes' examples are not a current operative rulebook.",
+          "refs": [
+            {
+              "source": "esi-32-notes",
+              "pages": [
+                7,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "id": "descriptive-outline",
+          "question": "Outline: 'Rural credit expansion must be accompanied by qualitative improvement.'",
+          "answer": "Needs and cash-flow horizons → formal/informal supply and access barriers → SHG/MFI contribution → adequacy, multiple borrowing and recovery issues → funding and digital/social-impact safeguards → creditworthiness and sustainable inclusion.",
+          "refs": [
+            {
+              "source": "esi-32-notes",
+              "pages": [
+                2,
+                3,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "id": "depth-stop",
+          "question": "How deep is P1 rural-credit preparation?",
+          "answer": "Compare institutional roles, SHG/JLG mechanisms and microcredit/microfinance; solve a repayment-capacity case and explain benefits with debt/funding risks. Understand KCC and support schemes by scope, not stale limits. Stop before detailed institutional chronology or rigid group-size lists. Keep mandatory breadth across the rest of the syllabus.",
+          "refs": [
+            {
+              "source": "esi-32-notes",
+              "pages": [
+                2,
+                3,
+                6,
+                7,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "id": "source-check",
+          "question": "What should not be copied as a current rule or guaranteed outcome?",
+          "answer": "The notes give inconsistent SHG group-size descriptions, oversimplify some regulatory/legal references and describe MFI funding without a full licence-by-licence deposit test. Their CAR wording and maturity bands are also simplified. No regulatory ratio or legal eligibility limit is supplied here; empowerment and poverty reduction are objectives to assess, not assured outcomes.",
+          "refs": [
+            {
+              "source": "esi-32-notes",
+              "pages": [
+                2,
+                3,
+                6,
+                7,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-inflation",
+      "title": "Inflation: measurement, causes and limits of policy",
+      "subject": "ESI",
+      "summary": "Identify the relevant price measure and shock before explaining monetary transmission and the growth-price trade-off.",
+      "tags": [
+        "P1 - Core depth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-national-income",
+        "esi-fiscal-policy",
+        "esi-banks-rbi",
+        "esi-taxation"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Inflation: a change in the general price level",
+            "refs": [
+              {
+                "source": "esi-33-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "measurement",
+            "label": "Measurement: consumer, wholesale and producer-price lenses",
+            "refs": [
+              {
+                "source": "esi-33-notes",
+                "pages": [
+                  7,
+                  8,
+                  9,
+                  10,
+                  11
+                ]
+              }
+            ]
+          },
+          {
+            "id": "demand",
+            "label": "Demand-pull: expenditure outpaces supply",
+            "refs": [
+              {
+                "source": "esi-33-notes",
+                "pages": [
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "supply",
+            "label": "Cost-push and imported shocks: input prices and exchange rates",
+            "refs": [
+              {
+                "source": "esi-33-notes",
+                "pages": [
+                  3,
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "transmission",
+            "label": "Policy transmission: rates/liquidity → finance → spending",
+            "refs": [
+              {
+                "source": "esi-33-notes",
+                "pages": [
+                  12,
+                  13
+                ]
+              }
+            ]
+          },
+          {
+            "id": "limits",
+            "label": "Limits: supply constraints and stagflation create trade-offs",
+            "refs": [
+              {
+                "source": "esi-33-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "measurement",
+            "label": "requires a defined basket, base and period",
+            "refs": [
+              {
+                "source": "esi-33-notes",
+                "pages": [
+                  7,
+                  8,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "demand",
+            "to": "root",
+            "label": "pushes prices through excess demand",
+            "refs": [
+              {
+                "source": "esi-33-notes",
+                "pages": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "supply",
+            "to": "root",
+            "label": "raises production/import costs",
+            "refs": [
+              {
+                "source": "esi-33-notes",
+                "pages": [
+                  3,
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "transmission",
+            "to": "demand",
+            "label": "can restrain credit and spending pressure",
+            "refs": [
+              {
+                "source": "esi-33-notes",
+                "pages": [
+                  12,
+                  13
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "supply",
+            "to": "limits",
+            "label": "can combine higher prices with weaker activity",
+            "refs": [
+              {
+                "source": "esi-33-notes",
+                "pages": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-6",
+            "from": "limits",
+            "to": "transmission",
+            "label": "requires qualified rather than automatic policy claims",
+            "refs": [
+              {
+                "source": "esi-33-notes",
+                "pages": [
+                  5,
+                  6,
+                  12,
+                  13
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "macro-2026-11-comparison",
+          "title": "Distinctions and application checks",
+          "columns": [
+            "Concept",
+            "Distinction / mechanism",
+            "Use or caution"
+          ],
+          "rows": [
+            {
+              "id": "deflation-disinflation",
+              "cells": [
+                "Deflation / disinflation",
+                "A falling general price level / a slower rate of price increase.",
+                "Slower positive inflation still means prices are rising; it need not end at zero."
+              ],
+              "refs": [
+                {
+                  "source": "esi-33-notes",
+                  "pages": [
+                    3,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "headline-core",
+              "cells": [
+                "Headline / core",
+                "A broad consumer basket / a measure excluding specified volatile components.",
+                "Exclusion is a basket/weight choice, not simple subtraction of headline and food inflation percentages."
+              ],
+              "refs": [
+                {
+                  "source": "esi-33-notes",
+                  "pages": [
+                    4,
+                    7,
+                    8
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "cpi-wpi",
+              "cells": [
+                "CPI / WPI",
+                "Consumer-basket prices including services / wholesale commodity prices without services in the notes.",
+                "Scope, weights and production/retail stage differ, so the two rates need not match."
+              ],
+              "refs": [
+                {
+                  "source": "esi-33-notes",
+                  "pages": [
+                    7,
+                    8,
+                    9,
+                    10
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "demand-supply",
+              "cells": [
+                "Demand-pull / cost-push",
+                "Expenditure pressure / higher costs or supply disruption.",
+                "Diagnose the shock; monetary restraint cannot directly manufacture missing supply."
+              ],
+              "refs": [
+                {
+                  "source": "esi-33-notes",
+                  "pages": [
+                    2,
+                    3,
+                    5,
+                    6,
+                    12,
+                    13
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "imported",
+              "cells": [
+                "Global import-price rise / currency depreciation",
+                "Foreign-currency price increase / greater domestic-currency cost for a given foreign price.",
+                "Either can raise local costs; pass-through and trade effects should not be assumed identical in every episode."
+              ],
+              "refs": [
+                {
+                  "source": "esi-33-notes",
+                  "pages": [
+                    4,
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "tools-limits",
+              "cells": [
+                "Rate/liquidity tools / supply-side response",
+                "Influence financing and demand / address the cost or availability problem.",
+                "Stagflation makes the output-price trade-off explicit; fiscal and monetary choices must be considered together."
+              ],
+              "refs": [
+                {
+                  "source": "esi-33-notes",
+                  "pages": [
+                    3,
+                    5,
+                    6,
+                    12,
+                    13
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "price-rate-calculation",
+          "question": "Original illustrative CPI calculation: a fixed basket costs 800 in the base period, 960 last year and 1,008 now. Compute index and annual inflation.",
+          "answer": "Current CPI = 1,008 ÷ 800 × 100 = 126; previous CPI = 120. Annual inflation = (126 − 120) ÷ 120 × 100 = 5%, not 26%. The costs and period labels are invented; 26% is the rise from the base, not the last year's inflation.",
+          "refs": [
+            {
+              "source": "esi-33-notes",
+              "pages": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "disinflation-case",
+          "question": "Inflation falls from 8% to 5%. Have prices necessarily fallen?",
+          "answer": "No. This is disinflation if the inflation rate remains positive: the general price level is still increasing, just more slowly. Deflation refers to a negative rate of general price change.",
+          "refs": [
+            {
+              "source": "esi-33-notes",
+              "pages": [
+                3,
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "supply-shock-case",
+          "question": "An imported input becomes costly while growth weakens. Why is simply raising rates an incomplete answer?",
+          "answer": "Rate increases work through finance and demand; they do not directly reverse the input shortage. The notes' imported-inflation and stagflation discussion motivates weighing inflation control against weaker output, with targeted fiscal/supply responses analysed separately. This is an original policy case, not a current policy recommendation.",
+          "refs": [
+            {
+              "source": "esi-33-notes",
+              "pages": [
+                3,
+                5,
+                6,
+                12,
+                13
+              ]
+            },
+            {
+              "source": "esi-21-notes",
+              "pages": [
+                4,
+                5,
+                7,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "policy-transmission",
+          "question": "Trace a monetary-tightening mechanism and give its stopping point.",
+          "answer": "Higher policy funding costs or liquidity withdrawal can make credit conditions tighter and moderate spending pressure. Do not promise a one-for-one lending-rate or price response: the mechanism acts through financial decisions, while imported costs and supply constraints may remain. The notes explain instruments, not a quantified transmission model.",
+          "refs": [
+            {
+              "source": "esi-33-notes",
+              "pages": [
+                3,
+                5,
+                6,
+                12,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "id": "descriptive-outline",
+          "question": "Outline: 'Managing inflation requires correct diagnosis and a coherent policy mix.'",
+          "answer": "Define inflation and the index/period → distinguish demand, supply and imported shocks → explain rate/liquidity transmission → discuss purchasing power and stagflation → fiscal/supply-side complements and policy trade-offs → conclude with dated, scope-matched evidence.",
+          "refs": [
+            {
+              "source": "esi-33-notes",
+              "pages": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7,
+                9,
+                12,
+                13
+              ]
+            },
+            {
+              "source": "esi-21-notes",
+              "pages": [
+                4,
+                5,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "id": "depth-stop",
+          "question": "What should P1 inflation depth cover?",
+          "answer": "Solve index-versus-rate and disinflation cases, compare CPI/WPI/core, identify the shock, trace transmission and explain its limits and fiscal interaction. Stop before obsolete weights, base years, daily rates and country 'ideal misery-index' ranges. Whole-syllabus breadth remains mandatory even when this topic receives deeper practice.",
+          "refs": [
+            {
+              "source": "esi-33-notes",
+              "pages": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                11,
+                12,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "id": "source-check",
+          "question": "What must be checked rather than learned verbatim?",
+          "answer": "The PDF contains an older inflation-target period, stale base-year/weight claims, an undated stagflation assessment and simplified operational descriptions. Do not use its SLR asset list or repo wording as a precise current legal definition, or assume its reverse-repo description is today's full liquidity corridor. Verify current RBI/NSO releases; this packet asserts no present target, base year or rate.",
+          "refs": [
+            {
+              "source": "esi-33-notes",
+              "pages": [
+                7,
+                8,
+                9,
+                11,
+                12,
+                13
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    },
+    {
+      "id": "esi-taxation",
+      "title": "Indian taxation: design, GST mechanics and revenue responsiveness",
+      "subject": "ESI",
+      "summary": "Compare tax design and compliance mechanisms, apply input-credit logic and interpret revenue responsiveness without relying on stale slabs.",
+      "tags": [
+        "P1 - Core depth",
+        "Static foundation",
+        "Whole syllabus breadth required",
+        "Source claims require verification"
+      ],
+      "related": [
+        "esi-fiscal-policy",
+        "esi-public-finance",
+        "esi-federal-finance",
+        "esi-reforms",
+        "esi-inflation"
+      ],
+      "map": {
+        "nodes": [
+          {
+            "id": "root",
+            "label": "Taxation: revenue with equity and efficient administration",
+            "refs": [
+              {
+                "source": "esi-37-notes",
+                "pages": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "id": "design",
+            "label": "Design: fairness, adequacy, simplicity and transparency",
+            "refs": [
+              {
+                "source": "esi-37-notes",
+                "pages": [
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "types",
+            "label": "Types: direct/indirect and progressive/proportional/regressive",
+            "refs": [
+              {
+                "source": "esi-37-notes",
+                "pages": [
+                  3,
+                  4,
+                  6,
+                  15
+                ]
+              }
+            ]
+          },
+          {
+            "id": "gst",
+            "label": "GST: value addition, input credit and destination",
+            "refs": [
+              {
+                "source": "esi-37-notes",
+                "pages": [
+                  7,
+                  8,
+                  10,
+                  11
+                ]
+              }
+            ]
+          },
+          {
+            "id": "compliance",
+            "label": "Compliance: source deduction, information and anti-abuse tools",
+            "refs": [
+              {
+                "source": "esi-37-notes",
+                "pages": [
+                  16,
+                  17,
+                  18,
+                  19,
+                  23,
+                  24,
+                  25
+                ]
+              }
+            ]
+          },
+          {
+            "id": "responsiveness",
+            "label": "Responsiveness: revenue growth relative to GDP",
+            "refs": [
+              {
+                "source": "esi-37-notes",
+                "pages": [
+                  19,
+                  20,
+                  21
+                ]
+              }
+            ]
+          },
+          {
+            "id": "federation",
+            "label": "Institutions: GST Council, tax authorities and GSTN",
+            "refs": [
+              {
+                "source": "esi-37-notes",
+                "pages": [
+                  4,
+                  12,
+                  13,
+                  15
+                ]
+              }
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "id": "connection-1",
+            "from": "root",
+            "to": "design",
+            "label": "balances revenue and distribution with compliance costs",
+            "refs": [
+              {
+                "source": "esi-37-notes",
+                "pages": [
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-2",
+            "from": "types",
+            "to": "design",
+            "label": "changes who is legally liable and how burdens vary",
+            "refs": [
+              {
+                "source": "esi-37-notes",
+                "pages": [
+                  3,
+                  4,
+                  6,
+                  15
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-3",
+            "from": "gst",
+            "to": "root",
+            "label": "uses input-credit links to reduce cascading",
+            "refs": [
+              {
+                "source": "esi-37-notes",
+                "pages": [
+                  7,
+                  10,
+                  11
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-4",
+            "from": "compliance",
+            "to": "root",
+            "label": "supports collection and limits concealment or abuse",
+            "refs": [
+              {
+                "source": "esi-37-notes",
+                "pages": [
+                  16,
+                  19,
+                  23,
+                  24,
+                  25
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-5",
+            "from": "responsiveness",
+            "to": "root",
+            "label": "tests how revenue moves with the economy",
+            "refs": [
+              {
+                "source": "esi-37-notes",
+                "pages": [
+                  20,
+                  21
+                ]
+              }
+            ]
+          },
+          {
+            "id": "connection-6",
+            "from": "federation",
+            "to": "gst",
+            "label": "coordinates policy and the common technology interface",
+            "refs": [
+              {
+                "source": "esi-37-notes",
+                "pages": [
+                  12,
+                  13
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "tables": [
+        {
+          "id": "macro-2026-11-comparison",
+          "title": "Distinctions and application checks",
+          "columns": [
+            "Concept",
+            "Distinction / mechanism",
+            "Use or caution"
+          ],
+          "rows": [
+            {
+              "id": "direct-indirect",
+              "cells": [
+                "Direct / indirect taxes",
+                "Liability on an income/entity / taxes collected through goods-and-services transactions.",
+                "Use the textbook legal distinction without claiming real economic incidence can never shift."
+              ],
+              "refs": [
+                {
+                  "source": "esi-37-notes",
+                  "pages": [
+                    3,
+                    4,
+                    6,
+                    15
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "rate-pattern",
+              "cells": [
+                "Progressive / proportional / regressive",
+                "A rising / constant / falling average burden relative to income.",
+                "Rate schedules and distributional outcomes are related but not identical; examine the tax base and spending too."
+              ],
+              "refs": [
+                {
+                  "source": "esi-37-notes",
+                  "pages": [
+                    2,
+                    3,
+                    21
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "valuation",
+              "cells": [
+                "Ad valorem / specific tax",
+                "Based on value / a fixed amount per unit.",
+                "Different tax bases imply different responses when prices change; do not confuse tax rate with tax collected."
+              ],
+              "refs": [
+                {
+                  "source": "esi-37-notes",
+                  "pages": [
+                    15
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "gst-itc",
+              "cells": [
+                "Cascading / input tax credit",
+                "Tax on tax / eligible purchase tax offsets output liability.",
+                "Credit depends on conditions; exempt supplies and special schemes cannot automatically be treated as fully creditable."
+              ],
+              "refs": [
+                {
+                  "source": "esi-37-notes",
+                  "pages": [
+                    7,
+                    10,
+                    11,
+                    18
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "institution",
+              "cells": [
+                "GST Council / GSTN / collecting authorities",
+                "Policy recommendations / common technology interface / tax administration.",
+                "Council recommendations, operative law and portal functions are distinct; GST does not subsume every levy."
+              ],
+              "refs": [
+                {
+                  "source": "esi-37-notes",
+                  "pages": [
+                    4,
+                    8,
+                    12,
+                    13,
+                    14,
+                    15
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "responsiveness",
+              "cells": [
+                "Tax buoyancy / source's elasticity discussion",
+                "Buoyancy = percentage tax-revenue change ÷ percentage GDP change.",
+                "Buoyancy alone does not isolate a policy-neutral revenue response; the notes' elasticity/Laffer wording is inconsistent and needs verification."
+              ],
+              "refs": [
+                {
+                  "source": "esi-37-notes",
+                  "pages": [
+                    19,
+                    20,
+                    21
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "id": "itc-calculation",
+          "question": "Original illustrative GST calculation: eligible input purchase 1,000 and taxable output sale 1,600, both at an assumed 10%. Find the output liability and net remittance.",
+          "answer": "Output tax = 160; eligible input credit = 100; net remittance = 60. The invented 10% is not an Indian GST slab. Assume full credit eligibility and no exemption, blocked credit, cross-head adjustment or special-scheme complications; real transactions require current rules.",
+          "refs": [
+            {
+              "source": "esi-37-notes",
+              "pages": [
+                7,
+                10,
+                11,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "id": "buoyancy-calculation",
+          "question": "Original illustrative calculation: tax revenue rises from 100 to 115 and nominal GDP from 1,000 to 1,100. Find buoyancy.",
+          "answer": "Revenue growth = 15%; GDP growth = 10%; buoyancy = 15 ÷ 10 = 1.5. Inputs are invented. The result does not prove which part came from rate changes, base changes, enforcement or automatic growth response.",
+          "refs": [
+            {
+              "source": "esi-37-notes",
+              "pages": [
+                20,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scope-case",
+          "question": "Why is 'one nation, one tax' not enough to classify a real transaction?",
+          "answer": "The notes themselves list levies outside GST and distinguish intra-state and inter-state components. Identify supply and jurisdiction, eligibility/exclusions and applicable law; do not infer that all petroleum, alcohol or every transaction faces one common GST rule.",
+          "refs": [
+            {
+              "source": "esi-37-notes",
+              "pages": [
+                7,
+                8,
+                9,
+                12,
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "id": "compliance-case",
+          "question": "Distinguish evasion, ordinary tax planning and anti-avoidance scrutiny.",
+          "answer": "Concealing income is evasion; lawful relief use differs from concealment, but a label of 'avoidance' is not blanket protection from anti-abuse rules. The source separately discusses GAAR, residency and treaty/BEPS issues. Use current law for any legal conclusion.",
+          "refs": [
+            {
+              "source": "esi-37-notes",
+              "pages": [
+                16,
+                17,
+                23,
+                24
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reform-case",
+          "question": "How can simpler administration improve a tax system without a higher headline rate?",
+          "answer": "Clear rules, information matching, source deduction and simpler digital interfaces can reduce compliance friction and support collection. Balance these aims with fairness and administrative cost; do not treat a named historic dispute-settlement window as currently open.",
+          "refs": [
+            {
+              "source": "esi-37-notes",
+              "pages": [
+                2,
+                13,
+                19,
+                22,
+                24,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "id": "descriptive-outline",
+          "question": "Outline: 'A sound tax system must balance adequacy, equity and efficiency.'",
+          "answer": "Define compulsory, non-quid-pro-quo taxation → design principles and rate patterns → direct/indirect burden → GST credit and federal structure → compliance/anti-abuse and revenue responsiveness → base broadening, certainty and an inclusive reform conclusion.",
+          "refs": [
+            {
+              "source": "esi-37-notes",
+              "pages": [
+                1,
+                2,
+                3,
+                7,
+                10,
+                12,
+                19,
+                20,
+                21,
+                22,
+                24,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "id": "depth-stop",
+          "question": "What is the P1 stopping rule for taxation?",
+          "answer": "Master tax classifications, equity criteria, GST/ITC/inverted-structure logic, institutional roles, buoyancy arithmetic and compliance distinctions. Apply a fresh case and outline. Stop before source-vintage slabs, thresholds and exhaustive reform chronology. Keep mandatory breadth across all syllabus areas; refresh legal numbers only from a dated operative source.",
+          "refs": [
+            {
+              "source": "esi-37-notes",
+              "pages": [
+                2,
+                3,
+                7,
+                10,
+                11,
+                12,
+                15,
+                19,
+                20,
+                21,
+                22,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "id": "source-check",
+          "question": "What makes these updated notes insufficient as a current tax rulebook?",
+          "answer": "They combine updated and historical provisions, contradictory angel-tax mentions, simplified GST exclusions and an inconsistent elasticity/Laffer explanation. Some electricity and incidence wording is unreliable. Do not export slabs, registration/composition/audit thresholds, cess status or current statutory applicability from this packet; verify assessment/effective dates and exceptions in official law.",
+          "refs": [
+            {
+              "source": "esi-37-notes",
+              "pages": [
+                4,
+                5,
+                9,
+                11,
+                14,
+                17,
+                18,
+                19,
+                20,
+                22,
+                23
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [],
+      "updates": []
+    }
+  ]
+}

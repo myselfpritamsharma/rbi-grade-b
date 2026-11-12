@@ -1,0 +1,54 @@
+﻿year,phase,subject,section,expected_count,observed_count,missing_question_numbers,duplicate_question_numbers,status
+2021,Phase 1,General Awareness,Objective,80,80,,,Question markers complete for expected range
+2021,Phase 1,Quantitative Aptitude,Objective,30,30,,,Question markers complete for expected range
+2021,Phase 1,Reasoning,Objective,60,60,,,Question markers complete for expected range
+2021,Phase 1,English,Objective,30,30,,,Question markers complete for expected range
+2022,Phase 1,General Awareness,Objective,80,80,,,Question markers complete for expected range
+2022,Phase 1,Quantitative Aptitude,Objective,30,30,,,Question markers complete for expected range
+2022,Phase 1,Reasoning,Objective,60,60,,,Question markers complete for expected range
+2022,Phase 1,English,Objective,30,28,193;200,,Question-number gaps in supplied compilation
+2023,Phase 1,General Awareness,Objective,80,80,,,Question markers complete for expected range
+2023,Phase 1,Quantitative Aptitude,Objective,30,30,,,Question markers complete for expected range
+2023,Phase 1,Reasoning,Objective,60,60,,,Question markers complete for expected range
+2023,Phase 1,English,Objective,30,30,,,Question markers complete for expected range
+2024,Phase 1,General Awareness,Objective,80,80,,,Question markers complete for expected range
+2024,Phase 1,Quantitative Aptitude,Objective,30,29,97,,Question-number gaps in supplied compilation
+2024,Phase 1,Reasoning,Objective,60,60,,,Question markers complete for expected range
+2024,Phase 1,English,Objective,30,28,195;196,,Question-number gaps in supplied compilation
+2025,Phase 1,General Awareness,Objective,80,46,13;14;20;28;29;30;31;32;33;34;35;36;39;40;41;42;57;58;59;60;61;62;63;64;66;69;70;71;72;75;76;77;78;80,,Question-number gaps in supplied compilation
+2025,Phase 1,Quantitative Aptitude,Objective,30,30,,,Question markers complete for expected range
+2025,Phase 1,Reasoning,Objective,60,51,120;125;134;135;140;152;158;159;170,155,Question-number gaps and duplicate markers in supplied compilation
+2025,Phase 1,English,Objective,30,28,194;195,,Question-number gaps in supplied compilation
+2026,Phase 1,General Awareness,Objective,80,80,,,Question markers complete for expected range
+2026,Phase 1,English,Objective,30,30,,,Question markers complete for expected range
+2026,Phase 1,Quantitative Aptitude,Objective,30,30,,,Question markers complete for expected range
+2026,Phase 1,Reasoning,Objective,60,60,,,Question markers complete for expected range
+2021,Phase 2,Descriptive English,Descriptive,3,3,,,Question markers complete for expected range
+2021,Phase 2,Economic and Social Issues,Objective,30,29,1,11,Question-number gaps and duplicate markers in supplied compilation
+2021,Phase 2,Economic and Social Issues,Descriptive,6,6,,,Question markers complete for expected range
+2021,Phase 2,Finance and Management,Objective,30,30,,,Question markers complete for expected range
+2021,Phase 2,Finance and Management,Descriptive,6,6,,,Question markers complete for expected range
+2022,Phase 2,Descriptive English,Descriptive,3,3,,,Question markers complete for expected range
+2022,Phase 2,Economic and Social Issues,Objective,30,30,,,Question markers complete for expected range
+2022,Phase 2,Economic and Social Issues,Descriptive,6,6,,,Question markers complete for expected range
+2022,Phase 2,Finance and Management,Objective,30,30,,,Question markers complete for expected range
+2022,Phase 2,Finance and Management,Descriptive,6,6,,,Question markers complete for expected range
+2023,Phase 2,Descriptive English,Descriptive,3,3,,,Question markers complete for expected range
+2023,Phase 2,Economic and Social Issues,Objective,30,30,,,Question markers complete for expected range
+2023,Phase 2,Economic and Social Issues,Descriptive,6,6,,,Question markers complete for expected range
+2023,Phase 2,Finance and Management,Objective,30,30,,,Question markers complete for expected range
+2023,Phase 2,Finance and Management,Descriptive,6,6,,,Question markers complete for expected range
+2024,Phase 2,Descriptive English,Descriptive,3,3,,,Question markers complete for expected range
+2024,Phase 2,Economic and Social Issues,Objective,30,30,,,Question markers complete for expected range
+2024,Phase 2,Economic and Social Issues,Descriptive,6,6,,,Question markers complete for expected range
+2024,Phase 2,Finance and Management,Objective,30,30,,,Question markers complete for expected range
+2024,Phase 2,Finance and Management,Descriptive,6,6,,,Question markers complete for expected range
+2025,Phase 2,Descriptive English,Descriptive,3,3,,,Question markers complete for expected range
+2025,Phase 2,Economic and Social Issues,Objective,30,30,,,Question markers complete for expected range
+2025,Phase 2,Economic and Social Issues,Descriptive,6,6,,,Question markers complete for expected range
+2025,Phase 2,Finance and Management,Objective,30,30,,,Question markers complete for expected range
+2025,Phase 2,Finance and Management,Descriptive,6,6,,,Question markers complete for expected range
+2019,Phase 1 and Phase 2,All listed sections,,,224,,,OCR extraction recorded; no expected question counts inferred
+2019,Phase 2,Descriptive English,Descriptive,,0,,,Section appears in contents; OCR found passage pages but no numbered prompts
+2020,Phase 1 and Phase 2,,,,0,,,No 2020 paper supplied
+2026,Phase 2,,,,0,,,No Phase 2 paper supplied
